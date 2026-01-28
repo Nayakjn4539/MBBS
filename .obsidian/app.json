@@ -1,5 +1,6 @@
 {
   "foldHeading": true,
-  "newFileLocation": "current",
-  "attachmentFolderPath": "./attachments"
+  "newFileLocation": "folder",
+  "attachmentFolderPath": "./Attachments",
+  "newFileFolderPath": "Linkpointed Notes"
 }
