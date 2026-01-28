@@ -11,10 +11,17 @@
             "id": "d99bb0dcd7d7d9f9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Forensic Medicine/Forensic Medicine.canvas",
+                "viewState": {
+                  "x": 540.6990803540907,
+                  "y": 1485.2346707419715,
+                  "zoom": -3.8318949325195066
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Forensic Medicine"
             }
           }
         ]
