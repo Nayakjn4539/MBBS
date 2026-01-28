@@ -1,9 +1,18 @@
 ---
 status: pending
-tags: [Measles, Rubeola, Immunization, KoplikSpots, ColdChain, CommunicableDiseases, SSPE, VitaminA]
+tags:
+  - Measles
+  - Rubeola
+  - Immunization
+  - KoplikSpots
+  - ColdChain
+  - CommunicableDiseases
+  - SSPE
+  - VitaminA
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up:
+  - - COMMUNICABLE DISEASES
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology and prevention of measles

@@ -53,7 +53,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -144,7 +144,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Linkpointed Notes/COMMUNICABLE DISEASES.md",
+            "file": "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -163,7 +163,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Linkpointed Notes/COMMUNICABLE DISEASES.md",
+            "file": "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -177,7 +177,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Linkpointed Notes/COMMUNICABLE DISEASES.md",
+            "file": "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -201,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88d6b4d62fc5ea57",
+  "active": "be370782f5eb355c",
   "lastOpenFiles": [
-    "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
     "Linkpointed Notes/COMMUNICABLE DISEASES.md",
+    "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
     "Community Medicine/Community medicine.canvas",
     "Attachments",
     "Linkpointed Notes",
