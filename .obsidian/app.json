@@ -1,3 +1,5 @@
 {
-  "foldHeading": true
+  "foldHeading": true,
+  "newFileLocation": "current",
+  "attachmentFolderPath": "./attachments"
 }
