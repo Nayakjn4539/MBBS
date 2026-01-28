@@ -3,7 +3,7 @@ status: pending
 tags: [Institutional_Delivery, Janani_Suraksha_Yojana, JSSK, Maternal_Health, RCH_Program, Public_Health_Administration, ASHA, High_Risk_Pregnancy]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 259
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > In a block of west Bengal, recent statistics showed a lower rate of institutional delivery. As a health administrator of that block, what measures you like to adopt for improving institutional delivery in your block.
@@ -58,3 +58,6 @@ The following measures will be adopted to improve institutional delivery in the 
 > A flow chart depicting the 'Referral Chain' starting from Village (ASHA/Sub-center) -> 24x7 PHC -> CHC/FRU -> District Hospital, highlighting the JSSK transport loop 102/108
 
 ---
+
+---
+**Previous:** [[A recently delivered (2 weeks back) mother has come for check-up. Mention the components of post-nat]]  **Next:** [[What do you mean by neonatal mortality Why is it so important Write in brief the components of essen]]

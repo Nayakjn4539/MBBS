@@ -3,10 +3,10 @@ status: pending
 tags: [disaster_management, triage, cyclone_amphan, public_health_response, epidemiology]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 338
 ---
 
-# [[DISASTER MANAGEMENT]] > What is disaster? Management in Relation to recent cyclone Amphan.
+# [[DISASTER MANAGEMENT]] > What is disaster Management in Relation to recent cyclone Amphan
 
 ### **Definition of Disaster**
 
@@ -83,3 +83,4 @@ During a cyclone like Amphan, the "Golden Hour" concept in trauma is vital. Howe
 > Disaster Management Cycle flow chart showing Preparedness -> Impact -> Response -> Rehabilitation -> Mitigation
 
 ---
+**Previous:** [[Define disaster. What are the common disasters faced by people of India Name one natural and one man]]  **Next:** [[What do you mean by 'Disaster' What are common causes of disaster As a BMOH of a cyclone prone block]]

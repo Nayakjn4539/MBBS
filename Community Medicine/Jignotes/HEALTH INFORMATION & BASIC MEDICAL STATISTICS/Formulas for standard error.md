@@ -3,7 +3,7 @@ status: pending
 tags: [StandardError, Biostatistics, MedicalStatistics, SamplingError, ZTest, StandardDeviation]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 400
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Formulas for standard error
@@ -116,3 +116,4 @@ Where $P = \frac{n_1p_1 + n_2p_2}{n_1 + n_2}$ and $Q = 1 - P$.
 *   **P** $\times$ **Q** divided by **N** (all under the root umbrella).
 
 ---
+**Previous:** [[Pictogram]]  **Next:** [[Describe stratified sampling and its purpose]]

@@ -3,7 +3,7 @@ status: pending
 tags: [occupational_health, ESI_Act, medical_benefit, health_laws, community_medicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 349
 ---
 
 # [[OCCUPATIONAL HEALTH]] > Enumerate various laws/ acts protecting health of worker in India. Describe the medical benefits and their modes of provision to the beneficiary under ESI act.
@@ -80,3 +80,6 @@ This is adopted in areas where ESI infrastructure (hospitals/dispensaries) is no
 *   **Tie-up Arrangements:** For super-specialty treatment not available in ESI hospitals, patients are referred to advanced government or private empanelled medical institutions. The ESI Corporation bears the cost, even for treatment outside the state if necessary.
 
 ---
+
+---
+**Previous:** [[Discuss the different types of occupational hazards with example. As a safety inspector on a visit t]]  **Next:** [[What is pneumoconiosis Enumerate the different type of causative factors responsible for pneumoconio]]

@@ -3,7 +3,7 @@ status: pending
 tags: [ScrubTyphus, Rickettsia, TrombiculidMite, Eschar, WeilFelix, Doxycycline, CommunicableDiseases, Zoonoses]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 126
 ---
 
 # [[COMMUNICABLE DISEASES]] > Scrub typhus
@@ -80,3 +80,4 @@ There is **no effective vaccine** available at present. Control relies on:
     *   Application of mite repellents like **Diethyltoluamide ([[DEET]])** to exposed skin.
 
 ---
+**Previous:** [[Salmonellosis]]  **Next:** [[Echinococcus granulosis]]

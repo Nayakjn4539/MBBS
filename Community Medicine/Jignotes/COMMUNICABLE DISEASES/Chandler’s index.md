@@ -3,7 +3,7 @@ status: pending
 tags: [ChandlersIndex, Hookworm, Epidemiology, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 157
 ---
 
 # [[COMMUNICABLE DISEASES]] > Chandler’s index
@@ -47,3 +47,4 @@ To remember the cutoff for a major problem:
 > Life cycle of Hookworm showing eggs passed in feces which are counted for this index
 
 ---
+**Previous:** [[Home available fluids in diarrhoea]]  **Next:** [[Urban malaria]]

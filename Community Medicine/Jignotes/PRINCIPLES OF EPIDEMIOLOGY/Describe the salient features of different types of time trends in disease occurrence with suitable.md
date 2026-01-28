@@ -3,7 +3,7 @@ status: pending
 tags: [TimeTrends, Epidemiology, EpidemicCurves, SecularTrend, SeasonalTrend, DiseaseSurveillance]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 30
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Describe the salient features of different types of time trends in disease occurrence with suitable examples. What are the different possible changes over time that you should keep in mind while interpreting time trends?
@@ -118,3 +118,6 @@ When analyzing changes in disease trends over time, an epidemiologist must deter
 *   **S** - **S**tructure of population (Age/Demography)
 
 ---
+
+---
+**Previous:** [[Define epidemiology. How can you estimate the disease risk in case control study What are the biases]]  **Next:** [[In your district immunisation rate has fallen to 50%. How would you investigate to find out the reas]]

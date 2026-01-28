@@ -3,7 +3,7 @@ status: pending
 tags: [Trachoma, CommunicableDiseases, Ophthalmology, SAFEstrategy, Chlamydia, PublicHealth, PreventiveMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 128
 ---
 
 # [[COMMUNICABLE DISEASES]] > Trachoma
@@ -110,3 +110,4 @@ The WHO adopted the **[[SAFE Strategy]]** for the global elimination of blinding
 *   **Current Goal:** To eliminate Trachomatous Trichiasis (TT) and prevent recurrence.
 
 ---
+**Previous:** [[Echinococcus granulosis]]  **Next:** [[Prevention of neonatal tetanus]]

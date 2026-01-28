@@ -3,7 +3,7 @@ status: pending
 tags: [InternationalDeathCertificate, UnderlyingCauseOfDeath, VitalStatistics, MortalityData, ICD10]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 374
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > International death certificate
@@ -68,3 +68,4 @@ Space is provided against each condition to record the time interval between the
 *   **Preventive Action:** By identifying the UCOD, we identify the target for primary prevention (e.g., preventing Diabetes prevents the Renal Failure that ultimately killed the patient).
 
 ---
+**Previous:** [[Registration of vital events]]  **Next:** [[Population surveys]]

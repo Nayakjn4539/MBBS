@@ -3,7 +3,7 @@ status: pending
 tags: [HepatitisB, CommunicableDiseases, Immunization, PublicHealth, Virology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 63
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology, prevention and control of Hep B
@@ -113,3 +113,4 @@ For infants born to carrier mothers, give **HBIG (0.5 ml) + Hep B Vaccine** at s
 4.  **Lifestyle:** Safe sex practices (condoms), avoidance of shared razors/toothbrushes.
 
 ---
+**Previous:** [[Epidemiological outbreak of Hep A in PHC area. How will you control it]]  **Next:** [[Epidemiology & control of acute diarrheal disease]]

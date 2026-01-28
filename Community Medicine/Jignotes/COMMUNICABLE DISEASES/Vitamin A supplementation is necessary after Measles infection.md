@@ -3,10 +3,10 @@ status: pending
 tags: [Measles, VitaminA, Xerophthalmia, CommunicableDiseases, Pediatrics, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 209
 ---
 
-# [[COMMUNICABLE DISEASES]] > Vitamin A supplementation is necessary after Measles infection.
+# [[COMMUNICABLE DISEASES]] > Vitamin A supplementation is necessary after Measles infection
 
 ### Vitamin A Supplementation in Measles Infection
 
@@ -55,3 +55,4 @@ The treatment involves high doses of Vitamin A administered orally immediately u
 > Flowchart depicting the cycle of Infection -> Malnutrition -> Reduced Immunity -> Severe Infection -> Blindness
 
 ---
+**Previous:** [[Revised National Tuberculosis Control Programme gives priority on detection of new smear positive ca]]  **Next:** [[Role pre-test counselling for HIVAIDS is useful]]

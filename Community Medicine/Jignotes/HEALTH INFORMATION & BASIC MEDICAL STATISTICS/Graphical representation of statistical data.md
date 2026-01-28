@@ -3,10 +3,10 @@ status: pending
 tags: [biostatistics, data_presentation, histogram, bar_diagram, pie_chart, scatter_diagram, health_information, epidemiology]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 410
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Graphical representation of statistical data.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Graphical representation of statistical data
 
 ### Graphical Representation of Statistical Data
 
@@ -124,3 +124,4 @@ These are used for countable, non-measurable data (e.g., [[sex]], [[religion]], 
     *   **Map** Diagram
 
 ---
+**Previous:** [[Rate, ratio and proportion]]  **Next:** [[For small samples, median is a better measure of central tendency than mean]]

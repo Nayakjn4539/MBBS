@@ -3,10 +3,10 @@ status: pending
 tags: [SupplementaryActionOfProteins, LimitingAminoAcids, Nutrition, BalancedDiet, VegetarianDiet]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 302
 ---
 
-# [[NUTRITION AND HEALTH]] > Combining rice and pulse in diet is a good practice.
+# [[NUTRITION AND HEALTH]] > Combining rice and pulse in diet is a good practice
 
 ### Combining Rice and Pulse: The Science of Mutual Supplementation
 
@@ -55,3 +55,4 @@ To remember which amino acid is missing:
 > bar graph showing the amino acid profile of rice vs. pulse vs. the combination, demonstrating how the combination reaches the reference protein line
 
 ---
+**Previous:** [[Vitamin A deficiency is related to many ocular & extra ocular manifestations]]  **Next:** [[Zinc is given with ORS in treatment of Diarrhoea]]

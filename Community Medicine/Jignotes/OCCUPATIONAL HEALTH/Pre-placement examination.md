@@ -3,10 +3,10 @@ status: pending
 tags: [occupational_health, pre_placement_examination, ergonomics, medical_measures, preventive_medicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 360
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Pre-placement examination.
+# [[OCCUPATIONAL HEALTH]] > Pre-placement examination
 
 # Pre-placement Examination
 
@@ -67,3 +67,4 @@ It is risky to employ persons suffering from certain diseases in specific hazard
 In developing countries like India, many workers in small-scale industries, mines, and agriculture often start employment without the benefit of a pre-employment medical examination. This leads to early development of occupational diseases which could have been prevented by proper screening and job placement.
 
 ---
+**Previous:** [[Define Ergonomics. Discuss the importance of preplacement examination with suitable example]]  **Next:** [[Hazards of radiation]]

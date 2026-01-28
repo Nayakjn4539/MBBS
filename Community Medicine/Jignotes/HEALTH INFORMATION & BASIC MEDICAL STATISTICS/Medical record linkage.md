@@ -3,7 +3,7 @@ status: pending
 tags: [MedicalRecordLinkage, HealthInformationSystem, Epidemiology, VitalStatistics, ChronicDiseaseEpidemiology, PublicHealth]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 376
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Medical record linkage
@@ -60,3 +60,4 @@ To remember the components and issues of Record Linkage, think **"LINK"**:
 In the era of modern Electronic Health Records (EHR) and Ayushman Bharat Digital Mission (ABDM) in India, the concept of Medical Record Linkage is the foundation of creating a **Unique Health ID (UHID)**. This allows a doctor to view a patient's entire medical history (past surgeries, drug allergies, chronic conditions) regardless of where previous treatment was received, preventing adverse drug reactions and redundant investigations.
 
 ---
+**Previous:** [[Population surveys]]  **Next:** [[Histogram]]

@@ -3,7 +3,7 @@ status: pending
 tags: [FoodPoisoning, EpidemicInvestigation, CommunicableDiseases, PointSourceEpidemic, AttackRate, CommunityMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 190
 ---
 
 # [[COMMUNICABLE DISEASES]] > After attending school picnic, large number of students developed diarrhoea and vomiting within 12 hours. How will you investigate the problem?
@@ -115,3 +115,6 @@ The short incubation period (<12 hours) is the key clinical clue here.
 *   **R**eport writing
 
 ---
+
+---
+**Previous:** [[Vaccination campaign against Measles and Rubella is going to start in a block. Prepare appropriate h]]  **Next:** [[Enumerate diseases under National Vector Borne Disease Control Programme (NVBDCP). Write down a brie]]

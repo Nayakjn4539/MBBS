@@ -3,7 +3,7 @@ status: pending
 tags: [Demography, FamilyPlanning, Contraception, FertilityIndicators, NRR, PublicHealth, CommunityMedicine]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 227
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > A 25-year-old mother with 2 children aged 5 years and 1 year has come to the OPD for family planning advice. Discuss different methods of contraception to the mother with merits and demerits. Enumerate the fertility indicators. What do you mean by NRR 1?
@@ -127,3 +127,6 @@ Fertility is the actual bearing of children. These indicators measure the rate a
     *   Demographers believe NRR = 1 can be achieved only if the **[[Couple Protection Rate]] (CPR) exceeds 60%**.
 
 ---
+
+---
+**Previous:** [[ASHA links health care delivery with community]]  **Next:** [[Define 'Dependency ratio'. What is Demographic burden and Demographic Bonus Discuss the measures ava]]

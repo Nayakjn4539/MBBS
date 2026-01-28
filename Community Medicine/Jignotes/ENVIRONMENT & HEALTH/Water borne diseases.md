@@ -3,10 +3,10 @@ status: pending
 tags: [WaterBorneDiseases, EnvironmentalHealth, PublicHealth, CommunicableDiseases, Cholera, Typhoid, Sanitation]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 318
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Water borne diseases.
+# [[ENVIRONMENT & HEALTH]] > Water borne diseases
 
 ### **Water-Borne Diseases**
 
@@ -88,3 +88,4 @@ Community medicine aims to break the disease cycle at vulnerable points, primari
 *   **Epidemics:** Water-borne diseases often present as **Common Source Epidemics** (explosive onset, clustering of cases) when a water supply is contaminated.
 
 ---
+**Previous:** [[Sanitary landfill]]  **Next:** [[Types of ventilation]]

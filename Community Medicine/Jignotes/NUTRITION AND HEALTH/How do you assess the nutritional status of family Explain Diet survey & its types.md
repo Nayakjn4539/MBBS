@@ -3,10 +3,10 @@ status: pending
 tags: [diet_survey, nutritional_assessment, consumption_unit, weighment_method, 24_hour_recall, anthropometry, RDA, community_medicine]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 280
 ---
 
-# [[NUTRITION AND HEALTH]] > How do you assess the nutritional status of family? Explain Diet survey & its types.
+# [[NUTRITION AND HEALTH]] > How do you assess the nutritional status of family Explain Diet survey & its types
 
 ### Assessment of Nutritional Status of a Family
 
@@ -108,3 +108,4 @@ This is the most widely used and practical method in India for assessing **famil
 *   Understanding the **Dietary Cycle** ensures that "fasting and feasting" days do not skew the data.
 
 ---
+**Previous:** [[Many children are reported to be suffering from severe acute malnutrition in a rural block. Briefly]]  **Next:** [[Mention the causes and detrimental effects of nutritional anaemia. Describe the measures undertaken]]

@@ -3,7 +3,7 @@ status: pending
 tags: [AdolescentHealth, RKSK, WIFS, MenstrualHygiene, RMNCH_A, Anaemia, CommunityMedicine]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 215
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > What are the health problems of adolescent? Mention the National Programmes concerning improvement of adolescent health. Outline four important health educational messages for benefit of an adolescent girl.
@@ -93,3 +93,6 @@ Uses **Health and Wellness Ambassadors** (teachers) to promote health and screen
 *   Educate on "Good Touch, Bad Touch" and the right to say "No" to protect against sexual abuse and violence.
 
 ---
+
+---
+**Previous:** [[What do you mean Essential Obstetric Care What are the services delivered under Essential Obstetric]]  **Next:** [[Enumerate different components of ICDS programme]]

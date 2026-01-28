@@ -3,7 +3,7 @@ status: pending
 tags: [JEVaccine, CommunicableDiseases, UIP, ImmunizationSchedule, SA14-14-2, JENVAC, PSM]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 169
 ---
 
 # [[COMMUNICABLE DISEASES]] > JE Vaccine
@@ -108,3 +108,4 @@ The cell-culture vaccines are generally safe.
 *   **Herd Immunity:** High coverage is essential because pigs (amplifier hosts) and birds (reservoirs) maintain the virus in the environment; humans are dead-end hosts, so vaccinating humans protects the individual but does not stop the transmission cycle in nature.
 
 ---
+**Previous:** [[Aedes aegypti index]]  **Next:** [[Give the species of vector for Kala – Azar]]

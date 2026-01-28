@@ -3,7 +3,7 @@ status: pending
 tags: [ICDS, Malnutrition, CommunityMedicine, MaternalChildHealth, GrowthMonitoring]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 212
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > A 2-year-old male child presented at the immunisation clinic with weight between 2SD and -3SD for his age. What measures will you take for his management under the ICDS scheme? Enumerate the beneficiaries under the scheme. Discuss the services provided under this scheme.
@@ -92,3 +92,6 @@ The ICDS delivers a **Package of Six Services** in an integrated manner to maxim
 **Note:** The Anganwadi Worker is the focal point for delivery, but services like Immunization and Health Check-ups are delivered by the Health System (ANM/MO) with support from the AWW.
 
 ---
+
+---
+**Previous:** [[Role of IPV in polio eradication]]  **Next:** [[What is full form of ASHA Write down the eligibility criteria for selecting ASHA in West Bengal. Giv]]

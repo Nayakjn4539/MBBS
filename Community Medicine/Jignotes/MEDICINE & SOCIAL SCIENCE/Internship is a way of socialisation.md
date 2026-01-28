@@ -3,10 +3,10 @@ status: pending
 tags: [Socialization, Internship, Medical_Sociology, Doctor_Patient_Relationship, Medical_Education]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 453
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Internship is a way of socialisation.
+# [[MEDICINE & SOCIAL SCIENCE]] > Internship is a way of socialisation
 
 ### Internship as a Process of Socialization
 
@@ -56,3 +56,4 @@ To remember the goals of Internship Socialization: **PARK**
 *   **K** - **K**nowledge application in a social context
 
 ---
+**Previous:** [[Social stress]]  **Next:** [[Customs do not always have negative effect on health]]

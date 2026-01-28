@@ -3,7 +3,7 @@ status: pending
 tags: [Couple_Protection_Rate, National_Population_Policy_2000, Family_Planning, Demography, Community_Needs_Assessment]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 230
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > In a Block in W.B, Couple Protection rate is much less as compared to neighbouring blocks. What measures will you take as BMOH to improve the situation? Mention Goals of National Population policy.
@@ -93,3 +93,6 @@ Improving CPR is not just about population control; it has direct clinical benef
 *   Pre-term births and infant mortality.
 
 ---
+
+---
+**Previous:** [[Describe the modern contraceptive methods approved for use in India. What is the 'Cafeteria Choice']]  **Next:** [[A 28-year-old mother with children aged 4 year and 1 year, has come to you for family planning advic]]

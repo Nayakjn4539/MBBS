@@ -3,7 +3,7 @@ status: pending
 tags: [Trachoma, Communicable_Diseases, Environmental_Health, SAFE_Strategy, Chlamydia_trachomatis, Water_Washed_Diseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 171
 ---
 
 # [[COMMUNICABLE DISEASES]] > Environmental factors in trachoma
@@ -78,3 +78,4 @@ To remember the risk factors, use **"DUST"**:
 *   **T** - **T**ransmission by Flies & **T**ogetherness (Overcrowding).
 
 ---
+**Previous:** [[Give the species of vector for Kala – Azar]]  **Next:** [[Blanket treatment]]

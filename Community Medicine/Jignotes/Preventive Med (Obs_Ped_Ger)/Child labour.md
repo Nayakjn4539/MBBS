@@ -3,10 +3,10 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 271
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Child labour.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Child labour
 
 ### Definition
 **Child labour** is defined as an individual who has not yet attained the age of **14 years**, suffering physical and mental development due to his/her premature employment. 
@@ -94,3 +94,4 @@ This act prohibits children from working in specific occupations and processes, 
 tags: #ChildLabour #PreventiveMedicine #SocialPaediatrics #OccupationalHealth #ConstitutionOfIndia #ChildRights #PublicHealth
 
 ---
+**Previous:** [[Health problems of Geriatric population]]  **Next:** [[Kangaroo care]]

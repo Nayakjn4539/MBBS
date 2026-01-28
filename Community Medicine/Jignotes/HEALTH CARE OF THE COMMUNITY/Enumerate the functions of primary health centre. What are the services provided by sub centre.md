@@ -3,10 +3,10 @@ status: pending
 tags: [Primary_Health_Centre, Sub_Centre, Health_Care_Delivery, Public_Health_Infrastructure, Maternal_Child_Health]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 435
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Enumerate the functions of primary health centre. What are the services provided by sub centre?
+# [[HEALTH CARE OF THE COMMUNITY]] > Enumerate the functions of primary health centre. What are the services provided by sub centre
 
 ### Primary Health Centre (PHC)
 
@@ -137,3 +137,4 @@ The Medical Officer at the PHC plays a dual role: a **clinician** treating patie
 > Flowchart showing the referral system from Village -> Sub-Centre -> PHC -> CHC -> District Hospital**
 
 ---
+**Previous:** [[What is Primary Health Centre Enumerate elements of Primary Health Care. Describe the principles of]]  **Next:** [[Enumerate the objectives of school health programs. Briefly mention different components under the p]]

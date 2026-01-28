@@ -3,7 +3,7 @@ status: pending
 tags: [epidemiology, study_designs, case_control_study, cohort_study, incidence, relative_risk, odds_ratio, bias]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 33
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Define epidemiology. Enlist the type of epidemiological studies. Briefly explain the merits and demerits of case control and cohort study design.
@@ -117,3 +117,6 @@ Epidemiological studies are broadly classified into two main categories: **Obser
     *   **R**elative Risk
 
 ---
+
+---
+**Previous:** [[What are the different types of epidemics How would you investigate an epidemic of fever in your blo]]  **Next:** [[A 7days old baby is brought to your OPD with excessive cry, refusal of feed & convulsions. Discuss d]]

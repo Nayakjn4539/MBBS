@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 97
 ---
 
 # [[COMMUNICABLE DISEASES]] > Strategies for polio eradication in India
@@ -83,3 +83,4 @@ To remember the main strategies:
 tags: #PolioEradication #PulsePolio #AFPSurveillance #IPV #OPV #CommunityMedicine #PublicHealthIndia #Vaccines
 
 ---
+**Previous:** [[Vaccine associated paralytic polio]]  **Next:** [[OPV]]

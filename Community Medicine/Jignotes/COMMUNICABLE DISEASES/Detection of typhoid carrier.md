@@ -3,7 +3,7 @@ status: pending
 tags: [Typhoid_Fever, Communicable_Diseases, Carriers, Vi_Antigen, Microbiology, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 105
 ---
 
 # [[COMMUNICABLE DISEASES]] > Detection of typhoid carrier
@@ -97,3 +97,4 @@ A typhoid patient or carrier is declared non-infective (cured of carrier state) 
 > Flowchart depicting the screening of food handlers: Serum Vi agglutination test -> If Positive -> 3 consecutive stool cultures -> If Positive -> Treat as Carrier -> If Negative -> Repeat check-up
 
 ---
+**Previous:** [[Primary prevention in Diarrheal diseases]]  **Next:** [[Food poisoning – Investigations]]

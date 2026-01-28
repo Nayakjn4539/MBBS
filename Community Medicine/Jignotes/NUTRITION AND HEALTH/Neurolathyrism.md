@@ -3,10 +3,10 @@ status: pending
 tags: [Neurolathyrism, Lathyrus_sativus, BOAA, Khesari_dal, Nutrition, Public_Health, Spastic_Paralysis, Food_Toxicants]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 293
 ---
 
-# [[NUTRITION AND HEALTH]] > Neurolathyrism.
+# [[NUTRITION AND HEALTH]] > Neurolathyrism
 
 # Neurolathyrism
 
@@ -85,3 +85,4 @@ Since the toxin [[BOAA]] is water-soluble, it can be removed by household or ind
 *   **C** - **C**rawler
 
 ---
+**Previous:** [[Endemic fluorosis]]  **Next:** [[Pasteurization of milk]]

@@ -3,7 +3,7 @@ status: pending
 tags: [COVID19, OccupationalHealth, BiomedicalWaste, InfectionControl, PPE, Disinfection, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 82
 ---
 
 # [[COMMUNICABLE DISEASES]] > Discuss the occupations that have a higher risk of exposure to COVID disease. Explain the essential measures of prevention undertaken to protect them.
@@ -80,3 +80,6 @@ Proper disinfection of workplaces (offices, hospitals, public spaces) breaks the
 *   *Note:* Always prepare 1% hypochlorite solution **freshly** for efficacy.
 
 ---
+
+---
+**Previous:** [[Epidemiological features, 4 categories, criteria, control of AIDS. Its Control programme of Govt. of]]  **Next:** [[Epidemiological factors that have led to the eradication of smallpox in the world]]

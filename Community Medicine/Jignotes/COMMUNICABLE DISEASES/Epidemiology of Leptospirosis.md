@@ -3,7 +3,7 @@ status: pending
 tags: [Leptospirosis, Zoonoses, WeilsDisease, PublicHealth, Microbiology, CommunicableDiseases, Epidemiology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 122
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology of Leptospirosis
@@ -118,3 +118,4 @@ The clinical spectrum is wide, often categorized into two types:
 *   **O** - **O**ccupational hazard (Farmers, Sewer workers)
 
 ---
+**Previous:** [[Case Definition of Acute Encephalitis syndrome. How is it managed in PHC level]]  **Next:** [[Blocked rat flea and it’s control measures]]

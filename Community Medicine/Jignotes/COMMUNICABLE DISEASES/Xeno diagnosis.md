@@ -3,7 +3,7 @@ status: pending
 tags: [Xenodiagnosis, CommunicableDiseases, LymphaticFilariasis, Microfilaraemia, DiagnosticTechniques]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 163
 ---
 
 # [[COMMUNICABLE DISEASES]] > Xeno diagnosis
@@ -43,3 +43,4 @@ The technique relies on the **biological amplification** of the parasite within 
 *   **O**bserve after 2 weeks
 
 ---
+**Previous:** [[DEC – Provocative test]]  **Next:** [[Microfilaria rate]]

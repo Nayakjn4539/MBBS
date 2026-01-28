@@ -3,7 +3,7 @@ status: pending
 tags: [census, demography, health_information_system, vital_statistics, public_health]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 392
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Define census
@@ -59,3 +59,4 @@ To remember the UN definition components: **"CC P DES"**
 > Flowchart showing the steps of the Census process from House listing to Population Enumeration to Data Processing
 
 ---
+**Previous:** [[Correlation and regression]]  **Next:** [[Cancer registry]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Family_Health, Epidemiology, Social_Medicine, Communicable_Diseases, Genetics]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 456
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Explain why "Family is considered as an epidemiological unit".
+# [[MEDICINE & SOCIAL SCIENCE]] > Explain why Family is considered as an epidemiological unit
 
 ### Family as an Epidemiological Unit
 
@@ -65,3 +65,4 @@ To remember why the family is an epidemiological unit:
 *   **Treatment:** [[Family Planning]] and nutritional counseling are most effective when directed at the family unit rather than an individual.
 
 ---
+**Previous:** [[Crowd and mob are different]]  **Next:** [[Customs are not always deleterious to health]]

@@ -1,18 +1,9 @@
 ---
 status: pending
-tags:
-  - Measles
-  - Rubeola
-  - Immunization
-  - KoplikSpots
-  - ColdChain
-  - CommunicableDiseases
-  - SSPE
-  - VitaminA
+tags: [Measles, Rubeola, Immunization, KoplikSpots, ColdChain, CommunicableDiseases, SSPE, VitaminA]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up:
-  - - COMMUNICABLE DISEASES
+up: 58
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology and prevention of measles
@@ -156,3 +147,4 @@ Vitamin A deficiency is a risk factor for severe measles. WHO recommends Vitamin
 > Flowchart of Measles Natural History showing Timeline of Infection, Prodrome, Rash, and Communicability Period relative to Antibody rise
 
 ---
+**Previous:** [[Sentinel surveillance of disease is better than periodic mass screening]]  **Next:** [[Epidemiology, prevention, control of TB. Add a note on RNTCP]]

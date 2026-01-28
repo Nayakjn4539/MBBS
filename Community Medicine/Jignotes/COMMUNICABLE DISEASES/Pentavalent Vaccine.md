@@ -3,7 +3,7 @@ status: pending
 tags: [Pentavalent_Vaccine, Universal_Immunization_Programme, Cold_Chain, AEFI, Communicable_Diseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 148
 ---
 
 # [[COMMUNICABLE DISEASES]] > Pentavalent Vaccine
@@ -74,3 +74,4 @@ Pentavalent vaccine is generally safe, but side effects can occur:
 > Flowchart showing the Shake Test procedure for freeze-sensitive vaccines like Pentavalent
 
 ---
+**Previous:** [[Newer drugs introduced in ART under NACO]]  **Next:** [[Chemoprophylaxis of meningococcal meningitis]]

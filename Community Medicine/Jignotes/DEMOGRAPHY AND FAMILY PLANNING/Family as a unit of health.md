@@ -3,10 +3,10 @@ status: pending
 tags: [Family_Health, Demography, Maternal_Child_Health, Social_Medicine, Community_Medicine, Epidemiological_Unit, Nuclear_Family, Joint_Family]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 246
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Family as a unit of health.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Family as a unit of health
 
 ### **Family as a Unit of Health**
 
@@ -117,3 +117,4 @@ In MCH services, the mother and child are treated as a single unit because:
 *   **Social Therapy:** Treating a patient often requires "social therapy" (e.g., advising a family with [[Hookworm]] to use latrines).
 
 ---
+**Previous:** [[Sample registration system provides more reliable estimates of birth and death rates at the national]]  **Next:** [[Family performs many functions]]

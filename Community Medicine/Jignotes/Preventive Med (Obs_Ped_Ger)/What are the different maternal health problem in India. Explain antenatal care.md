@@ -3,10 +3,10 @@ status: pending
 tags: [Maternal_Health, Antenatal_Care, MMR, High_Risk_Pregnancy, IFA_Supplementation, Tetanus_Toxoid]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 255
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > What are the different maternal health problem in India. Explain antenatal care.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > What are the different maternal health problem in India. Explain antenatal care
 
 ### Maternal Health Problems in India
 
@@ -128,3 +128,4 @@ The central purpose of ANC is to identify "High Risk" cases who require skilled 
 > Flowchart showing the schedule of ANC visits and key interventions at each visit
 
 ---
+**Previous:** [[Define infant mortality rate. Mention important cause of IMR. Describe important socio-cultural fact]]  **Next:** [[Define Maternal Mortality Ratio. Outline of the strategies under national programme to bring down th]]

@@ -3,5 +3,6 @@
   "newFileLocation": "folder",
   "attachmentFolderPath": "./Attachments",
   "newFileFolderPath": "Linkpointed Notes",
-  "readableLineLength": false
+  "readableLineLength": false,
+  "defaultViewMode": "preview"
 }

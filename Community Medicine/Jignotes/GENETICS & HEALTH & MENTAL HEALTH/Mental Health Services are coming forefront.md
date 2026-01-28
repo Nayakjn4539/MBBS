@@ -3,10 +3,10 @@ status: pending
 tags: [MentalHealth, NMHP, CommunityPsychiatry, MentalHealthcareAct2017, PublicHealth]
 subject: Community Medicine
 topic: GENETICS & HEALTH & MENTAL HEALTH
-up: [[GENETICS & HEALTH & MENTAL HEALTH]]
+up: 476
 ---
 
-# [[GENETICS & HEALTH & MENTAL HEALTH]] > Mental Health Services are coming forefront.
+# [[GENETICS & HEALTH & MENTAL HEALTH]] > Mental Health Services are coming forefront
 
 ### **Mental Health Services: Emerging as a Priority**
 
@@ -109,3 +109,4 @@ To remember the basic psychological needs that services aim to fulfill: **"SPARE
 > Flowchart showing the hierarchy of Mental Health Services: National Level (NMHP) -> State Mental Health Authority -> District Mental Health Programme -> CHC/PHC (Integration with General Health) -> Village Level (ASHA/Community awareness)
 
 ---
+**Previous:** [[Prospective Genetic counselling is more rewarding]]  **Next:** [[Importance of genetic counselling in preventing the genetic disorders]]

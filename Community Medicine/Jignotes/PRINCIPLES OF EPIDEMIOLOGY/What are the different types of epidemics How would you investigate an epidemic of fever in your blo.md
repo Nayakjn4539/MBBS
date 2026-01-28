@@ -3,7 +3,7 @@ status: pending
 tags: [epidemic, disease_outbreak_investigation, point_source_epidemic, propagated_epidemic, epidemiology, community_medicine]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 32
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > What are the different types of epidemics? How would you investigate an epidemic of fever in your block?
@@ -100,3 +100,6 @@ Analyze data by **Time, Place, and Person**.
 > (**V**erification, **C**onfirmation, **D**efining population, **R**apid search, **A**nalysis, **H**ypothesis, **T**esting, **E**cological evaluation, **F**urther investigation, **W**riting report).
 
 ---
+
+---
+**Previous:** [[In your district immunisation rate has fallen to 50%. How would you investigate to find out the reas]]  **Next:** [[Define epidemiology. Enlist the type of epidemiological studies. Briefly explain the merits and deme]]

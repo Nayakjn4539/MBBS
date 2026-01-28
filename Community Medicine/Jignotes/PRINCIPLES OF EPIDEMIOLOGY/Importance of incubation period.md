@@ -3,10 +3,10 @@ status: pending
 tags: [epidemiology, incubation_period, quarantine, communicable_diseases, public_health]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 35
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Importance of incubation period.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Importance of incubation period
 
 # **Importance of Incubation Period**
 
@@ -89,3 +89,4 @@ To remember the importance of Incubation Period:
 *   **Q** - **Q**uarantine duration (Max IP).
 
 ---
+**Previous:** [[A 7days old baby is brought to your OPD with excessive cry, refusal of feed & convulsions. Discuss d]]  **Next:** [[Population attributable risk]]

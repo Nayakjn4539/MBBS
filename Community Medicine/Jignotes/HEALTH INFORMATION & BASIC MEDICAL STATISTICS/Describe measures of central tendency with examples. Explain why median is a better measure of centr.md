@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, CentralTendency, MeanMedianMode, DataDispersion, PublicHealth]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 405
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Describe measures of central tendency with examples. Explain why median is a better measure of central tendency in a widely dispersed data.
@@ -122,3 +122,6 @@ Data: 5, 5, 5, 7, 10, 20, **102**
 *   **M**ode = **M**ost Popular
 
 ---
+
+---
+**Previous:** [[Feasibility of record linkage as a source of Health information]]  **Next:** [[What is sampling What are the different types of sampling Describe them briefly with their advantage]]

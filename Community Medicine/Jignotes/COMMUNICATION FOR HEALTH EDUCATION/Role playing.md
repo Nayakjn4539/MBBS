@@ -3,10 +3,10 @@ status: pending
 tags: [RolePlaying, HealthEducation, SocioDrama, CommunicationSkills, GroupMethods, MedicalEducation]
 subject: Community Medicine
 topic: COMMUNICATION FOR HEALTH EDUCATION
-up: [[COMMUNICATION FOR HEALTH EDUCATION]]
+up: 414
 ---
 
-# [[COMMUNICATION FOR HEALTH EDUCATION]] > Role playing.
+# [[COMMUNICATION FOR HEALTH EDUCATION]] > Role playing
 
 ### Role Playing (Socio-Drama)
 
@@ -61,3 +61,4 @@ This allows students to make mistakes and learn in a safe, simulated environment
 > A sketch showing a semi-circle of students (audience) watching 2-3 students in the center acting out a doctor-patient scenario, with a moderator standing by to facilitate discussion.
 
 ---
+**Previous:** [[The terms 'normal curve' and 'standard normal curve' are not synonymous]]  **Next:** [[Principles of primary health care with examples]]

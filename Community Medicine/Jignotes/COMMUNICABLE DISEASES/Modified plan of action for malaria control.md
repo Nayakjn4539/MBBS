@@ -3,7 +3,7 @@ status: pending
 tags: [Modified_Plan_of_Operation, Malaria_Control, API, Communicable_Diseases, MPO_1977, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 72
 ---
 
 # [[COMMUNICABLE DISEASES]] > Modified plan of action for malaria control
@@ -84,3 +84,4 @@ These are areas with fewer than 2 cases per 1,000 population.
 *   **Severe Malaria:** The MPO emphasized preventing mortality; hence, a clinician's priority is the early identification of *[[Severe Malaria]]* signs (coma, acidosis, severe anemia) and prompt referral.
 
 ---
+**Previous:** [[Epidemiology, types, features, mode of transmission of Malaria]]  **Next:** [[Insect borne diseases. Explain lymphatic filariasis. Add a note on its control programme]]

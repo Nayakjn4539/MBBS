@@ -3,7 +3,7 @@ status: pending
 tags: [FamilyHealth, SocialMedicine, FamilyCycle, TypesOfFamily, CommunityMedicine, SociologyInHealth]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 450
 ---
 
 # [[MEDICINE & SOCIAL SCIENCE]] > Enumerate types of family. Describe the stages of family cycle. Discuss the role of family in health and disease.
@@ -108,3 +108,6 @@ Family members share a **pool of genes** and a **common environment**.
 *   **Environmental/Lifestyle:** Common dietary habits and stress levels in a family contribute to "lifestyle diseases" like hypertension and obesity.
 
 ---
+
+---
+**Previous:** [[Networking with voluntary health agencies plays an important role in health care delivery]]  **Next:** [[Social mobilisation]]

@@ -3,10 +3,10 @@ status: pending
 tags: [International_Health, Non_Governmental_Organization, Voluntary_Health_Agencies, Red_Cross, CARE, Rockefeller_Foundation]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 459
 ---
 
-# [[INTERNATIONAL HEALTH]] > Non-Government organization.
+# [[INTERNATIONAL HEALTH]] > Non-Government organization
 
 ### Non-Governmental Organizations (NGOs) / Voluntary Health Agencies
 
@@ -84,3 +84,4 @@ The Government of India actively involves NGOs in the implementation of National
 > Flowchart showing the relationship between Government Health System and NGOs, depicting "Funding/Guidelines" flowing from Govt to NGO, and "Data/Service Delivery" flowing from NGO to Govt.
 
 ---
+**Previous:** [[Doctor patient relationship plays a vital role in care of disease]]  **Next:** [[CARE -India]]

@@ -3,7 +3,7 @@ status: pending
 tags: [FamilyPlanning, Contraception, IUCD, OCP, Sterilization, NeetPG, PSM]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 231
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > A 28-year-old mother with children aged 4 year and 1 year, has come to you for family planning advice. Describe different methods of contraception that can be offered to her with merits and demerits.
@@ -104,3 +104,6 @@ Since the mother is 28 years old and has 2 living children (meeting the criteria
 *   **S** - Severe Leg pain (DVT)
 
 ---
+
+---
+**Previous:** [[In a Block in W.B, Couple Protection rate is much less as compared to neighbouring blocks. What meas]]  **Next:** [[Write down the National Socio Demographic Goals for 2015. Outline the steps for evaluation of Family]]

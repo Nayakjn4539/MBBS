@@ -3,7 +3,7 @@ status: pending
 tags: [LowBirthWeight, MaternalChildHealth, PreventiveMedicine, PublicHealth, BMOH, AntenatalCare, Nutrition, FamilyPlanning]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 261
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Define "Low Birth Weight ". What is its prevalence in India and the target to achieve? What measures would you like to adopt as BMOH to reduce the Low Birth Weight in your block.
@@ -84,3 +84,6 @@ As a **Block Medical Officer of Health (BMOH)**, the approach to reducing LBW mu
 *   **E**arly registration of pregnancy
 
 ---
+
+---
+**Previous:** [[What do you mean by neonatal mortality Why is it so important Write in brief the components of essen]]  **Next:** [[Define Maternal mortality ratio and maternal mortality rate. Describe the important cultural and soc]]

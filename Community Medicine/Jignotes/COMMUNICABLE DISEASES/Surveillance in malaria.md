@@ -3,7 +3,7 @@ status: pending
 tags: [malaria, surveillance, API, ABER, NVBDCP, community_medicine, epidemiology, vector_control]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 110
 ---
 
 # [[COMMUNICABLE DISEASES]] > Surveillance in malaria
@@ -92,3 +92,4 @@ Under the [[National Framework for Malaria Elimination]] (2016-2030), surveillan
 *   **Drug Resistance:** Surveillance also includes monitoring therapeutic efficacy to detect drug resistance (e.g., Chloroquine resistance in *P. falciparum*).
 
 ---
+**Previous:** [[Man-made malaria]]  **Next:** [[Radical treatment for malaria]]

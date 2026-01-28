@@ -3,7 +3,7 @@ status: pending
 tags: [HepatitisB, PerinatalTransmission, Immunization, HBIG, CommunicableDiseases, Pediatrics, Obstetrics]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 153
 ---
 
 # [[COMMUNICABLE DISEASES]] > Prevention of perinatal transmission of Hep B
@@ -82,3 +82,4 @@ The birth dose should be followed by the complete primary immunization series:
 *   **B**odyguard (HBIG) for babies of positive moms
 
 ---
+**Previous:** [[Define Acute Flaccid Paralysis]]  **Next:** [[Low Osmolarity ORS]]

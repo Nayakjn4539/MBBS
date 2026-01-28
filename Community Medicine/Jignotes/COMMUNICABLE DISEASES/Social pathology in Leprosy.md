@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, Social_Pathology, Dehabilitation, Rehabilitation, Stigma, Community_Medicine, Communicable_Diseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 136
 ---
 
 # [[COMMUNICABLE DISEASES]] > Social pathology in Leprosy
@@ -81,3 +81,4 @@ To cure the patient completely, "Social Therapy" must supplement chemotherapy.
 When treating a [[Leprosy]] patient, the physician must look beyond the skin patches. A patient with **Grade 2 Disability** (visible deformity) requires not just medical or surgical care but active **Social Support**. The doctor must counsel the family to prevent the patient from being isolated (ostracized), which ensures treatment compliance and breaks the chain of transmission.
 
 ---
+**Previous:** [[Tertiary Preventive measures for leprosy]]  **Next:** [[Syndromic approach in sexually transmitted diseases]]

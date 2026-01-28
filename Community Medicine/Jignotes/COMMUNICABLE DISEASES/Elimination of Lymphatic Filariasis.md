@@ -3,7 +3,7 @@ status: pending
 tags: [LymphaticFilariasis, MassDrugAdministration, NVBDCP, Diethylcarbamazine, MorbidityManagement, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 114
 ---
 
 # [[COMMUNICABLE DISEASES]] > Elimination of Lymphatic Filariasis
@@ -77,3 +77,4 @@ While chemotherapy is the primary strategy, vector control supplements it to red
 > Draw a flowchart showing the "Two Pillars of Elimination Strategy": 1. MDA (Drug names, dose, schedule) -> Interrupt Transmission. 2. MMDP (Foot hygiene, Surgery) -> Relieve Suffering.
 
 ---
+**Previous:** [[Modified plan of operation for malaria]]  **Next:** [[Filarial indices]]

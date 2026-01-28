@@ -3,10 +3,10 @@ status: pending
 tags: [FRU, FirstReferralUnit, MaternalMortalityRatio, EmergencyObstetricCare, RCH, NRHM, Obstetrics]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 275
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > FRUS will reduce MMR.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > FRUS will reduce MMR
 
 ### Role of First Referral Units (FRUs) in Reducing Maternal Mortality Ratio (MMR)
 
@@ -64,3 +64,4 @@ The FRU is the cornerstone of the "Third E" in the strategy to reduce maternal m
 > Flowchart showing the referral chain from Community/Sub-center -> PHC -> FRU (CHC/District Hospital) highlighting the "Referral linkage" essential for survival.
 
 ---
+**Previous:** [[Breast milk is ideal & only food for infants till 6 months of age]]  **Next:** [[Apart from growth monitoring, 'Growth chart' has many other uses]]

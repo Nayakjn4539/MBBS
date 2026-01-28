@@ -3,10 +3,10 @@ status: pending
 tags: [Integrated_Vector_Management, Vector_Control, Environmental_Sanitation, NVBDCP, Malaria_Control, Public_Health]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 326
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Integrated vector management is the most effective method of vector control.
+# [[ENVIRONMENT & HEALTH]] > Integrated vector management is the most effective method of vector control
 
 ### Integrated Vector Management (IVM)
 
@@ -107,3 +107,4 @@ Under the **[[National Vector Borne Disease Control Programme]]**, IVM is implem
 > Flowchart showing the components of Integrated Vector Management converging to reduce disease transmission
 
 ---
+**Previous:** [[The mere addition of chlorine to water is not chlorination]]  **Next:** [[Overcrowding is a health hazard]]

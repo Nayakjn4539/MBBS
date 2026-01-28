@@ -3,7 +3,7 @@ status: pending
 tags: [Plague, Communicable_Diseases, Entomology, Epidemiology, Vector_Control]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 124
 ---
 
 # [[COMMUNICABLE DISEASES]] > Rat flea indices
@@ -56,3 +56,4 @@ To remember the 5 types of indices: **"Rats Spread Bubonic Plague Globally"**
 *   **Surveillance:** Routine calculation of these indices helps health authorities decide when to intensify anti-flea measures (like dusting with DDT or Malathion) before anti-rodent measures, to prevent fleas from leaving dead rats and biting humans.
 
 ---
+**Previous:** [[Blocked rat flea and it’s control measures]]  **Next:** [[Salmonellosis]]

@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 106
 ---
 
 # [[COMMUNICABLE DISEASES]] > Food poisoning – Investigations
@@ -75,3 +75,4 @@ Epidemiological analysis is conducted using time, place, and person distribution
 tags: #food_poisoning #epidemiological_investigation #communicable_diseases #public_health #attack_rate
 
 ---
+**Previous:** [[Detection of typhoid carrier]]  **Next:** [[Soil transmitted helminths]]

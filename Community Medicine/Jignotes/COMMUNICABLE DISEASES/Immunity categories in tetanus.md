@@ -3,7 +3,7 @@ status: pending
 tags: [Tetanus, Immunization, CommunicableDiseases, PreventiveMedicine, Prophylaxis]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 173
 ---
 
 # [[COMMUNICABLE DISEASES]] > Immunity categories in tetanus
@@ -73,3 +73,4 @@ To remember the categories and timelines, think of the alphabet grades:
 *   **Passive Immunity:** [[Human Tetanus Immunoglobulin]] (HTIG) provides immediate, temporary protection and is crucial for Category C and D patients with dirty wounds because the vaccine takes time to produce antibodies.
 
 ---
+**Previous:** [[Blanket treatment]]  **Next:** [[Morphological index]]

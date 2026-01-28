@@ -3,7 +3,7 @@ status: pending
 tags: [sampling, biostatistics, research_methodology, epidemiology, cluster_sampling, stratified_sampling]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 406
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > What is sampling? What are the different types of sampling? Describe them briefly with their advantages and limitations.
@@ -128,3 +128,6 @@ The initial subject recruits other subjects from their acquaintances. The sample
 *   **S**nowball
 
 ---
+
+---
+**Previous:** [[Describe measures of central tendency with examples. Explain why median is a better measure of centr]]  **Next:** [[Source of health information]]

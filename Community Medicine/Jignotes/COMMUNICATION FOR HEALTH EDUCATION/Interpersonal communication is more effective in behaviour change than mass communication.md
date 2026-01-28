@@ -3,10 +3,10 @@ status: pending
 tags: [HealthEducation, Communication, BehaviorChange, InterpersonalCommunication, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICATION FOR HEALTH EDUCATION
-up: [[COMMUNICATION FOR HEALTH EDUCATION]]
+up: 420
 ---
 
-# [[COMMUNICATION FOR HEALTH EDUCATION]] > Interpersonal communication is more effective in behaviour change than mass communication.
+# [[COMMUNICATION FOR HEALTH EDUCATION]] > Interpersonal communication is more effective in behaviour change than mass communication
 
 ### Interpersonal Communication vs. Mass Communication in Behaviour Change
 
@@ -82,3 +82,4 @@ To remember why **IPC** is better for behavior change, remember **"FACE"**:
 *   **E** - **E**motional connection/Empathy.
 
 ---
+**Previous:** [[Interpersonal communication is better than mass media for advocacy purpose]]  **Next:** [[Immunisation dropouts and left outs are found to be quite high for consecutive years in a block. Men]]

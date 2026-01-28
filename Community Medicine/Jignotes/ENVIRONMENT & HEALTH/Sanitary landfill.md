@@ -3,10 +3,10 @@ status: pending
 tags: [SanitaryLandfill, WasteDisposal, EnvironmentalHealth, ControlledTipping, PublicHealth]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 317
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Sanitary landfill.
+# [[ENVIRONMENT & HEALTH]] > Sanitary landfill
 
 ### Sanitary Landfill (Controlled Tipping)
 
@@ -60,3 +60,4 @@ Once the refuse is buried, chemical, bacteriological, and physical changes occur
 *   **T** - **T**rench method (for level ground)
 
 ---
+**Previous:** [[Hazards of noise pollution]]  **Next:** [[Water borne diseases]]

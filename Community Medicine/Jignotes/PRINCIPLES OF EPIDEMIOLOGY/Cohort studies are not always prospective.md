@@ -3,10 +3,10 @@ status: pending
 tags: [cohort_studies, epidemiology_study_designs, retrospective_cohort, ambispective_cohort, research_methodology]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 45
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Cohort studies are not always prospective.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Cohort studies are not always prospective
 
 # Cohort Studies: Timing vs. Direction
 
@@ -83,3 +83,4 @@ If you want to study the link between **asbestos exposure** and lung cancer toda
 *In Retrospective Cohort, you hunt through the **Files** (past records define the group)."*
 
 ---
+**Previous:** [[Significance of a false positive screening test]]  **Next:** [[Carriers are more dangerous than cases]]

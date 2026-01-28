@@ -3,10 +3,10 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 11
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Sources of health information.
+# [[CONCEPT OF HEALTH & DISEASES]] > Sources of health information
 
 # Sources of Health Information
 
@@ -129,3 +129,4 @@ Surveys supplement routine statistics by providing information on health status,
 tags: #HealthInformationSystem #Census #VitalStatistics #SampleRegistrationSystem #SRS #DiseaseSurveillance #HospitalRecords #NFHS #CommunityMedicine
 
 ---
+**Previous:** [[Iceberg phenomenon of disease]]  **Next:** [[DALY]]

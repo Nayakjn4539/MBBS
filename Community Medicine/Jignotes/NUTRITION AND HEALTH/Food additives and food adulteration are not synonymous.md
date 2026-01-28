@@ -3,10 +3,10 @@ status: pending
 tags: [Food_Additives, Food_Adulteration, Nutrition, Public_Health, Food_Safety]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 306
 ---
 
-# [[NUTRITION AND HEALTH]] > Food additives and food adulteration are not synonymous.
+# [[NUTRITION AND HEALTH]] > Food additives and food adulteration are not synonymous
 
 ### **Food Additives vs. Food Adulteration**
 
@@ -66,3 +66,4 @@ Therefore, while all unauthorized additives result in adulteration, not all addi
 *   **Public Health Response:** Enforcement of the **Food Safety and Standards Act** (FSSAI) is crucial to monitor both the limits of additives and the prevention of adulteration.
 
 ---
+**Previous:** [[Supplementary nutrition & therapeutic nutrition is different]]  **Next:** [[Short term high dose Vit. A supplementation is useful for prevention of Xerophthalmia]]

@@ -3,7 +3,7 @@ status: pending
 tags: [chi_square_test, biostatistics, medical_statistics, hypothesis_testing, epidemiology, data_analysis, null_hypothesis]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 370
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Chi Square test & Uses
@@ -100,3 +100,4 @@ To remember the uses of Chi-Square: **"GAP"**
 *   **P** - **P**roportions (Test of difference between proportions)
 
 ---
+**Previous:** [[What is sampling Random sampling methods with suitable examples]]  **Next:** [[Sources & uses of statistical health information]]

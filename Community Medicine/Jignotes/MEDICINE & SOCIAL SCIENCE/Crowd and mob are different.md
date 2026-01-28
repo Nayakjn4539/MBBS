@@ -3,10 +3,10 @@ status: pending
 tags: [SocialMedicine, Sociology, CrowdPsychology, PublicHealth, BehavioralSciences]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 455
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Crowd and mob are different.
+# [[MEDICINE & SOCIAL SCIENCE]] > Crowd and mob are different
 
 ### Crowd and Mob: Sociological Differences
 
@@ -60,3 +60,4 @@ A **mob** is essentially a crowd that has become emotionally charged and is ofte
 > Venn diagram showing 'Temporary Social Groups' as the main set, with 'Crowd' and 'Mob' as subsets, highlighting 'Leadership' and 'Emotion' as the intersection/differentiating factors.
 
 ---
+**Previous:** [[Customs do not always have negative effect on health]]  **Next:** [[Explain why Family is considered as an epidemiological unit]]

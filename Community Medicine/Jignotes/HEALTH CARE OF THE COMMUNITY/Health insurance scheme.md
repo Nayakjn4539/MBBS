@@ -3,10 +3,10 @@ status: pending
 tags: [health_insurance, ESI_scheme, CGHS, Ayushman_Bharat, PMJAY, community_medicine, social_security, public_health]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 444
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Health insurance scheme.
+# [[HEALTH CARE OF THE COMMUNITY]] > Health insurance scheme
 
 ### **Health Insurance Schemes in India**
 
@@ -110,3 +110,4 @@ Launched on **23rd September 2018**, this is the world's largest government-fund
 > Flowchart depicting the 3-tier structure of ESI administration (Corporation -> Standing Committee -> Medical Benefit Council)
 
 ---
+**Previous:** [[Central Government Health Scheme]]  **Next:** [[Voluntary Health Agency]]

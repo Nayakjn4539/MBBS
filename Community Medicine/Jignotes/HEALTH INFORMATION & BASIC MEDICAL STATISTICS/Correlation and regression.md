@@ -3,7 +3,7 @@ status: pending
 tags: [Correlation, Regression, Biostatistics, Scatter_Diagram, Pearson_Coefficient, Regression_Equation, Health_Statistics]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 391
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Correlation and regression
@@ -110,3 +110,4 @@ Used to measure the variability or scatter of the observed values around the reg
 4.  **Prediction:** Calculating the risk of cardiovascular events ($Y$) based on multiple risk factors like age, cholesterol, and BP ($X_1, X_2, X_3$) using **Multiple Logistic Regression**.
 
 ---
+**Previous:** [[Describe the steps of chi square test with example]]  **Next:** [[Define census]]

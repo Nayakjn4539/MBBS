@@ -3,7 +3,7 @@ status: pending
 tags: [Treatment_Failure, RNTCP, NTEP, MDR-TB, CBNAAT, Communicable_Diseases, Tuberculosis]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 192
 ---
 
 # [[COMMUNICABLE DISEASES]] > A sputum positive pulmonary TB patient was found sputum smear +ve after 5 months of treatment with category -1. What is your inference about the case? What is the next line management as per RNTCP?
@@ -76,3 +76,6 @@ Why 5 months?
 The intensive phase is meant to kill the rapidly multiplying bacilli. If the sputum is still positive at 5 months (deep into the continuation phase), it implies the "persisters" are not dying or resistant mutants have overgrown the sensitive population. Continuing the same failing regimen will only amplify resistance (leading to XDR-TB) and increase mortality.
 
 ---
+
+---
+**Previous:** [[Enumerate diseases under National Vector Borne Disease Control Programme (NVBDCP). Write down a brie]]  **Next:** [[A six-month-old child was brought by the mother at OPD, presenting with loose stool for more than th]]

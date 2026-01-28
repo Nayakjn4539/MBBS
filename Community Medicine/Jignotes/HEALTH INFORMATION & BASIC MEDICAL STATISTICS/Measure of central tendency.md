@@ -3,7 +3,7 @@ status: pending
 tags: [biostatistics, central_tendency, mean, median, mode, normal_distribution, skewed_distribution, data_analysis, public_health]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 379
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Measure of central tendency
@@ -102,3 +102,4 @@ The relationship depends on the distribution of data:
 *   **Mo**de is **Mo**st: The value that appears the **Mo**st often.
 
 ---
+**Previous:** [[Statistical averages]]  **Next:** [[Uses of standard deviation]]

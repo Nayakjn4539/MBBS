@@ -3,7 +3,7 @@ status: pending
 tags: [Universal_Immunization_Programme, Cluster_Sampling, Cold_Chain, Mission_Indradhanush, ASHA, Herd_Immunity, Epidemiology]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 31
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > In your district immunisation rate has fallen to 50%. How would you investigate to find out the reason? How do you concurrently try to increase the immunization rate?
@@ -81,3 +81,6 @@ Increasing the immunization rate is crucial to establish Herd Immunity. When a h
 *   **E**quipment and supply check
 
 ---
+
+---
+**Previous:** [[Describe the salient features of different types of time trends in disease occurrence with suitable]]  **Next:** [[What are the different types of epidemics How would you investigate an epidemic of fever in your blo]]

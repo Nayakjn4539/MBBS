@@ -3,7 +3,7 @@ status: pending
 tags: [Rabies, CommunicableDiseases, PostExposureProphylaxis, Vaccination, CommunityMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 182
 ---
 
 # [[COMMUNICABLE DISEASES]] > A 10-year-old boy, scratch by street cat on left leg with oozing of scanty blood. Wound was washed casually. Write down line of management for the boy in present situation. Describe preventive measures for controlling the disease.
@@ -62,3 +62,6 @@ Since this is a Category III exposure involving a stray animal (street cat), bot
 **Important Note:** If the street cat can be captured and observed, and it remains healthy for **10 days**, PEP can be discontinued. However, due to the risk, prophylaxis is usually started immediately.,,
 
 ---
+
+---
+**Previous:** [[One adult man has attended your hospital with complaints of fever, emaciation, abdominal swelling an]]  **Next:** [[A 25-year-old person presented in OPD of a primary health centre with cough and fever for one-month,]]

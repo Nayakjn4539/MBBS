@@ -3,7 +3,7 @@ status: pending
 tags: [LymphaticFilariasis, CommunicableDiseases, DiagnosticTests, PublicHealth, Microfilaria, DEC]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 162
 ---
 
 # [[COMMUNICABLE DISEASES]] > DEC – Provocative test
@@ -66,3 +66,4 @@ This test allows blood collection during the day.
 > Flowchart showing the timeline of DEC Provocative Test: Oral DEC 100mg --> Wait 45-60 mins --> Prick finger --> Prepare Thick Smear --> Microscopy
 
 ---
+**Previous:** [[Behavioural change communication in malaria]]  **Next:** [[Xeno diagnosis]]

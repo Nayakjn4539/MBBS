@@ -3,7 +3,7 @@ status: pending
 tags: [Neonatal_Tetanus, National_Immunization_Schedule, Maternal_Health, Communicable_Diseases, Pediatrics]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 34
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > A 7days old baby is brought to your OPD with excessive cry, refusal of feed & convulsions. Discuss diagnosis, case management & preventive studies as per national immunization program?
@@ -84,3 +84,6 @@ To prevent contamination of the umbilical cord during childbirth.
 *   **Goal:** Elimination defined as **<1 case per 1000 live births** in every district.
 
 ---
+
+---
+**Previous:** [[Define epidemiology. Enlist the type of epidemiological studies. Briefly explain the merits and deme]]  **Next:** [[Importance of incubation period]]

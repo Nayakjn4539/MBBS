@@ -3,7 +3,7 @@ status: pending
 tags: [Ebola, CommunicableDiseases, Filoviridae, Epidemiology, Zoonosis, InfectionControl]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 142
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology and Prevention of Ebola
@@ -92,3 +92,4 @@ As per available sources, prevention relies on breaking the chain of transmissio
 High index of suspicion is required for any patient presenting with fever and history of travel to endemic areas (e.g., Central/West Africa) within the last 21 days. Immediate notification to health authorities is mandatory.
 
 ---
+**Previous:** [[Control and prevention of HIV]]  **Next:** [[Nosocomial infections]]

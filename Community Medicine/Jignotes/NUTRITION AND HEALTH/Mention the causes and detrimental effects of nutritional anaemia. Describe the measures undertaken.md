@@ -3,7 +3,7 @@ status: pending
 tags: [Nutritional_Anaemia, WIFS, Anemia_Mukt_Bharat, Iron_Deficiency, Adolescent_Health, Public_Health_Nutrition]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 281
 ---
 
 # [[NUTRITION AND HEALTH]] > Mention the causes and detrimental effects of nutritional anaemia. Describe the measures undertaken to combat anaemia among adolescents according to national Program.
@@ -99,3 +99,6 @@ Adolescents often have poor dietary habits. Counseling should emphasize **vitami
 > Flowchart showing the 6x6x6 strategy of Anemia Mukt Bharat highlighting the Adolescent leg
 
 ---
+
+---
+**Previous:** [[How do you assess the nutritional status of family Explain Diet survey & its types]]  **Next:** [[Name the important inorganic chemicals of health significance present in ground water of West Bengal]]

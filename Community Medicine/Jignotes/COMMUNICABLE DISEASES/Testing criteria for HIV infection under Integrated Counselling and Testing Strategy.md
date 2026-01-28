@@ -3,7 +3,7 @@ status: pending
 tags: [HIV, ICTC, NACO, Epidemiology, Diagnosis, CommunicableDiseases, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 179
 ---
 
 # [[COMMUNICABLE DISEASES]] > Testing criteria for HIV infection under Integrated Counselling and Testing Strategy
@@ -75,3 +75,4 @@ Every HIV test under the ICTC strategy must adhere to the **5 Cs**:
 *   **Three (Strategy III):** To be **Sure** in healthy (Asymptomatic) people.
 
 ---
+**Previous:** [[Criteria for surveillance as per the International Health regulations 2005]]  **Next:** [[COVID 19 Vaccines]]

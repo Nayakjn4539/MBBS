@@ -3,7 +3,7 @@ status: pending
 tags: [Regression, Biostatistics, Regression_Coefficient, Logistic_Regression, ANOVA, Linear_Regression]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 402
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Define regression & types of regression
@@ -72,3 +72,4 @@ Regression analysis is classified based on the number of independent variables a
 "**I**ndependent is **I**n **C**ontrol, **D**ependent **D**epends on it."
 
 ---
+**Previous:** [[Describe stratified sampling and its purpose]]  **Next:** [[Time within which births and deaths have to be registered as per the Birth and Death Registration Ac]]

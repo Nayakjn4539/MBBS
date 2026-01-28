@@ -3,7 +3,7 @@ status: pending
 tags: [Voluntary_Health_Agencies, Indian_Red_Cross_Society, Public_Health_Administration, Community_Medicine, NGOs_in_Health]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 471
 ---
 
 # [[INTERNATIONAL HEALTH]] > Voluntary health agencies in India
@@ -114,3 +114,4 @@ These are voluntary agencies of qualified professionals that conduct conferences
 > Flowchart showing the diverse functions of Indian Red Cross Society (Peace time vs War time activities)
 
 ---
+**Previous:** [[Food and Agricultural organization]]  **Next:** [[Indian Red Cross Society]]

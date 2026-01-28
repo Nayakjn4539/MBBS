@@ -3,10 +3,10 @@ status: pending
 tags: [Biostatistics, Epidemiology, RateRatioProportion, HealthIndices, PublicHealth]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 409
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Rate, ratio and proportion.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Rate, ratio and proportion
 
 ### **Tools of Measurement in Epidemiology**
 
@@ -85,3 +85,4 @@ In [[epidemiology]] and medical statistics, disease magnitude and frequency are 
     *   **Case Fatality Rate (CFR)** is actually a *Proportion* representing the killing power of a disease.
 
 ---
+**Previous:** [[Simple random sampling]]  **Next:** [[Graphical representation of statistical data]]

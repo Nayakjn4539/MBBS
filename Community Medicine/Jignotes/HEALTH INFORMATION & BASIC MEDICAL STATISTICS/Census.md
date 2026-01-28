@@ -3,7 +3,7 @@ status: pending
 tags: [Census, HealthInformationSystem, Demography, VitalStatistics, PublicHealth, CommunityMedicine]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 372
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Census
@@ -26,11 +26,11 @@ up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
 
 #### **Methods of Enumeration**
 There are two main systems of conducting a census:
+| System | Description | Status in India |
+| :--- | :--- | :--- |
+| **De Facto** (Date System) | Persons are counted where they are found on the census night, regardless of their usual residence. | Used till 1931. |
+| **De Jure** (Resident System) | Persons are counted at their place of **permanent residence**, regardless of where they are on the census night. | Followed since 1941. |
 
-| System                    | Description                                                                 | Status in India      |
-|--------------------------|-----------------------------------------------------------------------------|----------------------|
-| De Facto (Date System)   | Persons are counted where they are found on the census night, regardless of their usual residence. | Used till 1931.      |
-| De Jure (Resident System)| Persons are counted at their place of permanent residence, regardless of where they are on the census night. | Followed since 1941. |
 **[[Census Moment]]**: The "snapshot" of the population is taken at a specific reference time. In India, the **Census Stop** is **00:00 hours on 1st March** of the census year.
 
 #### **Information Collected**
@@ -68,3 +68,4 @@ The census is the central pillar for health planning. Its uses can be remembered
 > A flowchart showing the flow of Census operations from House Listing -> Population Enumeration -> Compilation -> Publication
 
 ---
+**Previous:** [[Sources & uses of statistical health information]]  **Next:** [[Registration of vital events]]

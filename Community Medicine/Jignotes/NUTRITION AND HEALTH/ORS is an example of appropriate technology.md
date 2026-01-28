@@ -3,10 +3,10 @@ status: pending
 tags: [ORS, AppropriateTechnology, DiarrheaControl, PublicHealth, ReducedOsmolarityORS, ZincSupplementation, PrimaryHealthCare]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 304
 ---
 
-# [[NUTRITION AND HEALTH]] > ORS is an example of appropriate technology.
+# [[NUTRITION AND HEALTH]] > ORS is an example of appropriate technology
 
 ### ORS as Appropriate Technology
 
@@ -73,3 +73,4 @@ Current guidelines emphasize the use of **[[Zinc]]** along with ORS for 14 days,
 4.  **A**vailable (Physical)
 
 ---
+**Previous:** [[Zinc is given with ORS in treatment of Diarrhoea]]  **Next:** [[Supplementary nutrition & therapeutic nutrition is different]]

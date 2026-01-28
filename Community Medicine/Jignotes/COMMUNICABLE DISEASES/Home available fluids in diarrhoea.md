@@ -3,7 +3,7 @@ status: pending
 tags: [HomeAvailableFluids, DiarrhoeaManagement, OralRehydrationTherapy, CommunicableDiseases, Pediatrics, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 156
 ---
 
 # [[COMMUNICABLE DISEASES]] > Home available fluids in diarrhoea
@@ -76,3 +76,4 @@ The general rule is to give as much fluid as the child wants. Approximate amount
 > Flowchart showing "Plan A" management: Assess Dehydration -> No Dehydration -> Rules of Home Care (Fluids, Feeding, Follow-up) -> List of HAFs vs Fluids to Avoid
 
 ---
+**Previous:** [[Composition of ORS]]  **Next:** [[Chandler’s index]]

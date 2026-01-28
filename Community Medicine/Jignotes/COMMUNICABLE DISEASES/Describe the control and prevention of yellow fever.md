@@ -3,7 +3,7 @@ status: pending
 tags: [yellow_fever, 17D_vaccine, quarantine, international_health_regulations, communicable_diseases, vector_control]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 119
 ---
 
 # [[COMMUNICABLE DISEASES]] > Describe the control and prevention of yellow fever
@@ -91,3 +91,4 @@ Strict international measures are enforced because India is a **[[Yellow Fever R
 *   Quarantine is for **6 days** because the incubation period is **3 to 6 days**.
 
 ---
+**Previous:** [[Yellow fever vaccine]]  **Next:** [[Control of JE]]

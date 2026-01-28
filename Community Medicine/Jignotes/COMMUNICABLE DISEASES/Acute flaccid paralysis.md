@@ -3,7 +3,7 @@ status: pending
 tags: [AcuteFlaccidParalysis, PolioEradication, AFPSurveillance, CommunicableDiseases, PublicHealth, ReverseColdChain, NationalHealthPrograms]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 95
 ---
 
 # [[COMMUNICABLE DISEASES]] > Acute flaccid paralysis
@@ -73,3 +73,4 @@ Differentiation is vital during clinical assessment:
 *   **Outbreak Response:** Even a **single case** of wild polio is considered an outbreak. In the vicinity of an AFP case, **Outbreak Response Immunization (ORI)** is conducted where all children < 5 years (approx. 500 households) receive OPV regardless of immunization status.
 
 ---
+**Previous:** [[BCG vaccine]]  **Next:** [[Vaccine associated paralytic polio]]

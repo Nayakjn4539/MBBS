@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, DataPresentation, Histogram, BarChart, PieChart, ScatterDiagram, JohnSnow, MedicalResearch]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 368
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Statistical data – various methods of presentation
@@ -117,3 +117,4 @@ To remember the graphs for **Quantitative** data:
 *   **S** - Scatter Diagram
 
 ---
+**Previous:** [[Radiation has its short term and long-term side effects]]  **Next:** [[What is sampling Random sampling methods with suitable examples]]

@@ -3,10 +3,10 @@ status: pending
 tags: [OccupationalHealth, Ergonomics, PrePlacementExam, CommunityMedicine, Safety]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 359
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Define Ergonomics. Discuss the importance of preplacement examination with suitable example.
+# [[OCCUPATIONAL HEALTH]] > Define Ergonomics. Discuss the importance of preplacement examination with suitable example
 
 ### Ergonomics
 
@@ -62,3 +62,4 @@ It is medically risky to employ men suffering from certain diseases in specific 
 If a worker with a history of **Epilepsy** is employed as a machine operator or at heights (scaffolding), a seizure during work could be fatal. A pre-placement exam identifies this risk, allowing the worker to be placed in a safer ground-level clerical job instead.
 
 ---
+**Previous:** [[Name the types of occupational hazards. Describe the different medical measures for prevention of oc]]  **Next:** [[Pre-placement examination]]

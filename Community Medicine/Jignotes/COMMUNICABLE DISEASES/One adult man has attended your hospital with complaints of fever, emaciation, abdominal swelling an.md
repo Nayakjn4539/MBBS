@@ -3,7 +3,7 @@ status: pending
 tags: [KalaAzar, Leishmaniasis, CommunicableDiseases, VectorBorneDiseases, PSM, NVBDCP]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 181
 ---
 
 # [[COMMUNICABLE DISEASES]] > One adult man has attended your hospital with complaints of fever, emaciation, abdominal swelling and darkening of skin. He had history of travel to Bihar. What is the most probable diagnosis? How the disease can be treated? What are the preventive and control measures for the disease?
@@ -75,3 +75,6 @@ In India, Kala-azar is **anthroponotic** (man-to-man transmission), so man is th
 *   **D** - **D**DT Spray (Vector control)
 
 ---
+
+---
+**Previous:** [[COVID 19 Vaccines]]  **Next:** [[A 10-year-old boy, scratch by street cat on left leg with oozing of scanty blood. Wound was washed c]]

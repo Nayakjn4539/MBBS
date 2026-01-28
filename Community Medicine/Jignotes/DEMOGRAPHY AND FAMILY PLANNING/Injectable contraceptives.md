@@ -3,10 +3,10 @@ status: pending
 tags: [contraception, familyplanning, DMPA, Antara, publichealth]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 235
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Injectable contraceptives.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Injectable contraceptives
 
 ### Injectable Contraceptives (Depot Formulations)
 
@@ -131,3 +131,4 @@ The side effects are mainly menstrual and metabolic.
 4.  **Counseling:** Patients must be counseled about **amenorrhea** (stopping of periods) so they do not confuse it with pregnancy or accumulation of "bad blood".
 
 ---
+**Previous:** [[In a block of Nadia district CPR is less in comparison to neighbouring blocks. What are the social c]]  **Next:** [[Merits of a joint family]]

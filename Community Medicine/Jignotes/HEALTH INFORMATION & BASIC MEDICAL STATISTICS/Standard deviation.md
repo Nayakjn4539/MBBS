@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, StandardDeviation, NormalDistribution, Variance, StandardError]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 381
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Standard deviation
@@ -69,3 +69,4 @@ To remember the area coverage under the normal curve:
 *   **3** SD covers **99.7%** (Three - Nine - Nine)
 
 ---
+**Previous:** [[Uses of standard deviation]]  **Next:** [[Measures of dispersion]]

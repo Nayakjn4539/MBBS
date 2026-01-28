@@ -3,7 +3,7 @@ status: pending
 tags: [silicosis, occupational_health, pneumoconiosis, prevention_and_control, engineering_measures, medical_measures, factories_act]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 357
 ---
 
 # [[OCCUPATIONAL HEALTH]] > Many cases of silicosis were reported from a Pottery and Ceramic industry. As an Industry Health Officer, what measures will you recommend for prevention and control the problem.
@@ -85,3 +85,6 @@ Workers with silicosis are highly susceptible to [[Pulmonary Tuberculosis]], a c
 > Flowchart showing the hierarchy of controls: Elimination -> Substitution -> Engineering Controls -> Administrative Controls -> PPE
 
 ---
+
+---
+**Previous:** [[Define Factory under Indian Factories Act 1948. Write in brief the provisions recommended in Indian]]  **Next:** [[Name the types of occupational hazards. Describe the different medical measures for prevention of oc]]

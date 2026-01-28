@@ -3,7 +3,7 @@ status: pending
 tags: [HDI, HumanDevelopmentIndex, PublicHealthIndicators, PQLI, SocialMedicine, CommunityMedicine]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 9
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > Human development Index (HDI).
@@ -94,3 +94,4 @@ This is a favorite exam topic. Remember the differences clearly:
 *   **Complementary Index:** The [[Human Poverty Index (HPI)]] is complementary to HDI; while HDI measures progress/development, HPI measures deprivation.
 
 ---
+**Previous:** [[What do you mean by multifactorial causation of disease Describe with suitable examples]]  **Next:** [[Iceberg phenomenon of disease]]

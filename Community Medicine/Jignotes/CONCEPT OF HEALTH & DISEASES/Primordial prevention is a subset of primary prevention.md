@@ -3,10 +3,10 @@ status: pending
 tags: [Primordial_Prevention, Primary_Prevention, Levels_of_Prevention, Pre-pathogenesis, Health_Promotion, Specific_Protection, Risk_Factors]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 19
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Primordial prevention is a subset of primary prevention.
+# [[CONCEPT OF HEALTH & DISEASES]] > Primordial prevention is a subset of primary prevention
 
 ### **Clarification on the Statement**
 
@@ -89,3 +89,4 @@ For chronic diseases (e.g., CHD, Hypertension), primary prevention utilizes two 
 *   **PRI**mary = **PRI**or to Disease (Risk is there, stop the disease).
 
 ---
+**Previous:** [[There are differences between primordial & primary prevention]]  **Next:** [[WHO definition of 'Health' has defect]]

@@ -3,7 +3,7 @@ status: pending
 tags: [MetaZoonosis, Zoonoses, VectorBorneDiseases, CommunicableDiseases, Plague, Arbovirus, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 165
 ---
 
 # [[COMMUNICABLE DISEASES]] > Explain meta – zoonosis with examples
@@ -49,3 +49,4 @@ To remember the definition and examples:
 > Cycle of Meta-zoonosis showing Vertebrate Host -> Invertebrate Vector (Extrinsic Incubation Period) -> Vertebrate Host
 
 ---
+**Previous:** [[Microfilaria rate]]  **Next:** [[Types of zoonosis]]

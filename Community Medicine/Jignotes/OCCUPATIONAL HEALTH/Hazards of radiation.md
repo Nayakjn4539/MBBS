@@ -3,10 +3,10 @@ status: pending
 tags: [radiation_hazards, occupational_health, ionizing_radiation, preventive_medicine, radiology_safety]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 361
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Hazards of radiation.
+# [[OCCUPATIONAL HEALTH]] > Hazards of radiation
 
 # Hazards of Radiation in Occupational Health
 
@@ -113,3 +113,4 @@ The International Commission on Radiological Protection (**ICRP**) sets the Maxi
 > Flowchart showing the interaction of radiation with DNA leading to either cell death (deterministic effect) or mutation/cancer (stochastic effect)
 
 ---
+**Previous:** [[Pre-placement examination]]  **Next:** [[Sickness absenteeism]]

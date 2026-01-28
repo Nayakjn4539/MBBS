@@ -3,10 +3,10 @@ status: pending
 tags: [JuvenileDelinquency, PreventiveMedicine, Pediatrics, SocialMedicine, JuvenileJusticeAct, ChildGuidanceClinic, BorstalSchool, BehavioralDisorders]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 268
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Juvenile delinquency.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Juvenile delinquency
 
 ### Juvenile Delinquency
 
@@ -83,3 +83,4 @@ Institutional care is generally considered a last resort when non-institutional 
     *   **Objective:** To prevent children from becoming neurotics/psychotics/delinquents in later life by adjusting them to their environment.
 
 ---
+**Previous:** [[Geriatrics health problems]]  **Next:** [[PNDT Act]]

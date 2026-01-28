@@ -3,7 +3,7 @@ status: pending
 tags: [Dependency_Ratio, Demographic_Bonus, Demographic_Burden, Sex_Ratio, PCPNDT_Act, Demography, Public_Health]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 228
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > Define 'Dependency ratio'. What is "Demographic burden" and "Demographic Bonus"? Discuss the measures available to prevent declining sex ratio.
@@ -82,3 +82,6 @@ The [[Sex Ratio]] in India (defined as number of females per 1000 males) has his
 > *   **E** - **E**liminate Dowry and Child Marriage.
 
 ---
+
+---
+**Previous:** [[A 25-year-old mother with 2 children aged 5 years and 1 year has come to the OPD for family planning]]  **Next:** [[Describe the modern contraceptive methods approved for use in India. What is the 'Cafeteria Choice']]

@@ -3,10 +3,10 @@ status: pending
 tags: [BiochemicalOxygenDemand, BOD, SewageTreatment, EnvironmentalHealth, WaterPollution, PublicHealth]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 323
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Biochemical oxygen demand.
+# [[ENVIRONMENT & HEALTH]] > Biochemical oxygen demand
 
 ### Biochemical Oxygen Demand (BOD)
 
@@ -56,3 +56,4 @@ To remember the standard test conditions:
 *   **5 Days:** Duration of the test
 
 ---
+**Previous:** [[Indoor air pollution]]  **Next:** [[Sanitation barrier]]

@@ -3,10 +3,10 @@ status: pending
 tags: [preventive_medicine, tertiary_care, medical_college, RHTC, UHTC, national_health_programmes, community_medicine]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 442
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Preventive services offered by your Medical College & Hospital.
+# [[HEALTH CARE OF THE COMMUNITY]] > Preventive services offered by your Medical College & Hospital
 
 ### Preventive Services Offered by Medical College & Hospital
 
@@ -77,3 +77,4 @@ This is a distinct function of a medical college to train interns/PGs and serve 
 > Flowchart showing the link between the Department of Community Medicine in a Medical College and its peripheral RHTC and UHTC units
 
 ---
+**Previous:** [[Principles of Primary Health Care]]  **Next:** [[Central Government Health Scheme]]

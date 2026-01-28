@@ -3,10 +3,10 @@ status: pending
 tags: [Triage, DisasterManagement, EmergencyMedicine, STARTprotocol, MassCasualtyIncident]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 347
 ---
 
-# [[DISASTER MANAGEMENT]] > Triage approach can provide maximum benefits in disaster situation.
+# [[DISASTER MANAGEMENT]] > Triage approach can provide maximum benefits in disaster situation
 
 ### Triage in Disaster Management
 
@@ -60,3 +60,4 @@ Triage is an ongoing process, not a one-time event. It is best carried out at th
 *   **B**lack = **B**locked airway/Breathless (Dead)
 
 ---
+**Previous:** [[Human factor is more important than environmental factor in causing accidents]]  **Next:** [[Discuss the different types of occupational hazards with example. As a safety inspector on a visit t]]

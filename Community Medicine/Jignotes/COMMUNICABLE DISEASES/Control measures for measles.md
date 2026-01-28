@@ -3,7 +3,7 @@ status: pending
 tags: [Measles, Immunization, VitaminA, CommunicableDiseases, PublicHealth, VaccinationSchedule, OutbreakControl]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 86
 ---
 
 # [[COMMUNICABLE DISEASES]] > Control measures for measles
@@ -104,3 +104,4 @@ The WHO strategy for measles elimination involves three components:
 *   **S** - **S**afety (Cold chain maintenance).
 
 ---
+**Previous:** [[Measles vaccination]]  **Next:** [[Congenital Rubella syndrome]]

@@ -3,7 +3,7 @@ status: pending
 tags: [StratifiedSampling, Biostatistics, ResearchMethodology, SamplingTechniques]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 401
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Describe stratified sampling and its purpose
@@ -47,3 +47,4 @@ To remember the concept of Stratified Sampling: **"S-P-L-I-T"**
 *   **T** - **T**hen Randomly select
 
 ---
+**Previous:** [[Formulas for standard error]]  **Next:** [[Define regression & types of regression]]

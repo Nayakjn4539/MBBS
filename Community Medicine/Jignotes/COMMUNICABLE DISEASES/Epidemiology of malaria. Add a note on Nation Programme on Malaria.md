@@ -3,7 +3,7 @@ status: pending
 tags: [malaria, epidemiology, NVBDCP, plasmodium, anopheles, communicable_diseases, public_health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 70
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology of malaria. Add a note on Nation Programme on Malaria
@@ -121,3 +121,4 @@ Under NFME, states are categorized based on API:
 **Cerebral Malaria:** A severe complication of *P. falciparum* infection characterized by unarousable coma, convulsions, and neurological signs. It is a medical emergency requiring parenteral Artemisinin derivatives.
 
 ---
+**Previous:** [[Management of Dengue Haemorrhagic fever]]  **Next:** [[Epidemiology, types, features, mode of transmission of Malaria]]

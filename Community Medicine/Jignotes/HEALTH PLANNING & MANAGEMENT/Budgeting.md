@@ -3,10 +3,10 @@ status: pending
 tags: [HealthEconomics, Budgeting, HealthManagement, ZeroBaseBudgeting, PPBS, HealthPlanning]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 429
 ---
 
-# [[HEALTH PLANNING & MANAGEMENT]] > Budgeting.
+# [[HEALTH PLANNING & MANAGEMENT]] > Budgeting
 
 ### [[Budgeting]] in Health Management
 
@@ -61,3 +61,4 @@ There are specific methods used to allocate resources efficiently in health syst
 > **B** - **B**est justification needed for every rupee
 
 ---
+**Previous:** [[Cost effective and cost benefit analysis in health care]]  **Next:** [[Health education is not a propaganda]]

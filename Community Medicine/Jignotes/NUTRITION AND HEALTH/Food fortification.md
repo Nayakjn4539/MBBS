@@ -3,10 +3,10 @@ status: pending
 tags: [food_fortification, nutrition, public_health, iodized_salt, double_fortified_salt, micronutrients, prevention]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 289
 ---
 
-# [[NUTRITION AND HEALTH]] > Food fortification.
+# [[NUTRITION AND HEALTH]] > Food fortification
 
 ### Definition
 The WHO defines **Food Fortification** as the process whereby nutrients are added to foods (in relatively small quantities) to maintain or improve the quality of the diet of a group, a community, or a population.
@@ -69,3 +69,4 @@ This involves conventional breeding methods, molecular breeding, and genetic eng
 > flow chart showing the journey of salt from production → addition of potassium iodate → packaging → household consumption indicating 30ppm at production and 15ppm at consumption
 
 ---
+**Previous:** [[Enumerate different types of food intoxicants. Suggest measures to control epidemic dropsy in your a]]  **Next:** [[Foods additives]]

@@ -3,7 +3,7 @@ status: pending
 tags: [AEFI, ImmunizationSafety, VaccineProductReaction, ProgrammaticError, ColdChain, PublicHealthManagement]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 196
 ---
 
 # [[COMMUNICABLE DISEASES]] > Cases of adverse events following immunisation (AEFI) are being reported. How are AEFI classified? Describe important health managerial functions needed to address and overcome the problems.
@@ -87,3 +87,6 @@ A [[cluster]] is defined as two or more cases of the same adverse event related 
 *   **Corrective Action:** If a program error is found (e.g., wrong diluent), immediate retraining and logistic correction are required.
 
 ---
+
+---
+**Previous:** [[Mention the modes of transmission of HIV or AIDS, Explain the role of high-risk group and bridge pop]]  **Next:** [[Illustrate how the levels of prevention and modes of intervention can be applied to Poliomyelitis]]

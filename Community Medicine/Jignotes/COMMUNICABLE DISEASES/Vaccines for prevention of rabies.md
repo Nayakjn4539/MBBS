@@ -3,7 +3,7 @@ status: pending
 tags: [Rabies, Vaccines, PEP, PrEP, RIG, CommunityMedicine, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 167
 ---
 
 # [[COMMUNICABLE DISEASES]] > Vaccines for prevention of rabies
@@ -117,3 +117,4 @@ RIG provides immediate antibodies (passive immunity) to neutralize the virus at 
 *   **Re-exposure:** **"Zero-Three is Free"** (Free from danger) $\rightarrow$ **0, 3**.
 
 ---
+**Previous:** [[Types of zoonosis]]  **Next:** [[Aedes aegypti index]]

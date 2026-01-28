@@ -3,10 +3,10 @@ status: pending
 tags: [JointFamily, Sociology, Demography, FamilyHealth, SocialSecurity, CommunityMedicine]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 236
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Merits of a joint family.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Merits of a joint family
 
 ### Merits of a [[Joint Family]]
 
@@ -54,3 +54,4 @@ The **[[Joint Family]]** (or extended family) is a kind of family grouping commo
 *   **Mental Health:** There is a lower incidence of suicide and stress-related disorders in cohesive joint families due to the built-in emotional support system.
 
 ---
+**Previous:** [[Injectable contraceptives]]  **Next:** [[Stages of demographic cycle]]

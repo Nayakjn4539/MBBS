@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, MDT, CommunicableDiseases, Pharmacology, PublicHealth, Prevention, Dapsone, Rifampicin]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 175
 ---
 
 # [[COMMUNICABLE DISEASES]] > Objectives in multi drug therapy in Leprosy
@@ -62,3 +62,4 @@ To remember the three main objectives of MDT:
 *   **Pregnancy:** MDT is considered safe during pregnancy and breastfeeding; stopping it can lead to exacerbation of the disease.
 
 ---
+**Previous:** [[Morphological index]]  **Next:** [[Contact tracing in STDs]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Pasteurization, Milk_Hygiene, Food_Safety, Phosphatase_Test, Nutrition, Public_Health]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 294
 ---
 
-# [[NUTRITION AND HEALTH]] > Pasteurization of milk.
+# [[NUTRITION AND HEALTH]] > Pasteurization of milk
 
 ### Pasteurization of Milk
 
@@ -82,3 +82,4 @@ To ensure the milk has been adequately pasteurized, specific tests are conducted
 *   **Nutrient Preservation:** Unlike boiling, pasteurization preserves Vitamin C and prevents the precipitation of Calcium and Magnesium phosphates (which are lost in the scum during boiling), making it nutritionally superior for infants.
 
 ---
+**Previous:** [[Neurolathyrism]]  **Next:** [[Food safety]]

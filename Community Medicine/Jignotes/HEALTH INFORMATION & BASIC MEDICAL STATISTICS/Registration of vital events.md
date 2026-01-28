@@ -3,7 +3,7 @@ status: pending
 tags: [RegistrationOfVitalEvents, RBDAct1969, SampleRegistrationSystem, SRS, CivilRegistrationSystem, CauseOfDeath, VitalStatistics, CommunityMedicine]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 373
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Registration of vital events
@@ -93,3 +93,4 @@ For statistical accuracy, deaths should be medically certified.
 5.  **Research:** Into etiology and pathogenesis of diseases.
 
 ---
+**Previous:** [[Census]]  **Next:** [[International death certificate]]

@@ -3,7 +3,7 @@ status: pending
 tags: [BiomedicalWaste, WasteManagement, HealthHazards, ColorCoding, Incineration, Autoclaving, UniversalPrecautions, CommunityMedicine]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 330
 ---
 
 # [[HOSPITAL WASTE MANAGEMENT]] > What is biomedical waste? What are the health hazards of improper handling of biomedical waste? Briefly describe the process of disposal from generation site to point of disposal of different categories of biomedical wastes.
@@ -93,3 +93,6 @@ Waste is collected in specific color-coded containers/bags as per the BMW Rules 
 > Flowchart showing the flow of biomedical waste management: Generation -> Segregation (Color Coding) -> Collection -> Transport -> Treatment (Incineration/Autoclave) -> Disposal
 
 ---
+
+---
+**Previous:** [[Name the different types of biomedical wastes generated in your hospital. Write the measures for the]]  **Next:** [[A recent public demonstration has occurred about the disposal of biomedical waste contaminating wate]]

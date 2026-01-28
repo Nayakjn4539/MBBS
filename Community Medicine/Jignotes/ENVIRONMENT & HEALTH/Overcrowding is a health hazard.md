@@ -3,10 +3,10 @@ status: pending
 tags: [overcrowding, housing_standards, environmental_health, communicable_diseases, public_health]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 327
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Overcrowding is a health hazard.
+# [[ENVIRONMENT & HEALTH]] > Overcrowding is a health hazard
 
 ### Overcrowding as a Health Hazard
 
@@ -104,3 +104,4 @@ High [[Morbidity]] and mortality rates (especially infant and maternal mortality
 > create a simple floor plan diagram showing a single room with measurements (e.g., 80 sq ft) and placing 3 adults inside to visually demonstrate the violation of 'Floor Space' and 'Persons per Room' criteria
 
 ---
+**Previous:** [[Integrated vector management is the most effective method of vector control]]  **Next:** [[Sanitation barrier aims at breaking the transmission cycle of faecal borne Diseases]]

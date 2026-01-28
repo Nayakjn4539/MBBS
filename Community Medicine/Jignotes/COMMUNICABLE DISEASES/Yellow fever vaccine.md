@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 118
 ---
 
 # [[COMMUNICABLE DISEASES]] > Yellow fever vaccine
@@ -85,3 +85,4 @@ India is classified as a **[[Yellow Fever Receptive Area]]**.
 tags: #YellowFever #Vaccines #Immunization #TravelMedicine #PublicHealth #CommunicableDiseases #17DStrain #Quarantine
 
 ---
+**Previous:** [[Anti – rabies vaccine]]  **Next:** [[Describe the control and prevention of yellow fever]]

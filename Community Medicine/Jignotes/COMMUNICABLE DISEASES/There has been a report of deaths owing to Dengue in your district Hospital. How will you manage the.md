@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 188
 ---
 
 # [[COMMUNICABLE DISEASES]] > There has been a report of deaths owing to Dengue in your district Hospital. How will you manage the situation & take preventive measures to control the problem? How can dengue be diagnosed?
@@ -104,3 +104,6 @@ The **Critical Phase** (plasma leakage) usually occurs around the time of deferv
 tags: #dengue #communicable_diseases #epidemiology #vector_control #NS1_antigen #DHF #public_health_management
 
 ---
+
+---
+**Previous:** [[What are the cardinal signs of leprosy How will you classify & treat a case of leprosy according to]]  **Next:** [[Vaccination campaign against Measles and Rubella is going to start in a block. Prepare appropriate h]]

@@ -3,7 +3,7 @@ status: pending
 tags: [MPO, Malaria, AnnualParasiteIncidence, CommunityMedicine, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 113
 ---
 
 # [[COMMUNICABLE DISEASES]] > Modified plan of operation for malaria
@@ -80,3 +80,4 @@ Remember **"M-P-O"** for the goals:
 > Flowchart showing the stratification of areas based on API > 2 and API < 2 with respective control measures
 
 ---
+**Previous:** [[Malaria Metric Measures]]  **Next:** [[Elimination of Lymphatic Filariasis]]

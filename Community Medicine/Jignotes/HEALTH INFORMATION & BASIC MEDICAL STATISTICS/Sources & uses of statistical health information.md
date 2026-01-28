@@ -3,7 +3,7 @@ status: pending
 tags: [health_statistics, census, vital_registration, sample_registration_system, SRS, disease_notification, hospital_records, community_medicine]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 371
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Sources & uses of statistical health information
@@ -105,3 +105,4 @@ The requirements vary by administrative level, but the following are the primary
 *(A diagram showing a floating iceberg where the tip represents "Diagnosed/Hospitalized cases" (Hospital Records) and the submerged portion represents "Undiagnosed/Subclinical cases" (Detected via Surveys), emphasizing the limitations of hospital data)*
 
 ---
+**Previous:** [[Chi Square test & Uses]]  **Next:** [[Census]]

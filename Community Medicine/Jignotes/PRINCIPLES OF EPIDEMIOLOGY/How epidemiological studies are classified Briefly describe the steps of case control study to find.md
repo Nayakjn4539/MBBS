@@ -3,7 +3,7 @@ status: pending
 tags: [Epidemiology, CaseControlStudy, StudyDesigns, OddsRatio, PublicHealth]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 22
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > How epidemiological studies are classified? Briefly describe the steps of case control study to find out the association between lung cancer and smoking.
@@ -93,3 +93,6 @@ $$OR = \frac{ad}{bc}$$
 *   **A** - **A**nalysis (Odds Ratio)
 
 ---
+
+---
+**Previous:** [[ASHAs of a sub-centre in 'X' district reported an outbreak of fever with rash cases of under five ch]]  **Next:** [[Write the National Immunization Schedule for under five children. What is cold chain Write dos and d]]

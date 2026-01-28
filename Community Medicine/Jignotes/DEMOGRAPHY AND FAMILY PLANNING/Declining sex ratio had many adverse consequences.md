@@ -3,10 +3,10 @@ status: pending
 tags: [sex_ratio, demography, female_feticide, PC_PNDT_Act, social_pathology, missing_women]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 244
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Declining sex ratio had many adverse consequences.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Declining sex ratio had many adverse consequences
 
 # Declining Sex Ratio and its Adverse Consequences
 
@@ -87,3 +87,4 @@ To understand the consequences, one must briefly acknowledge the causes, often t
 *   **E** - **E**conomic Commodification of women
 
 ---
+**Previous:** [[Census is an important source of health information]]  **Next:** [[Sample registration system provides more reliable estimates of birth and death rates at the national]]

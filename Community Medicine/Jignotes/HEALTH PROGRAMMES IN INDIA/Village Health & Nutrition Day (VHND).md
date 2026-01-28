@@ -3,7 +3,7 @@ status: pending
 tags: [VHND, National_Health_Mission, Maternal_and_Child_Health, Nutrition, Primary_Health_Care, ASHA, ANM, Anganwadi, Immunization]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 222
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > Village Health & Nutrition Day (VHND).
@@ -87,3 +87,4 @@ The services are primarily preventive and promotive, focusing on [[Maternal and 
 > Flowchart showing the convergence of NHM and ICDS at the village level leading to VHND, with ASHA, ANM, and AWW feeding into the system
 
 ---
+**Previous:** [[Janani Shishu Suraksha Karyakram]]  **Next:** [[Integrated vector management]]

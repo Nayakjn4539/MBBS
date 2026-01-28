@@ -3,10 +3,10 @@ status: pending
 tags: [CommunicationProcess, HealthEducation, CommunityMedicine, InterpersonalCommunication, MassMedia]
 subject: Community Medicine
 topic: COMMUNICATION FOR HEALTH EDUCATION
-up: [[COMMUNICATION FOR HEALTH EDUCATION]]
+up: 417
 ---
 
-# [[COMMUNICATION FOR HEALTH EDUCATION]] > Communication Process.
+# [[COMMUNICATION FOR HEALTH EDUCATION]] > Communication Process
 
 ### Definition
 [[Communication]] is a **two-way process** of exchanging or shaping ideas, feelings, and information. It is the basis of human interaction and is essential for effecting behavior change in health education.
@@ -99,3 +99,4 @@ Even with a perfect process, barriers can distort the message:
 *   **Behavioral Change:** To convince a patient to quit smoking, **interpersonal communication** (two-way) is far more effective than simply handing them a pamphlet (one-way).
 
 ---
+**Previous:** [[Barriers of communication]]  **Next:** [[Telemedicine is now an important field in medical communication]]

@@ -3,10 +3,10 @@ status: pending
 tags: [AEFI, Immunization_Safety, Programmatic_Errors, Vaccine_Pharmacovigilance, Public_Health]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 48
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > AEFI include events beyond side effects of vaccines.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > AEFI include events beyond side effects of vaccines
 
 ### **Introduction to AEFI: Beyond Side Effects**
 
@@ -79,3 +79,4 @@ To remember the **5 Categories** of AEFI (**V**accine product, **Q**uality defec
 *   **Public Trust:** Misidentifying a coincidental event (like a SIDS death occurring days after vaccination) as a vaccine side effect can destroy public trust and lead to disease outbreaks (e.g., the Measles resurgence).
 
 ---
+**Previous:** [[Carrier stage of a disease is not amenable to control]]  **Next:** [[Interpretation of false negatives of a screening test]]

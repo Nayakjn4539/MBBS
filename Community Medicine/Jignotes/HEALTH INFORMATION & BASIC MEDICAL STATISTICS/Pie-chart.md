@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, DataPresentation, PieChart, QualitativeData, HealthInformation]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 398
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Pie-chart
@@ -58,3 +58,4 @@ To construct a pie chart, the frequency of each category is converted into a cor
 *   **3.6** = Multiply by **3.6** to get the degrees.
 
 ---
+**Previous:** [[Illustrate with examples the best graph to depict the relationship between 2 variables]]  **Next:** [[Pictogram]]

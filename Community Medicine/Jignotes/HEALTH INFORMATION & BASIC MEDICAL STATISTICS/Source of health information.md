@@ -3,10 +3,10 @@ status: pending
 tags: [health_information_system, census, sample_registration_system, vital_statistics, surveillance, biostatistics, community_medicine]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 407
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Source of health information.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Source of health information
 
 ### Sources of Health Information
 
@@ -109,3 +109,4 @@ Surveys supplement routine statistics by collecting data on parameters not usual
 > Flowchart showing the Dual Record System of SRS: Enumerator (Continuous) + Supervisor (Every 6 months) -> Matching of Data -> Verification of Unmatched Events -> Final Count
 
 ---
+**Previous:** [[What is sampling What are the different types of sampling Describe them briefly with their advantage]]  **Next:** [[Simple random sampling]]

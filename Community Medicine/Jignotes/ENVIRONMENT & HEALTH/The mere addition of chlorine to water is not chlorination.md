@@ -3,10 +3,10 @@ status: pending
 tags: [Chlorination, EnvironmentAndHealth, WaterPurification, BreakpointChlorination, PublicHealth, PreventiveMedicine]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 325
 ---
 
-# [[ENVIRONMENT & HEALTH]] > The mere addition of chlorine to water is not chlorination.
+# [[ENVIRONMENT & HEALTH]] > The mere addition of chlorine to water is not chlorination
 
 # The Principles of Chlorination
 
@@ -80,3 +80,4 @@ Different situations require different levels of Free Residual Chlorine (FRC) af
 *   **Re-contamination:** The presence of *Free Residual Chlorine* is the only safeguard against cross-contamination (e.g., leaky pipes, suction) during the distribution of water.
 
 ---
+**Previous:** [[Sanitation barrier]]  **Next:** [[Integrated vector management is the most effective method of vector control]]

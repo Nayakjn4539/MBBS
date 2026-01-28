@@ -3,10 +3,10 @@ status: pending
 tags: [Acculturation, Social_Medicine, Sociology_in_Health, Migrant_Studies, Lifestyle_Diseases]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 241
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Acculturation has both merits & demerits.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Acculturation has both merits & demerits
 
 # Acculturation (Culture Contact)
 
@@ -74,3 +74,4 @@ To remember the effects of Acculturation, think of **"TRADE"**:
 *   **E** - **E**ducation & Hygiene (Merit)
 
 ---
+**Previous:** [[Unmet need for family planning]]  **Next:** [[Demographic transition has a role in economic growth of nation]]

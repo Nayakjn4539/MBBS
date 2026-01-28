@@ -3,7 +3,7 @@ status: pending
 tags: [primary_prevention, diarrheal_diseases, sanitation_barrier, rotavirus_vaccine, breastfeeding, hand_washing, vitamin_A, communicable_diseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 104
 ---
 
 # [[COMMUNICABLE DISEASES]] > Primary prevention in Diarrheal diseases
@@ -86,3 +86,4 @@ These are targeted interventions to prevent specific diseases.
 *   **S**anitation Barrier
 
 ---
+**Previous:** [[Oral Rehydration Therapy]]  **Next:** [[Detection of typhoid carrier]]

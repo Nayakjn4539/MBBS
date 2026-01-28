@@ -3,10 +3,10 @@ status: pending
 tags: [HomeBasedNewbornCare, ASHA, NeonatalMortality, IMNCI, KangarooMotherCare, Breastfeeding, PublicHealth]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 273
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Home based neonatal care is an essential intervention in preventing neonatal death.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Home based neonatal care is an essential intervention in preventing neonatal death
 
 ### Home Based Newborn Care (HBNC)
 
@@ -87,3 +87,4 @@ HBNC has been extended as **[[HBYC]]** to ensure continued survival and developm
 *   **Danger Signs:** ASHA uses the "7 Danger Signs" of [[IMNCI]] (e.g., stopped feeding well, convulsions, fast breathing >60/min, severe chest indrawing) to determine the need for urgent referral.
 
 ---
+**Previous:** [[Kangaroo care]]  **Next:** [[Breast milk is ideal & only food for infants till 6 months of age]]

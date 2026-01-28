@@ -3,7 +3,7 @@ status: pending
 tags: [ContactTracing, CommunicableDiseases, Epidemiology, STDs, Tuberculosis, Surveillance, PublicHealth, Chemoprophylaxis, Quarantine, SecondaryAttackRate]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 138
 ---
 
 # [[COMMUNICABLE DISEASES]] > Contact tracing
@@ -87,3 +87,4 @@ Contact tracing is one of the **best methods** for controlling the spread of STD
 *   **[[Herd Immunity]]:** By identifying and vaccinating contacts (Ring Immunization), a buffer of immune individuals is created, protecting the wider community.
 
 ---
+**Previous:** [[Syndromic approach in sexually transmitted diseases]]  **Next:** [[Window period]]

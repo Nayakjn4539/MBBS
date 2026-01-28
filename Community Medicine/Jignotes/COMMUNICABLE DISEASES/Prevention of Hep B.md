@@ -3,7 +3,7 @@ status: pending
 tags: [HepatitisB, Vaccination, PublicHealth, CommunicableDiseases, ImmunizationSchedule, PostExposureProphylaxis, HBIG, ColdChain]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 100
 ---
 
 # [[COMMUNICABLE DISEASES]] > Prevention of Hep B
@@ -105,3 +105,4 @@ If a healthcare worker (HCW) is exposed to HBsAg positive blood:
 *   **E**ducation (Health awareness)
 
 ---
+**Previous:** [[National Intensified Pulse Polio Immunisation Programme]]  **Next:** [[Cultural factors in diarrheal disease]]

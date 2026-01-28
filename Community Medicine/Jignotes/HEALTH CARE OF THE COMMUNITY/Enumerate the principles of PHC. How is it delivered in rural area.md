@@ -3,10 +3,10 @@ status: pending
 tags: [Primary_Health_Care, Rural_Health_Infrastructure, ASHA, Sub_Centre, PHC, CHC, First_Referral_Unit, Community_Medicine]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 440
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Enumerate the principles of PHC. How is it delivered in rural area?
+# [[HEALTH CARE OF THE COMMUNITY]] > Enumerate the principles of PHC. How is it delivered in rural area
 
 ### Principles of Primary Health Care (PHC)
 
@@ -97,3 +97,4 @@ Before the official 3-tier system, health care is provided at the doorstep by:
 | **Secondary** | CHC | 1,20,000 | 80,000 | First Referral Unit |
 
 ---
+**Previous:** [[Discuss the three-tier system of Health Care Delivery of your state. What are the reforms made to gi]]  **Next:** [[Principles of Primary Health Care]]

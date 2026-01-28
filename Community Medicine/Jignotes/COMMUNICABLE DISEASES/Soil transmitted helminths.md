@@ -3,7 +3,7 @@ status: pending
 tags: [SoilTransmittedHelminths, Hookworm, Ascariasis, NationalDewormingDay, Albendazole, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 107
 ---
 
 # [[COMMUNICABLE DISEASES]] > Soil transmitted helminths
@@ -110,3 +110,4 @@ A flagship initiative under the Ministry of Health & Family Welfare, Government 
 *   **Cutaneous Larva Migrans:** A skin disease caused by the larvae of animal hookworms (*Ancylostoma braziliense*) wandering in human skin.
 
 ---
+**Previous:** [[Food poisoning – Investigations]]  **Next:** [[Dengue fever]]

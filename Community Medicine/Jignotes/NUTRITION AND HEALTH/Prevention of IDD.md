@@ -3,10 +3,10 @@ status: pending
 tags: [IDD, IodizedSalt, NIDDCP, PublicHealthNutrition, PreventiveMedicine]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 291
 ---
 
-# [[NUTRITION AND HEALTH]] > Prevention of IDD.
+# [[NUTRITION AND HEALTH]] > Prevention of IDD
 
 # Prevention of Iodine Deficiency Disorders (IDD)
 
@@ -97,3 +97,4 @@ To remember the **Components of IDD Prevention Strategy**: **"SALT"**
 *   **T** - **T**argeted Supply (Universal Iodized Salt - 30/15 ppm)
 
 ---
+**Previous:** [[Foods additives]]  **Next:** [[Endemic fluorosis]]

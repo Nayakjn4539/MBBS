@@ -3,7 +3,7 @@ status: pending
 tags: [Maternal_Mortality_Ratio, Maternal_Mortality_Rate, Infant_Mortality_Rate, Social_Obstetrics, Preventive_Paediatrics, Child_Survival]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 262
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Define Maternal mortality ratio and maternal mortality rate. Describe the important cultural and social factor affecting infant mortality.
@@ -83,3 +83,6 @@ Infant Mortality Rate ([[IMR]]) is a sensitive indicator of the socioeconomic de
 > Flowchart showing the vicious cycle of poverty, ignorance, early marriage, and high infant mortality
 
 ---
+
+---
+**Previous:** [[Define Low Birth Weight . What is its prevalence in India and the target to achieve What measures wo]]  **Next:** [[Prepare an action plan to conduct an IEC campaign in your block to reduce anaemia among pregnant wom]]

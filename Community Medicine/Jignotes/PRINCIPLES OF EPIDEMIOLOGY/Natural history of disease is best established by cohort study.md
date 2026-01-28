@@ -3,10 +3,10 @@ status: pending
 tags: [NaturalHistoryOfDisease, CohortStudy, Epidemiology, StudyDesigns, Incidence]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 40
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Natural history of disease is best established by cohort study.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Natural history of disease is best established by cohort study
 
 ### Natural History of Disease and Cohort Studies
 
@@ -62,3 +62,4 @@ To remember why Cohort studies are best for Natural History:
 *   **T** - **T**ime sequence established (Best for Natural History)
 
 ---
+**Previous:** [[Pneumococcal conjugate vaccine has been introduced into NIS]]  **Next:** [[Pulse polio program is still going on]]

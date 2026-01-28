@@ -3,7 +3,7 @@ status: pending
 tags: [FamilyPlanning, Contraception, CafeteriaChoice, RuralHealthDelivery, ASHA, NationalHealthMission, PSM]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 229
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > Describe the modern contraceptive methods approved for use in India. What is the 'Cafeteria Choice'? How are the contraceptive services delivered to the community in a rural area?
@@ -90,3 +90,6 @@ The delivery system in rural India operates through a tiered infrastructure unde
 *   **Camp Approach:** Periodic sterilization camps are organized in areas where static facilities are insufficient.
 
 ---
+
+---
+**Previous:** [[Define 'Dependency ratio'. What is Demographic burden and Demographic Bonus Discuss the measures ava]]  **Next:** [[In a Block in W.B, Couple Protection rate is much less as compared to neighbouring blocks. What meas]]

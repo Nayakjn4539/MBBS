@@ -3,10 +3,10 @@ status: pending
 tags: [InternationalHealth, WHO, PandemicControl, IHR2005, DiseaseSurveillance, PublicHealth]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 465
 ---
 
-# [[INTERNATIONAL HEALTH]] > International organisations have many roles to play in control of pandemic.
+# [[INTERNATIONAL HEALTH]] > International organisations have many roles to play in control of pandemic
 
 # Role of International Organizations in Pandemic Control
 
@@ -85,3 +85,4 @@ During the **COVID-19 pandemic**, the necessity of international organizations w
 > Flowchart showing the notification pathway from a Local Health Unit -> National Health Authority -> WHO under IHR (2005)
 
 ---
+**Previous:** [[Nothing on earth is more international than disease]]  **Next:** [[Functions of WHO]]

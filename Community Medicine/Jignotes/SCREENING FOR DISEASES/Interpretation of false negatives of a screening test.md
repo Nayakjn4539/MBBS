@@ -3,10 +3,10 @@ status: pending
 tags: [False_Negative, Screening, Sensitivity, Type_II_Error, Community_Medicine, Epidemiology, Biostatistics]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 49
 ---
 
-# [[SCREENING FOR DISEASES]] > Interpretation of false negatives of a screening test.
+# [[SCREENING FOR DISEASES]] > Interpretation of false negatives of a screening test
 
 ### Interpretation of False Negatives in a Screening Test
 
@@ -59,3 +59,4 @@ To remember the dangers of a **False Negative**, think of a **MISS**:
 *   **S** - **S**ensitivity is Low (Low sensitivity = High False Negatives)
 
 ---
+**Previous:** [[AEFI include events beyond side effects of vaccines]]  **Next:** [[Multiphasic screening]]

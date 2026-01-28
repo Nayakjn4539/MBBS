@@ -3,10 +3,10 @@ status: pending
 tags: [AIDS, HIV, Behavioural_Disease, NACO, High_Risk_Groups, Health_Education, Epidemiology, STDs]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 203
 ---
 
-# [[COMMUNICABLE DISEASES]] > AIDS is a behavioural disease.
+# [[COMMUNICABLE DISEASES]] > AIDS is a behavioural disease
 
 ### AIDS: A Behavioural Disease
 
@@ -72,3 +72,4 @@ Epidemiology classifies populations based on their behavioral risk patterns:
 *   **P**ast History of STDs.
 
 ---
+**Previous:** [[Isolation & quarantine are not synonymous]]  **Next:** [[Rehabilitation is an integral part of leprosy control]]

@@ -3,7 +3,7 @@ status: pending
 tags: [Aedes_aegypti, Entomological_Indices, Yellow_Fever, Dengue, Public_Health_Surveillance, International_Health_Regulations, Breteau_Index, House_Index, Container_Index, Vector_Control]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 168
 ---
 
 # [[COMMUNICABLE DISEASES]] > Aedes aegypti index
@@ -62,3 +62,4 @@ To remember the three indices and their denominators:
 *"**H**arry lives in a **H**ouse (**H**ouse index). **C**harlie lives in a **C**ontainer (**C**ontainer Index). But **B**reteau is a **B**east who puts **C**ontainers in everyone's **H**ouse (**B**reteau = **C**ontainers / **H**ouse)."*
 
 ---
+**Previous:** [[Vaccines for prevention of rabies]]  **Next:** [[JE Vaccine]]

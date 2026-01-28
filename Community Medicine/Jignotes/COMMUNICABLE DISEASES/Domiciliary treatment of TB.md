@@ -3,7 +3,7 @@ status: pending
 tags: [tuberculosis, domiciliary_treatment, DOTS, community_medicine, communicable_diseases, RNTCP, NTEP]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 93
 ---
 
 # [[COMMUNICABLE DISEASES]] > Domiciliary treatment of TB
@@ -69,3 +69,4 @@ Modern domiciliary treatment is implemented through the **[[DOTS]]** strategy (D
 This strategy ensures the advantages of domiciliary care while mitigating the risk of non-compliance.
 
 ---
+**Previous:** [[DOTS]]  **Next:** [[BCG vaccine]]

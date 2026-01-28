@@ -3,7 +3,7 @@ status: pending
 tags: [HealthIndicators, Morbidity, InfantMortalityRate, CaseFatalityRate, Epidemiology, PublicHealth]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 4
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > What are the characteristics of an ideal indicator? Enumerate the morbidity indicators. Briefly describe the Infant mortality rate and case fatality rate.
@@ -79,3 +79,6 @@ The [[Case Fatality Rate]] represents the killing power of a disease.,
 > CFR is vital for evaluating the efficacy of new treatments. For example, the CFR of a disease may drop significantly after the introduction of a new drug or therapy, even if the incidence remains the same.
 
 ---
+
+---
+**Previous:** [[Define Health. Enumerate the various indicators of Health. What is Health for All]]  **Next:** [[Enumerate the levels of prevention & modes of intervention in each level. Discuss the level of preve]]

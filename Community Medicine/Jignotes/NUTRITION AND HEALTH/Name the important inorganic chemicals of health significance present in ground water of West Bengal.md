@@ -3,7 +3,7 @@ status: pending
 tags: [Arsenicosis, GroundwaterContamination, WestBengalHealth, EnvironmentalHealth, PublicHealth, InorganicChemicals]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 282
 ---
 
 # [[NUTRITION AND HEALTH]] > Name the important inorganic chemicals of health significance present in ground water of West Bengal. Describe in brief the health effects & control measures of anyone.
@@ -69,3 +69,6 @@ To remember the features of Chronic Arsenic Poisoning: **"RAINS"**
 > Map of West Bengal highlighting Arsenic affected districts
 
 ---
+
+---
+**Previous:** [[Mention the causes and detrimental effects of nutritional anaemia. Describe the measures undertaken]]  **Next:** [[Enlist the disorders caused by iodine deficiency. What are the strategies to control iodine deficien]]

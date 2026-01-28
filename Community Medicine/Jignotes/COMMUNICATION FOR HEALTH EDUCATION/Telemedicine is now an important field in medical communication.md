@@ -3,10 +3,10 @@ status: pending
 tags: [Telemedicine, HealthCommunication, eHealth, PublicHealth, MedicalEducation, DigitalHealth]
 subject: Community Medicine
 topic: COMMUNICATION FOR HEALTH EDUCATION
-up: [[COMMUNICATION FOR HEALTH EDUCATION]]
+up: 418
 ---
 
-# [[COMMUNICATION FOR HEALTH EDUCATION]] > Telemedicine is now an important field in medical communication.
+# [[COMMUNICATION FOR HEALTH EDUCATION]] > Telemedicine is now an important field in medical communication
 
 ### **Telemedicine in Medical Communication**
 
@@ -74,3 +74,4 @@ Recent digital health initiatives have boosted telemedicine:
 *   **m-Health apps:** Such as **mDiabetes** (diabetes awareness) and **mCessation** (tobacco quitting support).
 
 ---
+**Previous:** [[Communication Process]]  **Next:** [[Interpersonal communication is better than mass media for advocacy purpose]]

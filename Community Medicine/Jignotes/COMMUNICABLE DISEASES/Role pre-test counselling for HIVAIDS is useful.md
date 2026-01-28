@@ -3,10 +3,10 @@ status: pending
 tags: [HIV, AIDS, Counselling, NACP, PreventiveMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 210
 ---
 
-# [[COMMUNICABLE DISEASES]] > Role pre-test counselling for HIV/AIDS is useful.
+# [[COMMUNICABLE DISEASES]] > Role pre-test counselling for HIVAIDS is useful
 
 ### Role and Usefulness of Pre-test Counselling for HIV/AIDS
 
@@ -60,3 +60,4 @@ To remember the components of Pre-test Counselling: **C-RAWL**
 *   **L** - **L**ife Implications (of results)
 
 ---
+**Previous:** [[Vitamin A supplementation is necessary after Measles infection]]  **Next:** [[Role of IPV in polio eradication]]

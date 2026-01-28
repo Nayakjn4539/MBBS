@@ -3,10 +3,10 @@ status: pending
 tags: [BirthPreparedness, ComplicationReadiness, MaternalHealth, RCH, ASHA, MaternalMortality, AntenatalCare, ThreeDelaysModel]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 264
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Birth preparedness and complication readiness.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Birth preparedness and complication readiness
 
 ### Birth Preparedness and Complication Readiness (BPCR)
 
@@ -72,3 +72,4 @@ To support BPCR, the Government of India has launched specific schemes:
 > Flowchart showing the 'Three Delays' model and how BPCR interventions (Transport, Funds, Decision making) intersect to prevent maternal mortality
 
 ---
+**Previous:** [[Prepare an action plan to conduct an IEC campaign in your block to reduce anaemia among pregnant wom]]  **Next:** [[IMR current scenario in India]]

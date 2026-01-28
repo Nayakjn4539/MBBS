@@ -3,10 +3,10 @@ status: pending
 tags: [DemographicCycle, IndiaDemography, LateExpandingStage, BirthRate, DeathRate, DemographicDividend]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 248
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > India is in the third stage of the demographic cycle.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > India is in the third stage of the demographic cycle
 
 ### India and the Demographic Cycle
 
@@ -44,3 +44,4 @@ This stage is characterized by the following features regarding vital rates:
 | **V** | **Declining** | Very Low | Low (BR < DR) | Declining | Germany, Hungary |
 
 ---
+**Previous:** [[Family performs many functions]]  **Next:** [[NRR may be regarded superior method to GRR for measuring population growth]]

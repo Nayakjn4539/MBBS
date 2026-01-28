@@ -3,10 +3,10 @@ status: pending
 tags: [primaryhealthcare, almata, communitymedicine, healthprinciples, equitabledistribution, communityparticipation]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 441
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Principles of Primary Health Care.
+# [[HEALTH CARE OF THE COMMUNITY]] > Principles of Primary Health Care
 
 # Principles of Primary Health Care
 
@@ -81,3 +81,4 @@ Health is not an isolated sector; it is influenced by various other factors.
 > Flowchart showing the 4 Pillars supporting the roof of "Health For All"
 
 ---
+**Previous:** [[Enumerate the principles of PHC. How is it delivered in rural area]]  **Next:** [[Preventive services offered by your Medical College & Hospital]]

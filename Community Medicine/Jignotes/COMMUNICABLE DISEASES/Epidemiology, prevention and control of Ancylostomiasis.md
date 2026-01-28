@@ -3,7 +3,7 @@ status: pending
 tags: [Ancylostomiasis, Hookworm, CommunicableDiseases, PublicHealth, ChandlersIndex, Albendazole, Anaemia]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 66
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology, prevention and control of Ancylostomiasis
@@ -122,3 +122,4 @@ Periodic case finding and treatment reduce the worm burden and transmission.
 *   Like the 300 Spartans were important warriors, **>300** eggs/gm is an **Important** public health problem.
 
 ---
+**Previous:** [[Epidemiology and prevention of Typhoid fever]]  **Next:** [[Epidemiology of hookworm infection, prevention and its control measures]]

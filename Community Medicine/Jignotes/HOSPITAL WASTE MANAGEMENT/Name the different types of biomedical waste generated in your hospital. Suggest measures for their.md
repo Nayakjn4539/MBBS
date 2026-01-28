@@ -3,7 +3,7 @@ status: pending
 tags: [Biomedical_Waste_Management, Infection_Control, Hospital_Waste, Incineration, Segregation]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 332
 ---
 
 # [[HOSPITAL WASTE MANAGEMENT]] > Name the different types of biomedical waste generated in your hospital. Suggest measures for their disposal as per National and State Level rules. What is the importance of waste tracking?
@@ -67,3 +67,6 @@ Waste tracking is a crucial component of the "Cradle to Grave" management approa
 5.  **Monitoring:** Modern guidelines suggest the use of **Bar-coding** systems to track waste bags electronically to prevent pilferage and ensure proper treatment at Common Biomedical Waste Treatment Facilities (CBWTF).
 
 ---
+
+---
+**Previous:** [[A recent public demonstration has occurred about the disposal of biomedical waste contaminating wate]]  **Next:** [[Principles of Biomedical Waste management]]

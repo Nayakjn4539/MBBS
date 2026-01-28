@@ -3,10 +3,10 @@ status: pending
 tags: [VitaminA, Xerophthalmia, BitotSpots, Keratomalacia, Nutrition, PublicHealth, Ophthalmology]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 301
 ---
 
-# [[NUTRITION AND HEALTH]] > Vitamin A deficiency is related to many ocular & extra ocular manifestations.
+# [[NUTRITION AND HEALTH]] > Vitamin A deficiency is related to many ocular & extra ocular manifestations
 
 ### Vitamin A Deficiency Manifestations
 
@@ -109,3 +109,4 @@ Vitamin A is essential for epithelial integrity and immunity. Deficiency leads t
 *   **Prevention:** Under the National Programme, a massive dose of Vitamin A (100,000 IU for <1yr; 200,000 IU for >1yr) is given prophylactically every 6 months to prevent nutritional blindness.
 
 ---
+**Previous:** [[Iodisation of salt is a good example of food fortification]]  **Next:** [[Combining rice and pulse in diet is a good practice]]

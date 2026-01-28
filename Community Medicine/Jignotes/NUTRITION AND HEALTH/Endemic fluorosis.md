@@ -3,10 +3,10 @@ status: pending
 tags: [EndemicFluorosis, NalgondaTechnique, DentalFluorosis, SkeletalFluorosis, WaterQuality, PublicHealth]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 292
 ---
 
-# [[NUTRITION AND HEALTH]] > Endemic fluorosis.
+# [[NUTRITION AND HEALTH]] > Endemic fluorosis
 
 ### **Endemic Fluorosis**
 
@@ -113,3 +113,4 @@ Removal of excess fluoride from water.
 *   **Differential Diagnosis:** Dental fluorosis must be differentiated from enamel hypoplasia due to nutritional deficiencies. Fluorosis is usually generalized, while hypoplasia is localized.,,,,,,
 
 ---
+**Previous:** [[Prevention of IDD]]  **Next:** [[Neurolathyrism]]

@@ -3,7 +3,7 @@ status: pending
 tags: [diphtheria, communicable_diseases, DPT_vaccine, epidemiology, disease_control]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 145
 ---
 
 # [[COMMUNICABLE DISEASES]] > Discuss resurgence of diphtheria disease and its control
@@ -96,3 +96,4 @@ The only effective method for long-term control is **[[Active Immunization]]**.
 *   **D** - **D**isinfection (Concurrent) / **D**PT Vaccine (Prevention)
 
 ---
+**Previous:** [[Universal precautions to prevent HIV]]  **Next:** [[Amoebiasis]]

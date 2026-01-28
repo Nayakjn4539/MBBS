@@ -3,7 +3,7 @@ status: pending
 tags: [FilarialIndices, MicrofilariaRate, EndemicityRate, PublicHealth, CommunicableDiseases, Entomology, NVBDCP]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 115
 ---
 
 # [[COMMUNICABLE DISEASES]] > Filarial indices
@@ -81,3 +81,4 @@ To remember the 4 main Parasitological Indices: **"M-E-D-A"**
 > Flowchart showing the calculation of MF Rate and Endemicity Rate based on survey data would be useful here
 
 ---
+**Previous:** [[Elimination of Lymphatic Filariasis]]  **Next:** [[Current strategy of filaria control]]

@@ -3,7 +3,7 @@ status: pending
 tags: [CommunicableDiseases, Diarrhea, CultureAndHealth, Sanitation, PublicHealth, SocialMedicine, Epidemiology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 101
 ---
 
 # [[COMMUNICABLE DISEASES]] > Cultural factors in diarrheal disease
@@ -74,3 +74,4 @@ To remember the cultural factors favoring Diarrhea:
 3.  **Health Education:** Control programs must focus on **IEC** (Information, Education, Communication) to change behavior regarding hand washing and excreta disposal rather than just providing infrastructure.
 
 ---
+**Previous:** [[Prevention of Hep B]]  **Next:** [[Guidelines for assessing dehydration following diarrhoea]]

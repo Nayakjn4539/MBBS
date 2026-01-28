@@ -3,10 +3,10 @@ status: pending
 tags: [HealthyLifestyle, HealthPromotion, PrimordialPrevention, NonCommunicableDiseases, RiskFactors, PublicHealth, PreventiveMedicine]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 13
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Healthy lifestyles.
+# [[CONCEPT OF HEALTH & DISEASES]] > Healthy lifestyles
 
 # Healthy Lifestyles
 
@@ -80,3 +80,4 @@ Many modern diseases are termed "Lifestyle Diseases" or "Man-made diseases" beca
 *   **S** - **S**anitation (Personal Hygiene)
 
 ---
+**Previous:** [[DALY]]  **Next:** [[Cost effectiveness analysis in health]]

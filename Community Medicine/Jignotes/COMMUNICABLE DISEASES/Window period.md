@@ -3,7 +3,7 @@ status: pending
 tags: [window_period, HIV, Hepatitis_B, communicable_diseases, seroconversion, diagnostic_tests, blood_safety, public_health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 139
 ---
 
 # [[COMMUNICABLE DISEASES]] > Window period
@@ -51,3 +51,4 @@ Since antibodies are absent, we must look for the **organism** itself or its com
 *   **W**eeks (Duration varies)
 
 ---
+**Previous:** [[Contact tracing]]  **Next:** [[Opportunistic infections in AIDS]]

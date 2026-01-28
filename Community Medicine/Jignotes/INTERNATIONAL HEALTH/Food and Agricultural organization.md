@@ -3,7 +3,7 @@ status: pending
 tags: [FAO, InternationalHealth, Nutrition, PublicHealthAgencies, CodexAlimentarius, UnitedNations, FoodSecurity]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 470
 ---
 
 # [[INTERNATIONAL HEALTH]] > Food and Agricultural organization
@@ -65,3 +65,4 @@ FAO works in close collaboration with the [[World Health Organization]] on matte
 *   **Nutritional Status:** By improving food production and distribution, FAO directly impacts the prevalence of **[[Protein Energy Malnutrition]]** and micronutrient deficiencies.
 
 ---
+**Previous:** [[UNICEF]]  **Next:** [[Voluntary health agencies in India]]

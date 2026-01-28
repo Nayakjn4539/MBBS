@@ -3,7 +3,7 @@ status: pending
 tags: [biomedical_waste, hospital_waste_management, incineration, color_coding, health_hazards, environmental_health]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 329
 ---
 
 # [[HOSPITAL WASTE MANAGEMENT]] > Name the different types of biomedical wastes generated in your hospital. Write the measures for their disposal as per national guidelines.
@@ -72,3 +72,6 @@ Effective management requires segregation at the point of generation into color-
 > Flowchart depicting the segregation of biomedical waste into Yellow, Red, White, and Blue bins at the point of generation
 
 ---
+
+---
+**Previous:** [[Sanitation barrier aims at breaking the transmission cycle of faecal borne Diseases]]  **Next:** [[What is biomedical waste What are the health hazards of improper handling of biomedical waste Briefl]]

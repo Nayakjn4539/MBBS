@@ -3,10 +3,10 @@ status: pending
 tags: [ESI_Act, Social_Security, Occupational_Health, Medical_Benefits, Sickness_Benefit, Maternity_Benefit, Community_Medicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 353
 ---
 
-# [[OCCUPATIONAL HEALTH]] > What are the eligibility criteria for enrolment in ESI Scheme? Describe the benefits under ESI Scheme.
+# [[OCCUPATIONAL HEALTH]] > What are the eligibility criteria for enrolment in ESI Scheme Describe the benefits under ESI Scheme
 
 ### Employees' State Insurance (ESI) Scheme
 
@@ -106,3 +106,4 @@ Provided for injuries arising out of employment (including occupational diseases
 Doctors working in industrial areas must be aware of [[Occupational Diseases]] covered under the ESI Act to issue proper certification, ensuring patients receive the **Extended Sickness Benefit** or **Disablement Benefit** they are entitled to.
 
 ---
+**Previous:** [[Define social security. Mention different benefits available for the industrial worker under ESI Act]]  **Next:** [[In an accident in a factory, a male worker lost his left lower limb below thigh. Enumerate the benef]]

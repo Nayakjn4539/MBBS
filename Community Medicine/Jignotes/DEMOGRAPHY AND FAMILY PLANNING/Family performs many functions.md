@@ -3,10 +3,10 @@ status: pending
 tags: [Family, Socialization, PrimaryHealthCare, Demography, SocialMedicine, CommunityHealth]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 247
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Family performs many functions.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Family performs many functions
 
 The [[Family]] is the basic unit of society and acts as a focal point of health care. It is defined as a group of biologically related individuals living together and eating from a common kitchen. The family functions as a biological, social, cultural, and epidemiological unit.
 
@@ -109,3 +109,4 @@ From a medical perspective, the family performs specific functions related to he
 *   **Epidemiological Unit:** The family is the unit of study for communicable diseases (e.g., Tuberculosis) and genetic disorders.
 
 ---
+**Previous:** [[Family as a unit of health]]  **Next:** [[India is in the third stage of the demographic cycle]]

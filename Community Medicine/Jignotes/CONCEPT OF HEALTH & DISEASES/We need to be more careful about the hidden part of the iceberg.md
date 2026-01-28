@@ -3,10 +3,10 @@ status: pending
 tags: [IcebergPhenomenon, PublicHealth, Screening, Epidemiology, Carriers, Hypertension, SubclinicalCases]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 16
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > We need to be more careful about the hidden part of the iceberg.
+# [[CONCEPT OF HEALTH & DISEASES]] > We need to be more careful about the hidden part of the iceberg
 
 ### **The Iceberg Phenomenon of Disease**
 
@@ -81,3 +81,4 @@ Not all diseases show the Iceberg Phenomenon. In these diseases, the "submerged"
     *   **Submerged:** Addressed by **Primary Prevention** (Vaccination/Education) and **Secondary Prevention** (Early diagnosis via screening).
 
 ---
+**Previous:** [[Community diagnosis is the first step towards community health action]]  **Next:** [[Goals and Objectives are not synonymous]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Biostatistics, CentralTendency, MedianVsMean, DataAnalysis, MedicalStatistics]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 411
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > For small samples, median is a better measure of central tendency than mean.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > For small samples, median is a better measure of central tendency than mean
 
 ### **Why Median is Superior to Mean in Small Samples**
 
@@ -61,3 +61,4 @@ In medical practice, the Median is the preferred measure for:
 **"The Mean is MEAN (nasty) because it gets pulled around by bullies (outliers). The Median is the MEDIATOR—it stays calm in the middle."**
 
 ---
+**Previous:** [[Graphical representation of statistical data]]  **Next:** [[The census is an important tool of health information]]

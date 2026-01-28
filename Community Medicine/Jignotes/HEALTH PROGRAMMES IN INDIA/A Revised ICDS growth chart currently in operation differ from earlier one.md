@@ -3,10 +3,10 @@ status: pending
 tags: [ICDS, GrowthChart, WHOStandards, Malnutrition, ChildHealth, CommunityMedicine, NRHM, PreventivePediatrics, Zscores]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 225
 ---
 
-# [[HEALTH PROGRAMMES IN INDIA]] > A Revised ICDS growth chart currently in operation differ from earlier one.
+# [[HEALTH PROGRAMMES IN INDIA]] > A Revised ICDS growth chart currently in operation differ from earlier one
 
 ### Revised ICDS Growth Chart vs. Earlier Growth Chart
 
@@ -61,3 +61,4 @@ The earlier standards (Harvard/NCHS) were found to be less applicable to Indian 
 *   **E**xclusive breastfeeding support
 
 ---
+**Previous:** [[ICTC should be supported by ARTlink ART Centre]]  **Next:** [[ASHA links health care delivery with community]]

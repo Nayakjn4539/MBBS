@@ -3,10 +3,10 @@ status: pending
 tags: [PrimaryHealthCare, EquitableDistribution, HealthEquity, CommunityMedicine, PrinciplesOfPHC]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 446
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Equitable distribution of health services is an important principle of primary health care.
+# [[HEALTH CARE OF THE COMMUNITY]] > Equitable distribution of health services is an important principle of primary health care
 
 ### Equitable Distribution in Primary Health Care
 
@@ -55,3 +55,4 @@ To remember where **Equitable Distribution** fits in, recall the **4 Pillars** o
 *   **A** - **A**ppropriate Technology
 
 ---
+**Previous:** [[Voluntary Health Agency]]  **Next:** [[Community participation is essential for Success of public health programme]]

@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, NLEP, MDT, Mycobacterium_leprae, CommunicableDiseases, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 78
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology, prevention of leprosy. National Leprosy Eradication Programme
@@ -126,3 +126,4 @@ Launched in **1983** (renamed from National Leprosy Control Programme of 1955).
 *   **Operational:** Cure rate, Treatment completion rate.
 
 ---
+**Previous:** [[Epidemiology of tetanus]]  **Next:** [[Common disabilities seen in case of Leprosy. Various disabilities limiting and rehabilitate measures]]

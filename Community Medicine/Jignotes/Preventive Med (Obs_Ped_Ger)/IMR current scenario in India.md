@@ -3,10 +3,10 @@ status: pending
 tags: [IMR, InfantMortalityRate, PreventivePediatrics, MCH_Indicators, PublicHealthStatistics, NationalHealthMission]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 265
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > IMR current scenario in India.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > IMR current scenario in India
 
 ### Infant Mortality Rate (IMR): Current Scenario in India
 
@@ -101,3 +101,4 @@ The causes are generally multifactorial, usually grouped into Neonatal (0-28 day
 > Flowchart showing the decline of IMR in India from 1947 to present day vs Targets
 
 ---
+**Previous:** [[Birth preparedness and complication readiness]]  **Next:** [[Facility based newborn care]]

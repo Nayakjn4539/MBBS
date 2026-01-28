@@ -3,7 +3,7 @@ status: pending
 tags: [Diphtheria, CommunicableDiseases, Epidemiology, Carriers, PublicHealth, InfectiousDiseases, Microbiology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 90
 ---
 
 # [[COMMUNICABLE DISEASES]] > Cases and carriers of Diphtheria
@@ -65,3 +65,4 @@ Carriers are asymptomatic persons who harbor the specific infectious agent (*C. 
 *   **N**asal carriers are **N**otorious because they shed more bacilli and are the most dangerous source of infection compared to throat carriers.
 
 ---
+**Previous:** [[Diagnosis and prevention of Swine flu]]  **Next:** [[Multidrug therapy]]

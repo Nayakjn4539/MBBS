@@ -3,10 +3,10 @@ status: pending
 tags: [Isolation, Quarantine, CommunicableDiseases, Epidemiology, LevelsofPrevention, PublicHealth, InfectionControl]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 202
 ---
 
-# [[COMMUNICABLE DISEASES]] > Isolation & quarantine are not synonymous.
+# [[COMMUNICABLE DISEASES]] > Isolation & quarantine are not synonymous
 
 ### **Isolation vs. Quarantine**
 
@@ -75,3 +75,4 @@ To remember the difference:
 *   **Q**uarantine = **Q**uietly waiting (Healthy/Contacts waiting to see if they get sick)
 
 ---
+**Previous:** [[Tuberculosis is an old disease but a new threat]]  **Next:** [[AIDS is a behavioural disease]]

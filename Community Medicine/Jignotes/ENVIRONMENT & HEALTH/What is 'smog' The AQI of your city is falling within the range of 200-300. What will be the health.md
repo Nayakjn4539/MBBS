@@ -3,7 +3,7 @@ status: pending
 tags: [smog, air_pollution, AQI, environmental_health, respiratory_diseases, preventive_medicine]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 308
 ---
 
 # [[ENVIRONMENT & HEALTH]] > What is 'smog'? The AQI of your city is falling within the range of 200-300. What will be the health effects? What measures can be adopted to tackle the situation?
@@ -87,3 +87,6 @@ The WHO recommends the following general principles and practical measures to co
 *   **L** - **L**egislation
 
 ---
+
+---
+**Previous:** [[Short term high dose Vit. A supplementation is useful for prevention of Xerophthalmia]]  **Next:** [[Enumerate the sources of air pollution. Name any four air pollutants. Describe the effects of air po]]

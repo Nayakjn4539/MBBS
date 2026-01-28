@@ -3,10 +3,10 @@ status: pending
 tags: [Influenza, Pandemic, Epidemiology, CommunicableDiseases, AntigenicShift, AntigenicDrift, Microbiology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 207
 ---
 
-# [[COMMUNICABLE DISEASES]] > All influenza pandemics are caused by influenza A and not by B or C.
+# [[COMMUNICABLE DISEASES]] > All influenza pandemics are caused by influenza A and not by B or C
 
 ### **Why Influenza A Causes Pandemics (and not B or C)**
 
@@ -70,3 +70,4 @@ The primary reason lies in the mechanism of antigenic variation. The surface ant
 > Flowchart showing the "Mixing Vessel" concept where a pig is infected by both a Human Flu virus and an Avian Flu virus, leading to Genetic Reassortment and the output of a novel Pandemic Influenza A virus.
 
 ---
+**Previous:** [[Hepatitis B infection should be considered more dangerous than HIV infection]]  **Next:** [[Revised National Tuberculosis Control Programme gives priority on detection of new smear positive ca]]

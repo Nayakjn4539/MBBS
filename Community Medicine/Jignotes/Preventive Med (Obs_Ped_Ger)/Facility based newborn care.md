@@ -3,10 +3,10 @@ status: pending
 tags: [FacilityBasedNewbornCare, SNCU, NBSU, NBCC, NeonatalMortality, JSSK, NSSK, Triage, PublicHealth]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 266
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Facility based newborn care.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Facility based newborn care
 
 ### Facility Based Newborn Care (FBNC)
 
@@ -100,3 +100,4 @@ A baby is ready for discharge from SNCU when:
     *   **Free transport** (Home to facility, Referral, and Drop-back).
 
 ---
+**Previous:** [[IMR current scenario in India]]  **Next:** [[Geriatrics health problems]]

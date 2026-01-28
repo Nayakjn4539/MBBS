@@ -3,10 +3,10 @@ status: pending
 tags: [Census, Demography, HealthInformationSystem, VitalStatistics, CommunityMedicine, PublicHealth]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 243
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Census is an important source of health information.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Census is an important source of health information
 
 ### Definition
 The **Census** is defined by the United Nations as "the total process of collecting, compiling and publishing demographic, economic and social data pertaining at a specified time or times, to all persons in a country or delimited territory". It is the primary and most important source of health information and [[Demography]] in most countries.
@@ -70,3 +70,4 @@ The census provides a mine of information beyond just a head count:
 > Population Pyramid showing age-sex distribution derived from Census data
 
 ---
+**Previous:** [[Demographic transition has a role in economic growth of nation]]  **Next:** [[Declining sex ratio had many adverse consequences]]

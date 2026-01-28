@@ -3,10 +3,10 @@ status: pending
 tags: [SentinelSurveillance, MassScreening, Epidemiology, DiseaseControl, PublicHealth, HIVSurveillance, NACP, CommunityMedicine]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 57
 ---
 
-# [[SCREENING FOR DISEASES]] > Sentinel surveillance of disease is better than periodic mass screening.
+# [[SCREENING FOR DISEASES]] > Sentinel surveillance of disease is better than periodic mass screening
 
 ### Sentinel Surveillance vs. Periodic Mass Screening
 
@@ -52,3 +52,4 @@ To remember the benefits of **Sentinel** Surveillance, think of the word **SMART
 *   **T** - **T**otal population estimation (Extrapolation)
 
 ---
+**Previous:** [[Sensitivity and specificity of a screening test are inversely related]]  **Next:** [[Epidemiology and prevention of measles]]

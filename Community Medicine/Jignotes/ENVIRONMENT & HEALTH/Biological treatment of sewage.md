@@ -3,10 +3,10 @@ status: pending
 tags: [sewage_treatment, biological_treatment, activated_sludge_process, trickling_filter, oxidation_pond, environmental_health, BOD]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 314
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Biological treatment of sewage.
+# [[ENVIRONMENT & HEALTH]] > Biological treatment of sewage
 
 ### Biological Treatment of Sewage
 
@@ -103,3 +103,4 @@ To remember the components of the **Zoogleal Layer** in Trickling Filters:
 *   **Vector Control:** Properly managed biological treatment (like mosquito-free oxidation ponds) prevents breeding of Culex mosquitoes, which transmit [[Filariasis]] and Japanese Encephalitis.
 
 ---
+**Previous:** [[Bacteriological Surveillance of water quality]]  **Next:** [[Principle of chlorination of water]]

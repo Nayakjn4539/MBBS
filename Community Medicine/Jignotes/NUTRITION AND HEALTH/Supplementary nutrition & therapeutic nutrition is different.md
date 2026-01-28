@@ -3,10 +3,10 @@ status: pending
 tags: [nutrition, ICDS, SAM, community_medicine, public_health]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 305
 ---
 
-# [[NUTRITION AND HEALTH]] > Supplementary nutrition & therapeutic nutrition is different.
+# [[NUTRITION AND HEALTH]] > Supplementary nutrition & therapeutic nutrition is different
 
 ### Difference Between Supplementary Nutrition & Therapeutic Nutrition
 
@@ -75,3 +75,4 @@ This acts as a "medicine" to treat specific nutritional disorders or diseases. I
 > Flowchart showing the triage of a malnourished child. 1. Assessment (Anthropometry). 2. If Moderate Acute Malnutrition (MAM) -> Send to Anganwadi -> Supplementary Nutrition. 3. If Severe Acute Malnutrition (SAM) with complications -> Send to NRC -> Therapeutic Nutrition (F-75/F-100).
 
 ---
+**Previous:** [[ORS is an example of appropriate technology]]  **Next:** [[Food additives and food adulteration are not synonymous]]

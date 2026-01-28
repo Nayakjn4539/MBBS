@@ -3,7 +3,7 @@ status: pending
 tags: [Universal_Immunization_Programme, Health_Management, BMOH, Microplanning, Cold_Chain, Mission_Indradhanush]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 425
 ---
 
 # [[HEALTH PLANNING & MANAGEMENT]] > Percentage of fully immunized children is very low while left out & drop rates are unacceptably high in your block. What measures you will adopt as a BMOH to improve the situation?
@@ -81,3 +81,6 @@ Ensure that when a beneficiary comes, they are not turned away.
 High dropout rates lead to a buildup of susceptible children, shattering **herd immunity**. This significantly increases the risk of outbreaks of vaccine-preventable diseases (VPDs) like **Measles** and **Diphtheria** within the block. Immediate rectification is vital to prevent infant mortality.
 
 ---
+
+---
+**Previous:** [[There is sudden rise of infant mortality rate in a block. What are the measures you would like to ad]]  **Next:** [[Proportion of institutional delivery is very low in your district. There is also poor arrangement of]]

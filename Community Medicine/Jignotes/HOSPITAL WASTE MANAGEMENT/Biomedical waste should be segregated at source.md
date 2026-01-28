@@ -3,10 +3,10 @@ status: pending
 tags: [BiomedicalWasteManagement, Segregation, HospitalWaste, InfectionControl, PublicHealth, BMWRules2016]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 334
 ---
 
-# [[HOSPITAL WASTE MANAGEMENT]] > Biomedical waste should be segregated at source.
+# [[HOSPITAL WASTE MANAGEMENT]] > Biomedical waste should be segregated at source
 
 ### **Segregation of Biomedical Waste at Source**
 
@@ -63,3 +63,4 @@ To remember the basic segregation logic (BMW Rules 2016):
 *   **Mercury Toxicity:** If a broken thermometer (Chemical waste) is thrown into a Yellow bag and incinerated, it releases toxic mercury vapors into the atmosphere, causing neurotoxicity in the community.
 
 ---
+**Previous:** [[Principles of Biomedical Waste management]]  **Next:** [[There are 4 types of colour coding bags as per biomedical waste management rule 2016, amended in 201]]

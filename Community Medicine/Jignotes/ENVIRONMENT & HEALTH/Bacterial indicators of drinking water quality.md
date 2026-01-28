@@ -3,10 +3,10 @@ status: pending
 tags: [water_quality, coliforms, E_coli, environmental_health, public_health, microbiology, WHO_standards]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 320
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Bacterial indicators of drinking water quality.
+# [[ENVIRONMENT & HEALTH]] > Bacterial indicators of drinking water quality
 
 # Bacterial Indicators of Drinking Water Quality
 
@@ -111,3 +111,4 @@ The detection of these indicators is the cornerstone of public health engineerin
 > Flowchart showing the steps of water testing: Sample collection -> Presumptive Test (MPN) -> If Positive -> Confirmatory Test (Eijkman) -> Result Interpretation
 
 ---
+**Previous:** [[Types of ventilation]]  **Next:** [[Biological filter]]

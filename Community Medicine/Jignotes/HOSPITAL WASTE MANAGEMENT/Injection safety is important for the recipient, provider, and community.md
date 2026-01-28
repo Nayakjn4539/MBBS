@@ -3,10 +3,10 @@ status: pending
 tags: [InjectionSafety, BiomedicalWasteManagement, HospitalAcquiredInfection, OccupationalHealth, AutoDisableSyringe]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 336
 ---
 
-# [[HOSPITAL WASTE MANAGEMENT]] > Injection safety is important for the recipient, provider, and community.
+# [[HOSPITAL WASTE MANAGEMENT]] > Injection safety is important for the recipient, provider, and community
 
 ### Definition of Injection Safety
 A [[safe injection]] is defined as one which:
@@ -88,3 +88,4 @@ To ensure safety, the following criteria (SAS) must be met:
 *Note: This emphasizes why vaccination of providers against Hep B is crucial.*
 
 ---
+**Previous:** [[There are 4 types of colour coding bags as per biomedical waste management rule 2016, amended in 201]]  **Next:** [[Define disaster. What are the common disasters faced by people of India Name one natural and one man]]

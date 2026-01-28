@@ -3,7 +3,7 @@ status: pending
 tags: [Hospital_Records, Health_Information_Systems, Morbidity_Statistics, Medical_Record_Department, Bed_Occupancy_Rate, Health_Planning]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 394
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Mention the uses of hospital records
@@ -46,3 +46,4 @@ While useful, hospital records have specific limitations that a student must rem
 *   **P** - **P**lanning of health services
 
 ---
+**Previous:** [[Cancer registry]]  **Next:** [[Sample registration system]]

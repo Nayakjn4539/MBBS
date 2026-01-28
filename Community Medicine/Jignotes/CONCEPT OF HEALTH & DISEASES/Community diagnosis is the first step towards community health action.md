@@ -3,10 +3,10 @@ status: pending
 tags: [CommunityDiagnosis, Epidemiology, PublicHealth, CommunityTreatment, HealthPlanning, VitalStatistics]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 15
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Community diagnosis is the first step towards community health action.
+# [[CONCEPT OF HEALTH & DISEASES]] > Community diagnosis is the first step towards community health action
 
 ### Community Diagnosis: The Foundation of Health Action
 
@@ -95,3 +95,4 @@ Once the diagnosis is established and priorities are set, the next step is **Com
 *   **For Resource Allocation:** Without a proper diagnosis, scarce resources might be wasted on diseases that have low prevalence in that specific area, while major killers are ignored.
 
 ---
+**Previous:** [[Cost effectiveness analysis in health]]  **Next:** [[We need to be more careful about the hidden part of the iceberg]]

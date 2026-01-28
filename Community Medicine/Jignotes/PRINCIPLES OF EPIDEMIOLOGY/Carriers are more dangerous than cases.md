@@ -3,10 +3,10 @@ status: pending
 tags: [PrinciplesOfEpidemiology, Carriers, IcebergPhenomenon, TyphoidMary, DiseaseTransmission, PublicHealth]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 46
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Carriers are more dangerous than cases.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Carriers are more dangerous than cases
 
 ### **Statement: Carriers are More Dangerous than Cases**
 
@@ -78,3 +78,4 @@ The classic example of a chronic carrier is **[[Typhoid Mary]]** (Mary Mallon). 
 > Iceberg Phenomenon of Disease. Draw an iceberg with a water line. Label the tip 'Clinical Cases' and the massive underwater part 'Carriers/Subclinical Cases'.
 
 ---
+**Previous:** [[Cohort studies are not always prospective]]  **Next:** [[Carrier stage of a disease is not amenable to control]]

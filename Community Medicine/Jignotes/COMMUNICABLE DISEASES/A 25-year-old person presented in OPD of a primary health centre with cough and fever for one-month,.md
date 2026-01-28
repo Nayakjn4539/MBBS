@@ -3,7 +3,7 @@ status: pending
 tags: [NTEP, Tuberculosis, CBNAAT, DOTS, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 183
 ---
 
 # [[COMMUNICABLE DISEASES]] > A 25-year-old person presented in OPD of a primary health centre with cough and fever for one-month, occasional blood-streaked sputum, and weight loss. Write down the diagnostic algorithm for the suspected disease as per the relevant national programme. Mention the treatment regimen for drug sensitive cases for adults.
@@ -79,3 +79,6 @@ The patient is identified as a **Presumptive TB case** based on the presence of 
 *   **E** - **E**thambutol
 
 ---
+
+---
+**Previous:** [[A 10-year-old boy, scratch by street cat on left leg with oozing of scanty blood. Wound was washed c]]  **Next:** [[What are the different modes of transmission of covid 19 infection Who are high risk groups Discuss]]

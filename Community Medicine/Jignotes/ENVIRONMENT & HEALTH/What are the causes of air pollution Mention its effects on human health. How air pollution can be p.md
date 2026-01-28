@@ -3,7 +3,7 @@ status: pending
 tags: [AirPollution, EnvironmentalHealth, CommunityMedicine, LungCancer, PreventionAndControl, WHO, Pollutants]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 311
 ---
 
 # [[ENVIRONMENT & HEALTH]] > What are the causes of air pollution? Mention its effects on human health. How air pollution can be prevented and controlled?
@@ -114,3 +114,6 @@ In specific settings (like hospitals), air disinfection is used:
 *   **Dust Control:** Oil application to floors reduces bacterial content.
 
 ---
+
+---
+**Previous:** [[Mention the characteristics of safe & wholesome water. Classify water borne diseases. Briefly discus]]  **Next:** [[Define safe and wholesome water. Discuss the different tests for the bacteriological surveillance of]]

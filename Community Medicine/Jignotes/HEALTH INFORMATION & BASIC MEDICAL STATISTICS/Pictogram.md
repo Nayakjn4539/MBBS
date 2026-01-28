@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, DataPresentation, HealthCommunication, HealthInformation]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 399
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Pictogram
@@ -50,3 +50,4 @@ To remember the utility of Pictograms: **"PIC"**
 In **Community Medicine**, pictograms are essential tools in [[Health Education]] materials (IEC). They are frequently used in posters and pamphlets to explain dosage of medications (e.g., 1 tablet vs 1/2 tablet) or family planning methods to rural populations where literacy rates may be low,.
 
 ---
+**Previous:** [[Pie-chart]]  **Next:** [[Formulas for standard error]]

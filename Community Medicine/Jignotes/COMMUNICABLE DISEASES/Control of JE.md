@@ -3,7 +3,7 @@ status: pending
 tags: [JapaneseEncephalitis, SA14-14-2, CulexTritaeniorhynchus, AES, VectorControl, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 120
 ---
 
 # [[COMMUNICABLE DISEASES]] > Control of JE
@@ -99,3 +99,4 @@ There is **no specific antiviral treatment** for JE. Management is supportive an
 JE has a high **Case Fatality Rate (20–40%)**. Even among survivors, nearly 30-50% suffer from permanent **neurological sequelae** (mental retardation, paralysis, seizures). Therefore, **prevention (Vaccination)** is far superior to cure. Diagnosis is confirmed by **IgM Capture ELISA** in CSF or blood.
 
 ---
+**Previous:** [[Describe the control and prevention of yellow fever]]  **Next:** [[Case Definition of Acute Encephalitis syndrome. How is it managed in PHC level]]

@@ -3,7 +3,7 @@ status: pending
 tags: [Pulse_Polio, IPPI, National_Immunization_Days, Polio_Eradication, OPV, Community_Medicine, Vaccines]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 99
 ---
 
 # [[COMMUNICABLE DISEASES]] > National Intensified Pulse Polio Immunisation Programme
@@ -70,3 +70,4 @@ Even after certification, IPPI rounds continue (though less frequently) because:
 *   **P** - **P**ulse Polio (House-to-House/Intensified)
 
 ---
+**Previous:** [[OPV]]  **Next:** [[Prevention of Hep B]]

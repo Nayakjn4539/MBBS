@@ -3,7 +3,7 @@ status: pending
 tags: [LevelsOfPrevention, DiabetesMellitus, PublicHealth, Epidemiology, HealthIntervention, CommunityMedicine]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 5
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > Enumerate the levels of prevention & modes of intervention in each level. Discuss the level of prevention in context of diabetes.
@@ -111,3 +111,6 @@ Diabetes serves as a classic model for applying all levels of prevention due to 
 *   **R**ehabilitation
 
 ---
+
+---
+**Previous:** [[What are the characteristics of an ideal indicator Enumerate the morbidity indicators. Briefly descr]]  **Next:** [[What do you mean by indicators of health Write down the different disability rates with example. Wha]]

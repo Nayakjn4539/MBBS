@@ -3,10 +3,10 @@ status: pending
 tags: [CGHS, HealthInsurance, PublicHealth, CommunityMedicine, HealthAdministration, SocialSecurity]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 443
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Central Government Health Scheme.
+# [[HEALTH CARE OF THE COMMUNITY]] > Central Government Health Scheme
 
 # CENTRAL GOVERNMENT HEALTH SCHEME (CGHS)
 
@@ -73,3 +73,4 @@ This falls under the umbrella of [[AYUSH]] services.
 *   **Cashless Service:** For pensioners, the treatment at empanelled private hospitals is generally cashless (the hospital bills the CGHS directly), which significantly reduces the financial burden on the elderly.
 
 ---
+**Previous:** [[Preventive services offered by your Medical College & Hospital]]  **Next:** [[Health insurance scheme]]

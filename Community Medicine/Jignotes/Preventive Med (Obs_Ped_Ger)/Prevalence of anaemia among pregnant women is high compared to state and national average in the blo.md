@@ -3,7 +3,7 @@ status: pending
 tags: [AnemiaMuktBharat, AntenatalCare, BMOH, HighRiskPregnancy, PreventiveMedicine, IFA, MaternalHealth]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 251
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Prevalence of anaemia among pregnant women is high compared to state and national average in the block of your posting. As BMOH of the block, design an implementation plan to address the issue.
@@ -92,3 +92,6 @@ The plan will focus on the **6 Interventions** relevant to maternal health:
 **Severe Anemia in Pregnancy** is a direct cause of maternal mortality (due to heart failure) and an indirect cause (poor tolerance to blood loss during PPH). It significantly increases the risk of **[[Low Birth Weight (LBW)]]** and Preterm labor.
 
 ---
+
+---
+**Previous:** [[Population pyramid is important for public health]]  **Next:** [[Define perinatal mortality rate. Mention the different causes of perinatal mortality in India. What]]

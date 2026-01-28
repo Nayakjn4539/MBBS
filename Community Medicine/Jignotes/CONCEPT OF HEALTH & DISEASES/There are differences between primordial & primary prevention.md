@@ -3,10 +3,10 @@ status: pending
 tags: [LevelsOfPrevention, PrimordialPrevention, PrimaryPrevention, CommunityMedicine, PublicHealth, PrePathogenesis, HealthPromotion, SpecificProtection]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 18
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > There are differences between primordial & primary prevention.
+# [[CONCEPT OF HEALTH & DISEASES]] > There are differences between primordial & primary prevention
 
 # Differences Between [[Primordial Prevention]] & [[Primary Prevention]]
 
@@ -85,3 +85,4 @@ This signifies intervention in the **[[Pre-pathogenesis Phase]]** of a disease. 
     *   *Example:* Wearing a mask when COVID-19 is circulating.
 
 ---
+**Previous:** [[Goals and Objectives are not synonymous]]  **Next:** [[Primordial prevention is a subset of primary prevention]]

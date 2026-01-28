@@ -3,10 +3,10 @@ status: pending
 tags: [ORS, Oral_Rehydration_Therapy, Diarrhea_Management, Home_Available_Fluids, Dehydration, Community_Medicine, IMNCI, Child_Health]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 297
 ---
 
-# [[NUTRITION AND HEALTH]] > Common homemade oral rehydration solution.
+# [[NUTRITION AND HEALTH]] > Common homemade oral rehydration solution
 
 ### Common Homemade Oral Rehydration Solution
 
@@ -58,3 +58,4 @@ To remember the Sugar-Salt Ratio:
 *(**6** teaspoons of Sugar + **1** teaspoon of Salt)*
 
 ---
+**Previous:** [[Spectrum of iodine deficiency disorders]]  **Next:** [[Dietary fibre has protective role in individual diet]]

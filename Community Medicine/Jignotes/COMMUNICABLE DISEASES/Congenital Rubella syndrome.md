@@ -3,7 +3,7 @@ status: pending
 tags: [CongenitalRubellaSyndrome, CommunicableDiseases, Pediatrics, Obstetrics, Vaccination, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 87
 ---
 
 # [[COMMUNICABLE DISEASES]] > Congenital Rubella syndrome
@@ -89,3 +89,4 @@ To remember the features of CRS:
 *   **RINGS** - Growth retardation (Small size/Microcephaly)
 
 ---
+**Previous:** [[Control measures for measles]]  **Next:** [[Influenza vaccines]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Sampling, Biostatistics, ResearchMethodology, SimpleRandomSampling, StratifiedRandomSampling]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 385
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Enlist the probability sampling methods. Elaborate on any 2 methods.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Enlist the probability sampling methods. Elaborate on any 2 methods
 
 ### Probability Sampling Methods
 
@@ -76,3 +76,4 @@ If a researcher wants to estimate hemoglobin levels in a population of 1000 peop
 > flowchart showing a mixed population being separated into distinct groups (strata) and then samples being pulled from each group
 
 ---
+**Previous:** [[Standard error]]  **Next:** [[Sampling error]]

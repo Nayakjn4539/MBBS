@@ -3,7 +3,7 @@ status: pending
 tags: [Typhoid_fever, Epidemiology, Communicable_Diseases, Salmonella_typhi, Widal_test, Typhoid_vaccines]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 65
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology and prevention of Typhoid fever
@@ -123,3 +123,4 @@ Vaccines are the specific protection measure.
 *Note: The older TAB vaccine is no longer recommended due to side effects and low efficacy.*
 
 ---
+**Previous:** [[Epidemiology & control of acute diarrheal disease]]  **Next:** [[Epidemiology, prevention and control of Ancylostomiasis]]

@@ -3,10 +3,10 @@ status: pending
 tags: [leprosy, multidrug_therapy, pharmacology, communicable_diseases, NLEP, medical_student_notes]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 199
 ---
 
-# [[COMMUNICABLE DISEASES]] > Chemotherapy of Multi-bacillary Leprosy.
+# [[COMMUNICABLE DISEASES]] > Chemotherapy of Multi-bacillary Leprosy
 
 ### Chemotherapy of Multi-bacillary (MB) Leprosy
 
@@ -105,3 +105,4 @@ Patients often develop immune-mediated inflammatory episodes called **Lepra Reac
 *   **D** - **D**aily use (**D**apsone) - **D**ermatitis (Side effect).
 
 ---
+**Previous:** [[Intra-dermal rabies vaccination]]  **Next:** [[Hepatitis B vaccine]]

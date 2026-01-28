@@ -3,7 +3,7 @@ status: pending
 tags: [PEM, NutritionalAnaemia, VitaminADeficiency, IDD, Anthropometry, GrowthMonitoring, ShakirsTape, CommunityMedicine]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 286
 ---
 
 # [[NUTRITION AND HEALTH]] > Enumerate four major nutritional problems in our country. How would you assess the nutritional status of the under five in a community?
@@ -114,3 +114,6 @@ Early detection of growth faltering using the **Growth Chart** allows for timely
 *   **D**ietary / **D**emographic (Vital stats)
 
 ---
+
+---
+**Previous:** [[Define malnutrition. How will you assess the quality of a protein Name the nutritional programme cur]]  **Next:** [[What is malnutrition Discuss its prevention strategies in terms of different levels of preventions]]

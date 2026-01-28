@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, NLEP, CommunicableDiseases, PublicHealth, CaseFinding, Epidemiology, MDT, ASHA]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 132
 ---
 
 # [[COMMUNICABLE DISEASES]] > Case finding methods in Leprosy
@@ -68,3 +68,4 @@ A case is identified based on the presence of at least **one** of the **Cardinal
 > By the time a patient voluntarily reports (Passive finding), the disease may have advanced. **Active case finding** (Surveys/LCDC) is crucial to find cases *before* nerve damage becomes irreversible.
 
 ---
+**Previous:** [[Agent and host factors in Leprosy]]  **Next:** [[Elimination of Leprosy]]

@@ -3,10 +3,10 @@ status: pending
 tags: [health_economics, cost_benefit_analysis, cost_effectiveness_analysis, health_planning, public_health_management]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 433
 ---
 
-# [[HEALTH PLANNING & MANAGEMENT]] > Cost effective analysis and cost benefit analysis are not synonymous.
+# [[HEALTH PLANNING & MANAGEMENT]] > Cost effective analysis and cost benefit analysis are not synonymous
 
 The statement "Cost effective analysis and cost benefit analysis are synonymous" is **false**. While both are [[quantitative management techniques]] used in health economics to assist decision-making, they differ fundamentally in how they measure **outcomes** (benefits).
 
@@ -55,3 +55,4 @@ In public health planning, **[[Cost-Effectiveness Analysis]]** is predominantly 
 *   **E**ffectiveness = **E**ffect (**E**fficacy) $\rightarrow$ Results in **Health Outcomes** (Lives/Cures).
 
 ---
+**Previous:** [[Feedback is very important in health planning]]  **Next:** [[What is Primary Health Centre Enumerate elements of Primary Health Care. Describe the principles of]]

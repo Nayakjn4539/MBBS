@@ -3,10 +3,10 @@ status: pending
 tags: [UnmetNeed, FamilyPlanning, Contraception, Demography, NFHS5]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 240
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Unmet need for family planning.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Unmet need for family planning
 
 ### Definition
 [[Unmet need for family planning]] refers to the percentage of currently married women of reproductive age (15–49 years) who are **fecund** (able to produce children) and **sexually active** but are **not using any method of contraception**, despite wanting to either:
@@ -65,3 +65,4 @@ Barriers that prevent women from using contraception despite not wanting a child
 *   **K** - **K**nowledge gap (Perceived low risk of pregnancy).
 
 ---
+**Previous:** [[Family physician]]  **Next:** [[Acculturation has both merits & demerits]]

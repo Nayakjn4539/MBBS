@@ -3,10 +3,10 @@ status: pending
 tags: [JSSK, MaternalHealth, ChildHealth, NationalHealthMission, PublicHealth]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 221
 ---
 
-# [[HEALTH PROGRAMMES IN INDIA]] > Janani Shishu Suraksha Karyakram.
+# [[HEALTH PROGRAMMES IN INDIA]] > Janani Shishu Suraksha Karyakram
 
 ### [[Janani Shishu Suraksha Karyakram]] (JSSK)
 
@@ -67,3 +67,4 @@ The initiative provides the following **Free Entitlements** to beneficiaries:
 > Flowchart showing the transport loop in JSSK: Home -> Facility -> Referral (if needed) -> Drop Back Home
 
 ---
+**Previous:** [[Laboratory network under RNTCP]]  **Next:** [[Village Health & Nutrition Day]]

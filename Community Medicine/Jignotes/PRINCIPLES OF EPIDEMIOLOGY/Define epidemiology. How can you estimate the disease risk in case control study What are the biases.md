@@ -3,7 +3,7 @@ status: pending
 tags: [epidemiology, case_control_study, odds_ratio, bias, confounding, berkesonian_bias, recall_bias, matching, blinding]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 29
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Define epidemiology. How can you estimate the disease risk in case control study? What are the biases in case control study including the process of elimination as applicable?
@@ -83,3 +83,6 @@ The Odds Ratio provides a valid estimate of the Relative Risk only if:
 *   **B** - **B**erkesonian Bias
 
 ---
+
+---
+**Previous:** [[Enlist the types of epidemiological studies. Discuss the importance of incubation period in epidemio]]  **Next:** [[Describe the salient features of different types of time trends in disease occurrence with suitable]]

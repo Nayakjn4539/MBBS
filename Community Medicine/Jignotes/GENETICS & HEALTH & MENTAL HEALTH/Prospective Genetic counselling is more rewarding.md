@@ -3,10 +3,10 @@ status: pending
 tags: [geneticcounselling, preventivemedicine, genetics, publichealth, thalassemia]
 subject: Community Medicine
 topic: GENETICS & HEALTH & MENTAL HEALTH
-up: [[GENETICS & HEALTH & MENTAL HEALTH]]
+up: 475
 ---
 
-# [[GENETICS & HEALTH & MENTAL HEALTH]] > Prospective Genetic counselling is more rewarding.
+# [[GENETICS & HEALTH & MENTAL HEALTH]] > Prospective Genetic counselling is more rewarding
 
 ### Prospective Genetic Counselling
 
@@ -53,3 +53,4 @@ To remember the benefits of **PRO**spective counselling: **PRO**
 In clinical practice, prospective counselling is heavily reliant on **mass screening programs**. For instance, in communities with a high prevalence of [[hemoglobinopathies]], pre-marital screening allows couples to know their status. If both partners are carriers (e.g., for Thalassemia minor), they are counselled regarding the 25% risk of having a child with **Thalassemia Major** in each pregnancy, allowing them to make informed reproductive choices such as adoption, gamete donation, or prenatal diagnosis,.
 
 ---
+**Previous:** [[Role of UNICEF in child health]]  **Next:** [[Mental Health Services are coming forefront]]

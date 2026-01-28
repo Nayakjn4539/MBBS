@@ -3,10 +3,10 @@ status: pending
 tags: [Family_Physician, General_Practice, Primary_Health_Care, Family_Planning, Community_Medicine]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 239
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Family physician.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Family physician
 
 ### Family Physician (General Practitioner)
 
@@ -100,3 +100,4 @@ To be successful and effective, a GP needs specific community skills:
 The Family Physician is often the **doctor of first contact**. Their ability to diagnose early (e.g., spotting [[Tuberculosis]] symptoms or early signs of cancer) and manage chronic diseases prevents complications and reduces the burden on tertiary hospitals.
 
 ---
+**Previous:** [[Prioritisation in health planning]]  **Next:** [[Unmet need for family planning]]

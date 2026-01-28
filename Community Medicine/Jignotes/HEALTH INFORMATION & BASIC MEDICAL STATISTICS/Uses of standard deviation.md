@@ -3,7 +3,7 @@ status: pending
 tags: [Standard_Deviation, Biostatistics, Normal_Distribution, Standard_Error, Sample_Size, Coefficient_of_Variation]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 380
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Uses of standard deviation
@@ -61,3 +61,4 @@ The specific uses of Standard Deviation in biostatistics and medical research ar
 When interpreting lab reports (e.g., serum cholesterol), the "normal range" is typically derived from the Mean $\pm$ 2 SD of a healthy population. If a patient's value lies beyond 2 SD (e.g., > 3 SD), it suggests a high probability of pathology rather than chance variation.
 
 ---
+**Previous:** [[Measure of central tendency]]  **Next:** [[Standard deviation]]

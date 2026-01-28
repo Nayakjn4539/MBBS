@@ -3,7 +3,7 @@ status: pending
 tags: [EpidemicDropsy, FoodIntoxicants, Sanguinarine, ArgemoneOil, NutritionAndHealth, FoodAdulteration, PublicHealth]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 288
 ---
 
 # [[NUTRITION AND HEALTH]] > Enumerate different types of food intoxicants. Suggest measures to control epidemic dropsy in your area.
@@ -71,3 +71,6 @@ To control an outbreak in a community, the following measures must be implemente
 > Flowchart showing the cycle of contamination: Argemone plant in field -> harvesting with mustard -> oil extraction -> consumption -> inhibition of pyruvate oxidation -> capillary damage -> edema/glaucoma
 
 ---
+
+---
+**Previous:** [[What is malnutrition Discuss its prevention strategies in terms of different levels of preventions]]  **Next:** [[Food fortification]]

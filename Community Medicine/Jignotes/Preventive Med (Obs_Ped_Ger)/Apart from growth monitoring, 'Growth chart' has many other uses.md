@@ -3,10 +3,10 @@ status: pending
 tags: [Growth_Chart, Road_to_Health_Chart, Child_Health, Malnutrition, Preventive_Pediatrics, ICDS]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 276
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Apart from growth monitoring, 'Growth chart' has many other uses.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Apart from growth monitoring, 'Growth chart' has many other uses
 
 ### Uses of Growth Chart (Apart from Growth Monitoring)
 
@@ -77,3 +77,4 @@ In clinical practice, the **direction** of the growth curve is more important th
 > A standard WHO/ICDS Growth Chart showing the three color-coded zones (Green, Yellow, Orange) and the X and Y axes for Age and Weight respectively
 
 ---
+**Previous:** [[FRUS will reduce MMR]]  **Next:** [[Institutional deliveries can reduce maternal mortality to a great extent]]

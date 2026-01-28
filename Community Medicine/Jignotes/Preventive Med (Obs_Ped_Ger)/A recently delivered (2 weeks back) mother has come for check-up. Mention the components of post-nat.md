@@ -3,7 +3,7 @@ status: pending
 tags: [postnatal_care, puerperal_sepsis, maternal_health, preventive_obstetrics, ASHA, community_medicine]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 258
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > A recently delivered (2 weeks back) mother has come for check-up. Mention the components of post-natal check-up. What might be the post-natal complications? What measures can be taken to improve post-natal care at community level?
@@ -97,3 +97,6 @@ In rural areas, improving PNC is vital to reduce [[Maternal Mortality Rate]] (MM
 > Flowchart showing the timeline of ASHA home visits for Post-Natal Care
 
 ---
+
+---
+**Previous:** [[Considering its effect on present and future lives of children, name the most important anthropometr]]  **Next:** [[In a block of west Bengal, recent statistics showed a lower rate of institutional delivery. As a hea]]

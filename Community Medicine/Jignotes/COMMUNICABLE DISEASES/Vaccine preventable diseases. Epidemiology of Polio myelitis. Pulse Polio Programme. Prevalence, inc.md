@@ -3,7 +3,7 @@ status: pending
 tags: [Poliomyelitis, Pulse_Polio, AFP_Surveillance, Vaccine_Preventable_Diseases, Epidemiology, Cold_Chain, Eradication]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 61
 ---
 
 # [[COMMUNICABLE DISEASES]] > Vaccine preventable diseases. Epidemiology of Polio myelitis. Pulse Polio Programme. Prevalence, incidence, eradication, surveillance of poli
@@ -126,3 +126,6 @@ To ensure the system is working effectively:
 Testing sewage samples to detect the presence of poliovirus in the community even in the absence of clinical cases (e.g., Mumbai, Delhi, Patna),.
 
 ---
+
+---
+**Previous:** [[Epidemiology of Poliomyelitis. Strategy of polio eradication in India and globally. Add a note on mo]]  **Next:** [[Epidemiological outbreak of Hep A in PHC area. How will you control it]]

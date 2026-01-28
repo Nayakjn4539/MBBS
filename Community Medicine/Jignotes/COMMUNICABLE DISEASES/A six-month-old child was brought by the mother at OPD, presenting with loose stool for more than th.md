@@ -3,7 +3,7 @@ status: pending
 tags: [Acute_Diarrhea, IMNCI, Oral_Rehydration_Therapy, Some_Dehydration, Zinc_Supplementation]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 193
 ---
 
 # [[COMMUNICABLE DISEASES]] > A six-month-old child was brought by the mother at OPD, presenting with loose stool for more than three times with vomiting from last night. On examination, the child was found restless and drinking eagerly. Classify the disease. Outline the management.
@@ -87,3 +87,6 @@ Once rehydrated and ready for discharge, counsel the mother on the **4 Rules of 
 *   **P** - Pinch goes back slowly
 
 ---
+
+---
+**Previous:** [[A sputum positive pulmonary TB patient was found sputum smear +ve after 5 months of treatment with c]]  **Next:** [[Significant numbers of cases of jaundice were reported from an urban locality. As a health expert ho]]

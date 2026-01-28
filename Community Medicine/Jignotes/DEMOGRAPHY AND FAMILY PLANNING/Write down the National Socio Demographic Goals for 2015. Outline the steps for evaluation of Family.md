@@ -3,7 +3,7 @@ status: pending
 tags: [NationalPopulationPolicy, FamilyPlanning, Demography, HealthGoals, ProgramEvaluation, PublicHealth, MaternalHealth]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 232
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > Write down the National Socio Demographic Goals for 2015. Outline the steps for evaluation of Family Planning Programme.
@@ -79,3 +79,6 @@ This measures the final outcome and effectiveness of the program on the populati
 Evaluation allows the **District Health Officer** or **Medical Officer** to identify bottlenecks (e.g., high dropout rates in oral pill users or low uptake of sterilization) and reallocate resources to improve the **Couple Protection Rate (CPR)**, which is crucial for achieving population stabilization.
 
 ---
+
+---
+**Previous:** [[A 28-year-old mother with children aged 4 year and 1 year, has come to you for family planning advic]]  **Next:** [[Define sex ratio. What are the factors behind declining sex ratio in India What are the measures ado]]

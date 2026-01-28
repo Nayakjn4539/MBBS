@@ -3,7 +3,7 @@ status: pending
 tags: [UNICEF, InternationalHealth, GOBI-FFF, ChildHealth, PublicHealthAgencies]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 468
 ---
 
 # [[INTERNATIONAL HEALTH]] > Functions of UNICEF
@@ -74,3 +74,4 @@ To remember the core functions of UNICEF, think of **"NEW C"**:
 *(And always remember **GOBI-FFF** for the specific strategies!)*
 
 ---
+**Previous:** [[WHO]]  **Next:** [[UNICEF]]

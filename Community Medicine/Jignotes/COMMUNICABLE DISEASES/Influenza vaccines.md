@@ -3,7 +3,7 @@ status: pending
 tags: [Influenza, Vaccines, CommunicableDiseases, PreventiveMedicine, Immunization]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 88
 ---
 
 # [[COMMUNICABLE DISEASES]] > Influenza vaccines
@@ -90,3 +90,4 @@ WHO recommends vaccination for high-risk groups to prevent severe disease and de
 > flowchart showing the classification of influenza vaccines into Inactivated (Whole, Split, Subunit) and Live Attenuated
 
 ---
+**Previous:** [[Congenital Rubella syndrome]]  **Next:** [[Diagnosis and prevention of Swine flu]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Zinc_Supplementation, Diarrhea_Management, ORS, IMNCI, Child_Health, Micronutrients]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 303
 ---
 
-# [[NUTRITION AND HEALTH]] > Zinc is given with ORS in treatment of Diarrhoea.
+# [[NUTRITION AND HEALTH]] > Zinc is given with ORS in treatment of Diarrhoea
 
 ### Role of Zinc in Diarrhea Management
 
@@ -57,3 +57,4 @@ To remember the benefits of Zinc in Diarrhea: **"Zinc S.T.O.P.S Diarrhea"**
 *   **S** - **S**urvival increased (Reduced Mortality).
 
 ---
+**Previous:** [[Combining rice and pulse in diet is a good practice]]  **Next:** [[ORS is an example of appropriate technology]]

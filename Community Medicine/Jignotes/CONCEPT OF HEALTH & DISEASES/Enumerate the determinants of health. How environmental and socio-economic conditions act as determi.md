@@ -3,7 +3,7 @@ status: pending
 tags: [Determinants_of_Health, Environmental_Health, Socio_Economic_Status, Community_Medicine, Public_Health]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 1
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > Enumerate the determinants of health. How environmental and socio-economic conditions act as determinants of health in a community?
@@ -103,3 +103,6 @@ For the majority of the world's people, health status is determined primarily by
 *   **"Causes of the Causes":** Treating a child for diarrhea with ORS is the immediate cure, but addressing the lack of clean water (Physical Environment) and the parents' lack of health education (Socio-economic) prevents recurrence.
 
 ---
+
+---
+**Next:** [[What is meant by natural history of disease Describe the different stages with suitable illustration]]

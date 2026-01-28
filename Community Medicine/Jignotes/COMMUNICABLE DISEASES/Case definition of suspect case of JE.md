@@ -3,7 +3,7 @@ status: pending
 tags: [JapaneseEncephalitis, AcuteEncephalitisSyndrome, CommunicableDiseases, Epidemiology, NVBDCP, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 151
 ---
 
 # [[COMMUNICABLE DISEASES]] > Case definition of suspect case of JE
@@ -64,3 +64,4 @@ To remember the Suspect Case definition: **"JE is M.A.D."**
 > Algorithm for classification of AES cases showing the flow from Suspect Case -> IgM ELISA testing -> JE Positive (Confirmed) vs JE Negative (Non-JE AES)
 
 ---
+**Previous:** [[Drug supply for management of paediatric TB under RNTCP]]  **Next:** [[Define Acute Flaccid Paralysis]]

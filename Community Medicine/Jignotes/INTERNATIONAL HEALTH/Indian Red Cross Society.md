@@ -3,10 +3,10 @@ status: pending
 tags: [IndianRedCrossSociety, InternationalHealth, VoluntaryHealthAgencies, DisasterManagement, PublicHealth]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 461
 ---
 
-# [[INTERNATIONAL HEALTH]] > Indian Red Cross Society.
+# [[INTERNATIONAL HEALTH]] > Indian Red Cross Society
 
 ### Indian Red Cross Society (IRCS)
 
@@ -78,3 +78,4 @@ The primary objectives of the society can be remembered using the Mnemonic **IMP
 *   **Community Training:** It is a key resource for training paramedical staff and laypeople in First Aid and Home Nursing.
 
 ---
+**Previous:** [[CARE -India]]  **Next:** [[Functions of WHO]]

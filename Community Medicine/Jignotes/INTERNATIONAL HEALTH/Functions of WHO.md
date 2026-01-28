@@ -3,10 +3,10 @@ status: pending
 tags: [WHO, InternationalHealth, PublicHealth, HealthStatistics, PrimaryHealthCare, DiseaseControl, MedicalEducation]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 462
 ---
 
-# [[INTERNATIONAL HEALTH]] > Functions of WHO.
+# [[INTERNATIONAL HEALTH]] > Functions of WHO
 
 ### Functions of the World Health Organization (WHO)
 
@@ -81,3 +81,4 @@ WHO advises governments on providing basic sanitary services and protecting the 
 **Notification of Diseases:** Clinicians must be aware that certain diseases (Cholera, Plague, Yellow Fever, Smallpox, Wild Polio, Human Influenza, SARS) are notifiable to the WHO under [[International Health Regulations]]. Failure to notify can lead to international spread of epidemics. WHO uses this data to issue travel advisories and global alerts.
 
 ---
+**Previous:** [[Indian Red Cross Society]]  **Next:** [[International health regulations]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Cost_Effectiveness_Analysis, Health_Economics, Health_Planning, QALY, DALY, DOTS, Cost_Benefit_Analysis]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 14
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Cost effectiveness analysis in health.
+# [[CONCEPT OF HEALTH & DISEASES]] > Cost effectiveness analysis in health
 
 # Cost Effectiveness Analysis (CEA) in Health
 
@@ -84,3 +84,4 @@ To remember the difference between **CBA** and **CEA**:
 *   **C**ost **E**ffectiveness Analysis = Output is the **Effect** on health (Lives/Cures).
 
 ---
+**Previous:** [[Healthy lifestyles]]  **Next:** [[Community diagnosis is the first step towards community health action]]

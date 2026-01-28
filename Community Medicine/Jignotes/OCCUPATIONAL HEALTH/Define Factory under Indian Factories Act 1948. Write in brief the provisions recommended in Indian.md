@@ -3,7 +3,7 @@ status: pending
 tags: [OccupationalHealth, FactoriesAct1948, PublicHealth, HealthLegislation, CommunityMedicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 356
 ---
 
 # [[OCCUPATIONAL HEALTH]] > Define "Factory" under Indian Factories Act 1948. Write in brief the provisions recommended in Indian Factories Act 1948 to protect health of the workers.
@@ -108,3 +108,6 @@ The Act prescribes detailed instructions in **Sections 11 to 20** to ensure the 
 > Flowchart showing the hierarchy of controls in a factory setting: Elimination -> Substitution -> Engineering Controls -> Administrative Controls -> PPE
 
 ---
+
+---
+**Previous:** [[What are the eligibility criteria for enrolment in ESI scheme Write in brief the benefits available]]  **Next:** [[Many cases of silicosis were reported from a Pottery and Ceramic industry. As an Industry Health Off]]

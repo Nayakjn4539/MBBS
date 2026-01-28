@@ -3,7 +3,7 @@ status: pending
 tags: [ESI_Act, Occupational_Health, Social_Security, Medical_Benefits, Sickness_Benefit, Maternity_Benefit, Disablement_Benefit]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 355
 ---
 
 # [[OCCUPATIONAL HEALTH]] > What are the eligibility criteria for enrolment in ESI scheme? Write in brief the benefits available under ESI scheme during and after working tenure. What are the services available under medical benefits?
@@ -98,3 +98,6 @@ Medical benefit is the only benefit provided in **kind** (services) rather than 
 Doctors working in industrial areas must be aware of the **Notifiable Occupational Diseases** under the Factories Act and ESI Act. If a worker presents with conditions like **Silicosis**, **Lead Poisoning**, or **Occupational Dermatitis**, they are entitled to Disablement Benefits. Accurate medical certification by the treating physician is crucial for the worker to claim Sickness and Disablement benefits.
 
 ---
+
+---
+**Previous:** [[In an accident in a factory, a male worker lost his left lower limb below thigh. Enumerate the benef]]  **Next:** [[Define Factory under Indian Factories Act 1948. Write in brief the provisions recommended in Indian]]

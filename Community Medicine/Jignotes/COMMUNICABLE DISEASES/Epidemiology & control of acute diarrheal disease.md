@@ -3,7 +3,7 @@ status: pending
 tags: [acute_diarrheal_disease, ORS, dehydration, epidemiology, communicable_diseases, public_health, rotavirus, zinc]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 64
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology & control of acute diarrheal disease
@@ -126,3 +126,4 @@ Zinc is used as an adjunct to ORS.
 *   Vitamin A supplementation.
 
 ---
+**Previous:** [[Epidemiology, prevention and control of Hep B]]  **Next:** [[Epidemiology and prevention of Typhoid fever]]

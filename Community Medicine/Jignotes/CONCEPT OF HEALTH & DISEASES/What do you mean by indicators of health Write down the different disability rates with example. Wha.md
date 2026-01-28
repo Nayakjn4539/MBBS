@@ -3,7 +3,7 @@ status: pending
 tags: [health_indicators, disability_rates, tertiary_prevention, DALY, Sullivan_Index, impairment_disability_handicap]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 6
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > What do you mean by indicators of health? Write down the different disability rates with example. What is the concept of disability limitation?
@@ -82,3 +82,6 @@ Intervention typically involves medical and surgical measures to limit the damag
 *   **Example:** In a patient with **Leprosy**, nerve damage is an *impairment*. If not treated, it leads to *disability* (loss of sensation/movement). Through reconstructive surgery and physiotherapy (Disability Limitation), we prevent the patient from becoming *handicapped* (socially isolated or unable to work),.
 
 ---
+
+---
+**Previous:** [[Enumerate the levels of prevention & modes of intervention in each level. Discuss the level of preve]]  **Next:** [[Describe the natural history of disease, briefly discuss the different levels of prevention and mode]]

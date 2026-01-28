@@ -3,7 +3,7 @@ status: pending
 tags: [IHR2005, Surveillance, PHEIC, CommunicableDiseases, PublicHealth, WHO, Notification, Epidemiology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 178
 ---
 
 # [[COMMUNICABLE DISEASES]] > Criteria for surveillance as per the International Health regulations 2005
@@ -68,3 +68,4 @@ Certain diseases are specifically listed in the IHR (2005) to be assessed using 
 *   **Core Capacities:** Countries are required to develop core public health capacities for surveillance, reporting, notification, verification, response, and collaboration activities.
 
 ---
+**Previous:** [[Define Window Period in AIDS and its importance]]  **Next:** [[Testing criteria for HIV infection under Integrated Counselling and Testing Strategy]]

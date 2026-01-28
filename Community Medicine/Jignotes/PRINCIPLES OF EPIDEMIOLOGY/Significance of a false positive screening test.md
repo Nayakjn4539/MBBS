@@ -3,10 +3,10 @@ status: pending
 tags: [screening, false_positive, specificity, positive_predictive_value, epidemiology, type_I_error]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 44
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Significance of a false positive screening test.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Significance of a false positive screening test
 
 ### Significance of a False Positive Screening Test
 
@@ -86,3 +86,4 @@ The implications of a false positive result are extensive and affect the individ
 *   **E** - Excess load on diagnostic services
 
 ---
+**Previous:** [[Use of auto disable syringes in national immunisation program has several advantages]]  **Next:** [[Cohort studies are not always prospective]]

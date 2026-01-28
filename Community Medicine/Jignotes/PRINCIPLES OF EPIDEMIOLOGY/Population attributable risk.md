@@ -3,10 +3,10 @@ status: pending
 tags: [epidemiology, population_attributable_risk, public_health, biostatistics, preventive_medicine, risk_assessment]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 36
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Population attributable risk.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Population attributable risk
 
 # [[Population Attributable Risk]] (PAR)
 
@@ -73,3 +73,4 @@ To remember the formula for PAR compared to AR:
 > *“**P**AR is for the **P**ublic (Total Population)”*
 
 ---
+**Previous:** [[Importance of incubation period]]  **Next:** [[Triple blinding in epidemiological studies]]

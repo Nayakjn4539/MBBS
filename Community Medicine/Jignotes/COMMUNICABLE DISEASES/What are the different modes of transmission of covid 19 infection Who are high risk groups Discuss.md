@@ -3,7 +3,7 @@ status: pending
 tags: [COVID19, SARSCoV2, CommunicableDiseases, Epidemiology, PublicHealth, Vaccination, HighRiskGroups]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 184
 ---
 
 # [[COMMUNICABLE DISEASES]] > What are the different modes of transmission of covid 19 infection? Who are high risk groups? Discuss its prevention.
@@ -105,3 +105,6 @@ The slogan *"Do gaj ki doori, mask hai jaroori"* emphasizes the basics.
 Strict adherence to preventive measures is vital not just to prevent acute infection but to avoid **Long COVID** (Post-COVID conditions), which can affect multiple organ systems weeks or months after recovery.
 
 ---
+
+---
+**Previous:** [[A 25-year-old person presented in OPD of a primary health centre with cough and fever for one-month,]]  **Next:** [[Mention the objectives of RNTCP. Discuss the new protocol for diagnosing a case of pulmonary tubercu]]

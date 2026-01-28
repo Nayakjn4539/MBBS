@@ -3,10 +3,10 @@ status: pending
 tags: [Geriatrics, Preventive_Medicine, Chronic_Diseases, Senescence, Social_Medicine]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 267
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Geriatrics health problems.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Geriatrics health problems
 
 # Geriatric Health Problems
 
@@ -87,3 +87,4 @@ Mental changes are often an inevitable accompaniment of old age.
 In clinical practice, **polypharmacy** (use of multiple drugs) is a major issue in geriatrics. Interactions between drugs for hypertension, diabetes, and arthritis must be carefully monitored to prevent iatrogenic complications.
 
 ---
+**Previous:** [[Facility based newborn care]]  **Next:** [[Juvenile delinquency]]

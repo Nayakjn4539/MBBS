@@ -3,10 +3,10 @@ status: pending
 tags: [chlorination, water_purification, environmental_health, hypochlorous_acid, break_point_chlorination, residual_chlorine, horrocks_apparatus, public_health]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 315
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Principle of chlorination of water.
+# [[ENVIRONMENT & HEALTH]] > Principle of chlorination of water
 
 # Principle of Chlorination of Water
 
@@ -70,3 +70,4 @@ The correct dose of chlorine to be applied is calculated as:
 *   **R** - **R**esidual chlorine (0.5 mg/L)
 
 ---
+**Previous:** [[Biological treatment of sewage]]  **Next:** [[Hazards of noise pollution]]

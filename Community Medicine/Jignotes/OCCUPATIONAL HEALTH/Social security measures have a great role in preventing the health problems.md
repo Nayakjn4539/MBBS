@@ -3,10 +3,10 @@ status: pending
 tags: [occupational_health, social_security, ESI_Act, preventive_medicine, factories_act, health_legislation]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 364
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Social security measures have a great role in preventing the health problems.
+# [[OCCUPATIONAL HEALTH]] > Social security measures have a great role in preventing the health problems
 
 ### Social Security Measures: The Shield Against Health Problems
 
@@ -113,3 +113,4 @@ Remember **"Dr. Sam Made Deep Red Funeral Obligatory"**
 > Flowchart showing the cycle of Poverty -> Disease -> Disability -> Poverty, and how Social Security cuts through this cycle at each stage
 
 ---
+**Previous:** [[Ergonomics]]  **Next:** [[Periodical examinations are effective in prevention of occupational diseases]]

@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 164
 ---
 
 # [[COMMUNICABLE DISEASES]] > Microfilaria rate
@@ -57,3 +57,4 @@ A patient may have a high Microfilaria Rate in their blood but show **no clinica
 tags: #MicrofilariaRate #LymphaticFilariasis #CommunicableDiseases #PublicHealthIndicators #Epidemiology #NationalHealthPrograms
 
 ---
+**Previous:** [[Xeno diagnosis]]  **Next:** [[Explain meta – zoonosis with examples]]

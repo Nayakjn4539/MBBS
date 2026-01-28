@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, DisabilityPrevention, Rehabilitation, PublicHealth, CommunicableDiseases, MDT, NerveDamage]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 79
 ---
 
 # [[COMMUNICABLE DISEASES]] > Common disabilities seen in case of Leprosy. Various disabilities limiting and rehabilitate measures in Leprosy
@@ -88,3 +88,6 @@ Rehabilitation is the combined use of medical, social, educational, and vocation
 *   **S** - **S**ocial (Community support)
 
 ---
+
+---
+**Previous:** [[Epidemiology, prevention of leprosy. National Leprosy Eradication Programme]]  **Next:** [[Vertical transmission of HIV infection. Various modalities of prevention of vertical transmission un]]

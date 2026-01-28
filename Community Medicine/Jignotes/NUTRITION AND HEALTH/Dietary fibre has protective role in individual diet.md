@@ -3,10 +3,10 @@ status: pending
 tags: [DietaryFibre, Nutrition, NonCommunicableDiseases, PreventiveMedicine, CancerPrevention, GastrointestinalHealth]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 298
 ---
 
-# [[NUTRITION AND HEALTH]] > Dietary fibre has protective role in individual diet.
+# [[NUTRITION AND HEALTH]] > Dietary fibre has protective role in individual diet
 
 ### Definition
 [[Dietary fibre]], also known as non-starch polysaccharides (NSP), constitutes the remnants of the edible part of plants that are resistant to digestion and absorption in the human small intestine. It undergoes complete or partial fermentation in the large intestine. Physiologically, it includes polysaccharides, oligosaccharides, lignin, and associated plant substances.
@@ -64,3 +64,4 @@ To remember the benefits of **FIBRE**:
 *   **E**arly Satiety (Prevents Obesity)
 
 ---
+**Previous:** [[Common homemade oral rehydration solution]]  **Next:** [[Parboiled rice is nutritionally superior to milled rice]]

@@ -3,7 +3,7 @@ status: pending
 tags: [sampling_error, biostatistics, standard_error, research_methodology, epidemiology]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 386
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Sampling error
@@ -60,3 +60,4 @@ To remember how to reduce Sampling Error:
 > Normal distribution curve showing the distribution of sample means around the population mean, illustrating how 95% of samples fall within 2 Standard Errors
 
 ---
+**Previous:** [[Enlist the probability sampling methods. Elaborate on any 2 methods]]  **Next:** [[Test of significances]]

@@ -3,7 +3,7 @@ status: pending
 tags: [JapaneseEncephalitis, Arbovirus, CommunicableDiseases, PublicHealth, VectorControl, Vaccines]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 76
 ---
 
 # [[COMMUNICABLE DISEASES]] > List of arboviral diseases. Explain the epidemiology, clinical features, control of Japanese encephalitis
@@ -103,3 +103,6 @@ Since vectors are outdoor resters (exophilic), indoor residual sprays are **not*
 *   **piggeries:** Should be kept 4–5 km away from villages.
 
 ---
+
+---
+**Previous:** [[Describe in detail the post – exposure prophylaxis of human rabies]]  **Next:** [[Epidemiology of tetanus]]

@@ -3,7 +3,7 @@ status: pending
 tags: [NVBDCP, IntegratedVectorControl, MalariaDrugPolicy2013, ArtemisininCombinationTherapy, PublicHealth, CommunityMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 191
 ---
 
 # [[COMMUNICABLE DISEASES]] > Enumerate diseases under National Vector Borne Disease Control Programme (NVBDCP). Write down a brief note on integrated vector control. Describe in brief the national drug policy 2014 on Malaria.
@@ -105,3 +105,6 @@ The National Drug Policy on Malaria (2013) shifted the focus from presumptive tr
 *[Source: 421]*
 
 ---
+
+---
+**Previous:** [[After attending school picnic, large number of students developed diarrhoea and vomiting within 12 h]]  **Next:** [[A sputum positive pulmonary TB patient was found sputum smear +ve after 5 months of treatment with c]]

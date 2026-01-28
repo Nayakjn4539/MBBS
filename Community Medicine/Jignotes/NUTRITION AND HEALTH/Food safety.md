@@ -3,10 +3,10 @@ status: pending
 tags: [FoodSafety, FoodHygiene, Pasteurization, FoodBorneDiseases, FoodAdulteration, FSSAI, FoodFortification, PublicHealth, Nutrition]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 295
 ---
 
-# [[NUTRITION AND HEALTH]] > Food safety.
+# [[NUTRITION AND HEALTH]] > Food safety
 
 ### **Food Safety and Hygiene**
 
@@ -117,3 +117,4 @@ Specific toxins causing public health problems in India:
 *   **Salmonellosis:** Longer incubation (12-24 hrs), fever present, diarrhea. Associated with poultry/eggs.
 
 ---
+**Previous:** [[Pasteurization of milk]]  **Next:** [[Spectrum of iodine deficiency disorders]]

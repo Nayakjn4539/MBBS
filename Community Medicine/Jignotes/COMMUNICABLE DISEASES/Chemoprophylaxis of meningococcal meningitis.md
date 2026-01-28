@@ -3,7 +3,7 @@ status: pending
 tags: [MeningococcalMeningitis, Chemoprophylaxis, Rifampicin, CommunicableDiseases, PublicHealth, Carriers]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 149
 ---
 
 # [[COMMUNICABLE DISEASES]] > Chemoprophylaxis of meningococcal meningitis
@@ -65,3 +65,4 @@ To remember the drugs for prophylaxis: **"R**omeo **C**alls **C**aesar **A**t **
 *   **M** - **M**inocycline
 
 ---
+**Previous:** [[Pentavalent Vaccine]]  **Next:** [[Drug supply for management of paediatric TB under RNTCP]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Triage, DisasterManagement, START, ColorCoding, EmergencyMedicine]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 344
 ---
 
-# [[DISASTER MANAGEMENT]] > Triage.
+# [[DISASTER MANAGEMENT]] > Triage
 
 ### Definition and Concept
 The word **Triage** is derived from the French word *"Trier"*, which means to sort, select, or categorize. In the context of [[Disaster Management]], it is defined as the process of rapidly classifying the injured on the basis of the **severity of their injuries** and the **likelihood of their survival** with prompt medical intervention.
@@ -64,3 +64,4 @@ To remember the priority order and colors: **"Run You Green Boy"**
 *   **B**oy = **B**lack (Dead/Moribund)
 
 ---
+**Previous:** [[Vaccination in disaster]]  **Next:** [[Disaster cycle]]

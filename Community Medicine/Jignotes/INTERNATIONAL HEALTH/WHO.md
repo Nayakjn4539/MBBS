@@ -3,7 +3,7 @@ status: pending
 tags: [WHO, WorldHealthOrganization, InternationalHealth, PublicHealth, SEARO, HealthForAll, WorldHealthDay, UNAgencies]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 467
 ---
 
 # [[INTERNATIONAL HEALTH]] > WHO
@@ -117,3 +117,4 @@ WHO has established six regional organizations to meet special health needs of d
 *   **Growth Charts:** The WHO Child Growth Standards are used globally to monitor the nutritional status of children,.
 
 ---
+**Previous:** [[Functions of WHO]]  **Next:** [[Functions of UNICEF]]

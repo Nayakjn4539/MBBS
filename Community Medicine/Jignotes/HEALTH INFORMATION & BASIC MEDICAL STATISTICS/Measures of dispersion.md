@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, StandardDeviation, NormalDistribution, MeasuresOfDispersion, CoefficientOfVariation, PublicHealth]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 382
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Measures of dispersion
@@ -90,3 +90,4 @@ In a normal curve, the SD defines the limits of normality:
 3.  **Quality Control:** SD is used to monitor laboratory equipment accuracy (Levy Jennings chart).
 
 ---
+**Previous:** [[Standard deviation]]  **Next:** [[Normal curve vs normal distribution]]

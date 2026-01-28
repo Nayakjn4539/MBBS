@@ -3,10 +3,10 @@ status: pending
 tags: [Tuberculosis, SputumSmear, AcidFastBacilli, RNTCP, NTEP, ZNStaining, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 205
 ---
 
-# [[COMMUNICABLE DISEASES]] > Sputum smear examination is the method of choice for finding in TB.
+# [[COMMUNICABLE DISEASES]] > Sputum smear examination is the method of choice for finding in TB
 
 **Sputum smear examination** is widely considered the **method of choice for case finding** in [[Pulmonary Tuberculosis]] (PTB),.
 
@@ -78,3 +78,4 @@ While ZN staining is the classic method, the program is upgrading to:
 *   **Resist Acid:** Acid-fast nature (Decolorizer is H2SO4).
 
 ---
+**Previous:** [[Rehabilitation is an integral part of leprosy control]]  **Next:** [[Hepatitis B infection should be considered more dangerous than HIV infection]]

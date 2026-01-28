@@ -3,7 +3,7 @@ status: pending
 tags: [NPCBVI, Blindness, Cataract, PublicHealth, CommunityOphthalmology, Vision2020]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 219
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > Enumerate major causes of blindness in India. Outline the strategies adopted for control blindness under National Programme.
@@ -85,3 +85,6 @@ The program follows a 3-tier structure for service delivery:
 *   To align with global standards, India changed the definition of blindness under the programme from visual acuity **<6/60** to **<3/60** in the better eye. This helps in prioritizing the "socially blind" who need rehabilitation most urgently.
 
 ---
+
+---
+**Previous:** [[Enumerate the different vector borne diseases. Describe the principle of vector control programme ac]]  **Next:** [[Laboratory network under RNTCP]]

@@ -3,7 +3,7 @@ status: pending
 tags: [Blanket_Treatment, Mass_Drug_Administration, Trachoma, Yaws, Filariasis, Public_Health, Communicable_Diseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 172
 ---
 
 # [[COMMUNICABLE DISEASES]] > Blanket treatment
@@ -81,3 +81,4 @@ To remember diseases using Blanket Treatment: **"T**he **M**ass **F**ly **Y**ell
 > Iceberg Phenomenon of Disease - illustrating clinical cases above water and larger portion of latent/subclinical cases underwater, justifying the need to treat the whole 'block' of water/population
 
 ---
+**Previous:** [[Environmental factors in trachoma]]  **Next:** [[Immunity categories in tetanus]]

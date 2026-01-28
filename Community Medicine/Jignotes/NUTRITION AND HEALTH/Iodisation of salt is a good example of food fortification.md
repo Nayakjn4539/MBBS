@@ -3,10 +3,10 @@ status: pending
 tags: [FoodFortification, IodisedSalt, IDD, PublicHealthNutrition, PreventiveMedicine, NIDDCP, IronDeficiencyAnemia]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 300
 ---
 
-# [[NUTRITION AND HEALTH]] > Iodisation of salt is a good example of food fortification.
+# [[NUTRITION AND HEALTH]] > Iodisation of salt is a good example of food fortification
 
 ### Iodisation of Salt: A Classic Example of Food Fortification
 
@@ -63,3 +63,4 @@ The primary objective is the prevention and control of [[Iodine Deficiency Disor
 > Flowchart showing the supply chain of salt from production (30 ppm) -> Transport -> Retail -> Household consumption (15 ppm) -> Prevention of Goiter/Cretinism
 
 ---
+**Previous:** [[Parboiled rice is nutritionally superior to milled rice]]  **Next:** [[Vitamin A deficiency is related to many ocular & extra ocular manifestations]]

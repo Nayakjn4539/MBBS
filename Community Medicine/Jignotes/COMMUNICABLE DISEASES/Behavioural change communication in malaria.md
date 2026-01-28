@@ -3,7 +3,7 @@ status: pending
 tags: [BCC, Malaria, NVBDCP, HealthCommunication, VectorControl, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 161
 ---
 
 # [[COMMUNICABLE DISEASES]] > Behavioural change communication in malaria
@@ -66,3 +66,4 @@ The process of BCC moves a person through specific stages to achieve a sustainab
 Effective BCC is critical because medical technology (drugs/sprays) alone is often ineffective if people do not accept it. For example, IRS is useless if villagers refuse to let spray teams enter their homes, and drugs fail if patients stop taking them once symptoms subside. BCC bridges the gap between available technology and its actual utilization by the community.
 
 ---
+**Previous:** [[Annual parasite incidence [API]]]  **Next:** [[DEC – Provocative test]]

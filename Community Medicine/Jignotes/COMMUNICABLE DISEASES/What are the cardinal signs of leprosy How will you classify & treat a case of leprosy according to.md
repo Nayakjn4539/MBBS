@@ -3,7 +3,7 @@ status: pending
 tags: [leprosy, NLEP, MDT, communicable_diseases, dermatology, public_health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 187
 ---
 
 # [[COMMUNICABLE DISEASES]] > What are the cardinal signs of leprosy? How will you classify & treat a case of leprosy according to NLEP guidelines? What are the important complications of leprosy?
@@ -114,3 +114,6 @@ These are acute inflammatory episodes occurring during the chronic course of the
 **Important:** **Never stop MDT** during a lepra reaction.
 
 ---
+
+---
+**Previous:** [[A case of dog bite has reported to your health centre. How will you categorize the dog bite injury D]]  **Next:** [[There has been a report of deaths owing to Dengue in your district Hospital. How will you manage the]]

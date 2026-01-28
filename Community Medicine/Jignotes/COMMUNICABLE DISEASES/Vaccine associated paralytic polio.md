@@ -3,7 +3,7 @@ status: pending
 tags: [VAPP, Polio, Immunization, OPV, IPV, CommunicableDiseases, AFPSurveillance, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 96
 ---
 
 # [[COMMUNICABLE DISEASES]] > Vaccine associated paralytic polio
@@ -75,3 +75,4 @@ The risk of VAPP (specifically Type 2) outweighed the benefit once Wild Polio Ty
 *   **Contraindication:** OPV is contraindicated in immunocompromised children (and their siblings) to prevent VAPP. IPV should be used instead.
 
 ---
+**Previous:** [[Acute flaccid paralysis]]  **Next:** [[Strategies for polio eradication in India]]

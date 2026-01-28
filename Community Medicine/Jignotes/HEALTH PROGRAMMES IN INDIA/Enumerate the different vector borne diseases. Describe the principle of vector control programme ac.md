@@ -3,7 +3,7 @@ status: pending
 tags: [NVBDCP, IntegratedVectorManagement, Malaria, Dengue, KalaAzar, JapaneseEncephalitis, Filariasis, Chikungunya, PublicHealth]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 218
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > Enumerate the different vector borne diseases. Describe the principle of vector control programme according to the existing National Programme.
@@ -77,3 +77,6 @@ Preventing man-vector contact.
 *   **Filaria:** *Culex* breeds in **dirty/polluted water**. Control focuses on larvicides and hygiene.
 
 ---
+
+---
+**Previous:** [[Mention the package of services under RCH programme. Outline as to how the services are provided thr]]  **Next:** [[Enumerate major causes of blindness in India. Outline the strategies adopted for control blindness u]]

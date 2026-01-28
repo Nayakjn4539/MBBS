@@ -3,10 +3,10 @@ status: pending
 tags: [IodineDeficiencyDisorders, IDD, Goitre, Cretinism, PreventiveMedicine, Nutrition, PublicHealth]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 296
 ---
 
-# [[NUTRITION AND HEALTH]] > Spectrum of iodine deficiency disorders.
+# [[NUTRITION AND HEALTH]] > Spectrum of iodine deficiency disorders
 
 # Spectrum of Iodine Deficiency Disorders (IDD)
 
@@ -64,3 +64,4 @@ To remember the effects from Fetus to Adult: **"Fetus Needs Crazy Amounts"**
 > Flowchart showing the cycle of Iodine Deficiency starting from low soil iodine -> low iodine in food -> low intake -> Reduced T4/T3 -> Increased TSH -> Thyroid Enlargement (Goitre)
 
 ---
+**Previous:** [[Food safety]]  **Next:** [[Common homemade oral rehydration solution]]

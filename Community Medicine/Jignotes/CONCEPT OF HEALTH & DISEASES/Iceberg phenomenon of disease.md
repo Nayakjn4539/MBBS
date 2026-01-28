@@ -3,10 +3,10 @@ status: pending
 tags: [IcebergPhenomenon, Epidemiology, PublicHealth, Screening, ClinicalCases, SubclinicalInfection]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 10
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Iceberg phenomenon of disease.
+# [[CONCEPT OF HEALTH & DISEASES]] > Iceberg phenomenon of disease
 
 # Iceberg Phenomenon of Disease
 
@@ -88,3 +88,4 @@ To remember diseases that **DO NOT** show the Iceberg Phenomenon (The exceptions
 *(Think: These diseases are like a train wreck—very visible and hard to miss!)*
 
 ---
+**Previous:** [[Human development Index]]  **Next:** [[Sources of health information]]

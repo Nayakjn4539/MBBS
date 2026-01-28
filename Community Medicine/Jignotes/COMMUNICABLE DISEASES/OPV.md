@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 98
 ---
 
 # [[COMMUNICABLE DISEASES]] > OPV
@@ -105,3 +105,4 @@ Globally, **tOPV** (Trivalent) was switched to **bOPV** (Bivalent: Types 1 & 3).
 tags: #OPV #Poliomyelitis #Vaccines #ColdChain #CommunityMedicine #SabinVaccine #VVM
 
 ---
+**Previous:** [[Strategies for polio eradication in India]]  **Next:** [[National Intensified Pulse Polio Immunisation Programme]]

@@ -3,7 +3,7 @@ status: pending
 tags: [BiomedicalWasteManagement, BMWRules2016, ColorCoding, InfectionControl, HospitalWaste, Segregation]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 335
 ---
 
 # [[HOSPITAL WASTE MANAGEMENT]] > There are 4 types of colour coding bags as per biomedical waste management rule 2016, amended in 2018.
@@ -106,3 +106,6 @@ This category is for **glassware** and metallic implants. The container is usual
 > 4 colored bins (Yellow, Red, White, Blue) with representative waste items falling into each
 
 ---
+
+---
+**Previous:** [[Biomedical waste should be segregated at source]]  **Next:** [[Injection safety is important for the recipient, provider, and community]]

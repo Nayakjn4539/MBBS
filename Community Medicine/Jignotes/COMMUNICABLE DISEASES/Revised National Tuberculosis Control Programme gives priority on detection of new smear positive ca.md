@@ -3,7 +3,7 @@ status: pending
 tags: [RNTCP, NTEP, Tuberculosis, SputumSmearMicroscopy, Epidemiology, DOTS]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 208
 ---
 
 # [[COMMUNICABLE DISEASES]] > Revised National Tuberculosis Control Programme gives priority on detection of new smear positive cases.
@@ -52,3 +52,6 @@ Chest X-rays are non-specific. Relying on X-rays alone leads to over-diagnosis. 
 | **Priority** | All TB cases | **New Smear-Positive Cases** |,
 
 ---
+
+---
+**Previous:** [[All influenza pandemics are caused by influenza A and not by B or C]]  **Next:** [[Vitamin A supplementation is necessary after Measles infection]]

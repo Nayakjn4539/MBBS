@@ -3,10 +3,10 @@ status: pending
 tags: [KangarooMotherCare, KMC, LowBirthWeight, Neonatology, PreventivePaediatrics, Hypothermia, Breastfeeding, MCH]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 272
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Kangaroo care.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Kangaroo care
 
 ### Kangaroo Mother Care (KMC)
 
@@ -91,3 +91,4 @@ KMC acts as a **"Natural Incubator"**.
     *   Mother is confident in handling the baby.
 
 ---
+**Previous:** [[Child labour]]  **Next:** [[Home based neonatal care is an essential intervention in preventing neonatal death]]

@@ -3,7 +3,7 @@ status: pending
 tags: [Epidemiology, StudyDesigns, IncubationPeriod, TimeTrends, Epidemics, Surveillance]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 28
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Enlist the types of epidemiological studies. Discuss the importance of incubation period in epidemiological studies. Describe different time trends in disease occurrence.
@@ -91,3 +91,6 @@ This refers to the occurrence of cases clearly in excess of normal expectancy.
 Understanding time trends is vital for **[[Surveillance]]**. A rise in cases beyond the "normal expectancy" (calculated from previous years' data) triggers an epidemic investigation.
 
 ---
+
+---
+**Previous:** [[Give a step-by-step description of how to conduct a descriptive cross-sectional study to assess the]]  **Next:** [[Define epidemiology. How can you estimate the disease risk in case control study What are the biases]]

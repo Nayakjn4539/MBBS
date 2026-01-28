@@ -3,10 +3,10 @@ status: pending
 tags: [Primary_Health_Care, Health_Care_Delivery, Evaluation_of_Health_Services, Community_Medicine, Health_Management]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 448
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Accessibility can't be equated with acceptability of health services.
+# [[HEALTH CARE OF THE COMMUNITY]] > Accessibility can't be equated with acceptability of health services
 
 **Accessibility** and **Acceptability** are two distinct hallmarks of [[Primary Health Care]] and key parameters for the [[Evaluation of Health Services]]. While often used together, they address fundamentally different barriers to health utilization.
 
@@ -50,3 +50,4 @@ To remember the hallmarks of [[Primary Health Care]]: **The 4 A's**
 > Venn diagram showing Health Service Utilization as the intersection of Availability, Accessibility, and Acceptability
 
 ---
+**Previous:** [[Community participation is essential for Success of public health programme]]  **Next:** [[Networking with voluntary health agencies plays an important role in health care delivery]]

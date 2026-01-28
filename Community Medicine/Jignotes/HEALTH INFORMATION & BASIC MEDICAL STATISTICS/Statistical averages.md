@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, MeasuresOfCentralTendency, MeanMedianMode, NormalDistribution, PublicHealthStatistics]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 378
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Statistical averages
@@ -102,3 +102,4 @@ The relationship between Mean, Median, and Mode determines the shape of the freq
 *   **Mode**: **Mo**de is **Mo**st Popular (most frequent).
 
 ---
+**Previous:** [[Histogram]]  **Next:** [[Measure of central tendency]]

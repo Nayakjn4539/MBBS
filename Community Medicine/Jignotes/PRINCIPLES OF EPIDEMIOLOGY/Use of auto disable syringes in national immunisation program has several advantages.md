@@ -3,10 +3,10 @@ status: pending
 tags: [AutoDisableSyringes, UniversalImmunizationProgramme, InjectionSafety, BiomedicalWasteManagement, Epidemiology]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 43
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Use of auto disable syringes in national immunisation program has several advantages.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Use of auto disable syringes in national immunisation program has several advantages
 
 ### Use of Auto-Disable (AD) Syringes in National Immunization Program
 
@@ -68,3 +68,4 @@ The advantage of AD syringes is incomplete without safe disposal. The disposal w
 *   **S** - **S**afety Pit disposal (via Hub Cutter).
 
 ---
+**Previous:** [[Carriers, though less infectious are epidemiologically dangerous]]  **Next:** [[Significance of a false positive screening test]]

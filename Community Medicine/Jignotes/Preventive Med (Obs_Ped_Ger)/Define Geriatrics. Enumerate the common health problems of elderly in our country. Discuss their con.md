@@ -3,7 +3,7 @@ status: pending
 tags: [geriatrics, preventive_medicine, NPHCE, elderly_health, levels_of_prevention]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 253
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Define Geriatrics. Enumerate the common health problems of elderly in our country. Discuss their control and preventive measures.
@@ -105,3 +105,6 @@ Aims to limit disability and promote rehabilitation.
 **Polypharmacy:** Elderly patients often suffer from multiple co-morbidities leading to the prescription of multiple drugs. This increases the risk of adverse drug reactions and interactions. Physicians must practice rational prescribing in geriatrics.
 
 ---
+
+---
+**Previous:** [[Define perinatal mortality rate. Mention the different causes of perinatal mortality in India. What]]  **Next:** [[Define infant mortality rate (IMR). Mention important cause of IMR. Describe important socio-cultura]]

@@ -3,7 +3,7 @@ status: pending
 tags: [CoupleProtectionRate, FamilyPlanning, CommunityNeedsAssessment, ContraceptiveMethods, NationalHealthMission, BMOHInterventions]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 422
 ---
 
 # [[HEALTH PLANNING & MANAGEMENT]] > In a block 40% of eligible couples are protected by modern contraceptive methods. As a BMOH outline the intervention to improve the situation.
@@ -68,3 +68,6 @@ While increasing CPR, the BMOH must ensure staff uses the **WHO MEC Wheel** to a
 *   **W** - **W**elfare/Incentives (Timely payments).
 
 ---
+
+---
+**Previous:** [[Immunisation dropouts and left outs are found to be quite high for consecutive years in a block. Men]]  **Next:** [[Maternal mortality ratio in a block is found to be persistently high. As a BMOH outline the Investig]]

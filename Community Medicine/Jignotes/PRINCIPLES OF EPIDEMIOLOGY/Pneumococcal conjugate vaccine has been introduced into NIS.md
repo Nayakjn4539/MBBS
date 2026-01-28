@@ -3,10 +3,10 @@ status: pending
 tags: [PCV, Universal_Immunization_Programme, Pneumonia, Vaccines, Community_Medicine]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 39
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Pneumococcal conjugate vaccine has been introduced into NIS.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Pneumococcal conjugate vaccine has been introduced into NIS
 
 ### **Introduction of Pneumococcal Conjugate Vaccine (PCV) in NIS**
 
@@ -62,3 +62,4 @@ Pneumonia is a leading cause of under-five mortality in India. The introduction 
 *   **Respiration:** Protects against **Respiratory** infection (Pneumonia).
 
 ---
+**Previous:** [[Bias and confounding are not synonymous]]  **Next:** [[Natural history of disease is best established by cohort study]]

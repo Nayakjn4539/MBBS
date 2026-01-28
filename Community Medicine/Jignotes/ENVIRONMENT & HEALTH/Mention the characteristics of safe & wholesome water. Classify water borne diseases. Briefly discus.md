@@ -3,7 +3,7 @@ status: pending
 tags: [water_purification, water_borne_diseases, environmental_health, chlorination, public_health]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 310
 ---
 
 # [[ENVIRONMENT & HEALTH]] > Mention the characteristics of safe & wholesome water. Classify water borne diseases. Briefly discuss the three methods for water purification at household level.
@@ -90,3 +90,6 @@ Water can be purified using ceramic filters.
 > schematic of a Berkefeld filter showing the candle mechanism
 
 ---
+
+---
+**Previous:** [[Enumerate the sources of air pollution. Name any four air pollutants. Describe the effects of air po]]  **Next:** [[What are the causes of air pollution Mention its effects on human health. How air pollution can be p]]

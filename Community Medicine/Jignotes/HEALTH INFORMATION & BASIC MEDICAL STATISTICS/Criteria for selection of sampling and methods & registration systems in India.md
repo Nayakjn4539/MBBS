@@ -3,7 +3,7 @@ status: pending
 tags: [Sampling_Methods, Civil_Registration_System, Sample_Registration_System, Biostatistics, Vital_Statistics, SRS, CRS]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 389
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Criteria for selection of sampling and methods & registration systems in India
@@ -90,3 +90,4 @@ In India, health information is primarily gathered through routine registration 
 > *   **Registration:** Accurate death certification (mentioning the **Underlying Cause of Death**) by interns and doctors is crucial. This data drives national health policy and funding allocation.
 
 ---
+**Previous:** [[Sampling methods]]  **Next:** [[Describe the steps of chi square test with example]]

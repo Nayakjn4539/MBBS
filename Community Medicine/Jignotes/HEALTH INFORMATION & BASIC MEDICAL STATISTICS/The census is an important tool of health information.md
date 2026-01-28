@@ -3,10 +3,10 @@ status: pending
 tags: [census, health_information_system, demography, vital_statistics, biostatistics]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 412
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > The census is an important tool of health information.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > The census is an important tool of health information
 
 # The Census: An Important Tool of Health Information
 
@@ -84,3 +84,4 @@ Despite being massive, the census has limitations,:
 For a **Medical Officer** or **Community Physician**, census data is vital for **[[Community Diagnosis]]**. It helps identify high-risk groups (e.g., low literacy areas, skewed sex ratios) and allows for the calculation of specific morbidity and mortality rates required to prioritize health interventions in their specific block or district,.
 
 ---
+**Previous:** [[For small samples, median is a better measure of central tendency than mean]]  **Next:** [[The terms 'normal curve' and 'standard normal curve' are not synonymous]]

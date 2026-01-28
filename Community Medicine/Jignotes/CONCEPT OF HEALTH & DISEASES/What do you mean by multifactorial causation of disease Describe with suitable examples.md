@@ -3,10 +3,10 @@ status: pending
 tags: [MultifactorialCausation, WebOfCausation, Epidemiology, RiskFactors, Pettenkofer, SocialMedicine]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 8
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > What do you mean by multifactorial causation of disease? Describe with suitable examples.
+# [[CONCEPT OF HEALTH & DISEASES]] > What do you mean by multifactorial causation of disease Describe with suitable examples
 
 # Multifactorial Causation of Disease
 
@@ -96,3 +96,4 @@ Even infectious diseases follow multifactorial causation. The Tubercle bacillus 
 *   **H** - **H**ypertension / **H**eredity
 
 ---
+**Previous:** [[Describe the natural history of disease, briefly discuss the different levels of prevention and mode]]  **Next:** [[Human development Index]]

@@ -3,10 +3,10 @@ status: pending
 tags: [CommunityParticipation, PrimaryHealthCare, ASHA, PublicHealth, HealthCareDelivery, RogiKalyanSamiti, SocialMedicine]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 447
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Community participation is essential for Success of public health programme.
+# [[HEALTH CARE OF THE COMMUNITY]] > Community participation is essential for Success of public health programme
 
 ### Community Participation in Health Care
 
@@ -97,3 +97,4 @@ Despite its importance, achieving true participation is difficult due to:
 > Flowchart showing the relationship between the Community (Gram Sabha), the Village Health Sanitation and Nutrition Committee (VHSNC), and the Health System (Sub-centre/PHC)
 
 ---
+**Previous:** [[Equitable distribution of health services is an important principle of primary health care]]  **Next:** [[Accessibility can't be equated with acceptability of health services]]

@@ -3,10 +3,10 @@ status: pending
 tags: [occupational_health, periodical_examination, secondary_prevention, lead_poisoning, pneumoconiosis, factories_act_1948]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 365
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Periodical examinations are effective in prevention of occupational diseases.
+# [[OCCUPATIONAL HEALTH]] > Periodical examinations are effective in prevention of occupational diseases
 
 ### Periodical Examinations in Occupational Health
 
@@ -63,3 +63,4 @@ If a worker is found to be suffering from an occupational disease or shows early
 *   **A**nnual: **A**ll others (General)
 
 ---
+**Previous:** [[Social security measures have a great role in preventing the health problems]]  **Next:** [[A farmer may suffer from various occupational hazards]]

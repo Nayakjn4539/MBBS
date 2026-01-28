@@ -3,7 +3,7 @@ status: pending
 tags: [tetanus, epidemiology, communicable_diseases, immunization, neonatal_tetanus, wound_management]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 77
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology of tetanus
@@ -119,3 +119,4 @@ Strategies focus on clean delivery practices known as the **"5 Cleans"** (someti
 > Flowchart showing the Wound Management Strategy (Immunity Category A, B, C, D) is highly recommended for exams
 
 ---
+**Previous:** [[List of arboviral diseases. Explain the epidemiology, clinical features, control of Japanese encepha]]  **Next:** [[Epidemiology, prevention of leprosy. National Leprosy Eradication Programme]]

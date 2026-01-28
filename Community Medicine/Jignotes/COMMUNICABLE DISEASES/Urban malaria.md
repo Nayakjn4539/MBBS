@@ -3,7 +3,7 @@ status: pending
 tags: [UrbanMalaria, AnophelesStephensi, UrbanMalariaScheme, VectorControl, PublicHealth, CommunicableDiseases, PSM]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 158
 ---
 
 # [[COMMUNICABLE DISEASES]] > Urban malaria
@@ -91,3 +91,4 @@ Unlike rural malaria control which often relies on Indoor Residual Spraying (IRS
 *   **S**tephensi (*Anopheles stephensi* vector)
 
 ---
+**Previous:** [[Chandler’s index]]  **Next:** [[Manmade malaria]]

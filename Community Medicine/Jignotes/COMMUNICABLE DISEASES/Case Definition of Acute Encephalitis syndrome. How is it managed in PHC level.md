@@ -3,10 +3,10 @@ status: pending
 tags: [AcuteEncephalitisSyndrome, JapaneseEncephalitis, CommunicableDiseases, PHCManagement, NationalVectorBorneDiseaseControlProgramme, CaseDefinition]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 121
 ---
 
-# [[COMMUNICABLE DISEASES]] > Case Definition of Acute Encephalitis syndrome. How is it managed in PHC level?
+# [[COMMUNICABLE DISEASES]] > Case Definition of Acute Encephalitis syndrome. How is it managed in PHC level
 
 ### Case Definition of Acute Encephalitis Syndrome (AES)
 
@@ -75,3 +75,4 @@ Refer the patient **URGENTLY** to the nearest First Referral Unit (FRU) or Distr
 *   **P** - **P**osition (Lateral/Prone) & **P**rompt Referral.
 
 ---
+**Previous:** [[Control of JE]]  **Next:** [[Epidemiology of Leptospirosis]]

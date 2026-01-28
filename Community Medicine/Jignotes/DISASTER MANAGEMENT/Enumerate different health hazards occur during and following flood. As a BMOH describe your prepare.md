@@ -3,7 +3,7 @@ status: pending
 tags: [DisasterManagement, FloodHazards, Epidemiology, PreventiveMedicine, PublicHealth, BMOHResponsibilities]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 340
 ---
 
 # [[DISASTER MANAGEMENT]] > Enumerate different health hazards occur during and following flood. As a BMOH describe your preparedness plan to mitigate such hazards in future.
@@ -93,3 +93,6 @@ In flood situations, a patient presenting with fever, myalgia (specifically calf
 *   **S**kin & Respiratory infections
 
 ---
+
+---
+**Previous:** [[What do you mean by 'Disaster' What are common causes of disaster As a BMOH of a cyclone prone block]]  **Next:** [[What is disaster What are aspects of disaster management Outline the management aspect of disaster i]]

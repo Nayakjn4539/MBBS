@@ -3,10 +3,10 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 41
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Pulse polio program is still going on.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Pulse polio program is still going on
 
 ### **Pulse Polio Programme: Status and Rationale**
 
@@ -59,3 +59,4 @@ The program is supported by a robust surveillance system, specifically for **Acu
 tags: #PulsePolioImmunization #Poliomyelitis #EradicationStrategy #Vaccines #PublicHealth
 
 ---
+**Previous:** [[Natural history of disease is best established by cohort study]]  **Next:** [[Carriers, though less infectious are epidemiologically dangerous]]

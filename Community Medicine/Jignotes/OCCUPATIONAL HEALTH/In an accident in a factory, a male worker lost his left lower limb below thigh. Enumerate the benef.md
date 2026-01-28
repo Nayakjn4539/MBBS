@@ -3,7 +3,7 @@ status: pending
 tags: [ESI_Act_1948, Occupational_Health, Disablement_Benefit, Industrial_Accidents, Social_Security, Factory_Act_1948, Rehabilitation]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 354
 ---
 
 # [[OCCUPATIONAL HEALTH]] > In an accident in a factory, a male worker lost his left lower limb below thigh. Enumerate the benefits he is entitled to under ESI Act. In case of death of the worker what are the benefits his family is entitled to get? What are the steps to be taken to prevent future occurrence?
@@ -79,3 +79,6 @@ Prevention requires a multidisciplinary approach involving medical, engineering,
 > Flowchart showing the triad of accident prevention: Human Factors (Host) <-> Environmental Factors (Environment) <-> Agent Factors (Machine/Chemical)
 
 ---
+
+---
+**Previous:** [[What are the eligibility criteria for enrolment in ESI Scheme Describe the benefits under ESI Scheme]]  **Next:** [[What are the eligibility criteria for enrolment in ESI scheme Write in brief the benefits available]]

@@ -3,10 +3,10 @@ status: pending
 tags: [PNDT_Act, female_feticide, sex_ratio, Form_F, medical_law, community_medicine]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 269
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > PNDT Act.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > PNDT Act
 
 ### THE PRE-CONCEPTION AND PRE-NATAL DIAGNOSTIC TECHNIQUES (PROHIBITION OF SEX SELECTION) ACT, 1994 (PC-PNDT ACT)
 
@@ -93,3 +93,4 @@ The Act is a cognizable, non-bailable, and non-compoundable offense.
 Strict adherence to the PNDT Act is crucial in clinical practice. A doctor must ensure that no verbal or non-verbal cues regarding the sex of the fetus are communicated during an antenatal ultrasound. Incomplete filling of **Form F** is one of the most common reasons for clinics being sealed by the authorities.
 
 ---
+**Previous:** [[Juvenile delinquency]]  **Next:** [[Health problems of Geriatric population]]

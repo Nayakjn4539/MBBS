@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 134
 ---
 
 # [[COMMUNICABLE DISEASES]] > MDT for Leprosy
@@ -98,3 +98,4 @@ After completion of treatment, patients are monitored for relapse,,:
 tags: #MDT #Leprosy #NLEP #Rifampicin #Dapsone #Clofazimine #CommunityMedicine #PSM
 
 ---
+**Previous:** [[Elimination of Leprosy]]  **Next:** [[Tertiary Preventive measures for leprosy]]

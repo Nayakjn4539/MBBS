@@ -3,7 +3,7 @@ status: pending
 tags: [Dengue, DHF, CommunicableDiseases, FluidManagement, ShockSyndrome, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 69
 ---
 
 # [[COMMUNICABLE DISEASES]] > Management of Dengue Haemorrhagic fever
@@ -101,3 +101,4 @@ Patients can be discharged when they meet the following criteria:
 *   No respiratory distress from pleural effusion/ascites.
 
 ---
+**Previous:** [[Classify Arbo Viral diseases. Epidemiology, control of Dengue fever]]  **Next:** [[Epidemiology of malaria. Add a note on Nation Programme on Malaria]]

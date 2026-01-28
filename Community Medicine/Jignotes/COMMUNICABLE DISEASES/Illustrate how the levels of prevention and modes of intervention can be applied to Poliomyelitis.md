@@ -3,10 +3,10 @@ status: pending
 tags: [Poliomyelitis, LevelsOfPrevention, Immunization, AFPSurveillance, Rehabilitation, CommunityMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 197
 ---
 
-# [[COMMUNICABLE DISEASES]] > Illustrate how the levels of prevention and modes of intervention can be applied to Poliomyelitis.
+# [[COMMUNICABLE DISEASES]] > Illustrate how the levels of prevention and modes of intervention can be applied to Poliomyelitis
 
 ### Levels of Prevention and Modes of Intervention in Poliomyelitis
 
@@ -84,3 +84,4 @@ Combined use of medical, social, educational, and vocational measures.
 | | **Rehabilitation** | Callipers, crutches, reconstructive surgery,. |
 
 ---
+**Previous:** [[Cases of adverse events following immunisation are being reported. How are AEFI classified Describe]]  **Next:** [[Intra-dermal rabies vaccination]]

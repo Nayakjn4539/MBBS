@@ -3,7 +3,7 @@ status: pending
 tags: [DisasterManagement, Triage, Floods, Epidemiology, PublicHealth]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 341
 ---
 
 # [[DISASTER MANAGEMENT]] > What is disaster? What are aspects of disaster management? Outline the management aspect of disaster impact in a flood prone area.
@@ -98,3 +98,6 @@ In mass casualties, the principle of "first come, first treated" is **NOT** foll
 *   Food safety must be monitored to prevent food poisoning outbreaks in camps.
 
 ---
+
+---
+**Previous:** [[Enumerate different health hazards occur during and following flood. As a BMOH describe your prepare]]  **Next:** [[Disaster preparedness]]

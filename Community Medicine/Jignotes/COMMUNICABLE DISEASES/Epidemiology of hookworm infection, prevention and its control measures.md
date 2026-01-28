@@ -3,7 +3,7 @@ status: pending
 tags: [Hookworm, Ancylostomiasis, ChandlersIndex, CommunicableDiseases, PublicHealth, Helminthiasis, IronDeficiencyAnemia]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 67
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology of hookworm infection, prevention and its control measures
@@ -119,3 +119,4 @@ The strategy involves a multi-pronged approach:
     *   Dietary improvement (Protein and Vitamin C rich diet).
 
 ---
+**Previous:** [[Epidemiology, prevention and control of Ancylostomiasis]]  **Next:** [[Classify Arbo Viral diseases. Epidemiology, control of Dengue fever]]

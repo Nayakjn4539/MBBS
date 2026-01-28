@@ -3,7 +3,7 @@ status: pending
 tags: [HealthEducation, MeaslesRubellaCampaign, UniversalImmunizationProgramme, CommunityMedicine, VaccinationStrategy, IEC]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 189
 ---
 
 # [[COMMUNICABLE DISEASES]] > Vaccination campaign against Measles and Rubella is going to start in a block. Prepare appropriate health education plan for this campaign.
@@ -92,3 +92,6 @@ A mix of approaches is required to reach all strata of the block.
 *   **Feedback:** Rapid coverage survey (30-cluster survey) to assess if messages reached the target audience.
 
 ---
+
+---
+**Previous:** [[There has been a report of deaths owing to Dengue in your district Hospital. How will you manage the]]  **Next:** [[After attending school picnic, large number of students developed diarrhoea and vomiting within 12 h]]

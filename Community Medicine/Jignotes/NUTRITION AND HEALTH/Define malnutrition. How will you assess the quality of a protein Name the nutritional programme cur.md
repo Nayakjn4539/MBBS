@@ -3,7 +3,7 @@ status: pending
 tags: [Malnutrition, ProteinQuality, NPU, ICDS, Anganwadi, NutritionProgrammes, CommunityMedicine, PublicHealth]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 285
 ---
 
 # [[NUTRITION AND HEALTH]] > Define malnutrition. How will you assess the quality of a protein? Name the nutritional programme currently available in India. Discuss any one of them.
@@ -110,3 +110,6 @@ Food is provided for **300 days** in a year.
 *   **R** - Referral Services
 
 ---
+
+---
+**Previous:** [[What is a balanced diet Enumerate different nutritional problems prevalent in India. How primary pre]]  **Next:** [[Enumerate four major nutritional problems in our country. How would you assess the nutritional statu]]

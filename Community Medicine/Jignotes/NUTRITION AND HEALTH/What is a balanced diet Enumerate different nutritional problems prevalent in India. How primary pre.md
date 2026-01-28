@@ -3,7 +3,7 @@ status: pending
 tags: [BalancedDiet, NutritionalProblems, PEM, PrimaryPrevention, CommunityMedicine, PublicHealth, Malnutrition]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 284
 ---
 
 # [[NUTRITION AND HEALTH]] > What is a balanced diet? Enumerate different nutritional problems prevalent in India. How primary prevention plays an important role in prevention of protein energy undernutrition?
@@ -117,3 +117,6 @@ It is achieved through **two main modes of intervention**:
 The relationship between **Malnutrition and Infection** is synergistic. An undernourished child is more susceptible to infections (like Diarrhea/Measles), and infections precipitate malnutrition by reducing appetite and increasing metabolic demand. Primary prevention breaks this vicious cycle.
 
 ---
+
+---
+**Previous:** [[Enlist the disorders caused by iodine deficiency. What are the strategies to control iodine deficien]]  **Next:** [[Define malnutrition. How will you assess the quality of a protein Name the nutritional programme cur]]

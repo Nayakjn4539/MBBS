@@ -3,7 +3,7 @@ status: pending
 tags: [health_care_delivery_system, three_tier_system, primary_health_centre, community_health_centre, national_health_mission, ayushman_bharat, public_private_partnership, ASHA, IPHS]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 439
 ---
 
 # [[HEALTH CARE OF THE COMMUNITY]] > Discuss the three-tier system of Health Care Delivery of your state. What are the reforms made to give better service to people? Discuss the role of Private Partner Partnership (PPP) in efficient delivery of health services.
@@ -115,3 +115,6 @@ Given the resource constraints of the public sector and the wide reach of the pr
 *   **I** - Indian Public Health Standards (IPHS)
 
 ---
+
+---
+**Previous:** [[What are the functions of Block Primary Health Centre Mention the National Programs under a BPHC. Wh]]  **Next:** [[Enumerate the principles of PHC. How is it delivered in rural area]]

@@ -3,10 +3,10 @@ status: pending
 tags: [International_Health, WHO, Epidemiology, Quarantine, Communicable_Diseases]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 464
 ---
 
-# [[INTERNATIONAL HEALTH]] > Nothing on earth is more international than disease.
+# [[INTERNATIONAL HEALTH]] > Nothing on earth is more international than disease
 
 ### "Nothing on earth is more international than disease"
 
@@ -44,3 +44,4 @@ To manage this international threat with minimum interference to world traffic, 
 > flow chart showing the spread of infection from an endemic country to a non-endemic country via air travel
 
 ---
+**Previous:** [[International health regulations]]  **Next:** [[International organisations have many roles to play in control of pandemic]]

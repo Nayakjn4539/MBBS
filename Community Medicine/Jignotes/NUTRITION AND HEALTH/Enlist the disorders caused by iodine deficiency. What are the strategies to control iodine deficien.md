@@ -3,7 +3,7 @@ status: pending
 tags: [Iodine_Deficiency_Disorders, NIDDCP, Universal_Immunization, Public_Health_Nutrition, Preventive_Medicine]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 283
 ---
 
 # [[NUTRITION AND HEALTH]] > Enlist the disorders caused by iodine deficiency. What are the strategies to control iodine deficiency disorders in India?
@@ -67,3 +67,6 @@ Regular surveys are conducted to assess the magnitude of IDD and the impact of c
 *   **D** - Deaf-mutism / Dwarfism
 
 ---
+
+---
+**Previous:** [[Name the important inorganic chemicals of health significance present in ground water of West Bengal]]  **Next:** [[What is a balanced diet Enumerate different nutritional problems prevalent in India. How primary pre]]

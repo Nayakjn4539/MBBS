@@ -3,7 +3,7 @@ status: pending
 tags: [Histogram, Biostatistics, DataPresentation, FrequencyDistribution, QuantitativeData]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 377
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Histogram
@@ -56,3 +56,4 @@ A **Histogram** is a graphical presentation of a [[Frequency Distribution]] tabl
 *   **H**ow Frequent (Area represents frequency)
 
 ---
+**Previous:** [[Medical record linkage]]  **Next:** [[Statistical averages]]

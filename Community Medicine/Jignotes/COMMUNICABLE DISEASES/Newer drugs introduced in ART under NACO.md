@@ -3,7 +3,7 @@ status: pending
 tags: [ART, NACO, Dolutegravir, HIV, Pharmacology, CommunityMedicine, NACP, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 147
 ---
 
 # [[COMMUNICABLE DISEASES]] > Newer drugs introduced in ART under NACO
@@ -82,3 +82,4 @@ The newer drugs are also utilized for [[Post-Exposure Prophylaxis]] (e.g., after
 > A flowchart depicting the viral life cycle and where INSTIs (Dolutegravir) act—specifically blocking the integration of viral DNA into the host nucleus—would be beneficial for exams.
 
 ---
+**Previous:** [[Amoebiasis]]  **Next:** [[Pentavalent Vaccine]]

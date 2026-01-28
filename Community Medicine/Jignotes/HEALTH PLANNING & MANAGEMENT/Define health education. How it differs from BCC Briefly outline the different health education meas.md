@@ -3,7 +3,7 @@ status: pending
 tags: [Health_Education, BCC, Cervical_Cancer, Preventive_Oncology, BMOH, Public_Health_Administration, Screening, HPV, RCH]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 427
 ---
 
 # [[HEALTH PLANNING & MANAGEMENT]] > Define health education. How it differs from BCC? Briefly outline the different health education measures to prevent cervical cancer as a BMOH.
@@ -77,3 +77,6 @@ As a **Block Medical Officer of Health ([[BMOH]])**, the strategy involves plann
 *   **Training Frontline Workers:** Train [[ASHA]] and Anganwadi workers to dispel myths regarding the internal examination and motivate women to come to the clinic (mobilization).
 
 ---
+
+---
+**Previous:** [[Proportion of institutional delivery is very low in your district. There is also poor arrangement of]]  **Next:** [[Cost effective and cost benefit analysis in health care]]

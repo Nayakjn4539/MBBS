@@ -3,7 +3,7 @@ status: pending
 tags: [Jaundice, Hepatitis_A, Hepatitis_E, Epidemic_Investigation, Water_Borne_Diseases, Public_Health_Response]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 194
 ---
 
 # [[COMMUNICABLE DISEASES]] > Significant numbers of cases of jaundice were reported from an urban locality. As a health expert how do you investigate it & what remedial measures do you suggest for the problems?
@@ -94,3 +94,6 @@ As a health expert, immediate and long-term measures must be instituted to break
 | **Long Term** | Upgrade sewage disposal, repair water distribution systems. |
 
 ---
+
+---
+**Previous:** [[A six-month-old child was brought by the mother at OPD, presenting with loose stool for more than th]]  **Next:** [[Mention the modes of transmission of HIV or AIDS, Explain the role of high-risk group and bridge pop]]

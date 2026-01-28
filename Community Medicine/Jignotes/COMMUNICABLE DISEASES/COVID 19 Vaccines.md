@@ -3,7 +3,7 @@ status: pending
 tags: [COVID19, Vaccines, Covishield, Covaxin, SputnikV, CommunityMedicine, Epidemiology, NTEP]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 180
 ---
 
 # [[COMMUNICABLE DISEASES]] > COVID 19 Vaccines
@@ -122,3 +122,4 @@ Based on the technology used, the vaccines approved/used are classified as follo
 *   **O**thers -> mRNA (Moderna), DNA (ZyCoV-D)
 
 ---
+**Previous:** [[Testing criteria for HIV infection under Integrated Counselling and Testing Strategy]]  **Next:** [[One adult man has attended your hospital with complaints of fever, emaciation, abdominal swelling an]]

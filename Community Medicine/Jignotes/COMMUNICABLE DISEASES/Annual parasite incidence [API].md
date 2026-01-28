@@ -3,7 +3,7 @@ status: pending
 tags: [API, Malaria, Epidemiology, National_Health_Programs, NVBDCP, Community_Medicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 160
 ---
 
 # [[COMMUNICABLE DISEASES]] > Annual parasite incidence [API]
@@ -71,3 +71,4 @@ To remember the categories for [[Malaria Elimination]]: **"ZEPI"**
 *   **Epidemic Monitoring:** A sudden rise in API in a previously low API area indicates a potential outbreak or failure of control measures.
 
 ---
+**Previous:** [[Manmade malaria]]  **Next:** [[Behavioural change communication in malaria]]

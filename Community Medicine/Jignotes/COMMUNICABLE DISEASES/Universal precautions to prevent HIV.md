@@ -3,7 +3,7 @@ status: pending
 tags: [UniversalPrecautions, HIVPrevention, PersonalProtectiveEquipment, BiomedicalWasteManagement, InfectionControl, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 144
 ---
 
 # [[COMMUNICABLE DISEASES]] > Universal precautions to prevent HIV
@@ -102,3 +102,4 @@ To remember the components, use **"W.H.O. G.A.V.E."**:
 > Flowchart depicting the segregation of biomedical waste into Yellow, Red, Blue/White, and Black categories to ensure safety during disposal
 
 ---
+**Previous:** [[Nosocomial infections]]  **Next:** [[Discuss resurgence of diphtheria disease and its control]]

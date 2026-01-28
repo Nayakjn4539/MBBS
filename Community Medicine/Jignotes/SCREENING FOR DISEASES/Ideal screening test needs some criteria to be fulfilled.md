@@ -3,10 +3,10 @@ status: pending
 tags: [screening, epidemiology, sensitivity, specificity, wilson_jungner, public_health]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 54
 ---
 
-# [[SCREENING FOR DISEASES]] > Ideal screening test needs some criteria to be fulfilled.
+# [[SCREENING FOR DISEASES]] > Ideal screening test needs some criteria to be fulfilled
 
 # Criteria for an Ideal Screening Test
 
@@ -80,3 +80,4 @@ Ideally, a screening test differs significantly from a diagnostic test.
 *   **Mammography:** While effective for breast cancer, it faces challenges in **Acceptability** due to discomfort and potential radiation risk (Safety), requiring careful risk-benefit analysis.
 
 ---
+**Previous:** [[Screening and case finding are not synonymous]]  **Next:** [[Screening and diagnostic test differ]]

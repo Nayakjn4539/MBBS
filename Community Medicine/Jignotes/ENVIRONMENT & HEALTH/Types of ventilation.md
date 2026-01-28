@@ -3,10 +3,10 @@ status: pending
 tags: [Ventilation, EnvironmentalHealth, AirConditioning, PublicHealth, NaturalVentilation]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 319
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Types of ventilation.
+# [[ENVIRONMENT & HEALTH]] > Types of ventilation
 
 ### **Types of Ventilation**
 
@@ -116,3 +116,4 @@ Used when natural ventilation is insufficient or needs specific control.
 *   **Discomfort:** Physical changes in air (heat stagnation) cause discomfort in ill-ventilated rooms, not just lack of oxygen (Leonard Hill’s experiment).
 
 ---
+**Previous:** [[Water borne diseases]]  **Next:** [[Bacterial indicators of drinking water quality]]

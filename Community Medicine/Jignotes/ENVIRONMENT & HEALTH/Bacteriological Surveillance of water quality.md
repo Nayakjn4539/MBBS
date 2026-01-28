@@ -3,10 +3,10 @@ status: pending
 tags: [water_surveillance, environment_and_health, coliforms, MPN, sodium_thiosulphate, E_coli]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 313
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Bacteriological Surveillance of water quality.
+# [[ENVIRONMENT & HEALTH]] > Bacteriological Surveillance of water quality
 
 ### **Bacteriological Surveillance of Water Quality**
 
@@ -103,3 +103,4 @@ Failure in bacteriological surveillance can lead to outbreaks of:
 *   **Protozoal:** Amoebiasis, Giardiasis.
 
 ---
+**Previous:** [[Define safe and wholesome water. Discuss the different tests for the bacteriological surveillance of]]  **Next:** [[Biological treatment of sewage]]

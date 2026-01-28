@@ -3,10 +3,10 @@ status: pending
 tags: [doctor_patient_relationship, social_medicine, communication_skills, sick_role, medical_sociology]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 458
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Doctor patient relationship plays a vital role in care of disease.
+# [[MEDICINE & SOCIAL SCIENCE]] > Doctor patient relationship plays a vital role in care of disease
 
 ### Doctor-Patient Relationship in Social Medicine
 
@@ -68,3 +68,4 @@ Illness is not just a biological condition; it is a social role. The patient (Ho
 *   **Social Therapy:** Understanding the patient's background allows the doctor to prescribe social remedies (e.g., advising a factory worker with anxiety about her children to use a crèche) alongside medical treatment.
 
 ---
+**Previous:** [[Customs are not always deleterious to health]]  **Next:** [[Non-Government organization]]

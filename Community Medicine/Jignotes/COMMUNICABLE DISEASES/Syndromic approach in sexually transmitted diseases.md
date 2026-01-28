@@ -3,7 +3,7 @@ status: pending
 tags: [SyndromicApproach, STIs, ColorCodedKits, NACO, SurakshaClinic, CommunicableDiseases, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 137
 ---
 
 # [[COMMUNICABLE DISEASES]] > Syndromic approach in sexually transmitted diseases
@@ -95,3 +95,4 @@ Management is not just about pills. Every STI patient must be managed with the *
 *   **Pregnancy:** Syndromic management (specifically vaginal discharge) is vital in antenatal care to prevent adverse outcomes like preterm labor or congenital infections,. **Note:** Doxycycline and Quinolones (Kit 4, 6, 7 components) are contraindicated in pregnancy; Erythromycin/Amoxicillin are preferred.
 
 ---
+**Previous:** [[Social pathology in Leprosy]]  **Next:** [[Contact tracing]]

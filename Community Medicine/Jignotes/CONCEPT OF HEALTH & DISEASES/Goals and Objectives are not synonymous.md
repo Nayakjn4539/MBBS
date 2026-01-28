@@ -3,10 +3,10 @@ status: pending
 tags: [HealthPlanning, GoalsVsObjectives, PublicHealthManagement, SMARTcriteria, CommunityMedicine]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 17
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Goals and Objectives are not synonymous.
+# [[CONCEPT OF HEALTH & DISEASES]] > Goals and Objectives are not synonymous
 
 # Distinction Between Goals and Objectives in Health Planning
 
@@ -81,3 +81,4 @@ To remember the difference:
 > Hierarchy pyramid showing Goal at the top, Objectives in the middle, and Targets at the base
 
 ---
+**Previous:** [[We need to be more careful about the hidden part of the iceberg]]  **Next:** [[There are differences between primordial & primary prevention]]

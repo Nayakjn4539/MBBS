@@ -3,7 +3,7 @@ status: pending
 tags: [Rabies, PEP, PostExposureProphylaxis, CommunicableDiseases, Vaccination, CommunityMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 75
 ---
 
 # [[COMMUNICABLE DISEASES]] > Describe in detail the post – exposure prophylaxis of human rabies
@@ -104,3 +104,4 @@ For individuals who have documentation of a **complete** course of pre-exposure 
 > Flowchart depicting the triage of animal bite patients based on Category I, II, and III and subsequent treatment pathways
 
 ---
+**Previous:** [[Common zoonotic diseases. Epidemiology and prevention of Rabies]]  **Next:** [[List of arboviral diseases. Explain the epidemiology, clinical features, control of Japanese encepha]]

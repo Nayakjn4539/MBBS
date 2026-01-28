@@ -3,7 +3,7 @@ status: pending
 tags: [Maternal_Mortality_Ratio, MMR, Maternal_Death_Review, Janani_Suraksha_Yojana, JSSK, PMSMA, LaQshya, Anemia_Mukt_Bharat, Preventive_Obstetrics]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 256
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Define Maternal Mortality Ratio (MMR). Outline of the strategies under national programme to bring down the maternal mortality in India. Give a brief account of Maternal Death Review at community level.
@@ -86,3 +86,6 @@ The Government of India, under the [[National Health Mission]] (NHM) and the [[R
 > Every maternal death is considered a "sentinel event." Community-based MDR helps uncover the social pathologies (like lack of transport, gender bias, financial barriers) that clinical audits might miss. This "social autopsy" is vital for bridging the gap between the community and the health system.
 
 ---
+
+---
+**Previous:** [[What are the different maternal health problem in India. Explain antenatal care]]  **Next:** [[Considering its effect on present and future lives of children, name the most important anthropometr]]

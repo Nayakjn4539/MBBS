@@ -3,7 +3,7 @@ status: pending
 tags: [DisasterManagement, PublicHealth, BMOH, Triage, Epidemiology, CommunityMedicine]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 337
 ---
 
 # [[DISASTER MANAGEMENT]] > Define disaster. What are the common disasters faced by people of India? Name one natural and one manmade disaster in recent past. As a BMOH of a BPHC near a coastal area what preparedness would you have to manage disaster?
@@ -97,3 +97,6 @@ As a BMOH of a [[Block Primary Health Centre]] (BPHC) near a coastal area, the p
 In coastal disasters, the most commonly reported disease in the post-disaster phase is **Gastroenteritis**. The most practical strategy is supplying safe drinking water. Additionally, watch out for **Leptospirosis** (due to contact with rodent-urine contaminated flood water) and **Measles** in crowded relief camps (ensure Vitamin A supplementation).
 
 ---
+
+---
+**Previous:** [[Injection safety is important for the recipient, provider, and community]]  **Next:** [[What is disaster Management in Relation to recent cyclone Amphan]]

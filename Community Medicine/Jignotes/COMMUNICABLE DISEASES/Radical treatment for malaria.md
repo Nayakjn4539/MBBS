@@ -3,7 +3,7 @@ status: pending
 tags: [malaria, radical_treatment, primaquine, communicable_diseases, NVBDCP, pharmacology, PSM]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 111
 ---
 
 # [[COMMUNICABLE DISEASES]] > Radical treatment for malaria
@@ -94,3 +94,4 @@ Since Primaquine is contraindicated:
 *   Prevents the **Return** (Relapse) of the fever.
 
 ---
+**Previous:** [[Surveillance in malaria]]  **Next:** [[Malaria Metric Measures]]

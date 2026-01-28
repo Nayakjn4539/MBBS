@@ -3,7 +3,7 @@ status: pending
 tags: [Poliomyelitis, Epidemiology, Pulse_Polio_Immunization, AFP_Surveillance, OPV, IPV, VDPV, The_Switch, Communicable_Diseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 60
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology of Poliomyelitis. Strategy of polio eradication in India and globally. Add a note on monovalent and bivalent polio vaccines
@@ -117,3 +117,6 @@ Historically, **Trivalent OPV (tOPV)** containing types 1, 2, and 3 was used. Ho
 *   **Storage:** Stored at -20°C.
 
 ---
+
+---
+**Previous:** [[Epidemiology, prevention, control of TB. Add a note on RNTCP]]  **Next:** [[Vaccine preventable diseases. Epidemiology of Polio myelitis. Pulse Polio Programme. Prevalence, inc]]

@@ -3,10 +3,10 @@ status: pending
 tags: [ExclusiveBreastfeeding, PreventivePaediatrics, Nutrition, MCH, Colostrum, Immunology]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 274
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Breast milk is ideal & only food for infants till 6 months of age.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Breast milk is ideal & only food for infants till 6 months of age
 
 ## **Breast Milk: The Gold Standard for Infant Feeding**
 
@@ -101,3 +101,4 @@ Breastfeeding is rarely contraindicated.
 > Flowchart depicting the composition of breast milk (Proteins, Fats, Carbs) and its immunological factors interacting with the infant gut
 
 ---
+**Previous:** [[Home based neonatal care is an essential intervention in preventing neonatal death]]  **Next:** [[FRUS will reduce MMR]]

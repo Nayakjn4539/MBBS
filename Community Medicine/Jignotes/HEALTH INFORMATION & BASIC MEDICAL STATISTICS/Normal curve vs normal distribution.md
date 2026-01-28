@@ -3,10 +3,10 @@ status: pending
 tags: [Biostatistics, NormalDistribution, GaussianDistribution, StandardDeviation, NormalCurve, HealthInformation]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 383
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Normal curve v/s normal distribution
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Normal curve vs normal distribution
 
 ### Normal Distribution vs Normal Curve
 
@@ -65,3 +65,4 @@ The standard deviation defines the limits of the area under the curve. This is c
 *   **3** SD covers **99**% (Three -> Nine-Nine)
 
 ---
+**Previous:** [[Measures of dispersion]]  **Next:** [[Standard error]]

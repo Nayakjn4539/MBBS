@@ -3,7 +3,7 @@ status: pending
 tags: [DOTS, Tuberculosis, NTEP, RNTCP, CommunityMedicine, PSM, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 92
 ---
 
 # [[COMMUNICABLE DISEASES]] > DOTS
@@ -99,3 +99,4 @@ Drugs are supplied in boxes containing the full course of treatment for an indiv
 *   **Solution:** DOTS shifts the responsibility of cure from the patient to the **health system/provider**.
 
 ---
+**Previous:** [[Multidrug therapy]]  **Next:** [[Domiciliary treatment of TB]]

@@ -3,10 +3,10 @@ status: pending
 tags: [TripleBlinding, RandomizedControlledTrial, Epidemiology, Bias, ResearchMethodology]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 37
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Triple blinding in epidemiological studies.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Triple blinding in epidemiological studies
 
 # Triple Blinding in Epidemiological Studies
 
@@ -57,3 +57,4 @@ To remember who is blinded in **Triple** Blinding, think of the **CIA**:
 In high-stakes drug trials, there is immense pressure to show that a new drug works. If a data analyst knows which group took the "new miracle drug," they might subconsciously choose statistical methods that make that group look better ([[Analyzer Bias]]). Triple blinding protects the integrity of the scientific results by ensuring the numbers are crunched without prejudice.
 
 ---
+**Previous:** [[Population attributable risk]]  **Next:** [[Bias and confounding are not synonymous]]

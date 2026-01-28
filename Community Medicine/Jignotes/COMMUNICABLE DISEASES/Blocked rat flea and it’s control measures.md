@@ -3,7 +3,7 @@ status: pending
 tags: [plague, xenopsylla_cheopis, communicable_diseases, vector_control, entomology, public_health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 123
 ---
 
 # [[COMMUNICABLE DISEASES]] > Blocked rat flea and it’s control measures
@@ -63,3 +63,4 @@ The success of control measures is evaluated using flea indices. The target is t
 *   **Mechanism:** It kills **both** the rats and the fleas effectively,.
 
 ---
+**Previous:** [[Epidemiology of Leptospirosis]]  **Next:** [[Rat flea indices]]

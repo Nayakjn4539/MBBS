@@ -3,7 +3,7 @@ status: pending
 tags: [sex_ratio, demography, PCPNDT_Act, female_foeticide, Beti_Bachao_Beti_Padhao, social_obstetrics]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 233
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > Define "sex ratio". What are the factors behind declining sex ratio in India? What are the measures adopted to correct the situation?
@@ -81,3 +81,6 @@ The Government of India has implemented a multi-pronged strategy involving legis
 *   Strict monitoring of ultrasound clinics and tracking of pregnant women (e.g., Mother and Child Tracking System) to prevent sex determination.
 
 ---
+
+---
+**Previous:** [[Write down the National Socio Demographic Goals for 2015. Outline the steps for evaluation of Family]]  **Next:** [[In a block of Nadia district CPR (couple protection rate) is less in comparison to neighbouring bloc]]

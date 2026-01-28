@@ -3,7 +3,7 @@ status: pending
 tags: [Epidemiology, StudyDesigns, Confounding, SecularTrend, CyclicTrend, CaseControl, Cohort, Randomization, PublicHealth]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 25
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Classify epidemiological studies. Explain the epidemiological feature of cyclic trend & secular trend in disease occurrence with example. What is confounding in epidemiological studies?
@@ -93,3 +93,6 @@ Confounding can be controlled during the design or analysis stage:
 5.  **Statistical Modeling:** Multivariate analysis.
 
 ---
+
+---
+**Previous:** [[What is epidemiology Write down the differences between case-control and cohort study. Enumerate dif]]  **Next:** [[Give a brief account of different types of human reservoir of infection. Describe in brief the metho]]

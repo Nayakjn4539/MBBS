@@ -3,7 +3,7 @@ status: pending
 tags: [MDT, Leprosy, Tuberculosis, HIV, Malaria, Pharmacology, CommunityMedicine, NTEP, NLEP]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 91
 ---
 
 # [[COMMUNICABLE DISEASES]] > Multidrug therapy
@@ -97,3 +97,4 @@ To prevent resistance in *Plasmodium falciparum*, monotherapy (artemisinin alone
 3.  **Reduced Failure Rates:** Combination drugs act on different metabolic pathways of the organism, reducing the chance of survival for resistant mutants.
 
 ---
+**Previous:** [[Cases and carriers of Diphtheria]]  **Next:** [[DOTS]]

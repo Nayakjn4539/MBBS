@@ -3,10 +3,10 @@ status: pending
 tags: [disastermanagement, vaccination, epidemiology, measles, tetanus, cholera, publichealth]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 343
 ---
 
-# [[DISASTER MANAGEMENT]] > Vaccination in disaster.
+# [[DISASTER MANAGEMENT]] > Vaccination in disaster
 
 ### General Principles of Vaccination in Disasters
 
@@ -98,3 +98,4 @@ To remember diseases where mass vaccination is **NOT** recommended immediately i
 > Flowchart showing the Triage system in disaster management, separating patients into Red, Yellow, Green, and Black categories to prioritize care
 
 ---
+**Previous:** [[Disaster preparedness]]  **Next:** [[Triage]]

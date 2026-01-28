@@ -3,7 +3,7 @@ status: pending
 tags: [BCG_vaccine, Tuberculosis, Immunization, Cold_Chain, Public_Health, Communicable_Diseases, Pediatrics]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 94
 ---
 
 # [[COMMUNICABLE DISEASES]] > BCG vaccine
@@ -84,3 +84,4 @@ up: [[COMMUNICABLE DISEASES]]
 ---
 
 ---
+**Previous:** [[Domiciliary treatment of TB]]  **Next:** [[Acute flaccid paralysis]]

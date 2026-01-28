@@ -3,7 +3,7 @@ status: pending
 tags: [Measles, Vaccination, LiveAttenuatedVaccine, ColdChain, UniversalImmunizationProgramme, EdmonstonZagreb, VitaminA, AEFI]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 85
 ---
 
 # [[COMMUNICABLE DISEASES]] > Measles vaccination
@@ -97,3 +97,4 @@ WHO recommends a 3-part strategy:
 *   **Mission Indradhanush:** Aims to cover all partially vaccinated or unvaccinated children, with Measles being one of the key target diseases.
 
 ---
+**Previous:** [[Natural history of measles]]  **Next:** [[Control measures for measles]]

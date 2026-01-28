@@ -3,7 +3,7 @@ status: pending
 tags: [Rabies, CommunicableDiseases, PreventiveMedicine, DogBiteManagement, VaccinationSchedules]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 186
 ---
 
 # [[COMMUNICABLE DISEASES]] > A case of dog bite has reported to your health centre. How will you categorize the dog bite injury? Describe the local treatment of the wound. Discuss the various available schedules of anti-rabies treatment.
@@ -105,3 +105,6 @@ For Category III bites, the vaccine takes 7-14 days to produce antibodies. To co
     *   **Administration:** Infiltrate **as much as possible** locally into and around the wound. Inject any remainder IM at a site distant from the vaccine (gluteal region).
 
 ---
+
+---
+**Previous:** [[Mention the objectives of RNTCP. Discuss the new protocol for diagnosing a case of pulmonary tubercu]]  **Next:** [[What are the cardinal signs of leprosy How will you classify & treat a case of leprosy according to]]

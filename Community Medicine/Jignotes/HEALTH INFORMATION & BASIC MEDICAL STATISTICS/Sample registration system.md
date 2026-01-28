@@ -3,7 +3,7 @@ status: pending
 tags: [SampleRegistrationSystem, SRS, VitalStatistics, DualRecordSystem, Demography, HealthInformationSystem, IMR, MMR]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 395
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Sample registration system
@@ -70,3 +70,4 @@ To remember the Dual Record System: **"C-R-M"**
 *   **M** - **M**atching (of data to get final results)
 
 ---
+**Previous:** [[Mention the uses of hospital records]]  **Next:** [[Record linkage]]

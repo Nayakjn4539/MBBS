@@ -3,7 +3,7 @@ status: pending
 tags: [Tuberculosis, NTEP, RNTCP, DOTS, Epidemiology, CommunicableDiseases, BCG, MDRTB]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 59
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology, prevention, control of TB. Add a note on RNTCP
@@ -145,3 +145,4 @@ The **Revised National Tuberculosis Control Programme (RNTCP)** was launched in 
 > *   **E**thambutol
 
 ---
+**Previous:** [[Epidemiology and prevention of measles]]  **Next:** [[Epidemiology of Poliomyelitis. Strategy of polio eradication in India and globally. Add a note on mo]]

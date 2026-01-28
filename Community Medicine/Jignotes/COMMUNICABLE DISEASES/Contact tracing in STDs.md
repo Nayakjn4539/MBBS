@@ -3,7 +3,7 @@ status: pending
 tags: [ContactTracing, STDs, ClusterTesting, EpidemiologicalTreatment, CommunicableDiseaseControl, PublicHealthIntervention]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 176
 ---
 
 # [[COMMUNICABLE DISEASES]] > Contact tracing in STDs
@@ -68,3 +68,4 @@ To remember the steps of Contact Tracing: **"I LIT"** the torch to find the cont
 *   **T** - **T**reat (Epidemiological treatment)
 
 ---
+**Previous:** [[Objectives in multi drug therapy in Leprosy]]  **Next:** [[Define Window Period in AIDS and its importance]]

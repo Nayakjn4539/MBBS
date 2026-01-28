@@ -3,10 +3,10 @@ status: pending
 tags: [Surveillance, Monitoring, Epidemiology, DiseaseControl, PublicHealth, SentinelSurveillance, HealthManagement]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 52
 ---
 
-# [[SCREENING FOR DISEASES]] > Monitoring & surveillance are not synonymous.
+# [[SCREENING FOR DISEASES]] > Monitoring & surveillance are not synonymous
 
 # Distinction Between Monitoring and Surveillance
 
@@ -85,3 +85,4 @@ To remember the difference, think of the **"M"** and **"S"**:
 **"Monitoring measures the *Work*, Surveillance scrutinizes the *Disease*."**
 
 ---
+**Previous:** [[Significance of a false positive screening test]]  **Next:** [[Screening and case finding are not synonymous]]

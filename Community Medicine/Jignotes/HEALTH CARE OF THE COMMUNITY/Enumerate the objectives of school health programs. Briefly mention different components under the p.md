@@ -3,7 +3,7 @@ status: pending
 tags: [SchoolHealthService, MidDayMeal, PrimaryHealthCare, CommunityMedicine, PreventivePediatrics]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 436
 ---
 
 # [[HEALTH CARE OF THE COMMUNITY]] > Enumerate the objectives of school health programs. Briefly mention different components under the programme.
@@ -103,3 +103,6 @@ The most important element. It should cover:
 The **[[School Teacher]]** is the first line of defense in the school health program. They are in a unique position to observe the child daily. Signs like "holding books too close" (vision defects), "inattention" (hearing defects), or "frequent scratching" (scabies/lice) are often first noticed by an alert teacher, leading to early diagnosis and better prognosis.
 
 ---
+
+---
+**Previous:** [[Enumerate the functions of primary health centre. What are the services provided by sub centre]]  **Next:** [[What are the average populations catered in relation to health- in a village, sub-centre, PHC, BPHC]]

@@ -3,7 +3,7 @@ status: pending
 tags: [DisasterManagement, BMOH, CyclonePreparedness, Triage, PublicHealth]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 339
 ---
 
 # [[DISASTER MANAGEMENT]] > What do you mean by 'Disaster'? What are common causes of disaster? As a BMOH of a cyclone prone block how will you proceed for preparedness to tackle the impending disaster in your block?
@@ -92,3 +92,6 @@ As the **Block Medical Officer of Health (BMOH)**, the primary objective during 
 The most common disease reported in the post-disaster phase of a cyclone/flood is **Gastroenteritis**. Therefore, the foremost step for disease prevention is the **Chlorination of water** (maintaining residual chlorine > 0.7 mg/L).
 
 ---
+
+---
+**Previous:** [[What is disaster Management in Relation to recent cyclone Amphan]]  **Next:** [[Enumerate different health hazards occur during and following flood. As a BMOH describe your prepare]]

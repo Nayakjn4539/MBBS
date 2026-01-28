@@ -3,10 +3,10 @@ status: pending
 tags: [DisasterManagement, DisasterCycle, Triage, PublicHealth, Epidemiology]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 345
 ---
 
-# [[DISASTER MANAGEMENT]] > Disaster cycle.
+# [[DISASTER MANAGEMENT]] > Disaster cycle
 
 # The Disaster Cycle
 
@@ -91,3 +91,4 @@ The response phase is clinically divided into specific timelines:
 *   **P**reparedness
 
 ---
+**Previous:** [[Triage]]  **Next:** [[Human factor is more important than environmental factor in causing accidents]]

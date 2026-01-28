@@ -3,10 +3,10 @@ status: pending
 tags: [SanitationBarrier, FaecalOralRoute, EnvironmentalHealth, SanitaryLatrine, DiseaseTransmission, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 328
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Sanitation barrier aims at breaking the transmission cycle of faecal borne Diseases.
+# [[ENVIRONMENT & HEALTH]] > Sanitation barrier aims at breaking the transmission cycle of faecal borne Diseases
 
 ### Sanitation Barrier
 
@@ -69,3 +69,4 @@ To remember the routes of transmission blocked by the barrier:
 *   **F**luid (Water)
 
 ---
+**Previous:** [[Overcrowding is a health hazard]]  **Next:** [[Name the different types of biomedical wastes generated in your hospital. Write the measures for the]]

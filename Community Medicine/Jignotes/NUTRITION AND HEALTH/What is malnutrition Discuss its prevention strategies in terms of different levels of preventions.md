@@ -3,10 +3,10 @@ status: pending
 tags: [Malnutrition, ProteinEnergyMalnutrition, LevelsOfPrevention, PublicHealth, Nutrition, ChildHealth]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 287
 ---
 
-# [[NUTRITION AND HEALTH]] > What is malnutrition? Discuss its prevention strategies in terms of different levels of preventions.
+# [[NUTRITION AND HEALTH]] > What is malnutrition Discuss its prevention strategies in terms of different levels of preventions
 
 ### Definition of Malnutrition
 **Malnutrition** is defined as a pathological state resulting from a relative or absolute deficiency or excess of one or more essential nutrients. It comprises four forms:
@@ -72,3 +72,4 @@ This level involves **Rehabilitation** to limit disability and restore function.
 *   **Iceberg Phenomenon:** Clinical cases like Kwashiorkor and Marasmus represent only the "tip of the iceberg," while the majority of cases in the community are mild to moderate forms of undernutrition which require detection via [[anthropometry]].
 
 ---
+**Previous:** [[Enumerate four major nutritional problems in our country. How would you assess the nutritional statu]]  **Next:** [[Enumerate different types of food intoxicants. Suggest measures to control epidemic dropsy in your a]]

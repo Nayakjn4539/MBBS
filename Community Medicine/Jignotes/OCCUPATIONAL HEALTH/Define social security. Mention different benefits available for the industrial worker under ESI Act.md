@@ -3,7 +3,7 @@ status: pending
 tags: [SocialSecurity, ESIAct1948, OccupationalHealth, MedicalBenefits, PublicHealth]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 352
 ---
 
 # [[OCCUPATIONAL HEALTH]] > Define social security. Mention different benefits available for the industrial worker under ESI Act. Discuss medical benefits.
@@ -91,3 +91,6 @@ The medical benefit is administered through two main patterns:
 *   **Retired/Disabled:** On payment of a nominal fee (Rs. 10/month), retired insured persons and permanently disabled workers can continue to avail medical care.
 
 ---
+
+---
+**Previous:** [[Enumerate different types of occupational hazards with example. Outline the measure to prevent one o]]  **Next:** [[What are the eligibility criteria for enrolment in ESI Scheme Describe the benefits under ESI Scheme]]

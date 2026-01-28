@@ -3,10 +3,10 @@ status: pending
 tags: [health_planning, prioritisation, demography, risk_approach, cost_effectiveness_analysis, community_medicine]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 238
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Prioritisation in health planning.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Prioritisation in health planning
 
 ### Prioritisation in Health Planning
 
@@ -87,3 +87,4 @@ In the context of population control and family welfare, prioritisation is appli
 *   **Screening:** Prioritisation dictates that we screen for diseases that are an "Important health problem" with a recognizable latent stage and available treatment (Wilson and Jungner criteria).
 
 ---
+**Previous:** [[Stages of demographic cycle]]  **Next:** [[Family physician]]

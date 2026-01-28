@@ -3,10 +3,10 @@ status: pending
 tags: [HealthDefinition, HealthIndicators, HealthForAll, WHO, DALY, PQLI, PrimaryHealthCare]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 3
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > Define Health. Enumerate the various indicators of Health. What is "Health for All"?
+# [[CONCEPT OF HEALTH & DISEASES]] > Define Health. Enumerate the various indicators of Health. What is Health for All
 
 ### **I. Definition of Health**
 
@@ -126,3 +126,4 @@ It is defined as: **"The attainment by all citizens of the world by the year 200
 > Spectrum of Health diagram showing the transition from positive health to death
 
 ---
+**Previous:** [[What is meant by natural history of disease Describe the different stages with suitable illustration]]  **Next:** [[What are the characteristics of an ideal indicator Enumerate the morbidity indicators. Briefly descr]]

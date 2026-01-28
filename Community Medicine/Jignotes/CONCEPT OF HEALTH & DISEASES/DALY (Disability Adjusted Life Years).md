@@ -3,7 +3,7 @@ status: pending
 tags: [DALY, HealthIndicators, BurdenOfDisease, YLL, YLD, CommunityMedicine, Biostatistics]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 12
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > DALY (Disability Adjusted Life Years).
@@ -62,3 +62,4 @@ It is crucial not to confuse DALY with other similar indices:
 *   **D** = **D**isability + **D**eath (YLD + YLL)
 
 ---
+**Previous:** [[Sources of health information]]  **Next:** [[Healthy lifestyles]]

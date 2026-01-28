@@ -3,10 +3,10 @@ status: pending
 tags: [Biostatistics, NormalDistribution, StandardNormalCurve, ZScore, Epidemiology]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 413
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > The terms 'normal curve' and 'standard normal curve' are not synonymous.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > The terms 'normal curve' and 'standard normal curve' are not synonymous
 
 ### The Distinction Between Normal Curve and Standard Normal Curve
 
@@ -57,3 +57,4 @@ This process shifts the curve so the mean sits at 0 and scales the spread so the
 *   **O** - Mean is **O** (Zero)
 
 ---
+**Previous:** [[The census is an important tool of health information]]  **Next:** [[Role playing]]

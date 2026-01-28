@@ -3,7 +3,7 @@ status: pending
 tags: [SwineFlu, H1N1, CommunicableDiseases, Oseltamivir, Vaccination, PSM]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 89
 ---
 
 # [[COMMUNICABLE DISEASES]] > Diagnosis and prevention of Swine flu
@@ -106,3 +106,4 @@ Vaccination is the most effective long-term preventive measure.
 Do not wait for lab results to start treatment in severe (Category C) or high-risk (Category B) patients. **Early initiation of Oseltamivir** is associated with better outcomes. **Aspirin** should be avoided in children with flu symptoms to prevent **Reye's Syndrome**.
 
 ---
+**Previous:** [[Influenza vaccines]]  **Next:** [[Cases and carriers of Diphtheria]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Social_Mobilisation, Community_Medicine, IEC, Health_Communication, Pulse_Polio, NTEP]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 451
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Social mobilisation.
+# [[MEDICINE & SOCIAL SCIENCE]] > Social mobilisation
 
 ### **Social Mobilisation**
 
@@ -91,3 +91,4 @@ To remember the objectives of Social Mobilisation, use **"RAISE"**:
 > A flowchart showing the flow of Social Mobilisation: Top (Policy Makers/Media) -> Middle (Community Leaders/NGOs) -> Bottom (Households/Individuals). Arrows connecting all levels to "Health Action/Behavior Change"
 
 ---
+**Previous:** [[Enumerate types of family. Describe the stages of family cycle. Discuss the role of family in health]]  **Next:** [[Social stress]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Sensitivity, Specificity, Screening_of_Disease, Cut_off_point, Epidemiology, Biostatistics]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 56
 ---
 
-# [[SCREENING FOR DISEASES]] > Sensitivity and specificity of a screening test are inversely related.
+# [[SCREENING FOR DISEASES]] > Sensitivity and specificity of a screening test are inversely related
 
 ### The Inverse Relationship Between Sensitivity and Specificity
 
@@ -60,3 +60,4 @@ Imagine a slider bar for the cut-off point:
 *"If you are too **Sensitive** (low cut-off), you cry at everything (lots of **False Positives**). If you are too **Specific** (high cut-off), you don't even cry at a funeral (lots of **False Negatives**)."*
 
 ---
+**Previous:** [[Screening and diagnostic test differ]]  **Next:** [[Sentinel surveillance of disease is better than periodic mass screening]]

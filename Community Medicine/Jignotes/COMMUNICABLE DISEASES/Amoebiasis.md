@@ -3,7 +3,7 @@ status: pending
 tags: [Amoebiasis, Entamoeba_histolytica, Communicable_Diseases, Public_Health, Dysentery]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 146
 ---
 
 # [[COMMUNICABLE DISEASES]] > Amoebiasis
@@ -105,3 +105,4 @@ up: [[COMMUNICABLE DISEASES]]
 *Clinical Relevance:* Even after treating invasive disease with Metronidazole, a course of a luminal amoebicide (like Diloxanide furoate) is often recommended to clear the carrier state (cysts) from the intestine.
 
 ---
+**Previous:** [[Discuss resurgence of diphtheria disease and its control]]  **Next:** [[Newer drugs introduced in ART under NACO]]

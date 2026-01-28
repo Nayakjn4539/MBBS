@@ -3,7 +3,7 @@ status: pending
 tags: [Zoonoses, Rabies, PostExposureProphylaxis, AntiRabiesVaccine, CommunicableDiseases, CommunityMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 74
 ---
 
 # [[COMMUNICABLE DISEASES]] > Common zoonotic diseases. Epidemiology and prevention of Rabies
@@ -138,3 +138,4 @@ Modern Cell Culture Vaccines (CCV) are used (e.g., Purified Chick Embryo Cell Va
     *   *Schedule:* Days 0, 7, and 21 (or 28).
 
 ---
+**Previous:** [[Insect borne diseases. Explain lymphatic filariasis. Add a note on its control programme]]  **Next:** [[Describe in detail the post – exposure prophylaxis of human rabies]]

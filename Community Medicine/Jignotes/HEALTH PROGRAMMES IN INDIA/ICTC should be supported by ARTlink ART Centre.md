@@ -3,10 +3,10 @@ status: pending
 tags: [ICTC, ART_Centre, Link_ART_Centre, NACP, HIV_AIDS, Community_Medicine]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 224
 ---
 
-# [[HEALTH PROGRAMMES IN INDIA]] > ICTC should be supported by ART/link ART Centre.
+# [[HEALTH PROGRAMMES IN INDIA]] > ICTC should be supported by ARTlink ART Centre
 
 ### **ICTC Support by ART/Link ART Centres**
 
@@ -47,3 +47,4 @@ Why must ICTC be supported by ART/LAC?
 > Flowchart showing the patient pathway: Client -> ICTC (Positive Result) -> Referral -> Nodal ART Centre (Registration/Initiation) -> Stable Patient -> Link ART Centre (Maintenance/Drug Refill).
 
 ---
+**Previous:** [[Integrated vector management]]  **Next:** [[A Revised ICDS growth chart currently in operation differ from earlier one]]

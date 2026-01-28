@@ -3,7 +3,7 @@ status: pending
 tags: [chi_square_test, biostatistics, hypothesis_testing, medical_research, data_analysis]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 390
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Describe the steps of chi square test with example
@@ -110,3 +110,4 @@ $df = (2 - 1) \times (2 - 1) = 1$
 *   **Epidemiology:** Checking if there is an association between a risk factor (e.g., smoking) and a disease (e.g., cancer).
 
 ---
+**Previous:** [[Criteria for selection of sampling and methods & registration systems in India]]  **Next:** [[Correlation and regression]]

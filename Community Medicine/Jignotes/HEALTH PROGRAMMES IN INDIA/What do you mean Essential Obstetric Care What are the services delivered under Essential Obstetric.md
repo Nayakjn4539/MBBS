@@ -3,7 +3,7 @@ status: pending
 tags: [EssentialObstetricCare, RCH_II, MaternalDeathReview, MaternalMortality, FirstReferralUnit, AntenatalCare, ThreeDelaysModel]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 214
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > What do you mean Essential Obstetric Care? What are the services delivered under Essential Obstetric Care according to RCH II programme? What is the importance of Maternal Death review?
@@ -86,3 +86,6 @@ RCH II emphasizes the **"First Referral Unit" ([[FRU]])**. An existing facility 
 > Flowchart showing the referral chain from Community -> Sub-centre -> PHC -> FRU/District Hospital
 
 ---
+
+---
+**Previous:** [[What is full form of ASHA Write down the eligibility criteria for selecting ASHA in West Bengal. Giv]]  **Next:** [[What are the health problems of adolescent Mention the National Programmes concerning improvement of]]

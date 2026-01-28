@@ -3,7 +3,7 @@ status: pending
 tags: [zoonosis, communicable_diseases, epidemiology, anthropozoonoses, metazoonoses, rabies, plague, brucellosis]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 166
 ---
 
 # [[COMMUNICABLE DISEASES]] > Types of zoonosis
@@ -89,3 +89,4 @@ Zoonoses can also be grouped according to the type of causative pathogen.
 *   **Prevention:** Control of zoonoses involves controlling the disease in animals (e.g., vaccinating dogs for rabies), controlling the vehicle of transmission (e.g., pasteurization of milk for brucellosis), and protecting high-risk groups in humans.
 
 ---
+**Previous:** [[Explain meta – zoonosis with examples]]  **Next:** [[Vaccines for prevention of rabies]]

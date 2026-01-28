@@ -3,7 +3,7 @@ status: pending
 tags: [NationalImmunizationSchedule, ColdChain, VaccineCarrier, PreventiveMedicine, PublicHealth]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 23
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Write the National Immunization Schedule for under five children. What is cold chain? Write dos and don'ts while handling a vaccine carrier loaded with vaccine.
@@ -87,10 +87,13 @@ A **[[Vaccine Carrier]]** is used to carry small quantities of vaccines (16-20 v
 *   **During Session:** Take one ice pack out and place the reconstituted [[BCG]] or [[Measles]] vial in the holes/wells of the ice pack to keep them cool and stable.
 
 #### **Don'ts (❌)**
-*   **Direct Contact:** **NEVER** place freeze-sensitive vaccines (T-series: DPT, TT, Pentavalent, Hep B, PCV, IPV) in direct contact with the ice packs. They will freeze and lose potency,,.
+*   **Direct Contact:** **NEVER** place freeze-sensitive vaccines ([[T-series]]: DPT, TT, Pentavalent, Hep B, PCV, IPV) in direct contact with the ice packs. They will freeze and lose potency,,.
 *   **Sunlight:** Do not leave the vaccine carrier in direct sunlight,.
 *   **Sit/Drop:** Do not drop or sit on the vaccine carrier as it damages the insulation.
 *   **Water:** Do not allow water to accumulate at the bottom of the carrier.
 *   **Open Lid:** Do not leave the lid open unnecessarily during the session.
 
 ---
+
+---
+**Previous:** [[How epidemiological studies are classified Briefly describe the steps of case control study to find]]  **Next:** [[What is epidemiology Write down the differences between case-control and cohort study. Enumerate dif]]

@@ -3,7 +3,7 @@ status: pending
 tags: [AIDS, HIV, NACO, NACP, Epidemiology, Communicable_Diseases, STD, Public_Health, CD4_Count, ART, Community_Medicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 81
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiological features, 4 categories, criteria, control of AIDS. Its Control programme of Govt. of INDIA
@@ -139,3 +139,6 @@ There is no cure; prevention is the only cure.
 **Current Status:** India has adopted the **"Test and Treat"** policy, meaning any person diagnosed HIV positive is started on ART immediately, regardless of CD4 count.
 
 ---
+
+---
+**Previous:** [[Vertical transmission of HIV infection. Various modalities of prevention of vertical transmission un]]  **Next:** [[Discuss the occupations that have a higher risk of exposure to COVID disease. Explain the essential]]

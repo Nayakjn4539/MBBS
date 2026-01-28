@@ -3,7 +3,7 @@ status: pending
 tags: [RecordLinkage, HealthInformationSystem, Epidemiology, ChronicDiseaseEpidemiology, Biostatistics]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 404
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Feasibility of record linkage as a source of Health information
@@ -52,3 +52,4 @@ In clinical practice, record linkage is the "Holy Grail" of patient history taki
 *   **T** - **T**win and genetic studies are the current primary use.
 
 ---
+**Previous:** [[Time within which births and deaths have to be registered as per the Birth and Death Registration Ac]]  **Next:** [[Describe measures of central tendency with examples. Explain why median is a better measure of centr]]

@@ -3,10 +3,10 @@ status: pending
 tags: [BiomedicalWaste, Segregation, ColorCoding, Incineration, Autoclaving, InfectionControl, HospitalWasteManagement]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 333
 ---
 
-# [[HOSPITAL WASTE MANAGEMENT]] > Principles of Biomedical Waste management.
+# [[HOSPITAL WASTE MANAGEMENT]] > Principles of Biomedical Waste management
 
 ### Principles of Biomedical Waste Management
 
@@ -69,3 +69,4 @@ The goal is to render the waste non-hazardous (treatment) and then place it in a
 *   **Environmental Safety:** Preventing the dumping of antibiotics and cytotoxic drugs into general landfills prevents water and soil pollution.
 
 ---
+**Previous:** [[Name the different types of biomedical waste generated in your hospital. Suggest measures for their]]  **Next:** [[Biomedical waste should be segregated at source]]

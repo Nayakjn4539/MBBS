@@ -3,7 +3,7 @@ status: pending
 tags: [Malaria, Epidemiology, Plasmodium, Anopheles, Communicable_Diseases, Community_Medicine, API, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 71
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiology, types, features, mode of transmission of Malaria
@@ -141,3 +141,4 @@ Primarily caused by *P. falciparum*. Defined by one or more of the following,:
 > **Clinical Relevance:** **Primaquine** is contraindicated in pregnancy, infants, and G6PD deficiency due to risk of hemolysis.
 
 ---
+**Previous:** [[Epidemiology of malaria. Add a note on Nation Programme on Malaria]]  **Next:** [[Modified plan of action for malaria control]]

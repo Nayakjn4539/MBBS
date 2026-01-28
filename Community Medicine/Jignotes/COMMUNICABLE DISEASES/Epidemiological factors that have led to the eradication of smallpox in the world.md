@@ -3,7 +3,7 @@ status: pending
 tags: [Smallpox, Eradication, Epidemiology, Communicable_Diseases, Vaccination, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 83
 ---
 
 # [[COMMUNICABLE DISEASES]] > Epidemiological factors that have led to the eradication of smallpox in the world
@@ -70,3 +70,4 @@ Although eradicated, [[Smallpox]] remains clinically relevant due to the threat 
 With the cessation of smallpox vaccination, cross-protection against other orthopoxviruses has waned, leading to the emergence of [[Monkeypox]] in humans, which clinically resembles mild smallpox.
 
 ---
+**Previous:** [[Discuss the occupations that have a higher risk of exposure to COVID disease. Explain the essential]]  **Next:** [[Natural history of measles]]

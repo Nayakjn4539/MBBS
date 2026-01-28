@@ -3,10 +3,10 @@ status: pending
 tags: [nutrition, food_additives, food_safety, public_health, preventive_medicine, FSSAI]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 290
 ---
 
-# [[NUTRITION AND HEALTH]] > Foods additives.
+# [[NUTRITION AND HEALTH]] > Foods additives
 
 ### Definition
 Food additives are defined as **non-nutritious substances** added intentionally to food, generally in small quantities, to improve its **appearance, flavor, texture, or storage properties**.
@@ -70,3 +70,4 @@ Uncontrolled or indiscriminate use of food additives may pose significant health
 *   **V**inegar
 
 ---
+**Previous:** [[Food fortification]]  **Next:** [[Prevention of IDD]]

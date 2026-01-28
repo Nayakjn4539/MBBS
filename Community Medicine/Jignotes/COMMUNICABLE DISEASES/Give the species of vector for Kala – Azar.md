@@ -3,7 +3,7 @@ status: pending
 tags: [KalaAzar, Sandfly, PhlebotomusArgentipes, VectorBorneDisease, CommunicableDiseases, MedicalEntomology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 170
 ---
 
 # [[COMMUNICABLE DISEASES]] > Give the species of vector for Kala – Azar
@@ -55,3 +55,4 @@ OR
 **KALA** (Kala-Azar) is carried by **P.A.** (Phlebotomus Argentipes).
 
 ---
+**Previous:** [[JE Vaccine]]  **Next:** [[Environmental factors in trachoma]]

@@ -3,10 +3,10 @@ status: pending
 tags: [SanitationBarrier, EnvironmentalHealth, FaecalOralRoute, 5Fs, PublicHealth, CommunityMedicine]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 324
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Sanitation barrier.
+# [[ENVIRONMENT & HEALTH]] > Sanitation barrier
 
 ### Definition
 The **[[Sanitation Barrier]]** is a concept in community medicine that creates a physical and hygienic separation between **infectious faeces** and a **susceptible host**. Its primary aim is to break the cycle of disease transmission by segregating human excreta so that disease agents cannot reach a new host, either directly or indirectly.
@@ -57,3 +57,4 @@ To remember the transmission routes the Sanitation Barrier blocks:
 **"Filthy Fluids, Fingers, and Flies spread Faeces to Food"**
 
 ---
+**Previous:** [[Biochemical oxygen demand]]  **Next:** [[The mere addition of chlorine to water is not chlorination]]

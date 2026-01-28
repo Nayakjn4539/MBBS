@@ -3,7 +3,7 @@ status: pending
 tags: [BirthAndDeathRegistrationAct, VitalStatistics, CivilRegistrationSystem, PublicHealth, ForensicMedicine]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 403
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Time within which births and deaths have to be registered as per the Birth and Death Registration Act
@@ -49,3 +49,6 @@ If the event is not registered within the stipulated 21 days, it can still be re
 *   **[[Cause of Death Certification]]:** For deaths, the doctor must accurately fill out the Medical Certification of Cause of Death (MCCD) which is required for registration and epidemiological statistics.
 
 ---
+
+---
+**Previous:** [[Define regression & types of regression]]  **Next:** [[Feasibility of record linkage as a source of Health information]]

@@ -3,10 +3,10 @@ status: pending
 tags: [sampling, biostatistics, research_methodology, epidemiology, clinical_trials]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 408
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Simple random sampling.
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Simple random sampling
 
 ### Simple Random Sampling
 
@@ -59,3 +59,4 @@ To remember the features of **SRS** (Simple Random Sampling):
 *   **S** - **S**ame Chance (Equal probability for everyone)
 
 ---
+**Previous:** [[Source of health information]]  **Next:** [[Rate, ratio and proportion]]

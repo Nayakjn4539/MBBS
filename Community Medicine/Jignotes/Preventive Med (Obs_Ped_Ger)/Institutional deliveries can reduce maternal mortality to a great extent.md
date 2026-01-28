@@ -3,10 +3,10 @@ status: pending
 tags: [MaternalMortalityRatio, InstitutionalDelivery, JananiSurakshaYojana, JSSK, PreventiveObstetrics, SafeMotherhood, ASHA]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 277
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Institutional deliveries can reduce maternal mortality to a great extent.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Institutional deliveries can reduce maternal mortality to a great extent
 
 ### **Institutional Deliveries and Reduction of Maternal Mortality**
 
@@ -112,3 +112,4 @@ In a home setting, a sudden bout of **atonic PPH** (Postpartum Hemorrhage) can b
 > Flowchart showing the referral pathway from Sub-centre (L1) to PHC (L2) to FRU/District Hospital (L3) for a pregnant woman with complications
 
 ---
+**Previous:** [[Apart from growth monitoring, 'Growth chart' has many other uses]]  **Next:** [[A 5-year-old boy is taken to Paediatric OPD with night blindness and triangular pearly white foamy s]]

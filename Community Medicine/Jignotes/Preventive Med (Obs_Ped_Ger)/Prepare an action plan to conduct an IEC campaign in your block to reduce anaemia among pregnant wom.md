@@ -3,7 +3,7 @@ status: pending
 tags: [IEC_campaign, Anaemia_in_pregnancy, IFA_supplementation, Anemia_Mukt_Bharat, Community_Medicine, Antenatal_Care, Maternal_Health]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 263
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Prepare an action plan to conduct an IEC campaign in your block to reduce anaemia among pregnant women.
@@ -94,3 +94,6 @@ This phase utilizes a mix of communication channels for maximum reach.
     *   *Severe Anaemia (< 7 g/dl):* Referral to FRU for parenteral iron (Iron Sucrose) or blood transfusion.
 
 ---
+
+---
+**Previous:** [[Define Maternal mortality ratio and maternal mortality rate. Describe the important cultural and soc]]  **Next:** [[Birth preparedness and complication readiness]]

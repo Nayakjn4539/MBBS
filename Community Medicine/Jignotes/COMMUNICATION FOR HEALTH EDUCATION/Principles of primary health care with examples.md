@@ -3,10 +3,10 @@ status: pending
 tags: [PrimaryHealthCare, AlmaAta, CommunityMedicine, HealthPrinciples, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICATION FOR HEALTH EDUCATION
-up: [[COMMUNICATION FOR HEALTH EDUCATION]]
+up: 415
 ---
 
-# [[COMMUNICATION FOR HEALTH EDUCATION]] > Principles of primary health care with examples.
+# [[COMMUNICATION FOR HEALTH EDUCATION]] > Principles of primary health care with examples
 
 ### [[Primary Health Care]] (PHC)
 
@@ -79,3 +79,4 @@ The concept of PHC is based on **Four Pillars** (Principles).
 > Conceptual framework of Primary Health Care depicting the four pillars supporting the roof of 'Health For All'
 
 ---
+**Previous:** [[Role playing]]  **Next:** [[Barriers of communication]]

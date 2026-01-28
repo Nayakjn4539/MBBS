@@ -3,10 +3,10 @@ status: pending
 tags: [HealthEducation, CommunicationSkills, PublicHealth, CommunityMedicine, BarriersOfCommunication]
 subject: Community Medicine
 topic: COMMUNICATION FOR HEALTH EDUCATION
-up: [[COMMUNICATION FOR HEALTH EDUCATION]]
+up: 416
 ---
 
-# [[COMMUNICATION FOR HEALTH EDUCATION]] > Barriers of communication.
+# [[COMMUNICATION FOR HEALTH EDUCATION]] > Barriers of communication
 
 # Barriers of Communication
 
@@ -79,3 +79,4 @@ To remember the 4 main types, think of **"P-P-E-C"**:
 *   **Clinics:** A noisy, hot OPD waiting area creates an **Environmental barrier**, making patients irritable and less likely to listen to health instructions.
 
 ---
+**Previous:** [[Principles of primary health care with examples]]  **Next:** [[Communication Process]]

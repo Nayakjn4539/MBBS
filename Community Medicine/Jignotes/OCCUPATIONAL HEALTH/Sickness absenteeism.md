@@ -3,10 +3,10 @@ status: pending
 tags: [occupational_health, sickness_absenteeism, social_medicine, ESI_Act, industrial_health]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 362
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Sickness absenteeism.
+# [[OCCUPATIONAL HEALTH]] > Sickness absenteeism
 
 ### Sickness Absenteeism
 
@@ -61,3 +61,4 @@ Under the **[[Employees State Insurance Act]] (1948)**, insured workers are enti
 *   **Duration:** Payable for up to **91 days** in any continuous period of 365 days.
 
 ---
+**Previous:** [[Hazards of radiation]]  **Next:** [[Ergonomics]]

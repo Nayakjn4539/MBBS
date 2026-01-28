@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, NLEP, Elimination, MDT, PublicHealth, CommunicableDiseases, Epidemiology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 133
 ---
 
 # [[COMMUNICABLE DISEASES]] > Elimination of Leprosy
@@ -90,3 +90,4 @@ For elimination strategies to work, early diagnosis is vital. Health workers loo
     *(Presence of **any one** is diagnostic)*.
 
 ---
+**Previous:** [[Case finding methods in Leprosy]]  **Next:** [[MDT for Leprosy]]

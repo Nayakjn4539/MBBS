@@ -3,7 +3,7 @@ status: pending
 tags: [PerinatalMortality, INAP, PreventivePediatrics, NeonatalHealth, Stillbirth, PublicHealthIndicators]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 252
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Define perinatal mortality rate. Mention the different causes of perinatal mortality in India. What are the goals of India Newborn Action Plan (INAP)?
@@ -92,3 +92,6 @@ INAP focuses on interventions across the life-cycle continuum:
 High Perinatal Mortality is a "wastage of reproduction" and reflects poor obstetric services. Achieving INAP goals requires strengthening the **[[Cold Chain]]**, promoting institutional deliveries (**[[Janani Suraksha Yojana]]**), and effective management of asphyxia and sepsis.
 
 ---
+
+---
+**Previous:** [[Prevalence of anaemia among pregnant women is high compared to state and national average in the blo]]  **Next:** [[Define Geriatrics. Enumerate the common health problems of elderly in our country. Discuss their con]]

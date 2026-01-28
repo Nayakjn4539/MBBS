@@ -3,10 +3,10 @@ status: pending
 tags: [screening, diagnosis, preventive_medicine, epidemiology, iceberg_phenomenon, lead_time]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 55
 ---
 
-# [[SCREENING FOR DISEASES]] > Screening and diagnostic test differ.
+# [[SCREENING FOR DISEASES]] > Screening and diagnostic test differ
 
 ### **Differences Between Screening and Diagnostic Tests**
 
@@ -52,3 +52,4 @@ To remember the characteristics of a **SCREENING** test, think of **"PACT"**:
 *   **T** - **T**reatment (NOT a basis for treatment)
 
 ---
+**Previous:** [[Ideal screening test needs some criteria to be fulfilled]]  **Next:** [[Sensitivity and specificity of a screening test are inversely related]]

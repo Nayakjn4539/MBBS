@@ -3,7 +3,7 @@ status: pending
 tags: [PopulationSurveys, Biostatistics, HealthInformationSystem, CommunityDiagnosis, NFHS, Sampling, Epidemiology]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 375
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Population surveys
@@ -61,3 +61,4 @@ Since it is often impossible to survey the entire population (except in a [[Cens
 > Flowchart showing the steps of a Health Survey: 1. Define Objectives -> 2. Select Sample -> 3. Design Instrument (Questionnaire) -> 4. Pilot Study -> 5. Data Collection -> 6. Analysis -> 7. Reporting
 
 ---
+**Previous:** [[International death certificate]]  **Next:** [[Medical record linkage]]

@@ -3,7 +3,7 @@ status: pending
 tags: [natural_history_of_disease, levels_of_prevention, pulmonary_tuberculosis, epidemiological_triad, NTEP, DOTS, BCG, health_promotion, CBNAAT, rehabilitation]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 7
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > Describe the natural history of disease, briefly discuss the different levels of prevention and modes of intervention as applied to Pulmonary Tuberculosis.
@@ -108,3 +108,6 @@ Prevention is defined in terms of four levels, corresponding to the natural hist
 | | | Rehabilitation | Vocational training, Nikshay Poshan Yojana. |
 
 ---
+
+---
+**Previous:** [[What do you mean by indicators of health Write down the different disability rates with example. Wha]]  **Next:** [[What do you mean by multifactorial causation of disease Describe with suitable examples]]

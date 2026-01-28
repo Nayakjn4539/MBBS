@@ -3,10 +3,10 @@ status: pending
 tags: [Epidemiology, CarrierState, IcebergPhenomenon, DiseaseControl, PublicHealth, TyphoidMary, InfectiousDiseases]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 47
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Carrier stage of a disease is not amenable to control.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Carrier stage of a disease is not amenable to control
 
 ### **Carrier Stage: The "Hidden" Challenge in Disease Control**
 
@@ -99,3 +99,4 @@ Carriers can be classified based on type, duration, and portal of exit.
 > Iceberg Phenomenon of Disease showing cases above the waterline and carriers/subclinical cases submerged below
 
 ---
+**Previous:** [[Carriers are more dangerous than cases]]  **Next:** [[AEFI include events beyond side effects of vaccines]]

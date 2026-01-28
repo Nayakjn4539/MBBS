@@ -3,7 +3,7 @@ status: pending
 tags: [CancerRegistry, NCRP, HealthInformationSystem, Epidemiology, ICMR]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 393
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Cancer registry
@@ -90,3 +90,4 @@ The [[Indian Council of Medical Research (ICMR)]] initiated the NCRP in **1982**
 > Map of India showing locations of major Population-Based Cancer Registries under NCRP
 
 ---
+**Previous:** [[Define census]]  **Next:** [[Mention the uses of hospital records]]

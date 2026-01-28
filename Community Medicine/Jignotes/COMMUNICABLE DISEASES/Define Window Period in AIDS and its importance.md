@@ -3,7 +3,7 @@ status: pending
 tags: [HIV, AIDS, WindowPeriod, Epidemiology, BloodSafety, Seroconversion]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 177
 ---
 
 # [[COMMUNICABLE DISEASES]] > Define Window Period in AIDS and its importance
@@ -68,3 +68,4 @@ To remember the dangers of the Window Period: **W.I.N.D.O.W.**
 *   **W**arning: Re-test after 3 months.
 
 ---
+**Previous:** [[Contact tracing in STDs]]  **Next:** [[Criteria for surveillance as per the International Health regulations 2005]]

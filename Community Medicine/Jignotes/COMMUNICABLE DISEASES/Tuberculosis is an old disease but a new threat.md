@@ -3,10 +3,10 @@ status: pending
 tags: [Tuberculosis, NTEP, MDR-TB, HIV-TB, Social_Medicine, RNTCP, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 201
 ---
 
-# [[COMMUNICABLE DISEASES]] > Tuberculosis is an old disease but a new threat.
+# [[COMMUNICABLE DISEASES]] > Tuberculosis is an old disease but a new threat
 
 ### **Tuberculosis: An Old Disease, A New Threat**
 
@@ -94,3 +94,4 @@ In the era of the "New Threat," a clinician must suspect TB not just in patients
 *   **S** - **S**moking & Tobacco use
 
 ---
+**Previous:** [[Hepatitis B vaccine]]  **Next:** [[Isolation & quarantine are not synonymous]]

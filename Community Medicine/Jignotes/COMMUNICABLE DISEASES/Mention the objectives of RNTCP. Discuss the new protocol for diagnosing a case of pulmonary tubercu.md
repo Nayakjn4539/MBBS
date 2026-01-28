@@ -3,7 +3,7 @@ status: pending
 tags: [RNTCP, NTEP, Tuberculosis, DOTS, CBNAAT, MDRTB, CommunityMedicine, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 185
 ---
 
 # [[COMMUNICABLE DISEASES]] > Mention the objectives of RNTCP. Discuss the new protocol for diagnosing a case of pulmonary tuberculosis & steps of management.
@@ -96,3 +96,6 @@ If Rifampicin resistance is detected, patients are started on specific DR-TB reg
 *   **E** - Ethambutol (Bacteriostatic, prevents resistance)
 
 ---
+
+---
+**Previous:** [[What are the different modes of transmission of covid 19 infection Who are high risk groups Discuss]]  **Next:** [[A case of dog bite has reported to your health centre. How will you categorize the dog bite injury D]]

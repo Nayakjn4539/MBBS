@@ -3,7 +3,7 @@ status: pending
 tags: [AIDS, OpportunisticInfections, Tuberculosis, PCP, CD4Count, HIVMedicine, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 140
 ---
 
 # [[COMMUNICABLE DISEASES]] > Opportunistic infections in AIDS
@@ -123,3 +123,4 @@ Preventing OIs is a critical component of HIV care (Care, Support, and Treatment
 *   **[[IRIS]] (Immune Reconstitution Inflammatory Syndrome):** When ART is started, the recovering immune system may mount an overwhelming inflammatory response against pre-existing opportunistic pathogens (like TB), causing a paradoxical worsening of symptoms.
 
 ---
+**Previous:** [[Window period]]  **Next:** [[Control and prevention of HIV]]

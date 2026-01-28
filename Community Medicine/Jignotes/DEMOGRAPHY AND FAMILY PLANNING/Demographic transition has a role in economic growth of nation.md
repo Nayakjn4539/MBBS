@@ -3,10 +3,10 @@ status: pending
 tags: [DemographicTransition, DemographicDividend, DependencyRatio, EconomicGrowth, PopulationDynamics]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 242
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Demographic transition has a role in economic growth of nation.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Demographic transition has a role in economic growth of nation
 
 ### **Role of Demographic Transition in Economic Growth**
 
@@ -75,3 +75,4 @@ To remember the factors of Demographic Dividend:
 Public health administrators must realize that the **Demographic Dividend** is a time-limited opportunity. Investments in **Reproductive and Child Health (RCH)** to lower fertility, and **Non-Communicable Disease (NCD)** control to keep the workforce healthy, are economic imperatives, not just health goals.
 
 ---
+**Previous:** [[Acculturation has both merits & demerits]]  **Next:** [[Census is an important source of health information]]

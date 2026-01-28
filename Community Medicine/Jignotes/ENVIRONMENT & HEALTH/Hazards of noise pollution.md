@@ -3,10 +3,10 @@ status: pending
 tags: [noisepollution, environmentalhealth, occupationalhealth, hearingloss, audiogram]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 316
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Hazards of noise pollution.
+# [[ENVIRONMENT & HEALTH]] > Hazards of noise pollution
 
 ### Definition
 Noise is often defined as "unwanted sound". A better definition for community health purposes is **"wrong sound, in the wrong place, at the wrong time"**. It has become a significant [[stress factor]] in the modern environment.
@@ -72,3 +72,4 @@ To remember the **Non-Auditory Effects** of Noise: **SPEED**
 *   **D** - **D**isturbance of sleep/visual
 
 ---
+**Previous:** [[Principle of chlorination of water]]  **Next:** [[Sanitary landfill]]

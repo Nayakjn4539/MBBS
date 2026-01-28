@@ -3,7 +3,7 @@ status: pending
 tags: [couple_protection_rate, family_planning, unmet_need, demography, BMOH_duties, contraception, social_obstetrics]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 234
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > In a block of Nadia district CPR (couple protection rate) is less in comparison to neighbouring blocks. What are the social causes of poor CPR and what measures will you take up as a BMOH to improve the situation?
@@ -79,3 +79,6 @@ As a BMOH, the approach involves the **[[Management Cycle]]**: Assessment, Plann
 **[[Unmet Need for Family Planning]]**: This is a crucial concept for a BMOH. It refers to fecund women who are not using contraception but wish to postpone the next birth (spacing) or stop childbearing altogether (limiting). The BMOH must target this group first to rapidly improve CPR.
 
 ---
+
+---
+**Previous:** [[Define sex ratio. What are the factors behind declining sex ratio in India What are the measures ado]]  **Next:** [[Injectable contraceptives]]

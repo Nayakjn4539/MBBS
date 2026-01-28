@@ -3,7 +3,7 @@ status: pending
 tags: [occupational_health, pneumoconiosis, factories_act, ergonomics, preventive_medicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 348
 ---
 
 # [[OCCUPATIONAL HEALTH]] > Discuss the different types of occupational hazards with example. As a safety inspector on a visit to a factory, what measures will you suggest to the authorities for protection of the workers?
@@ -100,3 +100,6 @@ Strict enforcement of laws to ensure compliance by the management.
 *   **Silicosis:** Associated with "Snow-storm" appearance on Chest X-ray. It predisposes to [[Tuberculosis]].
 
 ---
+
+---
+**Previous:** [[Triage approach can provide maximum benefits in disaster situation]]  **Next:** [[Enumerate various laws acts protecting health of worker in India. Describe the medical benefits and]]

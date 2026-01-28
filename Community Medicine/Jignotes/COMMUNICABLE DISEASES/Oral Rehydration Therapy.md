@@ -3,7 +3,7 @@ status: pending
 tags: [OralRehydrationTherapy, ORS, Diarrhea, Dehydration, PublicHealth, CommunicableDiseases, Pediatrics]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 103
 ---
 
 # [[COMMUNICABLE DISEASES]] > Oral Rehydration Therapy
@@ -131,3 +131,4 @@ The treatment is based on the degree of dehydration, classified into three plans
     *   **S**kin pinch (Slow/Very slow)
 
 ---
+**Previous:** [[Guidelines for assessing dehydration following diarrhoea]]  **Next:** [[Primary prevention in Diarrheal diseases]]

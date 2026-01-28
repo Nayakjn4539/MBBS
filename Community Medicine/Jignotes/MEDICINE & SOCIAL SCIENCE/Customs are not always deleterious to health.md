@@ -3,10 +3,10 @@ status: pending
 tags: [Social_Medicine, Customs_and_Health, Health_Education, MCH, Community_Medicine]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 457
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Customs are not always deleterious to health.
+# [[MEDICINE & SOCIAL SCIENCE]] > Customs are not always deleterious to health
 
 ### Concept of Customs in Health
 **Customs** are established patterns of behavior that can be objectively verified within a particular social setting. They are "learned behaviors" socially acquired and transmitted from one generation to another. 
@@ -81,3 +81,4 @@ When working in a community, a doctor must not reject all traditions as "superst
 > A 2x2 matrix chart showing the four categories of customs (Good, Bad, Unimportant, Uncertain) with one icon representing each would be useful here.
 
 ---
+**Previous:** [[Explain why Family is considered as an epidemiological unit]]  **Next:** [[Doctor patient relationship plays a vital role in care of disease]]

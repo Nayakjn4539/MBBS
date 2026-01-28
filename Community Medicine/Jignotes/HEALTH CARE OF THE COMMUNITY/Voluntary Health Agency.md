@@ -3,10 +3,10 @@ status: pending
 tags: [VoluntaryHealthAgencies, CommunityMedicine, IndianRedCross, PublicHealth, NGOs]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 445
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Voluntary Health Agency.
+# [[HEALTH CARE OF THE COMMUNITY]] > Voluntary Health Agency
 
 ### Definition
 A [[Voluntary Health Agency]] is defined as an organization that is administered by an autonomous board which holds meetings, collects funds for its support chiefly from private sources, and expends money, whether with or without paid workers, in conducting a program directed primarily to furthering public health by providing health services, health education, research, or legislation.
@@ -67,3 +67,4 @@ The functions can be remembered using the Mnemonic **SPEED LG**.
 > Flowchart showing the relationship between Government Health Sector (Public) and Voluntary Health Agencies (Private/NGO) working together towards Community Health
 
 ---
+**Previous:** [[Health insurance scheme]]  **Next:** [[Equitable distribution of health services is an important principle of primary health care]]

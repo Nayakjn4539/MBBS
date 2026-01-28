@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 129
 ---
 
 # [[COMMUNICABLE DISEASES]] > Prevention of neonatal tetanus
@@ -70,3 +70,4 @@ The goal is **Elimination**, not Eradication (because the reservoir is soil).
 *   **Definition of Elimination:** Less than **1 case of N
 
 ---
+**Previous:** [[Trachoma]]  **Next:** [[Neonatal Tetanus]]

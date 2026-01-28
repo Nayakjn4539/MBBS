@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 125
 ---
 
 # [[COMMUNICABLE DISEASES]] > Salmonellosis
@@ -99,3 +99,4 @@ Since it is a [[zoonosis]], prevention covers the entire food chain.
 tags: #Salmonellosis #FoodPoisoning #CommunicableDiseases #Zoonosis #PublicHealth #Microbiology
 
 ---
+**Previous:** [[Rat flea indices]]  **Next:** [[Scrub typhus]]

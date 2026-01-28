@@ -3,10 +3,10 @@ status: pending
 tags: [sampling, biostatistics, research_methodology, epidemiology, random_sampling, cluster_sampling, stratified_sampling]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 369
 ---
 
-# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > What is sampling? Random sampling methods with suitable examples
+# [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > What is sampling Random sampling methods with suitable examples
 
 ### **Sampling**
 
@@ -105,3 +105,4 @@ To remember the types of Random Sampling: **"S**imple **S**ystem **S**trategy **
 *   **C**luster
 
 ---
+**Previous:** [[Statistical data – various methods of presentation]]  **Next:** [[Chi Square test & Uses]]

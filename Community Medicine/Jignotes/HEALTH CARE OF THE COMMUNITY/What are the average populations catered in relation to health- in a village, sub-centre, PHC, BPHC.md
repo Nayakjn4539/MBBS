@@ -3,7 +3,7 @@ status: pending
 tags: [Health_Care_Delivery_System, Primary_Health_Care, Community_Health_Centre, Sub_Centre, Demography, First_Referral_Unit, Population_Norms]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 437
 ---
 
 # [[HEALTH CARE OF THE COMMUNITY]] > What are the average populations catered in relation to health- in a village, sub-centre, PHC, BPHC or CHC? Who serves at the level of sub-Centre? What are the activities carried out at BPHC/CHC?
@@ -97,3 +97,6 @@ The **[[Community Health Centre]] (CHC)**, often functioning as the Block Primar
 > A CHC is designated as an **FRU (First Referral Unit)** only if it has facilities for **C-Section (Surgical Intervention)**, **Newborn Care**, and **Blood Storage** on a 24-hour basis. This is critical for reducing [[Maternal Mortality Rate]] (MMR).
 
 ---
+
+---
+**Previous:** [[Enumerate the objectives of school health programs. Briefly mention different components under the p]]  **Next:** [[What are the functions of Block Primary Health Centre Mention the National Programs under a BPHC. Wh]]

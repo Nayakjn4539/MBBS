@@ -3,10 +3,10 @@ status: pending
 tags: [Geriatrics, PreventiveMedicine, OldAge, ChronicDiseases, MentalHealth, SocialMedicine]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 270
 ---
 
-# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Health problems of Geriatric population.
+# [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Health problems of Geriatric population
 
 ### Health Problems of the Aged
 
@@ -104,3 +104,4 @@ These are often termed "Sociomedical" problems.
 > Chart showing the 'Vicious Cycle' of poverty, ill-health, and social isolation in the elderly
 
 ---
+**Previous:** [[PNDT Act]]  **Next:** [[Child labour]]

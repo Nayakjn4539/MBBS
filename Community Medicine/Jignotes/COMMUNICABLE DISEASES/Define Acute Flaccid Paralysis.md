@@ -3,7 +3,7 @@ status: pending
 tags: [AcuteFlaccidParalysis, PolioSurveillance, CommunicableDiseases, PublicHealth, Epidemiology, Pediatrics, AFPIndicators]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 152
 ---
 
 # [[COMMUNICABLE DISEASES]] > Define Acute Flaccid Paralysis
@@ -78,3 +78,4 @@ To ensure the system is working effectively, specific targets must be met:
 | **Adequate Stool Sample Rate** | **> 80%** | Ensures lab diagnosis is possible for most cases. |
 
 ---
+**Previous:** [[Case definition of suspect case of JE]]  **Next:** [[Prevention of perinatal transmission of Hep B]]

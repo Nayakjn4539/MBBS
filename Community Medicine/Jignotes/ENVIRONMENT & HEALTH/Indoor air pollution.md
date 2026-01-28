@@ -3,12 +3,10 @@ status: pending
 tags: [IndoorAirPollution, EnvironmentalHealth, COPD, Pneumonia, PublicHealth, OccupationalHealth, Toxicology]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 322
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Indoor air pollution.
-
-**Indoor Air Pollution**
+# [[ENVIRONMENT & HEALTH]] > Indoor air pollution
 
 The indoor environment represents a critical [[microenvironment]] where people spend a significant portion of their time. Indoor air pollution contributes substantially to total population exposure, often more than the outdoor environment. Surprisingly, air in tightly sealed modern offices and houses can be up to **100 times more polluted** than outdoor air.
 
@@ -110,3 +108,4 @@ Certain indoor plants are effective in removing toxic synthetic chemicals:
 > Flowchart showing sources of indoor pollution -> accumulation in poorly ventilated space -> inhalation by vulnerable groups (women/children) -> resulting diseases (Pneumonia/COPD)
 
 ---
+**Previous:** [[Biological filter]]  **Next:** [[Biochemical oxygen demand]]

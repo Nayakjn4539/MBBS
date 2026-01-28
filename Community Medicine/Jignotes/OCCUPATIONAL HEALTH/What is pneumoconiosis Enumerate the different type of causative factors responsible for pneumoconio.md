@@ -3,7 +3,7 @@ status: pending
 tags: [pneumoconiosis, occupational_health, silicosis, preventive_medicine, dust_diseases, community_medicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 350
 ---
 
 # [[OCCUPATIONAL HEALTH]] > What is pneumoconiosis? Enumerate the different type of causative factors responsible for pneumoconiosis. What are the measures to be undertaken to prevent pneumoconiosis?
@@ -98,3 +98,6 @@ Patients with **[[Silicosis]]** are at a significantly higher risk of developing
 > Drawing of a lung showing nodular fibrosis (Silicosis) vs diffuse fibrosis (Asbestosis) and 'Snow storm' appearance on X-ray
 
 ---
+
+---
+**Previous:** [[Enumerate various laws acts protecting health of worker in India. Describe the medical benefits and]]  **Next:** [[Enumerate different types of occupational hazards with example. Outline the measure to prevent one o]]

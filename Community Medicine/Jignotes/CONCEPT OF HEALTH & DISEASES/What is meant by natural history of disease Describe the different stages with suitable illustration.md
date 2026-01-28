@@ -3,7 +3,7 @@ status: pending
 tags: [NaturalHistoryOfDisease, LevelsOfPrevention, EpidemiologicalTriad, Prepathogenesis, Pathogenesis, PrimaryPrevention, SecondaryPrevention, TertiaryPrevention, PublicHealth]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 2
 ---
 
 # [[CONCEPT OF HEALTH & DISEASES]] > What is meant by natural history of disease? Describe the different stages with suitable illustration. Explain how the concept of prevention can be applied in relation to different stages.
@@ -111,3 +111,6 @@ Prevention is defined in terms of four levels, which correspond to the natural h
 *   **R**ehabilitation
 
 ---
+
+---
+**Previous:** [[Enumerate the determinants of health. How environmental and socio-economic conditions act as determi]]  **Next:** [[Define Health. Enumerate the various indicators of Health. What is Health for All]]

@@ -3,7 +3,7 @@ status: pending
 tags: [HIV, AIDS, NACP, ART, PEP, PrEP, PPTCT, ICTC, CommunicableDiseases, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 141
 ---
 
 # [[COMMUNICABLE DISEASES]] > Control and prevention of HIV
@@ -107,3 +107,4 @@ To end AIDS as a public health threat by 2030, the **95-95-95 Targets** (by 2025
 > *   **E**mpowerment & Education
 
 ---
+**Previous:** [[Opportunistic infections in AIDS]]  **Next:** [[Epidemiology and Prevention of Ebola]]

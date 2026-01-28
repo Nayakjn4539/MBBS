@@ -3,10 +3,10 @@ status: pending
 tags: [RNTCP, NTEP, Tuberculosis, LaboratoryNetwork, DMC, PublicHealth, CommunityMedicine]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 220
 ---
 
-# [[HEALTH PROGRAMMES IN INDIA]] > Laboratory network under RNTCP.
+# [[HEALTH PROGRAMMES IN INDIA]] > Laboratory network under RNTCP
 
 ### Laboratory Network Under [[RNTCP]] / [[NTEP]]
 
@@ -87,3 +87,4 @@ To support Universal DST (Drug Susceptibility Testing), the network has expanded
 The tiered structure ensures that a patient in a remote village has their sputum tested at a local **DMC**. If drug resistance is suspected, the sample moves up the chain to a **CBNAAT site** or **IRL** for molecular testing, ensuring **"Universal DST"**—a key pillar of the [[End TB Strategy]].
 
 ---
+**Previous:** [[Enumerate major causes of blindness in India. Outline the strategies adopted for control blindness u]]  **Next:** [[Janani Shishu Suraksha Karyakram]]

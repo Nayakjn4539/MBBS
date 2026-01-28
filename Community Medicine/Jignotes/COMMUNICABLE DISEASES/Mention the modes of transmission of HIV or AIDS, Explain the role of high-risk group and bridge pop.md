@@ -3,7 +3,7 @@ status: pending
 tags: [HIV, AIDS, NACP, TargetedInterventions, HighRiskGroups, BridgePopulation, CommunicableDiseases, PSM, Epidemiology, STIs, OST]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 195
 ---
 
 # [[COMMUNICABLE DISEASES]] > Mention the modes of transmission of HIV or AIDS, Explain the role of high-risk group and bridge population in HIV transmission, Outline the strategies undertaken in national program to reduce transmission from high-risk group.
@@ -107,3 +107,6 @@ These are specific projects tailored to the needs of HRGs. The main components a
 *   **E**nabling Environment
 
 ---
+
+---
+**Previous:** [[Significant numbers of cases of jaundice were reported from an urban locality. As a health expert ho]]  **Next:** [[Cases of adverse events following immunisation (AEFI) are being reported. How are AEFI classified De]]

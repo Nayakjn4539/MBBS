@@ -3,7 +3,7 @@ status: pending
 tags: [ManMadeMalaria, UrbanMalaria, AnophelesStephensi, VectorControl, EnvironmentalHealth, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 109
 ---
 
 # [[COMMUNICABLE DISEASES]] > Man-made malaria
@@ -83,3 +83,4 @@ Control of man-made malaria relies heavily on **[[Integrated Vector Management]]
 *   **Key Difference:** There is **no pre-erythrocytic (liver) stage**; therefore, relapse does not occur, and radical treatment with Primaquine is not required.
 
 ---
+**Previous:** [[Dengue fever]]  **Next:** [[Surveillance in malaria]]

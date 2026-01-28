@@ -3,7 +3,7 @@ status: pending
 tags: [DehydrationAssessment, IMNCI, DiarrhoeaManagement, OralRehydrationTherapy, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 102
 ---
 
 # [[COMMUNICABLE DISEASES]] > Guidelines for assessing dehydration following diarrhoea
@@ -91,3 +91,4 @@ To remember the criteria for assessment:
 *   **E** - **E**yes (Sunken vs. Normal)
 
 ---
+**Previous:** [[Cultural factors in diarrheal disease]]  **Next:** [[Oral Rehydration Therapy]]

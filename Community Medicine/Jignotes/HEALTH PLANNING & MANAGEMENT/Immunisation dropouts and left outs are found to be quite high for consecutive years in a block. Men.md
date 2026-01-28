@@ -3,7 +3,7 @@ status: pending
 tags: [Immunization, Health_Management, Universal_Immunization_Programme, Mission_Indradhanush, Cold_Chain, ASHA, Dropouts]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 421
 ---
 
 # [[HEALTH PLANNING & MANAGEMENT]] > Immunisation dropouts and left outs are found to be quite high for consecutive years in a block. Mention the possible reasons and outline the measures that can be adopted by the health administrator to improve the situation.
@@ -75,3 +75,6 @@ As a Block Medical Officer of Health (BMOH), the following systematic approach s
 > Flowchart showing the tracking mechanism using the Immunization Register and Tickler Box to identify dropouts and facilitate ASHA follow-up.
 
 ---
+
+---
+**Previous:** [[Interpersonal communication is more effective in behaviour change than mass communication]]  **Next:** [[In a block 40% of eligible couples are protected by modern contraceptive methods. As a BMOH outline]]

@@ -3,7 +3,7 @@ status: pending
 tags: [SevereAcuteMalnutrition, SAM, NutritionalRehabilitationCentre, MUAC, F75andF100, CommunityMedicine, IntegratedChildDevelopmentServices]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 279
 ---
 
 # [[NUTRITION AND HEALTH]] > Many children are reported to be suffering from severe acute malnutrition in a rural block. Briefly mention the steps that can be taken for screening and management of these cases.
@@ -74,3 +74,6 @@ Children **without** medical complications who have a **good appetite** can be m
 *   Monitoring of weight gain and adherence to dietary advice is essential to prevent relapse.
 
 ---
+
+---
+**Previous:** [[A 5-year-old boy is taken to Paediatric OPD with night blindness and triangular pearly white foamy s]]  **Next:** [[How do you assess the nutritional status of family Explain Diet survey & its types]]

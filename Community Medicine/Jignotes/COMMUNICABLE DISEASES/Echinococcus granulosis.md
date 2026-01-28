@@ -3,7 +3,7 @@ status: pending
 tags: [EchinococcusGranulosus, HydatidDisease, Zoonosis, Parasitology, CasonisTest, PublicHealth, Albendazole]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 127
 ---
 
 # [[COMMUNICABLE DISEASES]] > Echinococcus granulosis
@@ -94,3 +94,4 @@ The incubation period is variable (months to years). The cysts grow slowly, ofte
 4.  **Health Education:** Educate the community, especially in sheep-rearing areas, about the dangers of feeding raw offal to dogs.
 
 ---
+**Previous:** [[Scrub typhus]]  **Next:** [[Trachoma]]

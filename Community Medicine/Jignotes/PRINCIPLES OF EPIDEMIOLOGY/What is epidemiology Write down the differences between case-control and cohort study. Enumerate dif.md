@@ -3,7 +3,7 @@ status: pending
 tags: [Epidemiology, CaseControl, CohortStudy, Bias, Confounding, OddsRatio, RelativeRisk, BerkesonianBias, RecallBias, StudyDesign, PublicHealth]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 24
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > What is epidemiology? Write down the differences between case-control and cohort study. Enumerate different types of biases in analytical epidemiological studies.
@@ -83,3 +83,6 @@ Errors arising from measurement of exposure or outcome.
 *   **S**election (General)
 
 ---
+
+---
+**Previous:** [[Write the National Immunization Schedule for under five children. What is cold chain Write dos and d]]  **Next:** [[Classify epidemiological studies. Explain the epidemiological feature of cyclic trend & secular tren]]

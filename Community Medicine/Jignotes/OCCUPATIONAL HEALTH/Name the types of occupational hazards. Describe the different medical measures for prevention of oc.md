@@ -3,7 +3,7 @@ status: pending
 tags: [occupational_health, pneumoconiosis, ergonomics, factories_act, lead_poisoning, preventive_medicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 358
 ---
 
 # [[OCCUPATIONAL HEALTH]] > Name the types of occupational hazards. Describe the different medical measures for prevention of occupational disease.
@@ -88,3 +88,6 @@ Many occupational diseases are slow to develop (e.g., pneumoconiosis, lead poiso
 > Flowchart showing the sequence of medical measures: Pre-placement exam -> Periodical Exam -> Notification -> Treatment -> Rehabilitation
 
 ---
+
+---
+**Previous:** [[Many cases of silicosis were reported from a Pottery and Ceramic industry. As an Industry Health Off]]  **Next:** [[Define Ergonomics. Discuss the importance of preplacement examination with suitable example]]

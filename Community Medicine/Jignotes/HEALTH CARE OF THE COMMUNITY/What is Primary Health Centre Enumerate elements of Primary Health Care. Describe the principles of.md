@@ -3,7 +3,7 @@ status: pending
 tags: [PrimaryHealthCentre, PHC, PrinciplesOfPHC, AlmaAtaDeclaration, MedicalOfficerRole, CommunityMedicine, HealthCareDeliverySystem, MCH, RuralHealth]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 434
 ---
 
 # [[HEALTH CARE OF THE COMMUNITY]] > What is Primary Health Centre? Enumerate elements of Primary Health Care. Describe the principles of primary health care. Enumerate the services provided at a Primary Health Centre. Discuss the role of medical officer in PHC.
@@ -111,3 +111,6 @@ The **Medical Officer (MO)** is the captain of the health team at the PHC and pr
 > Flowchart showing the staffing pattern of a PHC and its linkage to Sub-centres and CHC
 
 ---
+
+---
+**Previous:** [[Cost effective analysis and cost benefit analysis are not synonymous]]  **Next:** [[Enumerate the functions of primary health centre. What are the services provided by sub centre]]

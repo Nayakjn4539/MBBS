@@ -3,10 +3,10 @@ status: pending
 tags: [BiologicalFilter, SlowSandFilter, Schmutzdecke, WaterPurification, EnvironmentalHealth, PublicHealth]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 321
 ---
 
-# [[ENVIRONMENT & HEALTH]] > Biological filter.
+# [[ENVIRONMENT & HEALTH]] > Biological filter
 
 ### Biological Filter (Slow Sand Filter)
 
@@ -74,3 +74,4 @@ The biological filter purifies water through four distinct processes:
 > Cross-section of a Slow Sand Filter showing supernatant water, Schmutzdecke, sand bed, gravel support, and under-drainage system
 
 ---
+**Previous:** [[Bacterial indicators of drinking water quality]]  **Next:** [[Indoor air pollution]]

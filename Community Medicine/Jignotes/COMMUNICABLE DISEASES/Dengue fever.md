@@ -3,7 +3,7 @@ status: pending
 tags: [Dengue, AedesAegypti, CommunicableDiseases, Arbovirus, DengueHemorrhagicFever]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 108
 ---
 
 # [[COMMUNICABLE DISEASES]] > Dengue fever
@@ -131,3 +131,4 @@ To assess the risk of transmission, these indices are used for *Aedes aegypti*,:
 *   **Contraindication:** Individuals who are **seronegative** (no prior dengue infection) because it acts like a primary infection and sensitizes them to severe dengue upon natural infection.
 
 ---
+**Previous:** [[Soil transmitted helminths]]  **Next:** [[Man-made malaria]]

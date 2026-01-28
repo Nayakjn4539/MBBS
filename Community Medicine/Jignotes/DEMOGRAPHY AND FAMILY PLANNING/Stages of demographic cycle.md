@@ -3,10 +3,10 @@ status: pending
 tags: [demography, population_dynamics, demographic_cycle, public_health, community_medicine]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 237
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Stages of demographic cycle.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Stages of demographic cycle
 
 # STAGES OF DEMOGRAPHIC CYCLE
 
@@ -88,3 +88,4 @@ To remember the sequence of the 5 stages:
 *   **D**eclining
 
 ---
+**Previous:** [[Merits of a joint family]]  **Next:** [[Prioritisation in health planning]]

@@ -3,7 +3,7 @@ status: pending
 tags: [leprosy, epidemiology, communicable_diseases, mycobacterium_leprae, host_factors, agent_factors]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 131
 ---
 
 # [[COMMUNICABLE DISEASES]] > Agent and host factors in Leprosy
@@ -95,3 +95,4 @@ The epidemiology of **Leprosy** (Hansen's Disease) is determined by the interact
 *   **Incubation Period:** It is exceptionally long, averaging **3 to 5 years**.
 
 ---
+**Previous:** [[Neonatal Tetanus]]  **Next:** [[Case finding methods in Leprosy]]

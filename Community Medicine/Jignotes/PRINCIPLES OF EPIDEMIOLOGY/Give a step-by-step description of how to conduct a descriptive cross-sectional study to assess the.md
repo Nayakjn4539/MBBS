@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 27
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Give a step-by-step description of how to conduct a descriptive cross-sectional study to assess the extent of overweight and obesity among medical students.
@@ -98,3 +98,6 @@ Based on the distribution, formulate an etiological hypothesis for further analy
 tags: #cross_sectional_study #descriptive_epidemiology #BMI #obesity_assessment #study_design #medical_statistics
 
 ---
+
+---
+**Previous:** [[Give a brief account of different types of human reservoir of infection. Describe in brief the metho]]  **Next:** [[Enlist the types of epidemiological studies. Discuss the importance of incubation period in epidemio]]

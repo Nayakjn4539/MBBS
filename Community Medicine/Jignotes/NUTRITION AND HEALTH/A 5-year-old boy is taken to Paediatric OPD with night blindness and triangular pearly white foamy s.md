@@ -3,7 +3,7 @@ status: pending
 tags: [VitaminA, Xerophthalmia, BitotsSpots, NationalImmunizationSchedule, CommunityMedicine, Nutrition, Pediatrics, PublicHealth]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 278
 ---
 
 # [[NUTRITION AND HEALTH]] > A 5-year-old boy is taken to Paediatric OPD with night blindness and triangular pearly white foamy spots on bulbar conjunctiva. Which micronutrient is responsible? Describe symptoms and signs. How can the boy be treated? What are dietary sources? Briefly describe the National Health Program related to this.
@@ -103,3 +103,6 @@ A total of **9 doses** (Total 17 Lakh IU) are administered to all children under
 *   **Target:** Reduce the prevalence of blindness to < 0.3%.
 
 ---
+
+---
+**Previous:** [[Institutional deliveries can reduce maternal mortality to a great extent]]  **Next:** [[Many children are reported to be suffering from severe acute malnutrition in a rural block. Briefly]]

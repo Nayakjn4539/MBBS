@@ -3,7 +3,7 @@ status: pending
 tags: [Anthropometry, Malnutrition, IYCF, Breastfeeding, GrowthChart, PreventivePediatrics, Counselling]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 257
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Considering its effect on present and future lives of children, name the most important anthropometric indicator of undernutrition with justification. Enumerate the components of IYCF. Write down the steps of counselling of a woman with a three-month-old child and complaining of 'not enough milk'.
@@ -85,3 +85,6 @@ Observe a breastfeeding session. Poor attachment is a common cause of poor milk 
 > Correct breastfeeding attachment vs. poor attachment
 
 ---
+
+---
+**Previous:** [[Define Maternal Mortality Ratio (MMR). Outline of the strategies under national programme to bring d]]  **Next:** [[A recently delivered (2 weeks back) mother has come for check-up. Mention the components of post-nat]]

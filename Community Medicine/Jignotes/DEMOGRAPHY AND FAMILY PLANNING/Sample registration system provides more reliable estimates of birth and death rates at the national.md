@@ -3,7 +3,7 @@ status: pending
 tags: [SampleRegistrationSystem, VitalStatistics, Demography, DualRecordSystem, InfantMortalityRate, CivilRegistrationSystem]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 245
 ---
 
 # [[DEMOGRAPHY AND FAMILY PLANNING]] > Sample registration system provides more reliable estimates of birth and death rates at the national and state level than other existing systems.
@@ -70,3 +70,6 @@ Since 2004, the SRS has incorporated **Verbal Autopsy** instruments to determine
 *   **L** - **Large** scale sample (Representative)
 
 ---
+
+---
+**Previous:** [[Declining sex ratio had many adverse consequences]]  **Next:** [[Family as a unit of health]]

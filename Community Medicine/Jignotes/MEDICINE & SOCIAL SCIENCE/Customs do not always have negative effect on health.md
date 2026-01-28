@@ -3,10 +3,10 @@ status: pending
 tags: [cultural_factors_in_health, social_medicine, customs_and_health, medical_sociology, health_determinants]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 454
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Customs do not always have negative effect on health.
+# [[MEDICINE & SOCIAL SCIENCE]] > Customs do not always have negative effect on health
 
 ### **Customs and Health: A Positive Perspective**
 
@@ -85,3 +85,4 @@ To remember the **Beneficial Customs**, use **"B-O-N-E-S"**:
 > Flowchart showing the classification of customs into Good, Bad, Unimportant, and Uncertain with examples for each
 
 ---
+**Previous:** [[Internship is a way of socialisation]]  **Next:** [[Crowd and mob are different]]

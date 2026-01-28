@@ -3,10 +3,10 @@ status: pending
 tags: [rabies, vaccination, community_medicine, epidemiology, IDRV]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 198
 ---
 
-# [[COMMUNICABLE DISEASES]] > Intra-dermal rabies vaccination.
+# [[COMMUNICABLE DISEASES]] > Intra-dermal rabies vaccination
 
 ### **Intra-dermal Rabies Vaccination (IDRV)**
 
@@ -96,3 +96,4 @@ The ID route is generally safe, but the **Intramuscular (IM) route** is preferre
 *   **Finish with 2** shots on Day 28
 
 ---
+**Previous:** [[Illustrate how the levels of prevention and modes of intervention can be applied to Poliomyelitis]]  **Next:** [[Chemotherapy of Multi-bacillary Leprosy]]

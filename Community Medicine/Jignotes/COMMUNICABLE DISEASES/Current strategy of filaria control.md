@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 116
 ---
 
 # [[COMMUNICABLE DISEASES]] > Current strategy of filaria control
@@ -93,3 +93,4 @@ To remember the strategy for Elimination of Lymphatic Filariasis (**ELF**): **"M
 tags: #National_Vector_Borne_Disease_Control_Programme #Lymphatic_Filariasis #Mass_Drug_Administration #Diethylcarbamazine #Morbidity_Management #Vector_Control #Community_Medicine
 
 ---
+**Previous:** [[Filarial indices]]  **Next:** [[Anti – rabies vaccine]]

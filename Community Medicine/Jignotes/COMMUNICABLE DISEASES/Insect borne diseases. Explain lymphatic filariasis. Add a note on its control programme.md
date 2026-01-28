@@ -3,7 +3,7 @@ status: pending
 tags: [Lymphatic_Filariasis, Wuchereria_bancrofti, Culex_mosquito, Mass_Drug_Administration, NVBDCP, Elephantiasis, Diethylcarbamazine, Communicable_Diseases, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 73
 ---
 
 # [[COMMUNICABLE DISEASES]] > Insect borne diseases. Explain lymphatic filariasis. Add a note on its control programme
@@ -112,3 +112,4 @@ The **National Filaria Control Programme (NFCP)** (launched 1955) is now integra
 *   **Transmission Assessment Survey (TAS):** Used to decide when to stop MDA.
 
 ---
+**Previous:** [[Modified plan of action for malaria control]]  **Next:** [[Common zoonotic diseases. Epidemiology and prevention of Rabies]]

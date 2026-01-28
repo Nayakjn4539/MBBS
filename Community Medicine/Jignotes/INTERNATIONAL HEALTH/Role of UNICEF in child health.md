@@ -3,7 +3,7 @@ status: pending
 tags: [UNICEF, GOBIFFF, ChildHealth, InternationalHealth, PublicHealth, GrowthMonitoring, Breastfeeding]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 474
 ---
 
 # [[INTERNATIONAL HEALTH]] > Role of UNICEF in child health
@@ -78,3 +78,4 @@ UNICEF promotes a low-cost, high-impact strategy known as the GOBI campaign to r
 *   **Emergency Relief:** In times of war or natural disasters (earthquakes, floods), UNICEF mobilizes immediate relief (milk, medicines, clothes) for affected children.
 
 ---
+**Previous:** [[World Health Day]]  **Next:** [[Prospective Genetic counselling is more rewarding]]

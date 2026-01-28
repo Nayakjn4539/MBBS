@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, TertiaryPrevention, Rehabilitation, DisabilityLimitation, ReconstructiveSurgery, NLEP, CommunityMedicine]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 135
 ---
 
 # [[COMMUNICABLE DISEASES]] > Tertiary Preventive measures for leprosy
@@ -96,3 +96,4 @@ Rehabilitation is the combined and coordinated use of medical, social, education
 *   **S** - **S**ocial (Family acceptance, removing stigma)
 
 ---
+**Previous:** [[MDT for Leprosy]]  **Next:** [[Social pathology in Leprosy]]

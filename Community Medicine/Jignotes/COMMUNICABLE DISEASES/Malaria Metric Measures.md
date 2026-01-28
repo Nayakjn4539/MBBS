@@ -3,7 +3,7 @@ status: pending
 tags: [MalariaMetricMeasures, AnnualParasiteIncidence, ABER, SpleenRate, InfantParasiteRate, PublicHealthIndices, Epidemiology]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 112
 ---
 
 # [[COMMUNICABLE DISEASES]] > Malaria Metric Measures
@@ -115,3 +115,4 @@ These measure the vector's capability to transmit the disease.
 *   **Elimination Certification:** Sustained **Zero IPR** and **API < 1** are critical milestones for moving a district or state from the "Control" phase to the "Elimination" phase,.
 
 ---
+**Previous:** [[Radical treatment for malaria]]  **Next:** [[Modified plan of operation for malaria]]

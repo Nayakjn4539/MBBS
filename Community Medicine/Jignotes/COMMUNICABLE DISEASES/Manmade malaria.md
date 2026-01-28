@@ -3,7 +3,7 @@ status: pending
 tags: [ManMadeMalaria, UrbanMalaria, VectorControl, AnophelesStephensi, SourceReduction, PublicHealth, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 159
 ---
 
 # [[COMMUNICABLE DISEASES]] > Manmade malaria
@@ -68,3 +68,4 @@ Control of man-made malaria requires an **[[Integrated Vector Management]]** app
 > Flowchart showing Human Activity (Dam/Road construction) -> Creation of Burrow Pits -> Water Stagnation -> Mosquito Breeding -> Malaria Transmission
 
 ---
+**Previous:** [[Urban malaria]]  **Next:** [[Annual parasite incidence [API]]]

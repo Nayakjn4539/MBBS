@@ -3,7 +3,7 @@ status: pending
 tags: [measles, rubeola, communicablediseases, koplikspots, SSPE, naturalhistoryofdisease, immunization]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 84
 ---
 
 # [[COMMUNICABLE DISEASES]] > Natural history of measles
@@ -110,3 +110,4 @@ To remember the progression and features of Measles: **"MEASLES"**
 > Timeline of Measles Infection showing Incubation period, Prodrome (Koplik spots), Rash onset, and Communicability window
 
 ---
+**Previous:** [[Epidemiological factors that have led to the eradication of smallpox in the world]]  **Next:** [[Measles vaccination]]

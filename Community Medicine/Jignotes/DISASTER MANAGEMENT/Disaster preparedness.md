@@ -3,10 +3,10 @@ status: pending
 tags: [DisasterManagement, PublicHealth, Triage, CommunityMedicine, HealthSystems]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 342
 ---
 
-# [[DISASTER MANAGEMENT]] > Disaster preparedness.
+# [[DISASTER MANAGEMENT]] > Disaster preparedness
 
 ### **Disaster Preparedness**
 
@@ -98,3 +98,4 @@ Unlike natural disasters, chemical disasters give little warning. Preparedness i
 *   **Psychological First Aid:** Preparedness includes training to handle the emotional stress and PTSD that follows disasters.
 
 ---
+**Previous:** [[What is disaster What are aspects of disaster management Outline the management aspect of disaster i]]  **Next:** [[Vaccination in disaster]]

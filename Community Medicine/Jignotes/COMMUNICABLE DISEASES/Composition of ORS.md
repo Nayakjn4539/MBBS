@@ -3,7 +3,7 @@ status: pending
 tags: [ORS, Oral_Rehydration_Therapy, Diarrhea_Management, Communicable_Diseases, Child_Health, Biochemistry, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 155
 ---
 
 # [[COMMUNICABLE DISEASES]] > Composition of ORS
@@ -84,3 +84,4 @@ For children with **[[Severe Acute Malnutrition]] (SAM)**, standard ORS is dange
 *   **Zinc Supplementation:** Zinc (20mg for >6 months; 10mg for <6 months) should be given for 14 days alongside ORS to reduce severity and duration of the episode.
 
 ---
+**Previous:** [[Low Osmolarity ORS]]  **Next:** [[Home available fluids in diarrhoea]]

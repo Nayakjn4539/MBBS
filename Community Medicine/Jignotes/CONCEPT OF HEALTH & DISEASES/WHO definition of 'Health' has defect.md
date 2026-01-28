@@ -3,10 +3,10 @@ status: pending
 tags: [WHO_definition, concept_of_health, limitations_of_health_definition, operational_definition, socially_and_economically_productive_life]
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
-up: [[CONCEPT OF HEALTH & DISEASES]]
+up: 20
 ---
 
-# [[CONCEPT OF HEALTH & DISEASES]] > WHO definition of 'Health' has defect.
+# [[CONCEPT OF HEALTH & DISEASES]] > WHO definition of 'Health' has defect
 
 ### Defects in the WHO Definition of Health
 
@@ -58,3 +58,4 @@ To remember the defects of the WHO definition, think of **"ISO"**:
 > Spectrum of Health - Showing a continuous line from Positive Health -> Better Health -> Freedom from Sickness -> Unrecognized Sickness -> Mild Sickness -> Severe Sickness -> Death
 
 ---
+**Previous:** [[Primordial prevention is a subset of primary prevention]]  **Next:** [[ASHAs of a sub-centre in 'X' district reported an outbreak of fever with rash cases of under five ch]]

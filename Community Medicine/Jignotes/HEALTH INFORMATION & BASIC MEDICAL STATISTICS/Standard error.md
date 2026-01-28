@@ -3,7 +3,7 @@ status: pending
 tags: [StandardError, Biostatistics, StandardDeviation, SamplingDistribution, ConfidenceInterval, HypothesisTesting, Precision, SampleSize]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 384
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Standard error
@@ -93,3 +93,4 @@ When comparing two groups (e.g., Drug A vs. Drug B), we calculate the SE of the 
 In clinical trials, when you read that a drug reduced blood pressure by $10 \text{ mmHg} \ (\text{SE } \pm 2)$, it means the researchers are reasonably confident that the true reduction in the general population lies between $6$ and $14 \text{ mmHg}$ ($Mean \pm 2 SE$). If the SE were very large (e.g., $\pm 8$), the drug's effect would be uncertain, indicating poor [[precision]].
 
 ---
+**Previous:** [[Normal curve vs normal distribution]]  **Next:** [[Enlist the probability sampling methods. Elaborate on any 2 methods]]

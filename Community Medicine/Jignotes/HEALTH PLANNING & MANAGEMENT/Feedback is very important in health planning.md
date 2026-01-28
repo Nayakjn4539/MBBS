@@ -3,10 +3,10 @@ status: pending
 tags: [HealthPlanning, Management, Communication, PublicHealth, HMIS]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 432
 ---
 
-# [[HEALTH PLANNING & MANAGEMENT]] > "Feedback" is very important in health planning.
+# [[HEALTH PLANNING & MANAGEMENT]] > Feedback is very important in health planning
 
 ### **Concept of Feedback in Health Planning**
 
@@ -77,3 +77,4 @@ Feedback operates effectively through the following management functions:
 *   **Program Success:** In the [[National Tuberculosis Elimination Programme (NTEP)]], default retrieval is a feedback mechanism. If a patient misses a dose, the system is alerted (Feedback), and the provider tracks the patient (Action) to ensure adherence.
 
 ---
+**Previous:** [[Prioritization is an important prerequisite health planning]]  **Next:** [[Cost effective analysis and cost benefit analysis are not synonymous]]

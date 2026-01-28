@@ -3,10 +3,10 @@ status: pending
 tags: [Health_Education, Propaganda, Behavior_Change, Public_Health_Communication, Community_Medicine]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 430
 ---
 
-# [[HEALTH PLANNING & MANAGEMENT]] > Health education is not a propaganda.
+# [[HEALTH PLANNING & MANAGEMENT]] > Health education is not a propaganda
 
 ### Health Education vs. Health Propaganda
 
@@ -60,3 +60,4 @@ The distinctions between Health Education and Propaganda are critical for commun
 > Flowchart showing the pathway of Health Education (Knowledge -> Attitude -> Practice) vs the pathway of Propaganda (Slogan -> Emotion -> Impulsive Act)
 
 ---
+**Previous:** [[Budgeting]]  **Next:** [[Prioritization is an important prerequisite health planning]]

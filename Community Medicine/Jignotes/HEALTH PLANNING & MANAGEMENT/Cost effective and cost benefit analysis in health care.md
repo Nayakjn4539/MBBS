@@ -3,10 +3,10 @@ status: pending
 tags: [HealthEconomics, HealthManagement, CostBenefitAnalysis, CostEffectivenessAnalysis, PublicHealthAdministration]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 428
 ---
 
-# [[HEALTH PLANNING & MANAGEMENT]] > Cost effective and cost benefit analysis in health care.
+# [[HEALTH PLANNING & MANAGEMENT]] > Cost effective and cost benefit analysis in health care
 
 ### **Economic Analysis in Health Management**
 
@@ -82,3 +82,4 @@ To remember the difference between **Benefit** and **Effectiveness**:
 *   **E**ffectiveness = **E**vents (Health events like lives saved, cases prevented).
 
 ---
+**Previous:** [[Define health education. How it differs from BCC Briefly outline the different health education meas]]  **Next:** [[Budgeting]]

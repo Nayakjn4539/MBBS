@@ -3,10 +3,10 @@ status: pending
 tags: [epidemiology, carriers, communicablediseases, icebergphenomenon, publichealth, typhoidmary, transmission]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 42
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Carriers, though less infectious are epidemiologically dangerous.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Carriers, though less infectious are epidemiologically dangerous
 
 ### **Carriers: The Hidden Danger in Epidemiology**
 
@@ -76,3 +76,4 @@ To remember the types of carriers: **"I C Healthy TC"** (I See Healthy TC)
 *   **C** - Chronic
 
 ---
+**Previous:** [[Pulse polio program is still going on]]  **Next:** [[Use of auto disable syringes in national immunisation program has several advantages]]

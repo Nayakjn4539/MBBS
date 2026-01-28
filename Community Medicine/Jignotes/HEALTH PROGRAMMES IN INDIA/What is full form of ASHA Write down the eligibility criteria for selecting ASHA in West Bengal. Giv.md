@@ -3,7 +3,7 @@ status: pending
 tags: [ASHA, MaternalHealth, NewbornCare, HBNC, NationalHealthMission, JSY]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 213
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > What is full form of ASHA? Write down the eligibility criteria for selecting ASHA in West Bengal. Give a brief outline of role of ASHA in maternal and new-born care.
@@ -64,3 +64,6 @@ ASHA provides essential newborn care through a series of home visits.
 > *(Add Day 1 for Home Deliveries)*
 
 ---
+
+---
+**Previous:** [[A 2-year-old male child presented at the immunisation clinic with weight between 2SD and -3SD for hi]]  **Next:** [[What do you mean Essential Obstetric Care What are the services delivered under Essential Obstetric]]

@@ -3,10 +3,10 @@ status: pending
 tags: [InternationalHealthRegulations, IHR, PHEIC, WHO, YellowFever, DiseaseSurveillance, PublicHealth, NotifiableDiseases]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 463
 ---
 
-# [[INTERNATIONAL HEALTH]] > International health regulations.
+# [[INTERNATIONAL HEALTH]] > International health regulations
 
 # International Health Regulations (IHR)
 
@@ -86,3 +86,4 @@ The IHR (2005) requires countries to develop core public health capacities to:
 *   **Surveillance:** Doctors are the first line of defense; recognizing and notifying a case of Wild Polio or a new Influenza strain is a legal obligation under national laws derived from IHR commitments.
 
 ---
+**Previous:** [[Functions of WHO]]  **Next:** [[Nothing on earth is more international than disease]]

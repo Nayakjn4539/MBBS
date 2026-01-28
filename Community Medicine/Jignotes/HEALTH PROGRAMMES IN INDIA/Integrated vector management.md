@@ -3,10 +3,10 @@ status: pending
 tags: [Integrated_Vector_Management, NVBDCP, Malaria_Control, Public_Health, Entomology, Vector_Control]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 223
 ---
 
-# [[HEALTH PROGRAMMES IN INDIA]] > Integrated vector management.
+# [[HEALTH PROGRAMMES IN INDIA]] > Integrated vector management
 
 ### Integrated Vector Management (IVM)
 
@@ -93,3 +93,4 @@ To remember the components of Integrated Vector Management: **"BASIC"**
 > Flowchart showing the components of IVM feeding into the reduction of Vector Density and Disease Transmission
 
 ---
+**Previous:** [[Village Health & Nutrition Day]]  **Next:** [[ICTC should be supported by ARTlink ART Centre]]

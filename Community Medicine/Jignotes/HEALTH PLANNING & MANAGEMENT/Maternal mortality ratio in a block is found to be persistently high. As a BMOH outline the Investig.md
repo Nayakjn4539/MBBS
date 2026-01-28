@@ -3,7 +3,7 @@ status: pending
 tags: [MaternalMortalityRatio, MaternalDeathReview, ThreeDelaysModel, EmergencyObstetricCare, JananiSurakshaYojana, HighRiskPregnancy, BMOH, AnemiaMuktBharat, CommunityMedicine]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 423
 ---
 
 # [[HEALTH PLANNING & MANAGEMENT]] > Maternal mortality ratio in a block is found to be persistently high. As a BMOH outline the Investigation procedure to find out the causes and Intervention to be adopted to reduce the MMR.
@@ -79,3 +79,6 @@ Interventions must be targeted at the **"3 Es"**: **E**ssential obstetric care, 
 *   **P**roducts (Blood transfusion)
 
 ---
+
+---
+**Previous:** [[In a block 40% of eligible couples are protected by modern contraceptive methods. As a BMOH outline]]  **Next:** [[There is sudden rise of infant mortality rate in a block. What are the measures you would like to ad]]

@@ -3,7 +3,7 @@ status: pending
 tags: [IMR, InfantMortalityRate, MaternalChildHealth, SocialObstetrics, PreventiveMedicine, PublicHealthIndicators, NeonatalMortality]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 254
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > Define infant mortality rate (IMR). Mention important cause of IMR. Describe important socio-cultural factors affecting infant mortality.
@@ -101,3 +101,6 @@ To remember the factors affecting IMR, use **"BIG FEMALES"**:
 *   **S**ocial customs (Brutal habits/Untrained dais)
 
 ---
+
+---
+**Previous:** [[Define Geriatrics. Enumerate the common health problems of elderly in our country. Discuss their con]]  **Next:** [[What are the different maternal health problem in India. Explain antenatal care]]

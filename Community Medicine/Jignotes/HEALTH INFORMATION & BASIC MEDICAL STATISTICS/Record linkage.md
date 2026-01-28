@@ -3,7 +3,7 @@ status: pending
 tags: [RecordLinkage, HealthInformationSystem, Epidemiology, VitalStatistics, MedicalRecords, ChronicDisease]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 396
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Record linkage
@@ -48,3 +48,4 @@ For a physician, the concept of record linkage translates to **Continuity of Car
 > A flowchart showing separate data silos (Birth Registry, Hospital A Records, GP Records, Death Registry) all feeding arrows into a central cylinder labeled "Linked Health File / Master Index"
 
 ---
+**Previous:** [[Sample registration system]]  **Next:** [[Illustrate with examples the best graph to depict the relationship between 2 variables]]

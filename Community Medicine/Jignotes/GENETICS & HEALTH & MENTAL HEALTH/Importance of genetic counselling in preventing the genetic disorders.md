@@ -3,10 +3,10 @@ status: pending
 tags: [genetic_counselling, preventive_medicine, eugenics, thalassemia, prenatal_diagnosis]
 subject: Community Medicine
 topic: GENETICS & HEALTH & MENTAL HEALTH
-up: [[GENETICS & HEALTH & MENTAL HEALTH]]
+up: 477
 ---
 
-# [[GENETICS & HEALTH & MENTAL HEALTH]] > Importance of genetic counselling in preventing the genetic disorders.
+# [[GENETICS & HEALTH & MENTAL HEALTH]] > Importance of genetic counselling in preventing the genetic disorders
 
 ### Importance of Genetic Counselling in Preventing Genetic Disorders
 
@@ -58,3 +58,4 @@ Genetic counselling is often supported by other specific protective measures to 
 > Flowchart showing the steps of Genetic Counselling: 1. Assessment (History/Pedigree) -> 2. Diagnosis (Tests) -> 3. Risk Calculation -> 4. Communication (Counselling) -> 5. Decision Making -> 6. Follow up
 
 ---
+**Previous:** [[Mental Health Services are coming forefront]]  

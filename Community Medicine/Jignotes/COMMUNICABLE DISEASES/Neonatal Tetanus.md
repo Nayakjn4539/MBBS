@@ -3,7 +3,7 @@ status: pending
 tags: [NeonatalTetanus, ClostridiumTetani, 5Cleans, MaternalImmunization, TetanusToxoid, CommunicableDiseases, PublicHealth, MNTElimination]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 130
 ---
 
 # [[COMMUNICABLE DISEASES]] > Neonatal Tetanus
@@ -106,3 +106,4 @@ Immunizing the mother with **[[Tetanus Toxoid]] (TT/Td)** transfers antibodies t
     *   WHO certified this status on **14th July 2016**.
 
 ---
+**Previous:** [[Prevention of neonatal tetanus]]  **Next:** [[Agent and host factors in Leprosy]]

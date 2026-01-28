@@ -3,10 +3,10 @@ status: pending
 tags: [HealthPlanning, Prioritization, PublicHealthManagement, CostEffectiveness, ResourceAllocation]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 431
 ---
 
-# [[HEALTH PLANNING & MANAGEMENT]] > Prioritization is an important prerequisite health planning.
+# [[HEALTH PLANNING & MANAGEMENT]] > Prioritization is an important prerequisite health planning
 
 ### Prioritization in Health Planning
 
@@ -58,3 +58,4 @@ Prioritization is **Step 4** in the Health Planning Cycle:
 > Flowchart of the Health Planning Cycle highlighting 'Fixing Priorities' as the central decision-making step between Resource Assessment and Plan Formulation
 
 ---
+**Previous:** [[Health education is not a propaganda]]  **Next:** [[Feedback is very important in health planning]]

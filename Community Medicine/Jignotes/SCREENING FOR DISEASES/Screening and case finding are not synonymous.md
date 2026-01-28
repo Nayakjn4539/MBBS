@@ -3,10 +3,10 @@ status: pending
 tags: [Screening, CaseFinding, OpportunisticScreening, Epidemiology, PreventiveMedicine, PublicHealth]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 53
 ---
 
-# [[SCREENING FOR DISEASES]] > Screening and case finding are not synonymous.
+# [[SCREENING FOR DISEASES]] > Screening and case finding are not synonymous
 
 ### **Introduction: Screening vs. Case Finding**
 
@@ -70,3 +70,4 @@ To remember the difference between the two:
     *   (You catch the disease in patients who are already "visiting" you).
 
 ---
+**Previous:** [[Monitoring & surveillance are not synonymous]]  **Next:** [[Ideal screening test needs some criteria to be fulfilled]]

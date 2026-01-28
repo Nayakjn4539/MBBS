@@ -3,10 +3,10 @@ status: pending
 tags: [ASHA, NRHM, PrimaryHealthCare, CommunityParticipation, JananiSurakshaYojana, HealthManpower]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 226
 ---
 
-# [[HEALTH PROGRAMMES IN INDIA]] > ASHA links health care delivery with community.
+# [[HEALTH PROGRAMMES IN INDIA]] > ASHA links health care delivery with community
 
 ### ASHA: The Vital Link Between Health Care Delivery and Community
 
@@ -67,3 +67,4 @@ To remember how she links the system: **"ASHAS"**
 *   **S** - **S**urveillance (Notifying births/deaths/outbreaks)
 
 ---
+**Previous:** [[A Revised ICDS growth chart currently in operation differ from earlier one]]  **Next:** [[A 25-year-old mother with 2 children aged 5 years and 1 year has come to the OPD for family planning]]

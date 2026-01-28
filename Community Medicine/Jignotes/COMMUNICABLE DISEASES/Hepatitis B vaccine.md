@@ -3,10 +3,10 @@ status: pending
 tags: [HepatitisB, Vaccines, PentavalentVaccine, ColdChain, CommunicableDiseases, ImmunizationSchedule, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 200
 ---
 
-# [[COMMUNICABLE DISEASES]] > Hepatitis B vaccine.
+# [[COMMUNICABLE DISEASES]] > Hepatitis B vaccine
 
 ### **Hepatitis B Vaccine**
 
@@ -96,3 +96,4 @@ Under the **[[Universal Immunization Programme]]** (UIP), Hepatitis B is given a
 *   **B** - **B**aker's Yeast (made from yeast, contraindicated in yeast allergy).
 
 ---
+**Previous:** [[Chemotherapy of Multi-bacillary Leprosy]]  **Next:** [[Tuberculosis is an old disease but a new threat]]

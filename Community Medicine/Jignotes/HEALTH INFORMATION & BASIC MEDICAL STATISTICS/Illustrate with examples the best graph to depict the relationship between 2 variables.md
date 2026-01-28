@@ -3,7 +3,7 @@ status: pending
 tags: [ScatterDiagram, Correlation, Biostatistics, Variables, DataPresentation]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 397
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Illustrate with examples the best graph to depict the relationship between 2 variables
@@ -70,3 +70,4 @@ The pattern of the dots indicates the nature and strength of the correlation bet
 *   **Caution:** Correlation does not necessarily imply causation. A scatter diagram shows association, but further epidemiological studies are needed to prove cause and effect.
 
 ---
+**Previous:** [[Record linkage]]  **Next:** [[Pie-chart]]

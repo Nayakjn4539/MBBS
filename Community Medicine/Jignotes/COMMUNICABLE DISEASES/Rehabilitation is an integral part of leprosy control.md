@@ -3,10 +3,10 @@ status: pending
 tags: [Rehabilitation, Leprosy, NLEP, DisabilityPrevention, CommunityMedicine, CommunicableDiseases]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 204
 ---
 
-# [[COMMUNICABLE DISEASES]] > Rehabilitation is an integral part of leprosy control.
+# [[COMMUNICABLE DISEASES]] > Rehabilitation is an integral part of leprosy control
 
 ### **Rehabilitation in Leprosy Control**
 
@@ -75,3 +75,4 @@ To remember the components of Rehabilitation:
 *   **P** - **P**sychological (Fix the mind)
 
 ---
+**Previous:** [[AIDS is a behavioural disease]]  **Next:** [[Sputum smear examination is the method of choice for finding in TB]]

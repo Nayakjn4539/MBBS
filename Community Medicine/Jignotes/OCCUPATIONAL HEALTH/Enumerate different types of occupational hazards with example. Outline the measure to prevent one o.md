@@ -3,7 +3,7 @@ status: pending
 tags: [OccupationalHealth, OccupationalHazards, Pneumoconiosis, Ergonomics, FactoriesAct, LeadPoisoning, EngineeringMeasures, MedicalMeasures]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 351
 ---
 
 # [[OCCUPATIONAL HEALTH]] > Enumerate different types of occupational hazards with example. Outline the measure to prevent one of those.
@@ -92,3 +92,6 @@ Society has an obligation to protect the worker. In India, the **[[Factories Act
 **Occupational History:** In clinical practice, always ask, *"What is your job?"* and *"Does the problem improve when you are away from work?"* This simple history can reveal the etiology of conditions like asthma (dust), dermatitis (chemicals), or hearing loss (noise).
 
 ---
+
+---
+**Previous:** [[What is pneumoconiosis Enumerate the different type of causative factors responsible for pneumoconio]]  **Next:** [[Define social security. Mention different benefits available for the industrial worker under ESI Act]]

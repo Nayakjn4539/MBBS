@@ -3,10 +3,10 @@ status: pending
 tags: [parboiled_rice, thiamine, beriberi, nutrition, food_processing, milling, cereals]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 299
 ---
 
-# [[NUTRITION AND HEALTH]] > Parboiled rice is nutritionally superior to milled rice.
+# [[NUTRITION AND HEALTH]] > Parboiled rice is nutritionally superior to milled rice
 
 ### Parboiled Rice: Nutritional Superiority
 
@@ -59,3 +59,4 @@ The superiority arises from the physiological changes occurring during the steam
 > Cross-section of a rice grain showing migration of nutrients from the aleurone layer to the endosperm during steaming
 
 ---
+**Previous:** [[Dietary fibre has protective role in individual diet]]  **Next:** [[Iodisation of salt is a good example of food fortification]]

@@ -3,7 +3,7 @@ status: pending
 tags: [PaediatricTB, RNTCP, NTEP, FixedDoseCombinations, WeightBands, TuberculosisManagement]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 150
 ---
 
 # [[COMMUNICABLE DISEASES]] > Drug supply for management of paediatric TB under RNTCP
@@ -68,3 +68,4 @@ The number of tablets (FDCs and loose Ethambutol) administered daily during the 
 ---
 
 ---
+**Previous:** [[Chemoprophylaxis of meningococcal meningitis]]  **Next:** [[Case definition of suspect case of JE]]

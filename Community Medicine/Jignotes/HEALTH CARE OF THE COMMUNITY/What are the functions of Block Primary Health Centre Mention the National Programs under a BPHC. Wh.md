@@ -3,7 +3,7 @@ status: pending
 tags: [Block_Primary_Health_Centre, National_Health_Programs, Record_Linkage, MCTS, Beneficiary_Tracking, Public_Health_Administration, Community_Medicine]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 438
 ---
 
 # [[HEALTH CARE OF THE COMMUNITY]] > What are the functions of Block Primary Health Centre? Mention the National Programs under a BPHC. What is "Record Linkage" and what is Tracking of Beneficiaries under Maternal Child Health Care?
@@ -108,3 +108,6 @@ This refers to the **Name-Based Tracking** system (often utilizing web-based app
 > Flowchart showing the flow of data in MCTS from Sub-centre -> PHC -> District -> State Portal
 
 ---
+
+---
+**Previous:** [[What are the average populations catered in relation to health- in a village, sub-centre, PHC, BPHC]]  **Next:** [[Discuss the three-tier system of Health Care Delivery of your state. What are the reforms made to gi]]

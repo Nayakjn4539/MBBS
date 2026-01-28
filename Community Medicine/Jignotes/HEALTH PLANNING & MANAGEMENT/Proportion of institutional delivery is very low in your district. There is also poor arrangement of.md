@@ -3,7 +3,7 @@ status: pending
 tags: [JSY, InstitutionalDelivery, HealthPlanning, CMOH, MaternalHealth, ReferralTransport, AyushmanBharat, NRHM, JSSK]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 426
 ---
 
 # [[HEALTH PLANNING & MANAGEMENT]] > Proportion of institutional delivery is very low in your district. There is also poor arrangement of JSY referral transport & Ayushmati scheme. What steps you would take as a CMOH to improve the situation?
@@ -60,3 +60,6 @@ To restore community trust, financial incentives must be transparent and timely.
 Increasing institutional delivery is the single most important intervention to reduce **Maternal Mortality Ratio (MMR)** and **Neonatal Mortality Rate (NMR)** by preventing sepsis, managing PPH (Postpartum Hemorrhage), and providing neonatal resuscitation.
 
 ---
+
+---
+**Previous:** [[Percentage of fully immunized children is very low while left out & drop rates are unacceptably high]]  **Next:** [[Define health education. How it differs from BCC Briefly outline the different health education meas]]

@@ -3,10 +3,10 @@ status: pending
 tags: [HepatitisB, HIV, CommunicableDiseases, Infectivity, OccupationalHealth, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 206
 ---
 
-# [[COMMUNICABLE DISEASES]] > Hepatitis B infection should be considered more dangerous than HIV infection.
+# [[COMMUNICABLE DISEASES]] > Hepatitis B infection should be considered more dangerous than HIV infection
 
 ### **Hepatitis B Infection: Why it is Considered More Dangerous than HIV**
 
@@ -70,3 +70,4 @@ To remember why **HBV** is "Badder" (more infectious) than HIV:
 *   **Y** - **Y**oung children at risk (90% chronicity in infants)
 
 ---
+**Previous:** [[Sputum smear examination is the method of choice for finding in TB]]  **Next:** [[All influenza pandemics are caused by influenza A and not by B or C]]

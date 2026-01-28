@@ -3,7 +3,7 @@ status: pending
 tags: [Dengue, Arbovirus, Epidemiology, Aedes_aegypti, Communicable_Diseases, Dengue_Hemorrhagic_Fever, Public_Health]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 68
 ---
 
 # [[COMMUNICABLE DISEASES]] > Classify Arbo Viral diseases. Epidemiology, control of Dengue fever
@@ -112,3 +112,4 @@ Used to monitor *Aedes* density:
     *   **Warning:** It is **not** recommended for seronegative individuals (those who have never had dengue) as it may increase the risk of severe dengue upon subsequent natural infection.
 
 ---
+**Previous:** [[Epidemiology of hookworm infection, prevention and its control measures]]  **Next:** [[Management of Dengue Haemorrhagic fever]]

@@ -3,10 +3,10 @@ status: pending
 tags: [ICDS, CommunityMedicine, MaternalChildHealth, NutritionPrograms, Anganwadi, PublicHealthIndia]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 216
 ---
 
-# [[HEALTH PROGRAMMES IN INDIA]] > Enumerate different components of ICDS programme.
+# [[HEALTH PROGRAMMES IN INDIA]] > Enumerate different components of ICDS programme
 
 ### Components of Integrated Child Development Services (ICDS) Scheme
 
@@ -96,3 +96,4 @@ To remember the 6 services of ICDS: **"SHINeR"**
 > Flowchart showing the Anganwadi Centre as the focal point, with arrows radiating outward to the 6 services, and a feedback loop from Referral Services back to the Community.
 
 ---
+**Previous:** [[What are the health problems of adolescent Mention the National Programmes concerning improvement of]]  **Next:** [[Mention the package of services under RCH programme. Outline as to how the services are provided thr]]

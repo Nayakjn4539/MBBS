@@ -3,10 +3,10 @@ status: pending
 tags: [InterpersonalCommunication, HealthEducation, Advocacy, MassMedia, BehaviorChangeCommunication]
 subject: Community Medicine
 topic: COMMUNICATION FOR HEALTH EDUCATION
-up: [[COMMUNICATION FOR HEALTH EDUCATION]]
+up: 419
 ---
 
-# [[COMMUNICATION FOR HEALTH EDUCATION]] > Interpersonal communication is better than mass media for advocacy purpose.
+# [[COMMUNICATION FOR HEALTH EDUCATION]] > Interpersonal communication is better than mass media for advocacy purpose
 
 ### Interpersonal Communication vs. Mass Media for Advocacy
 
@@ -67,3 +67,4 @@ up: [[COMMUNICATION FOR HEALTH EDUCATION]]
 *   **Vaccine Hesitancy:** A billboard can announce a vaccination drive, but it takes a health worker talking face-to-face (IPC) to advocate to a hesitant parent and convince them to vaccinate their child.
 
 ---
+**Previous:** [[Telemedicine is now an important field in medical communication]]  **Next:** [[Interpersonal communication is more effective in behaviour change than mass communication]]

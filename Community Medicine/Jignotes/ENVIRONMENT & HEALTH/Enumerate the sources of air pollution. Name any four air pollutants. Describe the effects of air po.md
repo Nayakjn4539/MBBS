@@ -3,7 +3,7 @@ status: pending
 tags: [AirPollution, EnvironmentalHealth, GreenhouseEffect, LungCancer, LeadPoisoning, CommunityMedicine]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 309
 ---
 
 # [[ENVIRONMENT & HEALTH]] > Enumerate the sources of air pollution. Name any four air pollutants. Describe the effects of air pollution. How air pollution can be controlled?
@@ -114,3 +114,6 @@ The WHO recommends the following five approaches for the prevention and control 
 *   **Kyoto Protocol:** International treaty to reduce greenhouse gas emissions.
 
 ---
+
+---
+**Previous:** [[What is 'smog' The AQI of your city is falling within the range of 200-300. What will be the health]]  **Next:** [[Mention the characteristics of safe & wholesome water. Classify water borne diseases. Briefly discus]]

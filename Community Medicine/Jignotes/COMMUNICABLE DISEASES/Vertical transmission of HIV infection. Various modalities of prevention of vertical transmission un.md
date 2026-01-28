@@ -3,7 +3,7 @@ status: pending
 tags: [HIV, VerticalTransmission, PPTCT, NACP, AntiretroviralTherapy, Nevirapine, Breastfeeding, CommunityMedicine, Obstetrics, Pediatrics]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 80
 ---
 
 # [[COMMUNICABLE DISEASES]] > Vertical transmission of HIV infection. Various modalities of prevention of vertical transmission under NACP.
@@ -92,3 +92,6 @@ To remember the comprehensive strategy of PPTCT, think of the **4 Prongs**:
 *   **A**void Mixed Feeding (Exclusive Breastfeeding only).
 
 ---
+
+---
+**Previous:** [[Common disabilities seen in case of Leprosy. Various disabilities limiting and rehabilitate measures]]  **Next:** [[Epidemiological features, 4 categories, criteria, control of AIDS. Its Control programme of Govt. of]]

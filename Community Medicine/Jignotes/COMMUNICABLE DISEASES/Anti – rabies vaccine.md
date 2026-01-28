@@ -3,7 +3,7 @@ status: pending
 tags: [Rabies, Vaccines, PEP, CommunicableDiseases, RIG, PublicHealth, Immunization]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 117
 ---
 
 # [[COMMUNICABLE DISEASES]] > Anti – rabies vaccine
@@ -122,3 +122,4 @@ Required for **Category III** bites to provide immediate passive immunity before
 > Flowchart showing the management of animal bite wounds: Categorization -> Wound Wash -> Vaccine (+/- RIG depending on category)
 
 ---
+**Previous:** [[Current strategy of filaria control]]  **Next:** [[Yellow fever vaccine]]

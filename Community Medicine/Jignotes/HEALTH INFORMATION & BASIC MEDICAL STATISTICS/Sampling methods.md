@@ -3,7 +3,7 @@ status: pending
 tags: [Sampling_Methods, Biostatistics, Research_Methodology, Cluster_Sampling, Random_Sampling, Epidemiology, Community_Medicine]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 388
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Sampling methods
@@ -121,3 +121,4 @@ In this method, the chance of selection is unknown. It is prone to bias but is u
 *   **HIV/AIDS Research:** **Snowball Sampling** is crucial for reaching high-risk groups (HRGs) like IDUs (Injecting Drug Users) who are otherwise hidden from the health system.
 
 ---
+**Previous:** [[Test of significances]]  **Next:** [[Criteria for selection of sampling and methods & registration systems in India]]

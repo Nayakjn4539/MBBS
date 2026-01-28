@@ -3,10 +3,10 @@ status: pending
 tags: [HepatitisA, CommunicableDiseases, Epidemiology, OutbreakControl, WaterBorneDiseases, PSM, PublicHealth]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 62
 ---
 
-# [[COMMUNICABLE DISEASES]] > Epidemiological outbreak of Hep A in PHC area. How will you control it?
+# [[COMMUNICABLE DISEASES]] > Epidemiological outbreak of Hep A in PHC area. How will you control it
 
 ### Control of Hepatitis A Outbreak in a PHC Area
 
@@ -116,3 +116,4 @@ Conduct awareness campaigns focusing on:
 > Epidemic curve showing point source vs propagated outbreak characteristics relevant to Hep A water-borne outbreaks
 
 ---
+**Previous:** [[Vaccine preventable diseases. Epidemiology of Polio myelitis. Pulse Polio Programme. Prevalence, inc]]  **Next:** [[Epidemiology, prevention and control of Hep B]]

@@ -3,7 +3,7 @@ status: pending
 tags: [BiomedicalWasteManagement, HospitalAdministration, EnvironmentalHealth, InfectionControl, CommunityMedicine]
 subject: Community Medicine
 topic: HOSPITAL WASTE MANAGEMENT
-up: [[HOSPITAL WASTE MANAGEMENT]]
+up: 331
 ---
 
 # [[HOSPITAL WASTE MANAGEMENT]] > A recent public demonstration has occurred about the disposal of biomedical waste contaminating water body. As a BMOH what measures would you like to adopt for proper waste management of your hospital?
@@ -59,3 +59,6 @@ Segregation is the key to effective management. "Mixing of waste is criminal." I
 > Flow chart showing the steps of Biomedical Waste Management: Segregation -> Collection -> Storage -> Transportation -> Treatment -> Disposal
 
 ---
+
+---
+**Previous:** [[What is biomedical waste What are the health hazards of improper handling of biomedical waste Briefl]]  **Next:** [[Name the different types of biomedical waste generated in your hospital. Suggest measures for their]]

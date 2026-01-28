@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 26
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > Give a brief account of different types of human reservoir of infection. Describe in brief the methods of controlling reservoir.
@@ -100,3 +100,6 @@ The objective is to break the weakest link in the chain of transmission. Control
 tags: #reservoir_of_infection #carriers #communicable_diseases #disease_control #epidemiology #isolation #quarantine #public_health
 
 ---
+
+---
+**Previous:** [[Classify epidemiological studies. Explain the epidemiological feature of cyclic trend & secular tren]]  **Next:** [[Give a step-by-step description of how to conduct a descriptive cross-sectional study to assess the]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Ergonomics, OccupationalHealth, IndustrialMedicine, PreventiveMedicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 363
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Ergonomics.
+# [[OCCUPATIONAL HEALTH]] > Ergonomics
 
 ### **ERGONOMICS (Human Engineering)**
 
@@ -84,3 +84,4 @@ To remember the goals of Ergonomics, think of **"EFECT"**:
 *   **T** - Trauma/Injury (Prevented)
 
 ---
+**Previous:** [[Sickness absenteeism]]  **Next:** [[Social security measures have a great role in preventing the health problems]]

@@ -3,7 +3,7 @@ status: pending
 tags: [Biostatistics, TestOfSignificance, PValue, TTest, ChiSquare, Ztest, NullHypothesis]
 subject: Community Medicine
 topic: HEALTH INFORMATION & BASIC MEDICAL STATISTICS
-up: [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]]
+up: 387
 ---
 
 # [[HEALTH INFORMATION & BASIC MEDICAL STATISTICS]] > Test of significances
@@ -117,3 +117,4 @@ Statistical tests are broadly divided based on the distribution of data:
 *   **Epidemiology:** To determine if a risk factor (like smoking) is significantly associated with a disease (like cancer) using the [[Chi-Square Test]].
 
 ---
+**Previous:** [[Sampling error]]  **Next:** [[Sampling methods]]

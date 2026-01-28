@@ -3,10 +3,10 @@ status: pending
 tags: [CARE, InternationalHealth, NGOs, ICDS, NutritionPrograms, PublicHealth]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 460
 ---
 
-# [[INTERNATIONAL HEALTH]] > CARE -India.
+# [[INTERNATIONAL HEALTH]] > CARE -India
 
 ### CARE - India
 **(Cooperative for Assistance and Relief Everywhere)**
@@ -54,3 +54,4 @@ To remember the core areas of CARE-India, remember: **"CARE for W.A.N.C."**
 *   **C** - **C**hild Survival
 
 ---
+**Previous:** [[Non-Government organization]]  **Next:** [[Indian Red Cross Society]]

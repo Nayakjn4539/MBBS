@@ -3,10 +3,10 @@ status: pending
 tags: [OccupationalHealth, FarmersLung, Zoonoses, Pneumoconiosis, PesticidePoisoning, AgriculturalHazards, CommunityMedicine]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 366
 ---
 
-# [[OCCUPATIONAL HEALTH]] > A farmer may suffer from various occupational hazards.
+# [[OCCUPATIONAL HEALTH]] > A farmer may suffer from various occupational hazards
 
 ### Occupational Hazards of Agricultural Workers (Farmers)
 
@@ -101,3 +101,4 @@ To remember the categories of hazards for a farmer:
 > Epidemiological triad showing interaction between Host (Farmer), Agent (Dusts/Chemicals/Animals), and Environment (Fields/Weather) leading to Disease
 
 ---
+**Previous:** [[Periodical examinations are effective in prevention of occupational diseases]]  **Next:** [[Radiation has its short term and long-term side effects]]

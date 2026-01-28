@@ -3,10 +3,10 @@ status: pending
 tags: [SocialStress, MentalHealth, PsychosomaticDisorders, SocialDeterminantsOfHealth, Urbanization, Hypertension]
 subject: Community Medicine
 topic: MEDICINE & SOCIAL SCIENCE
-up: [[MEDICINE & SOCIAL SCIENCE]]
+up: 452
 ---
 
-# [[MEDICINE & SOCIAL SCIENCE]] > Social stress.
+# [[MEDICINE & SOCIAL SCIENCE]] > Social stress
 
 ### Social Stress
 
@@ -67,3 +67,4 @@ Since the causation is multifactorial, the management must be holistic:
 *   **E**conomic insecurity (Poverty/Unemployment)
 
 ---
+**Previous:** [[Social mobilisation]]  **Next:** [[Internship is a way of socialisation]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Vitamin_A, Xerophthalmia, National_Immunization_Schedule, Community_Medicine, Nutrition]
 subject: Community Medicine
 topic: NUTRITION AND HEALTH
-up: [[NUTRITION AND HEALTH]]
+up: 307
 ---
 
-# [[NUTRITION AND HEALTH]] > Short term high dose Vit. A supplementation is useful for prevention of Xerophthalmia.
+# [[NUTRITION AND HEALTH]] > Short term high dose Vit. A supplementation is useful for prevention of Xerophthalmia
 
 ### Short-term High Dose Vitamin A Supplementation
 
@@ -66,3 +66,4 @@ For children diagnosed with active signs of [[Xerophthalmia]] (e.g., [[Bitot's s
 *   Then **Double** the dose (**2** Lakh IU) every **Time** (every 6 months) until 5 years.
 
 ---
+**Previous:** [[Food additives and food adulteration are not synonymous]]  **Next:** [[What is 'smog' The AQI of your city is falling within the range of 200-300. What will be the health]]

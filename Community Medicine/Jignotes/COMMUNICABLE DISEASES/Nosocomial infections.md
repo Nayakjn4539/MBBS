@@ -3,7 +3,7 @@ status: pending
 tags: [Nosocomial_Infections, Hospital_Acquired_Infections, Communicable_Diseases, Infection_Control, Hand_Hygiene, Universal_Precautions]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 143
 ---
 
 # [[COMMUNICABLE DISEASES]] > Nosocomial infections
@@ -106,3 +106,4 @@ The four most common types associated with invasive devices or procedures are,:
 *   **Iatrogenic Disease:** Nosocomial infections are often considered [[iatrogenic disease]] (doctor/treatment-generated), such as Hepatitis B following blood transfusion or reactions to drugs.
 
 ---
+**Previous:** [[Epidemiology and Prevention of Ebola]]  **Next:** [[Universal precautions to prevent HIV]]

@@ -3,10 +3,10 @@ status: pending
 tags: [Bias, Confounding, Epidemiology, ResearchMethodology, Randomization, Blinding, SystematicError, Matching, SelectionBias]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 38
 ---
 
-# [[PRINCIPLES OF EPIDEMIOLOGY]] > Bias and confounding are not synonymous.
+# [[PRINCIPLES OF EPIDEMIOLOGY]] > Bias and confounding are not synonymous
 
 ### **Bias vs. Confounding: The Crucial Distinction**
 
@@ -108,3 +108,4 @@ These methods aim to distribute the confounding variable equally between groups 
 When reading medical literature or planning a thesis, distinguishing these two is vital. If a study has **Bias** (e.g., the control group was selected from a different hospital ward than the cases), the results are **invalid** and cannot be fixed. However, if a study has **Confounding** (e.g., age differences between groups), the authors can use statistical adjustments (like multivariate analysis) to calculate an "Adjusted Odds Ratio" that is valid.
 
 ---
+**Previous:** [[Triple blinding in epidemiological studies]]  **Next:** [[Pneumococcal conjugate vaccine has been introduced into NIS]]

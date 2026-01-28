@@ -3,7 +3,7 @@ status: pending
 tags: [Leprosy, MorphologicalIndex, BacteriologicalIndex, CommunicableDiseases, MycobacteriumLeprae, PSM]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 174
 ---
 
 # [[COMMUNICABLE DISEASES]] > Morphological index
@@ -75,3 +75,4 @@ This is a refinement of the MI. Instead of just "Solid" vs "Non-solid," the perc
 > Draw a microscopic field showing 'Solid bacilli' (perfectly rod-shaped, uniformly pink) vs. 'Fragmented bacilli' (broken pink segments) and 'Granular bacilli' (pink dots) on a blue background. Label Solid as 'Viable' and others as 'Non-viable'.
 
 ---
+**Previous:** [[Immunity categories in tetanus]]  **Next:** [[Objectives in multi drug therapy in Leprosy]]

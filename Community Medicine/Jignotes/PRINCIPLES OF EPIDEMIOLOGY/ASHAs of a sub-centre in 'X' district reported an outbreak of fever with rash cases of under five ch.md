@@ -3,7 +3,7 @@ status: pending
 tags: [epidemic_investigation, measles, immunization, left_out_drop_out, epidemiology, vitamin_A, outbreak_control]
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
-up: [[PRINCIPLES OF EPIDEMIOLOGY]]
+up: 21
 ---
 
 # [[PRINCIPLES OF EPIDEMIOLOGY]] > ASHAs of a sub-centre in 'X' district reported an outbreak of fever with rash cases of under five children. What do you mean by an outbreak? What stands for 'left out' and 'drop out' cases? As an administrative officer, how will you investigate this outbreak?
@@ -86,3 +86,6 @@ Based on the analysis, formulate a hypothesis regarding:
     4.  **Catch-up Campaign:** Organize special camps to vaccinate all 'left out' and 'drop out' children.
 
 ---
+
+---
+**Previous:** [[WHO definition of 'Health' has defect]]  **Next:** [[How epidemiological studies are classified Briefly describe the steps of case control study to find]]

@@ -3,7 +3,7 @@ status: pending
 tags: [LowOsmolarityORS, DiarrhealDiseases, OralRehydrationTherapy, PublicHealth, Pediatrics, ZincSupplementation]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 154
 ---
 
 # [[COMMUNICABLE DISEASES]] > Low Osmolarity ORS
@@ -70,3 +70,4 @@ Under the national program, [[Zinc]] is used as an adjunct to ORS:
 > Flowchart showing the "Plan A, Plan B, and Plan C" regarding dehydration assessment and when to use ORS vs IV fluids
 
 ---
+**Previous:** [[Prevention of perinatal transmission of Hep B]]  **Next:** [[Composition of ORS]]

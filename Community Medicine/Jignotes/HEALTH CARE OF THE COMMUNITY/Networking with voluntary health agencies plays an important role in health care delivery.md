@@ -3,10 +3,10 @@ status: pending
 tags: [VoluntaryHealthAgencies, CommunityMedicine, HealthCareDelivery, NGOs, IndianRedCross, PublicHealthAdministration]
 subject: Community Medicine
 topic: HEALTH CARE OF THE COMMUNITY
-up: [[HEALTH CARE OF THE COMMUNITY]]
+up: 449
 ---
 
-# [[HEALTH CARE OF THE COMMUNITY]] > Networking with voluntary health agencies plays an important role in health care delivery.
+# [[HEALTH CARE OF THE COMMUNITY]] > Networking with voluntary health agencies plays an important role in health care delivery
 
 ### **Networking with Voluntary Health Agencies in Health Care Delivery**
 
@@ -89,3 +89,4 @@ Networking involves coordination with specific agencies for specific diseases or
 *   **Rehabilitation:** For chronic conditions (e.g., mental retardation, physical handicap), medical therapy is insufficient. Networking with agencies like the **Indian Council for Child Welfare** ensures social rehabilitation.
 
 ---
+**Previous:** [[Accessibility can't be equated with acceptability of health services]]  **Next:** [[Enumerate types of family. Describe the stages of family cycle. Discuss the role of family in health]]

@@ -3,10 +3,10 @@ status: pending
 tags: [demography, population_pyramid, public_health, dependency_ratio, fertility_indicators]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 250
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > Population pyramid is important for public health.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > Population pyramid is important for public health
 
 ### **Definition**
 A [[Population pyramid]] (also known as an age-sex pyramid) is a graphical illustration that shows the distribution of various age groups in a population, divided by sex. It is essentially a **Double Histogram**.
@@ -65,3 +65,4 @@ To remember the interpretation of the pyramid's shape, use **"B-H-S"**:
 Understanding the population pyramid helps in **Community Diagnosis**. For instance, a Medical Officer in a PHC area with a broad-based pyramid must prioritize MCH services (Antenatal care, Immunization). Conversely, a doctor in an area with a constrictive pyramid must focus on screening for hypertension, diabetes, and cancer (Geriatric care).
 
 ---
+**Previous:** [[NRR may be regarded superior method to GRR for measuring population growth]]  **Next:** [[Prevalence of anaemia among pregnant women is high compared to state and national average in the blo]]

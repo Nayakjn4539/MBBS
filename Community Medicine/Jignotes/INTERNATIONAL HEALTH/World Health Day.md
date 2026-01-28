@@ -3,7 +3,7 @@ status: pending
 tags: [WorldHealthDay, WHO, InternationalHealth, PublicHealth, HealthThemes]
 subject: Community Medicine
 topic: INTERNATIONAL HEALTH
-up: [[INTERNATIONAL HEALTH]]
+up: 473
 ---
 
 # [[INTERNATIONAL HEALTH]] > World Health Day
@@ -54,3 +54,4 @@ To remember the date:
 *   **T** = **T**heme of the year
 
 ---
+**Previous:** [[Indian Red Cross Society]]  **Next:** [[Role of UNICEF in child health]]

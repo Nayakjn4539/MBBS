@@ -3,10 +3,10 @@ status: pending
 tags: [NRR, GRR, Demography, FertilityIndicators, PopulationGrowth, PublicHealth]
 subject: Community Medicine
 topic: DEMOGRAPHY AND FAMILY PLANNING
-up: [[DEMOGRAPHY AND FAMILY PLANNING]]
+up: 249
 ---
 
-# [[DEMOGRAPHY AND FAMILY PLANNING]] > NRR may be regarded superior method to GRR for measuring population growth.
+# [[DEMOGRAPHY AND FAMILY PLANNING]] > NRR may be regarded superior method to GRR for measuring population growth
 
 ### Net Reproduction Rate (NRR) vs. Gross Reproduction Rate (GRR)
 
@@ -56,3 +56,4 @@ The value of NRR is a crucial [[Demographic Indicator]] for public health policy
 (NRR is the natural reality where mortality happens).
 
 ---
+**Previous:** [[India is in the third stage of the demographic cycle]]  **Next:** [[Population pyramid is important for public health]]

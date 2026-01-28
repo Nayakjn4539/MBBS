@@ -3,10 +3,10 @@ status: pending
 tags: [occupational_health, radiation_hazards, somatic_effects, genetic_effects, carcinogenesis, leukemia, acute_radiation_syndrome]
 subject: Community Medicine
 topic: OCCUPATIONAL HEALTH
-up: [[OCCUPATIONAL HEALTH]]
+up: 367
 ---
 
-# [[OCCUPATIONAL HEALTH]] > Radiation has its short term and long-term side effects.
+# [[OCCUPATIONAL HEALTH]] > Radiation has its short term and long-term side effects
 
 ### Biological Effects of Radiation
 
@@ -81,3 +81,4 @@ The extent of damage depends on the radiosensitivity of the tissue. Cells that d
 > *   **S** - **S**hortening of Life
 
 ---
+**Previous:** [[A farmer may suffer from various occupational hazards]]  **Next:** [[Statistical data – various methods of presentation]]

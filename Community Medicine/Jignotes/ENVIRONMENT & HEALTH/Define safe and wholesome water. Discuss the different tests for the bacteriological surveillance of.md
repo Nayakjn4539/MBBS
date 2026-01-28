@@ -3,7 +3,7 @@ status: pending
 tags: [safe_water, bacteriological_surveillance, coliforms, MPN, Eijkman_test, water_quality]
 subject: Community Medicine
 topic: ENVIRONMENT & HEALTH
-up: [[ENVIRONMENT & HEALTH]]
+up: 312
 ---
 
 # [[ENVIRONMENT & HEALTH]] > Define "safe and wholesome water". Discuss the different tests for the bacteriological surveillance of drinking water.
@@ -98,3 +98,6 @@ Estimates the general bacterial purity of water.
 *   **Epidemics:** A sudden rise in colony counts or positive coliform tests often precedes community outbreaks of diarrheal diseases.
 
 ---
+
+---
+**Previous:** [[What are the causes of air pollution Mention its effects on human health. How air pollution can be p]]  **Next:** [[Bacteriological Surveillance of water quality]]

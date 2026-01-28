@@ -3,7 +3,7 @@ status: pending
 tags: [RCH_Programme, Primary_Health_Care, Maternal_Health, ASHA, FRU, Health_Care_Delivery_System]
 subject: Community Medicine
 topic: HEALTH PROGRAMMES IN INDIA
-up: [[HEALTH PROGRAMMES IN INDIA]]
+up: 217
 ---
 
 # [[HEALTH PROGRAMMES IN INDIA]] > Mention the package of services under RCH programme. Outline as to how the services are provided through different levels of health care facilities available in a block.
@@ -108,3 +108,6 @@ To prevent neonatal tetanus and sepsis during delivery at the peripheral level (
 *[Source 1002]*
 
 ---
+
+---
+**Previous:** [[Enumerate different components of ICDS programme]]  **Next:** [[Enumerate the different vector borne diseases. Describe the principle of vector control programme ac]]

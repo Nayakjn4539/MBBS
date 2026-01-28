@@ -3,7 +3,7 @@ status: pending
 tags: [NeonatalMortality, EssentialNewbornCare, Breastfeeding, PreventivePediatrics, PublicHealth, MCH]
 subject: Community Medicine
 topic: PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS
-up: [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]]
+up: 260
 ---
 
 # [[PREVENTIVE MEDICINE IN OBSTETRICS, PAEDIATRICS AND GERIATRICS]] > What do you mean by neonatal mortality? Why is it so important? Write in brief the components of essential newborn care with special reference to breast feeding.
@@ -85,3 +85,6 @@ Breastfeeding is the ideal form of infant feeding and crucial for survival.
 In a community setting, the **ASHA** worker plays a vital role in Home Based Newborn Care (HBNC). She is responsible for visiting the newborn on days 1, 3, 7, 14, 21, 28, and 42 to monitor weight, ensure exclusive breastfeeding, and detect danger signs like sepsis or hypothermia.
 
 ---
+
+---
+**Previous:** [[In a block of west Bengal, recent statistics showed a lower rate of institutional delivery. As a hea]]  **Next:** [[Define Low Birth Weight . What is its prevalence in India and the target to achieve What measures wo]]

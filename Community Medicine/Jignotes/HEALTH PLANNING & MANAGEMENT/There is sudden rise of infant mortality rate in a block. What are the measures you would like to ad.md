@@ -3,7 +3,7 @@ status: pending
 tags: [Infant_Mortality_Rate, Maternal_Child_Health, Preventive_Medicine, RCH_Programme, Neonatal_Care, IMNCI, Janani_Suraksha_Yojana]
 subject: Community Medicine
 topic: HEALTH PLANNING & MANAGEMENT
-up: [[HEALTH PLANNING & MANAGEMENT]]
+up: 424
 ---
 
 # [[HEALTH PLANNING & MANAGEMENT]] > There is sudden rise of infant mortality rate in a block. What are the measures you would like to adopt to reduce the IMR in block?
@@ -97,3 +97,6 @@ Measures are categorized based on the phase of infancy and the level of preventi
 > Draw a flowchart showing the "Continuum of Care" from Pre-conception -> Pregnancy -> Birth -> Newborn -> Childhood, listing specific interventions at each stage (e.g., IFA, SBA, KMC, Immunization).
 
 ---
+
+---
+**Previous:** [[Maternal mortality ratio in a block is found to be persistently high. As a BMOH outline the Investig]]  **Next:** [[Percentage of fully immunized children is very low while left out & drop rates are unacceptably high]]

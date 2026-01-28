@@ -3,10 +3,10 @@ status: pending
 tags: [IPV, PolioEradication, EndgameStrategy, fIPV, CommunicableDiseases, PSM, Vaccines]
 subject: Community Medicine
 topic: COMMUNICABLE DISEASES
-up: [[COMMUNICABLE DISEASES]]
+up: 211
 ---
 
-# [[COMMUNICABLE DISEASES]] > Role of IPV in polio eradication.
+# [[COMMUNICABLE DISEASES]] > Role of IPV in polio eradication
 
 # Role of Inactivated Polio Vaccine (IPV) in Polio Eradication
 
@@ -74,3 +74,4 @@ To manage global vaccine shortages and cost, India introduced **Fractional IPV (
 *   **Pregnancy:** IPV is safe to administer during pregnancy if protection is required.
 
 ---
+**Previous:** [[Role pre-test counselling for HIVAIDS is useful]]  **Next:** [[A 2-year-old male child presented at the immunisation clinic with weight between 2SD and -3SD for hi]]

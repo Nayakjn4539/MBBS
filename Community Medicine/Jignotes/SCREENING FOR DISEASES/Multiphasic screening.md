@@ -3,10 +3,10 @@ status: pending
 tags: [screening, multiphasic_screening, preventive_medicine, epidemiology, public_health]
 subject: Community Medicine
 topic: SCREENING FOR DISEASES
-up: [[SCREENING FOR DISEASES]]
+up: 50
 ---
 
-# [[SCREENING FOR DISEASES]] > Multiphasic screening.
+# [[SCREENING FOR DISEASES]] > Multiphasic screening
 
 ### Multiphasic Screening
 
@@ -63,3 +63,4 @@ In modern clinical practice, the concept of "executive health check-ups" or "who
 > Flowchart showing a healthy individual entering a screening center, undergoing multiple stations (blood test, eye check, lung function) simultaneously, and exiting with a report card leading to either 'Normal' or 'Referral'
 
 ---
+**Previous:** [[Interpretation of false negatives of a screening test]]  **Next:** [[Significance of a false positive screening test]]

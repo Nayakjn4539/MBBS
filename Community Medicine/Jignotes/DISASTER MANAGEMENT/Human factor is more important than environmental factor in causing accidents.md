@@ -3,10 +3,10 @@ status: pending
 tags: [Accidents, DisasterManagement, OccupationalHealth, Epidemiology, HaddonsMatrix, RoadTrafficAccidents, PreventiveMedicine]
 subject: Community Medicine
 topic: DISASTER MANAGEMENT
-up: [[DISASTER MANAGEMENT]]
+up: 346
 ---
 
-# [[DISASTER MANAGEMENT]] > Human factor is more important than environmental factor in causing accidents.
+# [[DISASTER MANAGEMENT]] > Human factor is more important than environmental factor in causing accidents
 
 ### Human Factor vs. Environmental Factor in Accident Causation
 
@@ -84,3 +84,4 @@ To remember the Human Factors: **3 P's**
 *   **P**sychological (Carelessness, Alcohol, Emotion)
 
 ---
+**Previous:** [[Disaster cycle]]  **Next:** [[Triage approach can provide maximum benefits in disaster situation]]
