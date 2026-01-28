@@ -13,11 +13,13 @@ TABLE
     "✅ " + dateformat(file.mtime, "yyyy-MM-dd"), 
     "⏳ Pending"
   ) as "Completion Date"
-FROM [[COMMUNICABLE DISEASES]]
+FROM [[BACK LINK WORD]]
 SORT file.name ASC
 ```
 
 # To create folder structure tables that update with time
+This code block is to be pasted in the notes that we plan to substitute for the canvas files as canvas files dont autoupdate by scanning the YAML tag for note status.
+
 
 
 
