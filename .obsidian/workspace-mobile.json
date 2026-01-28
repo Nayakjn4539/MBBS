@@ -15,9 +15,9 @@
               "state": {
                 "file": "Community Medicine/Community medicine.canvas",
                 "viewState": {
-                  "x": 1466.80942105401,
-                  "y": 1856.7791104557964,
-                  "zoom": -0.8256002026416779
+                  "x": 1754.8015412556097,
+                  "y": 1920.9482979007375,
+                  "zoom": -0.8120166395940878
                 }
               },
               "icon": "lucide-layout-dashboard",
@@ -31,7 +31,7 @@
               "type": "markdown",
               "state": {
                 "file": "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -186,8 +186,9 @@
   },
   "active": "be370782f5eb355c",
   "lastOpenFiles": [
-    "Community Medicine/Community medicine.canvas",
     "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
+    "COMMUNICABLE DISEASES.md",
+    "Community Medicine/Community medicine.canvas",
     "Forensic Medicine/Forensic Medicine.canvas",
     "Forensic Medicine/Jignotes/Thanatology/early changes after death.md",
     "Forensic Medicine/Jignotes/Thanatology/sudden death.md",
