@@ -2,5 +2,6 @@
   "foldHeading": true,
   "newFileLocation": "folder",
   "attachmentFolderPath": "./Attachments",
-  "newFileFolderPath": "Linkpointed Notes"
+  "newFileFolderPath": "Linkpointed Notes",
+  "readableLineLength": false
 }
