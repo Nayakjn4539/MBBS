@@ -50,55 +50,10 @@
               },
               "icon": "lucide-file",
               "title": "COMMUNICABLE DISEASES"
-            },
-            "group": "0f5db5b4d627ea8a"
+            }
           }
         ],
         "currentTab": 2
-      },
-      {
-        "id": "81aae50a427a08e8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "20167e9ea17f6a68",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Linkpointed Notes/COMMUNICABLE DISEASES.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1.0080990497989197,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            },
-            "group": "0f5db5b4d627ea8a"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -246,7 +201,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "20167e9ea17f6a68",
+  "active": "88d6b4d62fc5ea57",
   "lastOpenFiles": [
     "Community Medicine/Jignotes/COMMUNICABLE DISEASES/Epidemiology and prevention of measles.md",
     "Linkpointed Notes/COMMUNICABLE DISEASES.md",
