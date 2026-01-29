@@ -1,30 +1,7 @@
-# To create tabular coloumn of backlinks in Empty notes.
-Copy the below block of code and paste in empty node notes to see all linked notes. 
-No need to open side panel to see the linked notes
-```text
-```dataview 
-TABLE WITHOUT ID
-  file.folder as "Location/Subject",
-  file.link as "File",
-  status as "Status",
-  choice(
-    contains(lower(string(status)), "done") 
-    OR contains(lower(string(status)), "read"), 
-    "✅ " + dateformat(file.mtime, "yyyy-MM-dd"), 
-    "⏳ Pending"
-  ) as "Completion Date"
-FROM [[BACK LINK WORD]]
-SORT file.name ASC```
-```
-
-# To create folder structure tables that update with time
-This code block is to be pasted in the notes that we plan to substitute for the canvas files as canvas files dont autoupdate by scanning the YAML tag for note status.
-Save this file in the parent folder next to "Jignotes" for best use case.
-```text
 ```dataviewjs
 // 1. SETUP PATH
 // Change this to your exact folder path!
-let sourceFolder = "Community medicine/Jignotes" 
+let sourceFolder = "ENT/Jignotes" 
 
 // 2. GET NOTES
 let pages = dv.pages(`"${sourceFolder}"`)
@@ -84,20 +61,5 @@ for (let group of sortedGroups) {
 
     htmlBlock += `</tbody></table></details>`;
     dv.paragraph(htmlBlock);
-}```
-
-```
-
-# Template to add at the top of new notes(YAML data)
-```text
----
-status: pending
-tags:
-  - Tag 1
-  - Tag 2
-subject: [Subject Folder Name ]
-topic: COMMUNICABLE DISEASES
-up:
-  - - [serial number can be decimal to insert in between]
----
+}
 ```

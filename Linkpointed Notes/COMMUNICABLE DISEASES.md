@@ -1,5 +1,5 @@
 ```dataview 
-  TABLE 
+  TABLE WITHOUT ID
   file.folder as "Location/Subject",
   file.link as "File",
   status as "Status",

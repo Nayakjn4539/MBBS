@@ -1,0 +1,18 @@
+filters:
+  not:
+    - file.path == null
+views:
+  - type: table
+    name: Table
+  - type: list
+    name: View
+    groupBy:
+      property: up
+      direction: ASC
+    order:
+      - up
+      - status
+      - file.name
+    sort: []
+    markers: number
+    indentProperties: false
