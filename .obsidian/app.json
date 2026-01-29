@@ -1,8 +1,9 @@
 {
   "foldHeading": true,
-  "newFileLocation": "folder",
+  "newFileLocation": "current",
   "attachmentFolderPath": "./Attachments",
   "newFileFolderPath": "Linkpointed Notes",
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true
 }

@@ -22,12 +22,12 @@ The ear has a complex embryological origin. The sound-conducting apparatus (exte
     *   **1st Branchial Arch (Mandibular):** Gives rise to Hillocks 1, 2, and 3.
     *   **2nd Branchial Arch (Hyoid):** Gives rise to Hillocks 4, 5, and 6.
 *   **Derivatives of Hillocks:**
-    *   **1st Arch:** Forms the **Tragus** and part of the Helix.
-    *   **2nd Arch:** Forms the rest of the pinna (Helix, Antihelix, Scapha, Antitragus, Lobule).
+    *   **1st Arch:** Forms the **==Tragus==** and part of the Helix.
+    *   **2nd Arch:** Forms the rest of the pinna (==Helix, Antihelix, Scapha, Antitragus, Lobule==).
 *   **Migration:** Initially, the pinna is located low on the neck. By the **20th week**, it attains adult shape and migrates dorsolaterally and cranially to its final position.
 
 #### B. External Auditory Canal (EAC)
-*   **Origin:** Develops from the **dorsal part** of the **[[1st Branchial Cleft]]** (ectoderm).
+*   **Origin:** Develops from the **dorsal part** of the **1st Branchial Cleft** (ectoderm).
 *   **Process:**
     *   Ectoderm proliferates to form a solid **meatal plug** around the 16th week.
     *   **Recanalization:** The plug dissolves (canalizes) from **medial to lateral** (from the tympanic membrane outwards) to form the epithelial lining.
@@ -41,15 +41,15 @@ The ear has a complex embryological origin. The sound-conducting apparatus (exte
 
 ### 2. Anomalies of the External Ear
 
-| Anomaly | Pathology/Description | Clinical Significance |
-| :--- | :--- | :--- |
-| **[[Preauricular Sinus]]** | Incomplete fusion of the auricular tubercles (Hillocks of His). Common between Tragus and Crus of Helix. | Can get recurrently infected causing discharge or abscess. Requires surgical excision (Sinusectomy). |
-| **[[Microtia]]** | Small, malformed auricle. Varies in severity. "Peanut ear" is a severe form. | Often associated with meatal atresia and conductive hearing loss. Reconstruction using costal cartilage is done after **6 years** of age. |
-| **[[Anotia]]** | Complete absence of pinna. | Severe cosmetic deformity. |
-| **[[Bat Ear]]** | Abnormally prominent/protruding ear due to poorly developed antihelix. | Cosmetic concern; corrected by Pinnaplasty/Otoplasty. |
-| **[[Collaural Fistula]]** | Persistent ventral part of the 1st Branchial Cleft. | Connection between the neck (angle of mandible) and the EAC. |
-| **[[Meatal Atresia]]** | Failure of recanalization of the meatal plug. | Causes Conductive Hearing Loss. Deep meatus may be normal if lateral recanalization failed. |
-| **[[Darwin's Tubercle]]**| Pointed prominence on the upper helix. | Remnant of apex of pinna in lower animals; harmless. |
+| Anomaly                    | Pathology/Description                                                                                    | Clinical Significance                                                                                                                     |
+| :------------------------- | :------------------------------------------------------------------------------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[Preauricular Sinus]]** | Incomplete fusion of the auricular tubercles (Hillocks of His). Common between Tragus and Crus of Helix. | Can get recurrently infected causing discharge or abscess. Requires surgical excision (Sinusectomy).                                      |
+| **[[Microtia]]**           | Small, malformed auricle. Varies in severity. "Peanut ear" is a severe form.                             | Often associated with meatal atresia and conductive hearing loss. Reconstruction using costal cartilage is done after **6 years** of age. |
+| **[[Anotia]]**             | Complete absence of pinna.                                                                               | Severe cosmetic deformity.                                                                                                                |
+| **[[Bat Ear]]**            | Abnormally prominent/protruding ear due to poorly developed antihelix.                                   | Cosmetic concern; corrected by Pinnaplasty/Otoplasty.                                                                                     |
+| **[[Collaural Fistula]]**  | Persistent ventral part of the 1st Branchial Cleft.                                                      | Connection between the neck (angle of mandible) and the EAC.                                                                              |
+| **[[Meatal Atresia]]**     | Failure of recanalization of the meatal plug.                                                            | Causes Conductive Hearing Loss. Deep meatus may be normal if lateral recanalization failed.                                               |
+| **[[Darwin's Tubercle]]**  | Pointed prominence on the upper helix.                                                                   | Remnant of apex of pinna in lower animals; harmless.                                                                                      |
 
 ---
 

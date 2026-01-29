@@ -10,7 +10,7 @@ up: 138
 
 # Contact Tracing
 
-**Contact tracing** is a fundamental public health measure used to control the spread of [[communicable diseases]]. It involves the identification, listing, and follow-up of persons who may have been exposed to an infected person (the [[index case]]).
+**Contact tracing** is a fundamental public health measure used to control the spread of [[COMMUNICABLE DISEASES]]. It involves the identification, listing, and follow-up of persons who may have been exposed to an infected person (the [[index case]]).
 
 ### **Definition**
 It is the technique by which the persons (contacts) who have been exposed to a diagnosed patient are **identified**, **located**, **investigated**, and **treated**.

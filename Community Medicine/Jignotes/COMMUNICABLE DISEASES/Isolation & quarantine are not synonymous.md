@@ -10,7 +10,7 @@ up: 202
 
 ### **Isolation vs. Quarantine**
 
-While often used interchangeably in general conversation, **[[Isolation]]** and **[[Quarantine]]** are distinct epidemiological concepts used to control the spread of **[[Communicable Diseases]]**. They differ fundamentally in their target population, duration, and level of prevention.
+While often used interchangeably in general conversation, **[[Isolation]]** and **[[Quarantine]]** are distinct epidemiological concepts used to control the spread of **[[COMMUNICABLE DISEASES]]**. They differ fundamentally in their target population, duration, and level of prevention.
 
 #### **1. Definitions**
 
