@@ -4,5 +4,6 @@
   "attachmentFolderPath": "./Attachments",
   "newFileFolderPath": "Linkpointed Notes",
   "readableLineLength": false,
-  "defaultViewMode": "preview"
+  "defaultViewMode": "preview",
+  "trashOption": "local"
 }
