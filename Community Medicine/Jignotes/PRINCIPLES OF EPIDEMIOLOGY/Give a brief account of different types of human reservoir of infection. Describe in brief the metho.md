@@ -1,6 +1,6 @@
 ---
 status: pending
-tags: [reservoir_of_infection, carriers, communicable_diseases, disease_control, epidemiology, isolation, quarantine, public_health]
+tags: []
 subject: Community Medicine
 topic: PRINCIPLES OF EPIDEMIOLOGY
 up: 26
@@ -95,6 +95,11 @@ The objective is to break the weakest link in the chain of transmission. Control
 
 ### [[Clinical Relevance]]
 **Typhoid Mary:** The most famous example of a **Chronic Carrier**. Mary Mallon was a cook who carried *Salmonella Typhi* in her gallbladder and infected over 50 people (causing 3 deaths) because she refused to believe she was the source (as she was asymptomatic) and refused to stop cooking. This highlights the danger of chronic carriers in food handling industries.
+
+---
+tags: #reservoir_of_infection #carriers #communicable_diseases #disease_control #epidemiology #isolation #quarantine #public_health
+
+---
 
 ---
 **Previous:** [[Classify epidemiological studies. Explain the epidemiological feature of cyclic trend & secular tren]]  **Next:** [[Give a step-by-step description of how to conduct a descriptive cross-sectional study to assess the]]

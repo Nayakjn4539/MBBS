@@ -1,6 +1,11 @@
 ---
-status: pending
-tags: [Determinants_of_Health, Environmental_Health, Socio_Economic_Status, Community_Medicine, Public_Health]
+status: Pending
+tags:
+  - Determinants_of_Health
+  - Environmental_Health
+  - Socio_Economic_Status
+  - Community_Medicine
+  - Public_Health
 subject: Community Medicine
 topic: CONCEPT OF HEALTH & DISEASES
 up: 1
