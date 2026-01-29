@@ -10,7 +10,7 @@ up: 1
 
 ### Development of the Ear and Anomalies
 
-The ear has a complex embryological origin. The sound-conducting apparatus (external and middle ear) develops from the [[branchial apparatus]], while the sound-perceptive apparatus (inner ear) develops from the ectodermal [[otic cyst]]. Because of these distinct origins, congenital anomalies often affect either the conductive or perceptive systems independently, though they can coexist.
+The ear has a complex embryological origin. The sound-conducting apparatus (external and middle ear) develops from the [[branchial apparatus]], while the sound-perceptive apparatus (inner ear) develops from the ectodermal otic cyst. Because of these distinct origins, congenital anomalies often affect either the conductive or perceptive systems independently, though they can coexist.
 
 ---
 
