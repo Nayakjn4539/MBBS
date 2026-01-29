@@ -3,7 +3,7 @@ status: pending
 tags: [hanging, strangulation, asphyxia, ligature_mark, forensic_pathology, medicolegal_autopsy, hyoid_fracture, amussat_sign]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 132
 ---
 
 # [[Asphyxia]] > Hanging vs Strangulation

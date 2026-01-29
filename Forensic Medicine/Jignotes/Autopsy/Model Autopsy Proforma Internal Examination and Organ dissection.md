@@ -3,7 +3,7 @@ status: pending
 tags: [Autopsy, Medicolegal_Examination, Forensic_Pathology, Organ_Dissection, Viscera_Preservation, Cause_of_Death]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 69
 ---
 
 # [[Autopsy]] > Model Autopsy Proforma Internal Examination and Organ dissection

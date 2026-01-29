@@ -3,7 +3,7 @@ status: pending
 tags: [Superimposition, Facial_Reconstruction, Identification, Forensic_Anthropology, Skull_Examination, Medico_legal_Autopsy]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 39
 ---
 
 # [[Identification]] > Superimposition and Facial Reconstruction

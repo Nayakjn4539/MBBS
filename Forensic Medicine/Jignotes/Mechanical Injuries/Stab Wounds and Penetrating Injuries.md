@@ -3,7 +3,7 @@ status: pending
 tags: [ForensicTraumatology, MechanicalInjuries, StabWound, Medicolegal, WoundBallistics, DefenseWounds, LangersLines]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 79
 ---
 
 # [[Mechanical Injuries]] > Stab Wounds and Penetrating Injuries

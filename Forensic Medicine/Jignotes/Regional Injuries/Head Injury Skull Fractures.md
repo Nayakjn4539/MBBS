@@ -3,7 +3,7 @@ status: pending
 tags: [skull_fracture, forensic_traumatology, head_injury, regional_injuries, autopsy, medicolegal, puppes_rule, base_of_skull_fracture]
 subject: Forensic Medicine
 topic: Regional Injuries
-up: [[Regional Injuries]]
+up: 107
 ---
 
 # [[Regional Injuries]] > Head Injury Skull Fractures

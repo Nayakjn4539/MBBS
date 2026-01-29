@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 89
 ---
 
 # [[Mechanical Injuries]] > skull Fractures

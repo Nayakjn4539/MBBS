@@ -3,7 +3,7 @@ status: pending
 tags: [postmortemchanges, rigormortis, livormortis, algormortis, thanatology, forensicmedicine, autopsy, time_since_death, kevorkiansign, tachenoire]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 51
 ---
 
 # [[Thanatology]] > early changes after death

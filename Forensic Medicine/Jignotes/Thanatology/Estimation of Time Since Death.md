@@ -3,7 +3,7 @@ status: pending
 tags: [post_mortem_interval, thanatology, rigor_mortis, algor_mortis, livor_mortis, forensic_entomology, decomposition]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 60
 ---
 
 # [[Thanatology]] > Estimation of Time Since Death

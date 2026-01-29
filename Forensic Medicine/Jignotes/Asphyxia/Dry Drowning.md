@@ -3,7 +3,7 @@ status: pending
 tags: [asphyxia, drowning, dry_drowning, forensic_pathology, autopsy_findings, laryngeal_spasm]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 135
 ---
 
 # [[Asphyxia]] > Dry Drowning

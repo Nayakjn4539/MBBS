@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_identification, age_estimation, skull_ossification, sutures, fontanelles, forensic_radiology, mandible_changes]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 30
 ---
 
 # [[Identification]] > x- Ray based Age Estimation from bones of Skull Ossification

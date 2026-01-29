@@ -3,7 +3,7 @@ status: pending
 tags: [time_since_death, postmortem_interval, rigor_mortis, algor_mortis, livor_mortis, putrefaction, forensic_entomology, vitreous_potassium, thanatology]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 62
 ---
 
 # [[Thanatology]] > Time since death estimation

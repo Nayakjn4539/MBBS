@@ -3,7 +3,7 @@ status: pending
 tags: [identification, forensic_anthropology, cephalic_index, race_determination, skeletal_remains]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 22
 ---
 
 # [[Identification]] > Race from skeletal remains

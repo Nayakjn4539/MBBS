@@ -3,7 +3,7 @@ status: pending
 tags: [Negative_Autopsy, Obscure_Autopsy, Cause_of_Death, Forensic_Pathology, Vagal_Inhibition, Autopsy_Procedure]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 71
 ---
 
 # [[Autopsy]] > Negative Autopsy

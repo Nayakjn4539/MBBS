@@ -3,7 +3,7 @@ status: pending
 tags: [Poroscopy, Identification, Edmond_Locard, Dactylography, Forensic_Science]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 36
 ---
 
 # [[Identification]] > Poroscopy

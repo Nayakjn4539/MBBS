@@ -3,7 +3,7 @@ status: pending
 tags: [MechanicalInjuries, GrievousHurt, SimpleHurt, IPC320, ForensicTraumatology, MedicalJurisprudence, WoundCertificate, LegalMedicine]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 84
 ---
 
 # [[Mechanical Injuries]] > simple hurt vs Grievious hurt

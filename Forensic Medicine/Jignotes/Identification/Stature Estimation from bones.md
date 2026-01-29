@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_anthropology, stature_estimation, identification, osteometric_board, trotter_and_gleser]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 34
 ---
 
 # [[Identification]] > Stature Estimation from bones

@@ -3,7 +3,7 @@ status: pending
 tags: [asphyxia, pathophysiology, forensic_pathology, hypoxia, tardieu_spots, forensic_medicine, autopsy_findings]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 128
 ---
 
 # [[Asphyxia]] > Physiology of Asphyxia

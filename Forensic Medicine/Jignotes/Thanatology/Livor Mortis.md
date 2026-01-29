@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_medicine, thanatology, postmortem_changes, livor_mortis, autopsy, toxicology, identification]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 54
 ---
 
 # [[Thanatology]] > Livor Mortis

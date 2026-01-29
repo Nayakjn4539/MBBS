@@ -3,7 +3,7 @@ status: pending
 tags: [mechanical_injuries, road_traffic_accidents, forensic_traumatology, bumper_fracture, whiplash_injury, medicolegal_autopsy]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 85
 ---
 
 # [[Mechanical Injuries]] > road traffic accident injuries

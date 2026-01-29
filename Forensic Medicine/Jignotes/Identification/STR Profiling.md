@@ -3,7 +3,7 @@ status: pending
 tags: [STR_profiling, DNA_fingerprinting, forensic_identification, PCR, microsatellites, Y-STR, electropherogram, paternity_testing]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 38
 ---
 
 # [[Identification]] > STR Profiling

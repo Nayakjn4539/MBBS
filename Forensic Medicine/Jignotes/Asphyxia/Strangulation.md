@@ -3,7 +3,7 @@ status: pending
 tags: [asphyxia, strangulation, throttling, forensic_pathology, medicolegal_autopsy, hyoid_fracture, ligature_mark, mechanical_asphyxia]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 131
 ---
 
 # [[Asphyxia]] > Strangulation

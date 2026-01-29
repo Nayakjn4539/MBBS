@@ -85,6 +85,6 @@ tags:
 subject: [Subject Folder Name ]
 topic: COMMUNICABLE DISEASES
 up:
-  - - [same as topic]
+  - - [serial number can be decimal to insert in between]
 ---
 ```

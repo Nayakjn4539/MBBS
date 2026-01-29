@@ -3,7 +3,7 @@ status: pending
 tags: [DyingDeclaration, DyingDeposition, ForensicMedicine, LegalProcedures, Section32IEA, ComposMentis, MedicalJurisprudence]
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 6
 ---
 
 # [[Legal Procedures]] > Dying Declaration and Dying Deposition

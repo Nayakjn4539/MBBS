@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_medicine, identification, age_estimation, radiology, ossification, medicolegal_importance, upper_limb_bones]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 31
 ---
 
 # [[Identification]] > x- Ray based Age Estimation from bones of upper limb Ossification

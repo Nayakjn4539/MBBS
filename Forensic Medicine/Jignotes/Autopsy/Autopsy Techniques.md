@@ -3,7 +3,7 @@ status: pending
 tags: [autopsy, evisceration_techniques, virchow, rokitansky, letulle, ghon, medicolegal_autopsy, postmortem_examination, forensic_pathology]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 66
 ---
 
 # [[Autopsy]] > Autopsy Techniques

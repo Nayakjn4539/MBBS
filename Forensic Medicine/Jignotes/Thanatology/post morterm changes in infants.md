@@ -3,7 +3,7 @@ status: pending
 tags: [ForensicPathology, Thanatology, Infanticide, PostMortemChanges, Maceration, Putrefaction, MedicolegalAutopsy, ForensicMedicine]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 63
 ---
 
 # [[Thanatology]] > post morterm changes in infants

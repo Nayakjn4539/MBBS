@@ -3,7 +3,7 @@ status: pending
 tags: [algor_mortis, thanatology, time_since_death, postmortem_changes, forensic_pathology, postmortem_caloricity]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 53
 ---
 
 # [[Thanatology]] > Algor Mortis

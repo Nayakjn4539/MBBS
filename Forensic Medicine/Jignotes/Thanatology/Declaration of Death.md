@@ -3,7 +3,7 @@ status: pending
 tags: [Declaration_of_Death, Brain_Death, Thanatology, THOA_1994, Bichats_Tripod, Somatic_Death, Medicolegal_Autopsy, Apnea_Test]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 45
 ---
 
 # [[Thanatology]] > Declaration of Death

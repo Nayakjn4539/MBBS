@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_pathology, head_injury, regional_injuries, subarachnoid_hemorrhage, berry_aneurysm, vertebral_artery]
 subject: Forensic Medicine
 topic: Regional Injuries
-up: [[Regional Injuries]]
+up: 110
 ---
 
 # [[Regional Injuries]] > Head Injury Subarachnoid Hemorrhage

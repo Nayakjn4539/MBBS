@@ -3,7 +3,7 @@ status: pending
 tags: [Autopsy, Medicolegal_Autopsy, Virtual_Autopsy, Psychological_Autopsy, Forensic_Pathology, Cause_of_Death, Time_Since_Death, Negative_Autopsy]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 64
 ---
 
 # [[Autopsy]] > Types and medicolegal importance of Autopsy

@@ -3,7 +3,7 @@ status: pending
 tags: [rigormortis, cadavericspasm, postmortemchanges, thanatology, forensicmedicine, primaryflaccidity, nystenslaw, autopsyfindings]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 55
 ---
 
 # [[Thanatology]] > musuclar changes after death

@@ -3,7 +3,7 @@ status: pending
 tags: [mechanical_injuries, hemorrhage, embolism, fat_embolism, air_embolism, thromboembolism, sepsis, forensic_pathology, cause_of_death, medicolegal_autopsy]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 83
 ---
 
 # [[Mechanical Injuries]] > Causes of Death from Wounds

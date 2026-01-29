@@ -3,7 +3,7 @@ status: pending
 tags: [Autopsy, ForensicMedicine, Medicolegal, Identification, EvidenceCollection, Inquest]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 65
 ---
 
 # [[Autopsy]] > Objectives and Rules of Medico-Legal Autopsy

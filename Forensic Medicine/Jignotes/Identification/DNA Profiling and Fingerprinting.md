@@ -3,7 +3,7 @@ status: pending
 tags: [DNA_Fingerprinting, Forensic_Serology, Identification, Paternity, Sexual_Offences, Forensic_Genetics]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 37
 ---
 
 # [[Identification]] > DNA Profiling and Fingerprinting

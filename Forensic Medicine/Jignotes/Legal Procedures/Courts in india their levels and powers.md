@@ -3,7 +3,7 @@ status: pending
 tags: [legal_procedures, courts_in_india, medical_jurisprudence, magistrate, inquest, sentences]
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 2
 ---
 
 # [[Legal Procedures]] > Courts in india their levels and powers

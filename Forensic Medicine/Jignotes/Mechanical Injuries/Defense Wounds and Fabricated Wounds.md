@@ -3,7 +3,7 @@ status: pending
 tags: [DefenseWounds, FabricatedWounds, MechanicalInjuries, ForensicTraumatology, IPC193, SelfInflictedInjuries]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 80
 ---
 
 # [[Mechanical Injuries]] > Defense Wounds and Fabricated Wounds

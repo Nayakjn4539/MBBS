@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_medicine, mechanical_injuries, laceration, blunt_force_trauma, wound_ballistics, injury_report, tissue_bridges]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 75
 ---
 
 # [[Mechanical Injuries]] > Lacerations

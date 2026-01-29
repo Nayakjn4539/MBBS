@@ -3,7 +3,7 @@ status: pending
 tags: [Mummification, Putrefaction, Adipocere, Time_Since_Death, Forensic_Taphonomy, Postmortem_Changes, Identification]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 59
 ---
 
 # [[Thanatology]] > Mummification

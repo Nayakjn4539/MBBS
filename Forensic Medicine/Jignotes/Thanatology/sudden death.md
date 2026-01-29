@@ -3,7 +3,7 @@ status: pending
 tags: [sudden_death, thanatology, autopsy, forensic_pathology, medicolegal_autopsy]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 49
 ---
 
 # [[Thanatology]] > sudden death

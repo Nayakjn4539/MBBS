@@ -3,7 +3,7 @@ status: pending
 tags: [heat_stiffening, cold_stiffening, rigor_mortis, pugilistic_attitude, thanatology, forensic_pathology, postmortem_changes]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 56
 ---
 
 # [[Thanatology]] > Heat Stiffening vs Cold Stiffening

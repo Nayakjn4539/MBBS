@@ -3,7 +3,7 @@ status: pending
 tags: [identification, sex_determination, forensic_anthropology, medicolegal_autopsy, skeleton, barr_body]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 24
 ---
 
 # [[Identification]] > Methods of sex determination and medicolegal aspects

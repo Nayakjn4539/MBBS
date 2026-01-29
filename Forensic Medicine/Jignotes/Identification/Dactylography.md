@@ -3,7 +3,7 @@ status: pending
 tags: [dactylography, fingerprints, identification, forensic_science, autopsy_procedure, galton_system, latent_prints]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 35
 ---
 
 # [[Identification]] > Dactylography

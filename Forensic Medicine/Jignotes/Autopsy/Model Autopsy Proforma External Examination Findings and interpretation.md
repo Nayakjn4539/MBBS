@@ -3,7 +3,7 @@ status: pending
 tags: [autopsy, forensic_pathology, medicolegal_report, identification, postmortem_changes, injuries, mechanical_asphyxia, drowning, thanatology]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 68
 ---
 
 # [[Autopsy]] > Model Autopsy Proforma External Examination Findings and interpretation

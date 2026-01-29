@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 28
 ---
 
 # [[Identification]] > Bite Marks

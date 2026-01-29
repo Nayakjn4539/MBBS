@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_identification, age_estimation, radiology, ossification_centers, medicolegal_autopsy, fetal_viability, femur, tibia, pelvis, forensic_medicine]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 32
 ---
 
 # [[Identification]] > x- Ray based Age Estimation from bones of lower limb Ossification

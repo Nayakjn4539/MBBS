@@ -3,7 +3,7 @@ status: pending
 tags: [mechanical_injuries, vital_reaction, antemortem_wounds, postmortem_wounds, forensic_pathology, wound_ballistics, medico_legal_autopsy, abrasion, contusion, burns]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 81
 ---
 
 # [[Mechanical Injuries]] > Difference between Antemortem and Postmortem Wounds

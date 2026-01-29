@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_medicine, traumatology, head_injury, regional_injuries, cerebral_contusion, concussion, autopsy, medicolegal]
 subject: Forensic Medicine
 topic: Regional Injuries
-up: [[Regional Injuries]]
+up: 111
 ---
 
 # [[Regional Injuries]] > Head Injury Cerebral Contusion and Concussion

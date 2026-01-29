@@ -3,7 +3,7 @@ status: pending
 tags: [judicial_hanging, hangmans_fracture, asphyxia, forensic_traumatology, legal_execution]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 130
 ---
 
 # [[Asphyxia]] > Judicial Hanging

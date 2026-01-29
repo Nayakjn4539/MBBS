@@ -3,7 +3,7 @@ status: pending
 tags: [brainstem_death, thanatology, THOA, organ_transplantation, forensic_medicine, apnea_test, respirator_brain]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 46
 ---
 
 # [[Thanatology]] > Brain Stem Death

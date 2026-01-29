@@ -3,7 +3,7 @@ status: pending
 tags: [CorpusDelicti, Identification, LegalMedicine, HomicideInvestigation, ForensicLaw]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 21
 ---
 
 # [[Identification]] > Corpus Delicti
@@ -51,4 +51,4 @@ To remember the essence of **CORPUS**:
 *   **S** - **S**ubstantiating evidence (Bullets, clothes, etc.)
 
 ---
-**Previous:** [[Medical Insurance]]  **Next:** [[Race from skeletal remains]]
+**Previous:** [[Torture and Human Rights]]  **Next:** [[Race from skeletal remains]]

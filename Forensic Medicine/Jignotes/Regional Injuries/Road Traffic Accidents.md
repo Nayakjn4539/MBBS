@@ -3,7 +3,7 @@ status: pending
 tags: [road_traffic_accident, regional_injuries, forensic_traumatology, pedestrian_injuries, whiplash_injury, bumper_fracture, medicolegal_autopsy]
 subject: Forensic Medicine
 topic: Regional Injuries
-up: [[Regional Injuries]]
+up: 114
 ---
 
 # [[Regional Injuries]] > Road Traffic Accidents

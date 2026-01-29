@@ -3,7 +3,7 @@ status: pending
 tags: [putrefaction, adipocere, mummification, forensic_entomology, thanatology, postmortem_changes, caspers_dictum, marbling, autolysis]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 52
 ---
 
 # [[Thanatology]] > late changes after death

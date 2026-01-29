@@ -3,7 +3,7 @@ status: pending
 tags: [chest_trauma, abdominal_injury, rib_fractures, liver_laceration, spleen_rupture, commotio_cordis, forensic_pathology, medicolegal_autopsy]
 subject: Forensic Medicine
 topic: Regional Injuries
-up: [[Regional Injuries]]
+up: 113
 ---
 
 # [[Regional Injuries]] > Chest and Abdominal Trauma

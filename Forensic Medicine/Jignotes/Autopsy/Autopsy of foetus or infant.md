@@ -3,7 +3,7 @@ status: pending
 tags: [autopsy, forensic_pathology, infanticide, viability, hydrostatic_test, ossification_centers, SIDS, foetus, medicolegal_autopsy]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 67
 ---
 
 # [[Autopsy]] > Autopsy of foetus or infant

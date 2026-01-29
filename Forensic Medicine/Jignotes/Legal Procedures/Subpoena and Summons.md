@@ -3,7 +3,7 @@ status: pending
 tags: [legal_procedures, subpoena, summons, conduct_money, medical_law, court_procedure, expert_witness]
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 3
 ---
 
 # [[Legal Procedures]] > Subpoena and Summons

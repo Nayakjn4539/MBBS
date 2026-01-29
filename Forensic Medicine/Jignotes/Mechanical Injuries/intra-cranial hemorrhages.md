@@ -3,7 +3,7 @@ status: pending
 tags: [intracranial_hemorrhage, forensic_pathology, head_injury, autopsy_findings, extradural_hemorrhage, subdural_hemorrhage, subarachnoid_hemorrhage, lucid_interval]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 87
 ---
 
 # [[Mechanical Injuries]] > intra-cranial hemorrhages

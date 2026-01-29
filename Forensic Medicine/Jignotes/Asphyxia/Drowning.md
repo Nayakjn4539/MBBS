@@ -3,7 +3,7 @@ status: pending
 tags: [drowning, asphyxia, forensic_pathology, diatoms, autopsy, hydrocution, medicolegal, paltauf_hemorrhage, freshwater_drowning, saltwater_drowning]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 133
 ---
 
 # [[Asphyxia]] > Drowning

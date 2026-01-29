@@ -3,7 +3,7 @@ status: pending
 tags: [Thanatology, Decomposition, Putrefaction, PostmortemChanges, ForensicPathology, CaspersDictum, Autolysis, Marbling, ForensicMedicine]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 57
 ---
 
 # [[Thanatology]] > Decomposition vs Putrefaction

@@ -3,7 +3,7 @@ status: pending
 tags: [Evidence, DyingDeclaration, DyingDeposition, MedicalEvidence, Witness, ChainOfCustody, LegalProcedures, ForensicMedicine]
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 4
 ---
 
 # [[Legal Procedures]] > Evidence

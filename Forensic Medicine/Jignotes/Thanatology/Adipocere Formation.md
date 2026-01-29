@@ -3,7 +3,7 @@ status: pending
 tags: [adipocere, saponification, thanatology, postmortem_changes, identification, forensic_pathology]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 58
 ---
 
 # [[Thanatology]] > Adipocere Formation

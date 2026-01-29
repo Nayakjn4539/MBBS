@@ -3,7 +3,7 @@ status: pending
 tags: [Identification, ForensicMedicine, Dermatology, Tattoos, Scars, Medicolegal]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 42
 ---
 
 # [[Identification]] > Scars, Tattoos and Occupational Marks

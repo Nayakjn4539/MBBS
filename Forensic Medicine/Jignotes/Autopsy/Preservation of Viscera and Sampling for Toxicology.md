@@ -3,7 +3,7 @@ status: pending
 tags: [ForensicToxicology, Autopsy, VisceraPreservation, Medicolegal, Poisons, SampleCollection]
 subject: Forensic Medicine
 topic: Autopsy
-up: [[Autopsy]]
+up: 70
 ---
 
 # [[Autopsy]] > Preservation of Viscera and Sampling for Toxicology

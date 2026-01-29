@@ -3,7 +3,7 @@ status: pending
 tags: [SuspendedAnimation, ApparentDeath, Thanatology, ForensicMedicine, Resuscitation, Hypothermia, Yoga]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 48
 ---
 
 # [[Thanatology]] > Suspended Animation

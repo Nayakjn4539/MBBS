@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 61
 ---
 
 # [[Thanatology]] > Forensic Entomology

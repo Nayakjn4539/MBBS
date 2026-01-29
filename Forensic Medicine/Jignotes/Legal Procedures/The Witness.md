@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 5
 ---
 
 # [[Legal Procedures]] > The Witness

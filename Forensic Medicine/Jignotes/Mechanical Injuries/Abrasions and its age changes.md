@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 72
 ---
 
 # [[Mechanical Injuries]] > Abrasions and its age changes

@@ -3,7 +3,7 @@ status: pending
 tags: [ForensicMedicine, Traumatology, MechanicalInjuries, WoundBallistics, LegalMedicine, Autopsy]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 82
 ---
 
 # [[Mechanical Injuries]] > Difference between Suicidal, Homicidal and Accidental Wounds

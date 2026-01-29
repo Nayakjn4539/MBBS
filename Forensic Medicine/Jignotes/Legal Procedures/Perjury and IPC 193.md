@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 7
 ---
 
 # [[Legal Procedures]] > Perjury and IPC 193

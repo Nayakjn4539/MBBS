@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_traumatology, head_injury, regional_injuries, subdural_hemorrhage, autopsy_findings, intracranial_hemorrhage]
 subject: Forensic Medicine
 topic: Regional Injuries
-up: [[Regional Injuries]]
+up: 109
 ---
 
 # [[Regional Injuries]] > Head Injury Subdural Hemorrhage

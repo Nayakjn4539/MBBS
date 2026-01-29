@@ -3,7 +3,7 @@ status: pending
 tags: [mechanical_injuries, forensic_traumatology, contusion, bruise, medicolegal_importance, ageing_of_injuries, forensic_pathology]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 73
 ---
 
 # [[Mechanical Injuries]] > Contusions and its age changes

@@ -3,7 +3,7 @@ status: pending
 tags: [wet_drowning, asphyxia, forensic_pathology, diatoms, paltaufs_hemorrhage, fresh_water_drowning, salt_water_drowning, emphysema_aquosum]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 134
 ---
 
 # [[Asphyxia]] > Wet Drowning

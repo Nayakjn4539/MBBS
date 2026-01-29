@@ -3,7 +3,7 @@ status: pending
 tags: [Thanatology, Somatic_Death, Brain_Death, Suspended_Animation, Modes_of_Death, Bichat_Tripod, Autopsy, Medicolegal_Aspects, Forensic_Medicine]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 44
 ---
 
 # [[Thanatology]] > Definition, classification, types and modes of Death

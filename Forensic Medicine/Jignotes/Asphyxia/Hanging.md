@@ -3,7 +3,7 @@ status: pending
 tags: [asphyxia, hanging, forensic_pathology, ligature_mark, medicolegal_autopsy, hyoid_bone, simons_hemorrhage, amussats_sign, judicial_hanging]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 129
 ---
 
 # [[Asphyxia]] > Hanging

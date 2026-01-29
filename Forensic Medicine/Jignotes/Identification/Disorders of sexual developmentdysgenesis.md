@@ -3,7 +3,7 @@ status: pending
 tags: [DSD, Intersex, Turnersyndrome, Klinefeltersyndrome, Identification, ForensicMedicine, Medicolegal, ChromosomalAbnormalities]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 25
 ---
 
 # [[Identification]] > Disorders of sexual developmentdysgenesis

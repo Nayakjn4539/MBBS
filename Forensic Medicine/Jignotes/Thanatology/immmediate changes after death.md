@@ -3,7 +3,7 @@ status: pending
 tags: [thanatology, somatic_death, bichats_tripod, immediate_changes_after_death, forensic_medicine, primary_flaccidity, magnus_test]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 50
 ---
 
 # [[Thanatology]] > immmediate changes after death

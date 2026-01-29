@@ -3,7 +3,7 @@ status: pending
 tags: [inquest, police_inquest, magistrate_inquest, legal_procedures, BNSS, CrPC, forensic_medicine, autopsy, exhumation, custodial_death]
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 1
 ---
 
 # [[Legal Procedures]] > Inquest

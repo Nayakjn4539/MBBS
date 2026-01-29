@@ -3,7 +3,7 @@ status: pending
 tags: [ForensicOdontology, Identification, AgeEstimation, GustafsonMethod, StacksMethod, MedicolegalAutopsy]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 43
 ---
 
 # [[Identification]] > Stack's Identification method and Gustafson's Method

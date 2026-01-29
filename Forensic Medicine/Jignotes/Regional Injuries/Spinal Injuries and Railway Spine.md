@@ -3,7 +3,7 @@ status: pending
 tags: [spinal_injuries, railway_spine, whiplash_injury, haematomyelia, autopsy_technique, forensic_traumatology]
 subject: Forensic Medicine
 topic: Regional Injuries
-up: [[Regional Injuries]]
+up: 112
 ---
 
 # [[Regional Injuries]] > Spinal Injuries and Railway Spine

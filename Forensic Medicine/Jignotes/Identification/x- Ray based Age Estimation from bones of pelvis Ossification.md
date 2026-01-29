@@ -3,7 +3,7 @@ status: pending
 tags: [ForensicIdentification, AgeEstimation, Pelvis, Ossification, Radiology, ForensicMedicine, IliacCrest, PubicSymphysis]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 33
 ---
 
 # [[Identification]] > x- Ray based Age Estimation from bones of pelvis Ossification

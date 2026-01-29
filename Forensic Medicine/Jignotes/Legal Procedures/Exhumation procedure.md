@@ -3,7 +3,7 @@ status: pending
 tags: [exhumation, forensic_pathology, legal_procedure, autopsy, toxicology, arsenic_poisoning, criminal_procedure_code]
 subject: Forensic Medicine
 topic: Legal Procedures
-up: [[Legal Procedures]]
+up: 8
 ---
 
 # [[Legal Procedures]] > Exhumation procedure

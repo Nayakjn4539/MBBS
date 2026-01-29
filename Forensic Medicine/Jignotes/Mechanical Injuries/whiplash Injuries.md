@@ -3,7 +3,7 @@ status: pending
 tags: [whiplash_injury, mechanical_injuries, forensic_traumatology, spinal_trauma, medicolegal_aspects]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 86
 ---
 
 # [[Mechanical Injuries]] > whiplash Injuries

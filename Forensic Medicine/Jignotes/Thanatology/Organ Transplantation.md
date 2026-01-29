@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_medicine, thanatology, organ_transplantation, THOA, brain_death, medico_legal_issues, autograft, allograft]
 subject: Forensic Medicine
 topic: Thanatology
-up: [[Thanatology]]
+up: 47
 ---
 
 # [[Thanatology]] > Organ Transplantation

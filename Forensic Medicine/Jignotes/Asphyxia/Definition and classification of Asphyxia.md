@@ -3,7 +3,7 @@ status: pending
 tags: [Asphyxia, ForensicPathology, MechanicalAsphyxia, Hanging, Strangulation, TardieuSpots]
 subject: Forensic Medicine
 topic: Asphyxia
-up: [[Asphyxia]]
+up: 127
 ---
 
 # [[Asphyxia]] > Definition and classification of Asphyxia
@@ -145,4 +145,4 @@ Added to the classic triad are:
 *   **Artefacts:** Postmortem congestion or gravitational settling of blood can mimic asphyxial signs; dissection artefacts in the neck can mimic hemorrhage.
 
 ---
-**Previous:** [[Blast Injuries]]  **Next:** [[Physiology of Asphyxia]]
+**Previous:** [[radiation injuries]]  **Next:** [[Physiology of Asphyxia]]

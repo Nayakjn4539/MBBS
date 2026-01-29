@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_traumatology, head_injury, brain_injury, mechanical_injuries, autopsy_findings]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 88
 ---
 
 # [[Mechanical Injuries]] > Coup and countrecoup injuries

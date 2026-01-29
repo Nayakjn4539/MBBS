@@ -3,7 +3,7 @@ status: pending
 tags: []
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 77
 ---
 
 # [[Mechanical Injuries]] > Hesitation Cuts

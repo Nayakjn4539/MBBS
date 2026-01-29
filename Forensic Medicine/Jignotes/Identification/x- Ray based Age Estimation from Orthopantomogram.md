@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_odontology, age_estimation, OPG, identification, dentition, medicolegal_autopsy, radiology]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 29
 ---
 
 # [[Identification]] > x- Ray based Age Estimation from Orthopantomogram

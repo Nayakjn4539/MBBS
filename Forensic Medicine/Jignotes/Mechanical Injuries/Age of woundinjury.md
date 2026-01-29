@@ -3,7 +3,7 @@ status: pending
 tags: [forensic_medicine, mechanical_injuries, wound_ageing, abrasion, contusion, laceration, vital_reaction, autopsy]
 subject: Forensic Medicine
 topic: Mechanical Injuries
-up: [[Mechanical Injuries]]
+up: 74
 ---
 
 # [[Mechanical Injuries]] > Age of woundinjury

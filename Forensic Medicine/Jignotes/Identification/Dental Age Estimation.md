@@ -3,7 +3,7 @@ status: pending
 tags: [ForensicOdontology, Identification, AgeEstimation, GustafsonMethod, ForensicMedicine, Teeth]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 27
 ---
 
 # [[Identification]] > Dental Age Estimation

@@ -3,7 +3,7 @@ status: pending
 tags: [identification, forensic_odontology, cheiloscopy, rugoscopy, biometrics, dactylography, frontal_sinus, medicolegal_autopsy]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 41
 ---
 
 # [[Identification]] > other prints and methods

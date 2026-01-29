@@ -3,7 +3,7 @@ status: pending
 tags: [identification, forensic_anthropology, skeletal_remains, sex_determination, pelvis, skull, mandible, sternum, krogman_accuracy, medico_legal_aspects]
 subject: Forensic Medicine
 topic: Identification
-up: [[Identification]]
+up: 23
 ---
 
 # [[Identification]] > Sex from skeletal remains
