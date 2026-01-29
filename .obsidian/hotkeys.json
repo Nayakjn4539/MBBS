@@ -32,5 +32,14 @@
       ],
       "key": "G"
     }
+  ],
+  "templater-obsidian:replace-in-file-templater": [],
+  "templater-obsidian:Templates(templater)/Top Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Insert"
+    }
   ]
 }

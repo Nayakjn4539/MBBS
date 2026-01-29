@@ -15,14 +15,18 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "",
-      "template": ""
+      "folder": "/",
+      "template": "Templates(templater)/Top Template.md"
     }
   ],
   "enable_file_templates": false,
   "file_templates": [
     {
       "regex": ".*",
+      "template": "Templates(templater)/Top Template.md"
+    },
+    {
+      "regex": "",
       "template": ""
     }
   ],
