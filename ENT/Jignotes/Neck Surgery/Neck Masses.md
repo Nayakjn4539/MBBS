@@ -1,6 +1,7 @@
 ---
 status: pending
-tags: []
+tags: [NeckMass, HeadAndNeckSurgery, ThyroglossalCyst, BranchialCyst, CarotidBodyTumor, NeckDissection, Lymphadenopathy ,ENT, Oncology
+]
 subject: ENT
 topic: Neck Surgery
 up: 178
@@ -16,7 +17,7 @@ A clinical approach to [[neck masses]] relies heavily on the age of the patient 
 Applicable to non-thyroid neck masses in adults (>40 years):
 *   **80%** of neck masses are neoplastic.
 *   **80%** of these neoplasms are malignant.
-*   **80%** of these malignancies are metastatic [[lymph nodes]].
+*   **80%** of these malignancies are metastatic lymph nodes.
 *   **80%** of these metastases are from primaries above the clavicle (Head and Neck).
 
 **Other Rules of Thumb (Rule of 7):**
@@ -221,9 +222,6 @@ Surgery to remove lymph nodes and fibrofatty tissue for cancer management.
     *   **P**tosis
     *   **L**oss of ciliospinal reflex
     *   **E**nophthalmos
-
----
-tags: #NeckMass #HeadAndNeckSurgery #ThyroglossalCyst #BranchialCyst #CarotidBodyTumor #NeckDissection #Lymphadenopathy #ENT #Oncology
 
 ---
 **Previous:** [[Cricothyrotomy]]  **Next:** [[Direct Laryngoscopy]]

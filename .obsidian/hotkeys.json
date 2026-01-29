@@ -41,5 +41,13 @@
       ],
       "key": "Insert"
     }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Insert"
+    }
   ]
 }
