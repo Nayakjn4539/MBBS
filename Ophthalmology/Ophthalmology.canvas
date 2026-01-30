@@ -1,0 +1,5388 @@
+{
+    "nodes": [
+        {
+            "id": "subject-2bf12a8ff8744fee",
+            "x": 0,
+            "y": 0,
+            "width": 600,
+            "height": 200,
+            "color": "3",
+            "text": "# Ophthalmology",
+            "type": "text"
+        },
+        {
+            "id": "topic-04bc3f0f4a2e42ae",
+            "x": 3000,
+            "y": 0,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Anatomy And Physiology",
+            "type": "text"
+        },
+        {
+            "id": "q-04ed909be1034ca7",
+            "x": 3600,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Overview of complete anatomy of visual apparatus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1dd730eabff641b4",
+            "x": 4150,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/embryological development of eye.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3544459a2e544a30",
+            "x": 4700,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Anatomy of Eyeball.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d5631f2a88834487",
+            "x": 5250,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Anatomy of Angle of Anterior Chamber.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e0a144d41826407d",
+            "x": 5800,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Optic Nerve.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5fe7d83739014a0a",
+            "x": 6350,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Visual Pathway.md",
+            "type": "file"
+        },
+        {
+            "id": "q-310849402fb948ec",
+            "x": 6900,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Extraocular Muscles.md",
+            "type": "file"
+        },
+        {
+            "id": "q-496b2e212cbd4be3",
+            "x": 7450,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Aqueous Humor.md",
+            "type": "file"
+        },
+        {
+            "id": "q-51685d6956eb4125",
+            "x": 8000,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Lacrimal Apparatus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c04cf79685524bd8",
+            "x": 8550,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Vision.md",
+            "type": "file"
+        },
+        {
+            "id": "q-cd638911e89c48b9",
+            "x": 9100,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Pupil and Pupillary Reflexes.md",
+            "type": "file"
+        },
+        {
+            "id": "q-149c9f283ba948eb",
+            "x": 9650,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Accommodation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c7c75421bb494a63",
+            "x": 10200,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Anatomy And Physiology/Binocular Single Vision and Fusion.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-2e1922a7b3b94e0e",
+            "x": 2897,
+            "y": 776,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Clinical Methods",
+            "type": "text"
+        },
+        {
+            "id": "q-e804514a2bd0426e",
+            "x": 3477,
+            "y": 931,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/History Taking in Ophthalmology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e3ad47c40f384b59",
+            "x": 4008,
+            "y": 1074,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Assessment of Visual Acuity.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ca88b1aa6fd94387",
+            "x": 4539,
+            "y": 1216,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Assessment of Color Vision.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b36fdfc78be44511",
+            "x": 5071,
+            "y": 1358,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Assessment of Contrast Sensitivity.md",
+            "type": "file"
+        },
+        {
+            "id": "q-05d1dd85748d4fd7",
+            "x": 5602,
+            "y": 1501,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Examination of Anterior Segment.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a6c281e29df64ecd",
+            "x": 6133,
+            "y": 1643,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Examination of Posterior Segment.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a70c7f82a9d04ef7",
+            "x": 6664,
+            "y": 1785,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Examination of Angle of Anterior Chamber.md",
+            "type": "file"
+        },
+        {
+            "id": "q-318c58962d7a467d",
+            "x": 7196,
+            "y": 1928,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Measurement of Intraocular Pressure.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4f0b36b9937d4113",
+            "x": 7727,
+            "y": 2070,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Examination of Lacrimal System.md",
+            "type": "file"
+        },
+        {
+            "id": "q-052fa9cdbb824300",
+            "x": 8258,
+            "y": 2212,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Clinical Methods/Ocular Motility Examination.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-363cb4f5b05447a8",
+            "x": 2598,
+            "y": 1499,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Optics And Refraction",
+            "type": "text"
+        },
+        {
+            "id": "q-21d0470be5164ab8",
+            "x": 3117,
+            "y": 1799,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Refractory apparatus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-69061c0d790d4be7",
+            "x": 3594,
+            "y": 2074,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Optics of Normal Eye.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0a41c8bfd3f849c6",
+            "x": 4070,
+            "y": 2349,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Myopia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f41e5fa7553a4a1f",
+            "x": 4546,
+            "y": 2624,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Hypermetropia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c1de9e6270bc443a",
+            "x": 5022,
+            "y": 2899,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Astigmatism.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f0a1f8fb1dcc4c11",
+            "x": 5499,
+            "y": 3174,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Sturm's Conoid.md",
+            "type": "file"
+        },
+        {
+            "id": "q-892cfaf4b38c4d82",
+            "x": 5975,
+            "y": 3449,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Presbyopia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7bf46805e22144ad",
+            "x": 6451,
+            "y": 3724,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Aphakia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-677ab37c4b6a4d67",
+            "x": 6928,
+            "y": 3999,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Pseudophakia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-91b3fa637e7a472a",
+            "x": 7404,
+            "y": 4274,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Anisometropia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3dfce5f8bf374e25",
+            "x": 7880,
+            "y": 4549,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Accommodation Anomalies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b129c6df80cd4b88",
+            "x": 8357,
+            "y": 4824,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Contact Lenses.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c812f15e177a4fd4",
+            "x": 8833,
+            "y": 5099,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Low Vision Aids.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c7896f135cd24573",
+            "x": 9309,
+            "y": 5374,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Retinoscopy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f9b8b24f2f804a4e",
+            "x": 9786,
+            "y": 5649,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Refractive Surgeries.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6f7dd9be69ce485c",
+            "x": 10262,
+            "y": 5924,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Optics And Refraction/Refractive Disorders table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-b338917e87c44a1a",
+            "x": 2121,
+            "y": 2121,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Conjunctiva",
+            "type": "text"
+        },
+        {
+            "id": "q-d10c534eae5a44f7",
+            "x": 2545,
+            "y": 2545,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Conjuctiva.md",
+            "type": "file"
+        },
+        {
+            "id": "q-95ff31c70b184668",
+            "x": 2934,
+            "y": 2934,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b4b01c7d274a434f",
+            "x": 3323,
+            "y": 3323,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Acute Mucopurulent Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7cc6f42e0e834e0a",
+            "x": 3712,
+            "y": 3712,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Purulent Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-deb268c3e89846af",
+            "x": 4101,
+            "y": 4101,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Membranous Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-44a6680fb93043a3",
+            "x": 4490,
+            "y": 4490,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Ophthalmia Neonatorum.md",
+            "type": "file"
+        },
+        {
+            "id": "q-689738397ab94e67",
+            "x": 4879,
+            "y": 4879,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Trachoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5c36d6f5c9b24cc2",
+            "x": 5267,
+            "y": 5267,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Adenoviral Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-473639d5249144ea",
+            "x": 5656,
+            "y": 5656,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Acute Hemorrhagic Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7e3298534a4d4afc",
+            "x": 6045,
+            "y": 6045,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Follicular Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-26ec090aa6414516",
+            "x": 6434,
+            "y": 6434,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Vernal Keratoconjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f94f2eb849da485c",
+            "x": 6823,
+            "y": 6823,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Atopic Keratoconjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-69d5c4c826914823",
+            "x": 7212,
+            "y": 7212,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Phlyctenular Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-9ea497cc2def4089",
+            "x": 7601,
+            "y": 7601,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Giant Papillary Conjunctivitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6e08aa21faf84bd2",
+            "x": 7990,
+            "y": 7990,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Dry Eye Syndrome.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bf2d4147e30b4bed",
+            "x": 8379,
+            "y": 8379,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Pterygium and Pinguecula.md",
+            "type": "file"
+        },
+        {
+            "id": "q-fd7a53861f6d4410",
+            "x": 8768,
+            "y": 8768,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Symblepharon and Ankyloblepharon.md",
+            "type": "file"
+        },
+        {
+            "id": "q-572b21a8c9c54808",
+            "x": 9157,
+            "y": 9157,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Conjuctival Cysts.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5e60b0b52a9d4aff",
+            "x": 9545,
+            "y": 9545,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Conjuctival Degeneration.md",
+            "type": "file"
+        },
+        {
+            "id": "q-891e7a2d67994355",
+            "x": 9934,
+            "y": 9934,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Conjunctival Tumors.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7d792b20ef514f33",
+            "x": 10323,
+            "y": 10323,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Xerophthalmia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-43493b29498e4050",
+            "x": 10712,
+            "y": 10712,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Conjunctiva/Conjunctival Disorders table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-05f3755e993f4638",
+            "x": 1500,
+            "y": 2598,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Cornea",
+            "type": "text"
+        },
+        {
+            "id": "q-d7630b838dc442ec",
+            "x": 1800,
+            "y": 3117,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Anatomy of Cornea and Limbus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b1061a8d8800404a",
+            "x": 2075,
+            "y": 3594,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Corneal Edema.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f3de2b27517f4b12",
+            "x": 2350,
+            "y": 4070,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Bullous Keratopathy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1a820ef0c69b4682",
+            "x": 2625,
+            "y": 4546,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Bacterial Corneal Ulcer.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2e7b18524f624c4a",
+            "x": 2900,
+            "y": 5022,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Fungal Corneal Ulcer.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0fe60df388ac4c87",
+            "x": 3175,
+            "y": 5499,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Viral Keratitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b5f28f418ba9472f",
+            "x": 3450,
+            "y": 5975,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Acanthamoeba Keratitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c22a877e24784097",
+            "x": 3725,
+            "y": 6451,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Mooren's Ulcer and Peripheral Ulcerative Keratitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-34de39f43d264d7c",
+            "x": 4000,
+            "y": 6928,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Neurotrophic Keratitis and Exposure Keratitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d2e60038cffb4e7e",
+            "x": 4275,
+            "y": 7404,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Interstitial Keratitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f4aa01026b5f4c11",
+            "x": 4550,
+            "y": 7880,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Keratoconus and Ectatic Disorders.md",
+            "type": "file"
+        },
+        {
+            "id": "q-378c30cb42d74928",
+            "x": 4825,
+            "y": 8357,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Corneal Dystrophies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ae307bcfe09549e8",
+            "x": 5100,
+            "y": 8833,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Corneal Degenerations.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ecf63defa3e74d00",
+            "x": 5375,
+            "y": 9309,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Keratoplasty.md",
+            "type": "file"
+        },
+        {
+            "id": "q-12ac17e466774e3a",
+            "x": 5650,
+            "y": 9786,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Eye Banking and Corneal Preservation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-67c3b7359cfe450d",
+            "x": 5925,
+            "y": 10262,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Cornea/Corneal Disorders table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-ff005c74b5dc420d",
+            "x": 776,
+            "y": 2897,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Sclera",
+            "type": "text"
+        },
+        {
+            "id": "q-c8a71a5abfdb4d5b",
+            "x": 931,
+            "y": 3477,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Sclera/Episcleritis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-adf49a339b844990",
+            "x": 1074,
+            "y": 4008,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Sclera/Scleritis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-dae2113786bf47d5",
+            "x": 1216,
+            "y": 4539,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Sclera/Staphyloma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-fdfbf6949bf247a2",
+            "x": 1358,
+            "y": 5071,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Sclera/Blue Sclera Causes.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5d1468982ffe4db8",
+            "x": 1501,
+            "y": 5602,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Sclera/Surgically induced necrosis of Sclera.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b6b811e02917471d",
+            "x": 1643,
+            "y": 6133,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Sclera/Scleral Disorders table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-e8bef473285b47b3",
+            "x": 0,
+            "y": 3000,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Uveal Tract",
+            "type": "text"
+        },
+        {
+            "id": "q-2a10137dc2984dcd",
+            "x": 0,
+            "y": 3600,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Uveal Tract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ad121eac2fad4377",
+            "x": 0,
+            "y": 4150,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Congenital defects of Uvea.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8b35fbaf93054477",
+            "x": 0,
+            "y": 4700,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Anterior Uveitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d1b7eb7bc55b461d",
+            "x": 0,
+            "y": 5250,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Pars Planitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f57963b98dfd4b87",
+            "x": 0,
+            "y": 5800,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Granulomatous vs Non-Granulomatous Uveitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c123a942e3c34885",
+            "x": 0,
+            "y": 6350,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Posterior Uveitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e2216c6d4fb34ad0",
+            "x": 0,
+            "y": 6900,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Panuveitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-563de9dcf2d94f81",
+            "x": 0,
+            "y": 7450,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Complications of Uveitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1d7b52afe44b405b",
+            "x": 0,
+            "y": 8000,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Specific Uveitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-fbdc702bcf6c4b62",
+            "x": 0,
+            "y": 8550,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Sympathetic Ophthalmitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d1d762c265014ab6",
+            "x": 0,
+            "y": 9100,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Acquired immunodeficiency syndrome.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0114f8350d164628",
+            "x": 0,
+            "y": 9650,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Fuchs' Heterochromic Iridocyclitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5bc55093bd0541c6",
+            "x": 0,
+            "y": 10200,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Uveal Tract Degenerations.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8e26e622b2604430",
+            "x": 0,
+            "y": 10750,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Choroidal Degeneration.md",
+            "type": "file"
+        },
+        {
+            "id": "q-63aa085e97c94f01",
+            "x": 0,
+            "y": 11300,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Choroidal Detachments.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3b09d801d9c84344",
+            "x": 0,
+            "y": 11850,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Masquerade Syndromes.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4ca603fb37614ee2",
+            "x": 0,
+            "y": 12400,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Tumors of Uveal Tract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f0c1263310774b4c",
+            "x": 0,
+            "y": 12950,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Uveal Tract/Uveal Tract Disorders table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-637da924b0de4b3d",
+            "x": -776,
+            "y": 2897,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Lens",
+            "type": "text"
+        },
+        {
+            "id": "q-ee8779a203684ee0",
+            "x": -931,
+            "y": 3477,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Anatomy of Lens.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ff0f0709020d45bb",
+            "x": -1074,
+            "y": 4008,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Congenital Cataract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c2ddddd5621443aa",
+            "x": -1216,
+            "y": 4539,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Acquired Cataract Classification.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5f392e52161b46e4",
+            "x": -1358,
+            "y": 5071,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Senile Cataract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6f8c7b10eaa646c4",
+            "x": -1501,
+            "y": 5602,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Maturity of Cataract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b4b7870ce9c54720",
+            "x": -1643,
+            "y": 6133,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Metabolic Cataract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b95654c127d44b86",
+            "x": -1785,
+            "y": 6664,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Complicated Cataract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-990b07156d9c405e",
+            "x": -1928,
+            "y": 7196,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Traumatic Cataract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-fd158953aafb4fc9",
+            "x": -2070,
+            "y": 7727,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Ectopia Lentis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7eae1d53db90450a",
+            "x": -2212,
+            "y": 8258,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Management of Cataract.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b8c9610f8feb46e3",
+            "x": -2355,
+            "y": 8789,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Surgical Techniques.md",
+            "type": "file"
+        },
+        {
+            "id": "q-55b0620f4a534e89",
+            "x": -2497,
+            "y": 9321,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Intraocular Lenses.md",
+            "type": "file"
+        },
+        {
+            "id": "q-9edff6cb693d4dd7",
+            "x": -2639,
+            "y": 9852,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Complications of Cataract Surgery.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0af7ef6a893c4ae7",
+            "x": -2782,
+            "y": 10383,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lens/Lens Disorders table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-c2769af798e54058",
+            "x": -1499,
+            "y": 2598,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Glaucoma",
+            "type": "text"
+        },
+        {
+            "id": "q-2ce2a25fefdd4318",
+            "x": -1799,
+            "y": 3117,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Mechanisms maintaining Intra-ocular Pressure.md",
+            "type": "file"
+        },
+        {
+            "id": "q-04b1e6ccef084fc7",
+            "x": -2074,
+            "y": 3594,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Aqueous Humor Dynamics and IOP Regulation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-55bd45a0e8384423",
+            "x": -2349,
+            "y": 4070,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Classification of Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e5d50872f75d454f",
+            "x": -2624,
+            "y": 4546,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Visual Field Defects in Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-eb0159e2630a4972",
+            "x": -2899,
+            "y": 5022,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Optic Disc Changes in Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ebc80a95868f4356",
+            "x": -3174,
+            "y": 5499,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Primary Open Angle Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7992354d0b43411a",
+            "x": -3449,
+            "y": 5975,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Normal Tension Glaucoma and Ocular Hypertension.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c9fe396e792c44ce",
+            "x": -3724,
+            "y": 6451,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Primary Angle Closure Disease.md",
+            "type": "file"
+        },
+        {
+            "id": "q-68bedd62cd0b4b6a",
+            "x": -3999,
+            "y": 6928,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Acute Congestive Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0cda3c36d02a4e36",
+            "x": -4274,
+            "y": 7404,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Pseudoexfoliation Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-98c825ea1b03404a",
+            "x": -4549,
+            "y": 7880,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Pigmentary Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f23625450d314844",
+            "x": -4824,
+            "y": 8357,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Neovascular Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ca9cdfac3bd3474e",
+            "x": -5099,
+            "y": 8833,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Lens Induced Glaucomas.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a8284d87f018406c",
+            "x": -5374,
+            "y": 9309,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Buphthalmos.md",
+            "type": "file"
+        },
+        {
+            "id": "q-84d5276bb35c4052",
+            "x": -5649,
+            "y": 9786,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Medical Management of Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-47ffe46299084cab",
+            "x": -5924,
+            "y": 10262,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Surgical Management.md",
+            "type": "file"
+        },
+        {
+            "id": "q-807eab51fea9440a",
+            "x": -6199,
+            "y": 10738,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Lasers in Glaucoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-aa8c3a5a52ce430f",
+            "x": -6474,
+            "y": 11215,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Glaucoma/Glaucoma Types table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-e93f0034cb7e435d",
+            "x": -2121,
+            "y": 2121,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Vitreous",
+            "type": "text"
+        },
+        {
+            "id": "q-6895f3fc80dd45a7",
+            "x": -2545,
+            "y": 2545,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Vitreous/Dynamics of the vitreous humour.md",
+            "type": "file"
+        },
+        {
+            "id": "q-196872c177fa4ba8",
+            "x": -2934,
+            "y": 2934,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Vitreous/Vitreous Detachment.md",
+            "type": "file"
+        },
+        {
+            "id": "q-fd990ef14ded482e",
+            "x": -3323,
+            "y": 3323,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Vitreous/Vitreous Liquefaction and PVD.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a717e4f38f1f465b",
+            "x": -3712,
+            "y": 3712,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Vitreous/Vitreous Hemorrhage.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b03030a40e3f4b3d",
+            "x": -4101,
+            "y": 4101,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Vitreous/Asteroid Hyalosis vs Synchysis Scintillans.md",
+            "type": "file"
+        },
+        {
+            "id": "q-55bedeb64f534bb4",
+            "x": -4490,
+            "y": 4490,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Vitreous/Persistent Hyperplastic Primary Vitreous.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-3f11d74c62034c3a",
+            "x": -2598,
+            "y": 1499,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Retina",
+            "type": "text"
+        },
+        {
+            "id": "q-c33ce73ac1884274",
+            "x": -3117,
+            "y": 1799,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Anatomy and physiology of Retina.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5477f629d06b43ad",
+            "x": -3594,
+            "y": 2074,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Methods of Opthalmoscopy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-40d292d7a9294fc9",
+            "x": -4070,
+            "y": 2349,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Opthalmoscopy findings.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e1ded54dcf0b4eb0",
+            "x": -4546,
+            "y": 2624,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Examination of Fundus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8343da03b88f4630",
+            "x": -5022,
+            "y": 2899,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Ocular signs in Diabetes Mellitus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8bc43e35f8aa4a00",
+            "x": -5499,
+            "y": 3174,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Diabetic Retinopathy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f46d2d8065794613",
+            "x": -5975,
+            "y": 3449,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Diabetic Macular Edema.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c37a2f9b07f24061",
+            "x": -6451,
+            "y": 3724,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Hypertensive Retinopathy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-cf0aed5b3d5a4082",
+            "x": -6928,
+            "y": 3999,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Central Retinal Artery Occlusion.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c9aa38b9ce3a49f0",
+            "x": -7404,
+            "y": 4274,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Branch Retinal Artery Occlusion.md",
+            "type": "file"
+        },
+        {
+            "id": "q-996c9304a7474188",
+            "x": -7880,
+            "y": 4549,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Central Retinal Vein Occlusion.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6c7f0a60c79d45c7",
+            "x": -8357,
+            "y": 4824,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Branch Retinal Vein Occlusion.md",
+            "type": "file"
+        },
+        {
+            "id": "q-62cac6c0b6d8454d",
+            "x": -8833,
+            "y": 5099,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Retinopathy of Prematurity.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c7f3b2704f734d2b",
+            "x": -9309,
+            "y": 5374,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Age Related Macular Degeneration.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c9554343b32b42f2",
+            "x": -9786,
+            "y": 5649,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Central Serous Chorioretinopathy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1d22da3a957f4d79",
+            "x": -10262,
+            "y": 5924,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Retinitis Pigmentosa and Night Blindness.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e56def2e78754981",
+            "x": -10738,
+            "y": 6199,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Retinal Detachment.md",
+            "type": "file"
+        },
+        {
+            "id": "q-29dfa5c496384ea5",
+            "x": -11215,
+            "y": 6474,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Macular Hole and Epiretinal Membrane.md",
+            "type": "file"
+        },
+        {
+            "id": "q-35d8da82d8ed49c0",
+            "x": -11691,
+            "y": 6749,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Retinoblastoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8c819ab215d94e3b",
+            "x": -12167,
+            "y": 7024,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Cystoid Macular Edema.md",
+            "type": "file"
+        },
+        {
+            "id": "q-73eeb2bb5e7444b9",
+            "x": -12643,
+            "y": 7299,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Coat's Disease and Eales' Disease.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e151d97cd46d469b",
+            "x": -13120,
+            "y": 7574,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Phakomatoses.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e157f32fed924dea",
+            "x": -13596,
+            "y": 7849,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Albinism.md",
+            "type": "file"
+        },
+        {
+            "id": "q-cdd1a1c22a31447c",
+            "x": -14072,
+            "y": 8124,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Retinal Investigations.md",
+            "type": "file"
+        },
+        {
+            "id": "q-12074af0d26f4049",
+            "x": -14549,
+            "y": 8399,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Retina/Retinal Disorders table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-3f2e4115549743f2",
+            "x": -2897,
+            "y": 776,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Neuro-Opthalmology",
+            "type": "text"
+        },
+        {
+            "id": "q-2233fd6343804e3c",
+            "x": -3477,
+            "y": 931,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Opthalmology/visual Pathway.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7817102a10e04bd7",
+            "x": -4008,
+            "y": 1074,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Opthalmology/Developmental abnormalities of optic nerve.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-ea1f69c1087948bc",
+            "x": -3000,
+            "y": 0,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Neuro-Ophthalmology",
+            "type": "text"
+        },
+        {
+            "id": "q-ee3a7b1f69ac45ff",
+            "x": -3600,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Optic Neuritis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-27fcddf3886d49bf",
+            "x": -4150,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Papilledema.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a461fad6683447e6",
+            "x": -4700,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Optic Atrophy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4a9e96c0f6154a03",
+            "x": -5250,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Optic Nerve Tumours.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0fef2f4f5cd34b22",
+            "x": -5800,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Anterior Ischemic Optic Neuropathy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f6bc28e905414a9e",
+            "x": -6350,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Toxic Ambylopias.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d8cfc7668beb4847",
+            "x": -6900,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Nutritional Optic Neuropathies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-02fd5d42dae74971",
+            "x": -7450,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Pupil Abnormalities.md",
+            "type": "file"
+        },
+        {
+            "id": "q-71a383bb869b4f65",
+            "x": -8000,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Horner's Syndrome.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e452796167df46de",
+            "x": -8550,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Adie's Tonic Pupil and Argyll Robertson Pupil.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6e6ff99856614584",
+            "x": -9100,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Oculomotor Nerve Palsy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0eaa7100cc1c4d3b",
+            "x": -9650,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Trochlear Nerve Palsy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7ef1038e6a974540",
+            "x": -10200,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Abducens Nerve Palsy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-11d06635fa164aaa",
+            "x": -10750,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Cavernous Sinus Thrombosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e4199efbe9c84131",
+            "x": -11300,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Visual Field Defects and Lesion Localization.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6386b343e96d4bb7",
+            "x": -11850,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Cortical Blindness and Agnosia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bdefde7f46594527",
+            "x": -12400,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Neuro-Ophthalmology/Optic nerve disease table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-664f9edcd76442f6",
+            "x": -2897,
+            "y": -776,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Intra-Ocular Tumours",
+            "type": "text"
+        },
+        {
+            "id": "q-53a111368a0f4eda",
+            "x": -3477,
+            "y": -931,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Intra-Ocular Tumours/Iris tumours.md",
+            "type": "file"
+        },
+        {
+            "id": "q-39f3a7d60917414b",
+            "x": -4008,
+            "y": -1074,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Intra-Ocular Tumours/Ciliary body tumors.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1cc87d0ab16f4fc0",
+            "x": -4539,
+            "y": -1216,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Intra-Ocular Tumours/Choroidal tumours.md",
+            "type": "file"
+        },
+        {
+            "id": "q-21614b79e82f4dab",
+            "x": -5071,
+            "y": -1358,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Intra-Ocular Tumours/Choroidal Hemangioma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a3a9b7bd5074407c",
+            "x": -5602,
+            "y": -1501,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Intra-Ocular Tumours/Leukocoria.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-aa10acf7687949cb",
+            "x": -2598,
+            "y": -1499,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Strabismus (Squint)",
+            "type": "text"
+        },
+        {
+            "id": "q-5b9faa1150e24510",
+            "x": -3117,
+            "y": -1799,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Normal eyeball movement.md",
+            "type": "file"
+        },
+        {
+            "id": "q-26d55baedc3b4b45",
+            "x": -3594,
+            "y": -2074,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Extraocular Muscle Actions.md",
+            "type": "file"
+        },
+        {
+            "id": "q-500c5ff070254677",
+            "x": -4070,
+            "y": -2349,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/how does a person with squint see normally.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8c6c37b4a6ec4cff",
+            "x": -4546,
+            "y": -2624,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Laws of Ocular Motility.md",
+            "type": "file"
+        },
+        {
+            "id": "q-42785a61448d4af3",
+            "x": -5022,
+            "y": -2899,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Tests and measurements of squint.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d28fd7fd9a8141b5",
+            "x": -5499,
+            "y": -3174,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Tests for Binocular Vision.md",
+            "type": "file"
+        },
+        {
+            "id": "q-612ec8f279434971",
+            "x": -5975,
+            "y": -3449,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Tests for Deviation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-93aa565610f446ef",
+            "x": -6451,
+            "y": -3724,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Heterophoria.md",
+            "type": "file"
+        },
+        {
+            "id": "q-726d0161b987463f",
+            "x": -6928,
+            "y": -3999,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Esotropia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6aa4583929e7490f",
+            "x": -7404,
+            "y": -4274,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Exotropia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-42a6f7a242994b45",
+            "x": -7880,
+            "y": -4549,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Paralytic Squint vs Comitant Squint.md",
+            "type": "file"
+        },
+        {
+            "id": "q-09a2b5cea5b4403b",
+            "x": -8357,
+            "y": -4824,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Restrictive Squint.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a87c4460d45d4c0c",
+            "x": -8833,
+            "y": -5099,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/A and V Patterns.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4ddaf44d07154572",
+            "x": -9309,
+            "y": -5374,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Concomitant squint.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4de3d12a2cc64df7",
+            "x": -9786,
+            "y": -5649,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Amblyopia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-07bb34e9b4fa498c",
+            "x": -10262,
+            "y": -5924,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Nystagmus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2ef11ab802db460c",
+            "x": -10738,
+            "y": -6199,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Strabismus (Squint)/Strabismus table.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-ecbfd2c8c2c440fd",
+            "x": -2121,
+            "y": -2121,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Eyelids",
+            "type": "text"
+        },
+        {
+            "id": "q-92c998b9be4f49c3",
+            "x": -2545,
+            "y": -2545,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Anatomy of Eyelids and Appendages.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c88e68561eab43e5",
+            "x": -2934,
+            "y": -2934,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Blepharitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b7fec6116efb4972",
+            "x": -3323,
+            "y": -3323,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Hordeolum Internum vs Hordeolum Externum.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ad31471b5278444c",
+            "x": -3712,
+            "y": -3712,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Chalazion.md",
+            "type": "file"
+        },
+        {
+            "id": "q-58401e7337874b26",
+            "x": -4101,
+            "y": -4101,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Trichiasis and Distichiasis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ede02300388b4041",
+            "x": -4490,
+            "y": -4490,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Entropion and Ectropion.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bfa128117b674565",
+            "x": -4879,
+            "y": -4879,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Ptosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e0ad8be7959b4b4d",
+            "x": -5267,
+            "y": -5267,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Tumors of Eyelid.md",
+            "type": "file"
+        },
+        {
+            "id": "q-027852eb66ed4edf",
+            "x": -5656,
+            "y": -5656,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Eyelids/Lagophthalmos.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-438db494bcf841b6",
+            "x": -1500,
+            "y": -2598,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Lacrimal Apparatus",
+            "type": "text"
+        },
+        {
+            "id": "q-4aa54a382cca4c83",
+            "x": -1800,
+            "y": -3117,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lacrimal Apparatus/Anatomy and Physiology of Lacrimal Apparatus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-159e34cef9c5423d",
+            "x": -2075,
+            "y": -3594,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lacrimal Apparatus/Congenital Nasolacrimal Duct Obstruction.md",
+            "type": "file"
+        },
+        {
+            "id": "q-23a0c8b9ad6e4c96",
+            "x": -2350,
+            "y": -4070,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lacrimal Apparatus/Acute Dacryocystitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4a0da9d3e7f54acd",
+            "x": -2625,
+            "y": -4546,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lacrimal Apparatus/Chronic Dacryocystitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6274fc61265346b0",
+            "x": -2900,
+            "y": -5022,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Lacrimal Apparatus/Dacryocystorhinostomy Surgery.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-9dd074181fe94e78",
+            "x": -776,
+            "y": -2897,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Diseases Of Orbit",
+            "type": "text"
+        },
+        {
+            "id": "q-79c4302536a74e09",
+            "x": -931,
+            "y": -3477,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Anatomy of Orbit and Orbital Apex.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e8612bd373414d4c",
+            "x": -1074,
+            "y": -4008,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Orbital Cellulitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-9059633dee704f17",
+            "x": -1216,
+            "y": -4539,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Open Globe Injury.md",
+            "type": "file"
+        },
+        {
+            "id": "q-eb2884e5c55e4ad8",
+            "x": -1358,
+            "y": -5071,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Proptosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a2283653bb8c477f",
+            "x": -1501,
+            "y": -5602,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Cavernous sinus Thrombosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1b2aacc464654dc1",
+            "x": -1643,
+            "y": -6133,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Hemangioma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-557e07598d9c4743",
+            "x": -1785,
+            "y": -6664,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Lymphangioma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-cc592fdda4dd47eb",
+            "x": -1928,
+            "y": -7196,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Rhabdomyosarcoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ddc7befdf6824d84",
+            "x": -2070,
+            "y": -7727,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Orbital Blow-out Fracture.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0db4002c98a74671",
+            "x": -2212,
+            "y": -8258,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Thyroid Ophthalmopathy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8be062f2083243a4",
+            "x": -2355,
+            "y": -8789,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Diseases Of Orbit/Enucleation vs Evisceration vs Exenteration.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-b91e39c041954ea3",
+            "x": 0,
+            "y": -3000,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Ocular Injuries",
+            "type": "text"
+        },
+        {
+            "id": "q-389a7e7cb4794643",
+            "x": 0,
+            "y": -3600,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Ocular Injuries/Mechanical Injuries.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c9de0b9b238c4bb6",
+            "x": 0,
+            "y": -4150,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Ocular Injuries/Perforating and Penetrating Injuries.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8b0faeb50b174fc4",
+            "x": 0,
+            "y": -4700,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Ocular Injuries/Intraocular Foreign Bodies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ff6687cd85f84931",
+            "x": 0,
+            "y": -5250,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Ocular Injuries/Siderosis and Chalcosis Bulbi.md",
+            "type": "file"
+        },
+        {
+            "id": "q-28c6cb3794ea4539",
+            "x": 0,
+            "y": -5800,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Ocular Injuries/Chemical Injuries.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1c5c23311ce74a60",
+            "x": 0,
+            "y": -6350,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Ocular Injuries/Thermal and Radiation Injuries.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-935f8ec28a9344cf",
+            "x": 776,
+            "y": -2897,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Community Ophthalmology",
+            "type": "text"
+        },
+        {
+            "id": "q-3bb3e2cf46be49f0",
+            "x": 931,
+            "y": -3477,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Community Ophthalmology/Definition and Types of Blindness.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0c3b4baa31924ed8",
+            "x": 1074,
+            "y": -4008,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Community Ophthalmology/Vision 2020 The Right to Sight.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f74d4806507c44bf",
+            "x": 1216,
+            "y": -4539,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Community Ophthalmology/National Programme for Control of Blindness.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ed0aa71d2e5d410c",
+            "x": 1358,
+            "y": -5071,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Community Ophthalmology/School Eye Screening.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1c8509e8ec6a4292",
+            "x": 1501,
+            "y": -5602,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Community Ophthalmology/Eye Camps and Tele-ophthalmology.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-69d330211bb24b02",
+            "x": 1500,
+            "y": -2598,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Recent Advances And Therapeutics",
+            "type": "text"
+        },
+        {
+            "id": "q-79e650fb36a94be0",
+            "x": 1800,
+            "y": -3117,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Recent Advances And Therapeutics/Lasers in Ophthalmology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-81782444903c4e17",
+            "x": 2075,
+            "y": -3594,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Recent Advances And Therapeutics/Anti-VEGF Agents.md",
+            "type": "file"
+        },
+        {
+            "id": "q-85361532745b4c7b",
+            "x": 2350,
+            "y": -4070,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Recent Advances And Therapeutics/Botulinum Toxin in Ophthalmology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-69d3e6f350c649e3",
+            "x": 2625,
+            "y": -4546,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Recent Advances And Therapeutics/Artificial Retina and Bionic Eye.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-f5daffde61af456f",
+            "x": 2121,
+            "y": -2121,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Radiology In Ophthalmology",
+            "type": "text"
+        },
+        {
+            "id": "q-644ceeea4f7046aa",
+            "x": 2545,
+            "y": -2545,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Radiology In Ophthalmology/B-Scan Ultrasonography.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4a86ef3918a048fe",
+            "x": 2934,
+            "y": -2934,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Radiology In Ophthalmology/Optical Coherence Tomography.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c0750fc61543402b",
+            "x": 3323,
+            "y": -3323,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Radiology In Ophthalmology/Fundus Fluorescein Angiography.md",
+            "type": "file"
+        },
+        {
+            "id": "q-69e716126b7a45e5",
+            "x": 3712,
+            "y": -3712,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Radiology In Ophthalmology/Indocyanine Green Angiography.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2626b846afa8456e",
+            "x": 4101,
+            "y": -4101,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Radiology In Ophthalmology/CT and MRI of Orbit.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f0c6b701ecb84915",
+            "x": 4490,
+            "y": -4490,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Radiology In Ophthalmology/Radiational Injuries.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-08f2f8dcf38d4168",
+            "x": 2598,
+            "y": -1500,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Surgeries In Ophthalmology",
+            "type": "text"
+        },
+        {
+            "id": "q-8431fd9d232e41ea",
+            "x": 3117,
+            "y": -1800,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/General Principles.md",
+            "type": "file"
+        },
+        {
+            "id": "q-71f8d7a056104fb9",
+            "x": 3594,
+            "y": -2075,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Preoperative Preparation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3852154e54684376",
+            "x": 4070,
+            "y": -2350,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Postoperative Care and Treatment.md",
+            "type": "file"
+        },
+        {
+            "id": "q-706b5cd9316c4dfa",
+            "x": 4546,
+            "y": -2625,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Anesthesia and Akinesia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a555ba7c763840c7",
+            "x": 5022,
+            "y": -2900,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Conventional ECCE With PCIOL Implantation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-9ebcc9451d29485a",
+            "x": 5499,
+            "y": -3175,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Manual Small Incision Cataract Surgery.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e7cfb65fe95d4f8b",
+            "x": 5975,
+            "y": -3450,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Phacoemulsification.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c7988a0d665143f4",
+            "x": 6451,
+            "y": -3725,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Femtosecond Laser Cataract Surgery.md",
+            "type": "file"
+        },
+        {
+            "id": "q-305a599a0e8246ff",
+            "x": 6928,
+            "y": -4000,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Intracapsular Cataract Extraction.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7d884f9692c04492",
+            "x": 7404,
+            "y": -4275,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Intraocular Lens Implantation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-dfab0c7b39c34fcf",
+            "x": 7880,
+            "y": -4550,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Glaucoma Operations.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a11fb7c4d4a34711",
+            "x": 8357,
+            "y": -4825,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Cyclocryotherapy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c4e8da5652ef4b79",
+            "x": 8833,
+            "y": -5100,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Cyclophotocoagulation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f7f16d66985b4cd0",
+            "x": 9309,
+            "y": -5375,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Operations Upon the Iris.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a89b1d1dc5d9472e",
+            "x": 9786,
+            "y": -5650,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Operations of the Cornea.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b58e3ae97e31467c",
+            "x": 10262,
+            "y": -5925,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Eye Bank and Donor Cornea.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a9d68a13c00d456a",
+            "x": 10738,
+            "y": -6200,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Tarsorrhaphy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-37ca029ccf1b45ca",
+            "x": 11215,
+            "y": -6475,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Pterygium Operation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-68685368dea245c9",
+            "x": 11691,
+            "y": -6750,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Chalazion Operation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-81ce8258860a4e2f",
+            "x": 12167,
+            "y": -7025,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Dacryocystectomy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-970a565b265341e8",
+            "x": 12643,
+            "y": -7300,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Dacryocystorhinostomy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1d731ffe626c4c92",
+            "x": 13120,
+            "y": -7575,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Evisceration.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e5d2fedf38334fda",
+            "x": 13596,
+            "y": -7850,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Enucleation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f22432a5ae4b4865",
+            "x": 14072,
+            "y": -8125,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Amniotic Membrane Transplantation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-979121a984564433",
+            "x": 14549,
+            "y": -8400,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Incision and Drainage of Lacrimal Abscess.md",
+            "type": "file"
+        },
+        {
+            "id": "q-dc44da9cd74344bd",
+            "x": 15025,
+            "y": -8675,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgeries In Ophthalmology/Incision and Drainage of Lid Abscess.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-2f02a73091cd4036",
+            "x": 2897,
+            "y": -776,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Surgical Equipments",
+            "type": "text"
+        },
+        {
+            "id": "q-b712ef3af696486e",
+            "x": 3477,
+            "y": -931,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Equipment table.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bd349ab4dbb5429a",
+            "x": 4008,
+            "y": -1074,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Pin-Hole.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ac7d108d3e4a4204",
+            "x": 4539,
+            "y": -1216,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Stenopeic Slit.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6011cda2c3004279",
+            "x": 5071,
+            "y": -1358,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Ophthalmic Lenses.md",
+            "type": "file"
+        },
+        {
+            "id": "q-229d9a9a651948ac",
+            "x": 5602,
+            "y": -1501,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Red-Green Goggles.md",
+            "type": "file"
+        },
+        {
+            "id": "q-dbdd55d10ade42f5",
+            "x": 6133,
+            "y": -1643,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Placido\u2019s Disc.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7d9c4822b06f49f6",
+            "x": 6664,
+            "y": -1785,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Prism.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1885b47709b94ed3",
+            "x": 7196,
+            "y": -1928,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Retinoscope.md",
+            "type": "file"
+        },
+        {
+            "id": "q-828ba5d5a46044e1",
+            "x": 7727,
+            "y": -2070,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Magnifying Loupe.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b1880ec102674f8a",
+            "x": 8258,
+            "y": -2212,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Jackson\u2019s Cross Cylinder.md",
+            "type": "file"
+        },
+        {
+            "id": "q-80b7a28b8ca34a07",
+            "x": 8789,
+            "y": -2355,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Maddox Rod.md",
+            "type": "file"
+        },
+        {
+            "id": "q-79e595d468a74742",
+            "x": 9321,
+            "y": -2497,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Foreign Body Spud and Needle.md",
+            "type": "file"
+        },
+        {
+            "id": "q-db1dcb01647e4a52",
+            "x": 9852,
+            "y": -2639,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Epilation Forceps.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6d1df37fdb874626",
+            "x": 10383,
+            "y": -2782,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Thermocautery.md",
+            "type": "file"
+        },
+        {
+            "id": "q-72c0d230fdec42c1",
+            "x": 10914,
+            "y": -2924,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Ophthalmology/Jignotes/Surgical Equipments/Bowman\u2019s Discission Needle.md",
+            "type": "file"
+        }
+    ],
+    "edges": [
+        {
+            "id": "edge-e51fd0f601af46fe",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "right",
+            "toNode": "topic-04bc3f0f4a2e42ae",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-7c9f9914c72443e0",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-04ed909be1034ca7",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-b079db4f59fc48ce",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-1dd730eabff641b4",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-2851b6dda74f4c21",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-3544459a2e544a30",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-ae8c3cb2c7104b77",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-d5631f2a88834487",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-e4710a9f7db74f6c",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-e0a144d41826407d",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-004ec7c7d5914a64",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-5fe7d83739014a0a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-33adde3cc0f84fd4",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-310849402fb948ec",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0458935e843041dc",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-496b2e212cbd4be3",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-6be0c59463d34561",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-51685d6956eb4125",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-fc95b1b414e043de",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-c04cf79685524bd8",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8d6262b04f2f41ed",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-cd638911e89c48b9",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-1d46a3cf5bf24066",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-149c9f283ba948eb",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-5eb58398a04e4a93",
+            "fromNode": "topic-04bc3f0f4a2e42ae",
+            "fromSide": "right",
+            "toNode": "q-c7c75421bb494a63",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-c0750b111093419f",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "right",
+            "toNode": "topic-2e1922a7b3b94e0e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-5f7cc686c0a54086",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-e804514a2bd0426e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-65bfa69631e345c2",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-e3ad47c40f384b59",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-423721f6d6d6453e",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-ca88b1aa6fd94387",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-466b204d0edd4423",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-b36fdfc78be44511",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-5036a084081e45a1",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-05d1dd85748d4fd7",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-5340ac9b86054e6a",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-a6c281e29df64ecd",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-67487328819a4cbd",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-a70c7f82a9d04ef7",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-fdcc845c1c984ca2",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-318c58962d7a467d",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-b624dc21429a46e5",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-4f0b36b9937d4113",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-f476b87fb72d435f",
+            "fromNode": "topic-2e1922a7b3b94e0e",
+            "fromSide": "right",
+            "toNode": "q-052fa9cdbb824300",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8803898bb8464651",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "right",
+            "toNode": "topic-363cb4f5b05447a8",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-592775cfcf6540b3",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-21d0470be5164ab8",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-3e639cd0ea7f4e36",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-69061c0d790d4be7",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-9fca7dd50b2a446d",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-0a41c8bfd3f849c6",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-68e1553d83084540",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-f41e5fa7553a4a1f",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-71ff77233e4047c1",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-c1de9e6270bc443a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-2a57addf5d804811",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-f0a1f8fb1dcc4c11",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8f062332a94d4210",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-892cfaf4b38c4d82",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-5f2e8ae2ad5b4ad4",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-7bf46805e22144ad",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-77b66490c4a042ba",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-677ab37c4b6a4d67",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-2b47e7d15b3c48a1",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-91b3fa637e7a472a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-fbabc31d2d4f4a2b",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-3dfce5f8bf374e25",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-c65dc7a63bd14926",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-b129c6df80cd4b88",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-34c48cd7e4fb4121",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-c812f15e177a4fd4",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-9b72fbbbfe444566",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-c7896f135cd24573",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-b0d4fa752bd844ca",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-f9b8b24f2f804a4e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-08f4ef3ba949469c",
+            "fromNode": "topic-363cb4f5b05447a8",
+            "fromSide": "right",
+            "toNode": "q-6f7dd9be69ce485c",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-017b6f05e44645c3",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "bottom",
+            "toNode": "topic-b338917e87c44a1a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-655522543ba348f4",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-d10c534eae5a44f7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3d78020a0de545fb",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-95ff31c70b184668",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d5fdf2588f774c31",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-b4b01c7d274a434f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-c901d8982e8e4cc3",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-7cc6f42e0e834e0a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4b50f3404d0943e8",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-deb268c3e89846af",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-a67195a49346467f",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-44a6680fb93043a3",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5cf43438839141f7",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-689738397ab94e67",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d9428c46fe174ca3",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-5c36d6f5c9b24cc2",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-8fcdc475197e4be0",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-473639d5249144ea",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-7deb3ed66ed54736",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-7e3298534a4d4afc",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-8f647e8a3c67480e",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-26ec090aa6414516",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-72d3ac39156448bc",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-f94f2eb849da485c",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-102ebc87b1014b0b",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-69d5c4c826914823",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b75fe3beefc24c25",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-9ea497cc2def4089",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-e67ea0a2f14544ff",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-6e08aa21faf84bd2",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-6c6011f9edfa4a0d",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-bf2d4147e30b4bed",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-032d5eb17f03476f",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-fd7a53861f6d4410",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-a022de65065e4453",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-572b21a8c9c54808",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-df6ba7bf6d244b19",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-5e60b0b52a9d4aff",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-714c8a8cec4e4acc",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-891e7a2d67994355",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-269e4336380240c3",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-7d792b20ef514f33",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d62c70d414dc43cc",
+            "fromNode": "topic-b338917e87c44a1a",
+            "fromSide": "bottom",
+            "toNode": "q-43493b29498e4050",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-ee1e0b09cc6a45cf",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "bottom",
+            "toNode": "topic-05f3755e993f4638",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-28ca16bf620b4caf",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-d7630b838dc442ec",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-23477b9c7cd44527",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-b1061a8d8800404a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-6ed1ae66683046e9",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-f3de2b27517f4b12",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-f3a0479232394b6d",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-1a820ef0c69b4682",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-caa14ad74d6a455f",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-2e7b18524f624c4a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-beaee900a820490f",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-0fe60df388ac4c87",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-32be2a6de4d74098",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-b5f28f418ba9472f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d9b49fb23b504b5a",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-c22a877e24784097",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-1a1af915856e457e",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-34de39f43d264d7c",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-78b39180af2e48bd",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-d2e60038cffb4e7e",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-f9f05cb6550147bb",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-f4aa01026b5f4c11",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4fbf79c616144fdc",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-378c30cb42d74928",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-f2b6a19e98dd4cba",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-ae307bcfe09549e8",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-31ed99c5c0f344ca",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-ecf63defa3e74d00",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-258610fd2c674e2e",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-12ac17e466774e3a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-bbff08c32873496b",
+            "fromNode": "topic-05f3755e993f4638",
+            "fromSide": "bottom",
+            "toNode": "q-67c3b7359cfe450d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-dfe6e57c50604cdc",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "bottom",
+            "toNode": "topic-ff005c74b5dc420d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-f48f459d844f49f2",
+            "fromNode": "topic-ff005c74b5dc420d",
+            "fromSide": "bottom",
+            "toNode": "q-c8a71a5abfdb4d5b",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-ec6b8b7e5d9f4708",
+            "fromNode": "topic-ff005c74b5dc420d",
+            "fromSide": "bottom",
+            "toNode": "q-adf49a339b844990",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-08bfd092ea9047bd",
+            "fromNode": "topic-ff005c74b5dc420d",
+            "fromSide": "bottom",
+            "toNode": "q-dae2113786bf47d5",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4b0849d49ba04680",
+            "fromNode": "topic-ff005c74b5dc420d",
+            "fromSide": "bottom",
+            "toNode": "q-fdfbf6949bf247a2",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-e5088572047f4e91",
+            "fromNode": "topic-ff005c74b5dc420d",
+            "fromSide": "bottom",
+            "toNode": "q-5d1468982ffe4db8",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5cff86f238dc43f6",
+            "fromNode": "topic-ff005c74b5dc420d",
+            "fromSide": "bottom",
+            "toNode": "q-b6b811e02917471d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-fe715b8f3ecf495a",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "bottom",
+            "toNode": "topic-e8bef473285b47b3",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-0cdbd2dad887423a",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-2a10137dc2984dcd",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b858465c32854953",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-ad121eac2fad4377",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-33b2bbd86145468a",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-8b35fbaf93054477",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-151cabc2b0e7459d",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-d1b7eb7bc55b461d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-efca21cf8df44685",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-f57963b98dfd4b87",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-96d9c26ff4084597",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-c123a942e3c34885",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-ce9037e6eaba44eb",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-e2216c6d4fb34ad0",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-06feec453bf84365",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-563de9dcf2d94f81",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d7f112aeccf94115",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-1d7b52afe44b405b",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-fac2c8285e004d59",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-fbdc702bcf6c4b62",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-7b388f5681ae40e2",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-d1d762c265014ab6",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5eeef23d7b664a71",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-0114f8350d164628",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4b66e92a1f3443a2",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-5bc55093bd0541c6",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-08cbc818496e452c",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-8e26e622b2604430",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4bd97b2f2bbe4542",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-63aa085e97c94f01",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-1ff115472a73470d",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-3b09d801d9c84344",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b7f92be840a54b67",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-4ca603fb37614ee2",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b5b1c4a5eb5841ab",
+            "fromNode": "topic-e8bef473285b47b3",
+            "fromSide": "bottom",
+            "toNode": "q-f0c1263310774b4c",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-00b0b61e579b48d1",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "bottom",
+            "toNode": "topic-637da924b0de4b3d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-87fba1b356704c97",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-ee8779a203684ee0",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5d4decc4eb2f49ee",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-ff0f0709020d45bb",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-8270dd0a03214c34",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-c2ddddd5621443aa",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-535e7952e52d4002",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-5f392e52161b46e4",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-7a8780341b5d4949",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-6f8c7b10eaa646c4",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-f0bf95b5f35140f4",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-b4b7870ce9c54720",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-63bfc0863a2b431c",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-b95654c127d44b86",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-bab756d21bed4813",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-990b07156d9c405e",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b0082b65a90a43c7",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-fd158953aafb4fc9",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d4ef84237f3a4035",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-7eae1d53db90450a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-aa7568814f754661",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-b8c9610f8feb46e3",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-74d9cdc225f7449d",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-55b0620f4a534e89",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-cdee7adea82345ba",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-9edff6cb693d4dd7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-46b549eb554c449b",
+            "fromNode": "topic-637da924b0de4b3d",
+            "fromSide": "bottom",
+            "toNode": "q-0af7ef6a893c4ae7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5aecbb3b12af479f",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "bottom",
+            "toNode": "topic-c2769af798e54058",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-373346155eaa4c1f",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-2ce2a25fefdd4318",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-ebdadc546e3b40df",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-04b1e6ccef084fc7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-2cb75a3751ff4bd3",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-55bd45a0e8384423",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5443ecb21c4945d1",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-e5d50872f75d454f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-e5d1f7e145364f48",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-eb0159e2630a4972",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-663da9cb36ac4792",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-ebc80a95868f4356",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-2f24a5e7ff2c48d6",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-7992354d0b43411a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-7992695a1cb848d9",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-c9fe396e792c44ce",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-daf9747f6c164588",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-68bedd62cd0b4b6a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-996a16692a86470e",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-0cda3c36d02a4e36",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b20bc4353f364daf",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-98c825ea1b03404a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-a9b079e4c3cd46a4",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-f23625450d314844",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-280497cb6a074347",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-ca9cdfac3bd3474e",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-86660ab3525d4be3",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-a8284d87f018406c",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-ba4833eab4574152",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-84d5276bb35c4052",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-69d8115cb4cb4638",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-47ffe46299084cab",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-90848a7548cb4879",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-807eab51fea9440a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-2b4445b71db04d52",
+            "fromNode": "topic-c2769af798e54058",
+            "fromSide": "bottom",
+            "toNode": "q-aa8c3a5a52ce430f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-bd2b432387524414",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "left",
+            "toNode": "topic-e93f0034cb7e435d",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-34cf50e8eb6d4c82",
+            "fromNode": "topic-e93f0034cb7e435d",
+            "fromSide": "left",
+            "toNode": "q-6895f3fc80dd45a7",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-7b4e1f8fd5614f87",
+            "fromNode": "topic-e93f0034cb7e435d",
+            "fromSide": "left",
+            "toNode": "q-196872c177fa4ba8",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-6c982dad2ba54510",
+            "fromNode": "topic-e93f0034cb7e435d",
+            "fromSide": "left",
+            "toNode": "q-fd990ef14ded482e",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-834507f8dc094b69",
+            "fromNode": "topic-e93f0034cb7e435d",
+            "fromSide": "left",
+            "toNode": "q-a717e4f38f1f465b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-7a1c3213c5344186",
+            "fromNode": "topic-e93f0034cb7e435d",
+            "fromSide": "left",
+            "toNode": "q-b03030a40e3f4b3d",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-40a228e0ffdd4380",
+            "fromNode": "topic-e93f0034cb7e435d",
+            "fromSide": "left",
+            "toNode": "q-55bedeb64f534bb4",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-a08c86135b0f492c",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "left",
+            "toNode": "topic-3f11d74c62034c3a",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ec5630a02c0c45bf",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-c33ce73ac1884274",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-0b478127e6af4dbe",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-5477f629d06b43ad",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-dd6dd780db904cb9",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-40d292d7a9294fc9",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-44f807d0cc4c41a0",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-e1ded54dcf0b4eb0",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-54a26aaf4f6942d3",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-8343da03b88f4630",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-27d136f5efe04756",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-8bc43e35f8aa4a00",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-d24decff628140a1",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-f46d2d8065794613",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-e31d445e22ed499b",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-c37a2f9b07f24061",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-4f0607085d7b4a83",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-cf0aed5b3d5a4082",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-e46478dfa0744da5",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-c9aa38b9ce3a49f0",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-d165b630d94e4ace",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-996c9304a7474188",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-21a97a9c8a6445a3",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-6c7f0a60c79d45c7",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-c6e1f9ca53754af9",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-62cac6c0b6d8454d",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-70afd6cc60a24e75",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-c7f3b2704f734d2b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-026e7edd0c884de4",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-c9554343b32b42f2",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-bad69e01cd074014",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-1d22da3a957f4d79",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-fc04a4b3015e4b46",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-e56def2e78754981",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-3c8466c8f4094866",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-29dfa5c496384ea5",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-e4c05c2168f04b96",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-35d8da82d8ed49c0",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-9247e3b0e4724b32",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-8c819ab215d94e3b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-f026ece15b04468e",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-73eeb2bb5e7444b9",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-a3dc72fdb35c43f9",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-e151d97cd46d469b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-a2ed924abcfc4073",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-e157f32fed924dea",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-910f9bff4b2d495e",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-cdd1a1c22a31447c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-2fe953c1fa834dde",
+            "fromNode": "topic-3f11d74c62034c3a",
+            "fromSide": "left",
+            "toNode": "q-12074af0d26f4049",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-f5ac224bcef543a5",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "left",
+            "toNode": "topic-3f2e4115549743f2",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-a15a9e5bc7eb4e66",
+            "fromNode": "topic-3f2e4115549743f2",
+            "fromSide": "left",
+            "toNode": "q-2233fd6343804e3c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-d8cb0bdd30554a09",
+            "fromNode": "topic-3f2e4115549743f2",
+            "fromSide": "left",
+            "toNode": "q-7817102a10e04bd7",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-a482d180ed4c47d5",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "left",
+            "toNode": "topic-ea1f69c1087948bc",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-8a72161046ad4115",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-ee3a7b1f69ac45ff",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-21d84f0db45e427e",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-27fcddf3886d49bf",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-bbdfa60852e44a14",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-a461fad6683447e6",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-daddd22636d24f2d",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-4a9e96c0f6154a03",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ddcb2767b26d4411",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-0fef2f4f5cd34b22",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-58554e11ef794e3e",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-f6bc28e905414a9e",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-e49e51d38f344bc3",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-d8cfc7668beb4847",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-7893388077014590",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-02fd5d42dae74971",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-572206b851484f90",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-71a383bb869b4f65",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-2d579d8b8d1f483a",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-e452796167df46de",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-84de09325d06461b",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-6e6ff99856614584",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-baf0309c84ee4794",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-0eaa7100cc1c4d3b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-48ac33dc91f740a7",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-7ef1038e6a974540",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-99f0956c58274066",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-11d06635fa164aaa",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-1e87ec8359404a7c",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-e4199efbe9c84131",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-cd3be9e327784c53",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-6386b343e96d4bb7",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-0c62c7a416b8412f",
+            "fromNode": "topic-ea1f69c1087948bc",
+            "fromSide": "left",
+            "toNode": "q-bdefde7f46594527",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-7386910b41ae4b68",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "left",
+            "toNode": "topic-664f9edcd76442f6",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-1175ddfb3d204518",
+            "fromNode": "topic-664f9edcd76442f6",
+            "fromSide": "left",
+            "toNode": "q-53a111368a0f4eda",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-fe160748e9e64529",
+            "fromNode": "topic-664f9edcd76442f6",
+            "fromSide": "left",
+            "toNode": "q-39f3a7d60917414b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-168e4f1da3cb40e1",
+            "fromNode": "topic-664f9edcd76442f6",
+            "fromSide": "left",
+            "toNode": "q-1cc87d0ab16f4fc0",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-d042e2e287af48f3",
+            "fromNode": "topic-664f9edcd76442f6",
+            "fromSide": "left",
+            "toNode": "q-21614b79e82f4dab",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-12d3d1506ed74ba3",
+            "fromNode": "topic-664f9edcd76442f6",
+            "fromSide": "left",
+            "toNode": "q-a3a9b7bd5074407c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-c49d526719d24dee",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "left",
+            "toNode": "topic-aa10acf7687949cb",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-5aaadf00e3754b08",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-5b9faa1150e24510",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-386b6406469f49d1",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-26d55baedc3b4b45",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-7ee86b01122545cd",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-500c5ff070254677",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-943b6ea17e9545ec",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-8c6c37b4a6ec4cff",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-b34aec1187eb4b54",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-42785a61448d4af3",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-3faa4aeae68643ec",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-d28fd7fd9a8141b5",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-0d77e3daae194b15",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-612ec8f279434971",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-060a8998d81a4d09",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-93aa565610f446ef",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ef795cb13c5d403f",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-726d0161b987463f",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-c00998e7c9614503",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-6aa4583929e7490f",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-fbdc81b754c54207",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-42a6f7a242994b45",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-903eff3c722e47fa",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-09a2b5cea5b4403b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-7c1c1a88f8594dea",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-a87c4460d45d4c0c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-26ec035449a74316",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-4ddaf44d07154572",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-2529faf8cbea4a16",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-4de3d12a2cc64df7",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-79ecf686e8a84298",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-07bb34e9b4fa498c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-1e06bd4537c941a6",
+            "fromNode": "topic-aa10acf7687949cb",
+            "fromSide": "left",
+            "toNode": "q-2ef11ab802db460c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-1174c46fd6a842eb",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "left",
+            "toNode": "topic-ecbfd2c8c2c440fd",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-8f31cae9db3d40c3",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-92c998b9be4f49c3",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-d50cc8a12cec44e8",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-c88e68561eab43e5",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-910bbb956e944c00",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-b7fec6116efb4972",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-3e31cf9aac204aac",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-ad31471b5278444c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-762f5b35dc5a49e1",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-58401e7337874b26",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-49b8c8c007b9443b",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-ede02300388b4041",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-c2e27c69c6c0459e",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-bfa128117b674565",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ed34813a9ce44756",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-e0ad8be7959b4b4d",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-9d72c1aecbf54e4f",
+            "fromNode": "topic-ecbfd2c8c2c440fd",
+            "fromSide": "left",
+            "toNode": "q-027852eb66ed4edf",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-6df853b913b04ceb",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "top",
+            "toNode": "topic-438db494bcf841b6",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-14fba580a0df43a0",
+            "fromNode": "topic-438db494bcf841b6",
+            "fromSide": "top",
+            "toNode": "q-4aa54a382cca4c83",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-e93e68e9811c4a64",
+            "fromNode": "topic-438db494bcf841b6",
+            "fromSide": "top",
+            "toNode": "q-159e34cef9c5423d",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-36e4fdf9361e45da",
+            "fromNode": "topic-438db494bcf841b6",
+            "fromSide": "top",
+            "toNode": "q-23a0c8b9ad6e4c96",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-878a0f6a937b40cd",
+            "fromNode": "topic-438db494bcf841b6",
+            "fromSide": "top",
+            "toNode": "q-4a0da9d3e7f54acd",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-7414c2d594f54133",
+            "fromNode": "topic-438db494bcf841b6",
+            "fromSide": "top",
+            "toNode": "q-6274fc61265346b0",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-614f38d5eac54208",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "top",
+            "toNode": "topic-9dd074181fe94e78",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f250b79360e74fc3",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-79c4302536a74e09",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-facffba4b1bb44ea",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-e8612bd373414d4c",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f4c8c2ef69294146",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-9059633dee704f17",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-34b1f416fced4bb9",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-eb2884e5c55e4ad8",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-170796af25e34d90",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-a2283653bb8c477f",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f8e646f6b0464767",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-1b2aacc464654dc1",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-81570d7e9d5840b7",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-557e07598d9c4743",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-8afe158ae3794677",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-cc592fdda4dd47eb",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-2e4494dee2f54078",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-ddc7befdf6824d84",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-0ce2bb288d3e4381",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-0db4002c98a74671",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-89439482be594386",
+            "fromNode": "topic-9dd074181fe94e78",
+            "fromSide": "top",
+            "toNode": "q-8be062f2083243a4",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-061988c9e257423b",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "top",
+            "toNode": "topic-b91e39c041954ea3",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-36dca18d14934e90",
+            "fromNode": "topic-b91e39c041954ea3",
+            "fromSide": "top",
+            "toNode": "q-389a7e7cb4794643",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-d695c171292c441d",
+            "fromNode": "topic-b91e39c041954ea3",
+            "fromSide": "top",
+            "toNode": "q-c9de0b9b238c4bb6",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-cfd34719b01b4fd5",
+            "fromNode": "topic-b91e39c041954ea3",
+            "fromSide": "top",
+            "toNode": "q-8b0faeb50b174fc4",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-cf9bd2ee340941f9",
+            "fromNode": "topic-b91e39c041954ea3",
+            "fromSide": "top",
+            "toNode": "q-ff6687cd85f84931",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-978d706bf37047de",
+            "fromNode": "topic-b91e39c041954ea3",
+            "fromSide": "top",
+            "toNode": "q-28c6cb3794ea4539",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-523cf5b87d054335",
+            "fromNode": "topic-b91e39c041954ea3",
+            "fromSide": "top",
+            "toNode": "q-1c5c23311ce74a60",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-e962ce16aaa24379",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "top",
+            "toNode": "topic-935f8ec28a9344cf",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-0fb58e19088f4c79",
+            "fromNode": "topic-935f8ec28a9344cf",
+            "fromSide": "top",
+            "toNode": "q-3bb3e2cf46be49f0",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-5f3d3c17a39b4a17",
+            "fromNode": "topic-935f8ec28a9344cf",
+            "fromSide": "top",
+            "toNode": "q-0c3b4baa31924ed8",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-74a50849eb74469a",
+            "fromNode": "topic-935f8ec28a9344cf",
+            "fromSide": "top",
+            "toNode": "q-f74d4806507c44bf",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-b346967ffa2e45db",
+            "fromNode": "topic-935f8ec28a9344cf",
+            "fromSide": "top",
+            "toNode": "q-ed0aa71d2e5d410c",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f80cfcaca5a94f74",
+            "fromNode": "topic-935f8ec28a9344cf",
+            "fromSide": "top",
+            "toNode": "q-1c8509e8ec6a4292",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-951c368f792e4221",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "top",
+            "toNode": "topic-69d330211bb24b02",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-0e235a169cb14a73",
+            "fromNode": "topic-69d330211bb24b02",
+            "fromSide": "top",
+            "toNode": "q-79e650fb36a94be0",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-5f2d19412b7a4a9c",
+            "fromNode": "topic-69d330211bb24b02",
+            "fromSide": "top",
+            "toNode": "q-81782444903c4e17",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-7ed3962321784b09",
+            "fromNode": "topic-69d330211bb24b02",
+            "fromSide": "top",
+            "toNode": "q-85361532745b4c7b",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-16b3d36f814c4e37",
+            "fromNode": "topic-69d330211bb24b02",
+            "fromSide": "top",
+            "toNode": "q-69d3e6f350c649e3",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-7789e2072bc644af",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "right",
+            "toNode": "topic-f5daffde61af456f",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-3a4be2f9cd144f13",
+            "fromNode": "topic-f5daffde61af456f",
+            "fromSide": "right",
+            "toNode": "q-644ceeea4f7046aa",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-cc7f3e4ee1c84525",
+            "fromNode": "topic-f5daffde61af456f",
+            "fromSide": "right",
+            "toNode": "q-4a86ef3918a048fe",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0fd822ac1adf434b",
+            "fromNode": "topic-f5daffde61af456f",
+            "fromSide": "right",
+            "toNode": "q-c0750fc61543402b",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-dfb08c7d7f6b47ae",
+            "fromNode": "topic-f5daffde61af456f",
+            "fromSide": "right",
+            "toNode": "q-69e716126b7a45e5",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-714f68b12ccf4550",
+            "fromNode": "topic-f5daffde61af456f",
+            "fromSide": "right",
+            "toNode": "q-2626b846afa8456e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-c9a7e8fb6de449d7",
+            "fromNode": "topic-f5daffde61af456f",
+            "fromSide": "right",
+            "toNode": "q-f0c6b701ecb84915",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d923cb2ef9e947a9",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "right",
+            "toNode": "topic-08f2f8dcf38d4168",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-cdf73d1116bc4dc6",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-8431fd9d232e41ea",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-2234ddd2d3d34736",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-71f8d7a056104fb9",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-31b6905e41104b49",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-3852154e54684376",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-fe8a0307c5064a44",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-706b5cd9316c4dfa",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-c179b370cb504a3d",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-a555ba7c763840c7",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-4e2843fb51f5462d",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-9ebcc9451d29485a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-2fa6f9d213dc4208",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-e7cfb65fe95d4f8b",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-48fa4c11654847a9",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-c7988a0d665143f4",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-ca7ff587979643c0",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-305a599a0e8246ff",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-5e31f38503cd46c3",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-7d884f9692c04492",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-f62b511a9d134df5",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-dfab0c7b39c34fcf",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-6365326bbb7f4274",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-a11fb7c4d4a34711",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8b694f45d929490a",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-c4e8da5652ef4b79",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-4a43a03f9f3f4288",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-f7f16d66985b4cd0",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-cb518136aaad418e",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-a89b1d1dc5d9472e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-19003e5320aa4a93",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-b58e3ae97e31467c",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-550a3bcdd4584a70",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-a9d68a13c00d456a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-9ec3a3288a984624",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-37ca029ccf1b45ca",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-4aeb1109d7ba4e03",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-68685368dea245c9",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-3454eb845b154204",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-81ce8258860a4e2f",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-1b32fb51df5145d5",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-970a565b265341e8",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-bf0386cd33e541f4",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-1d731ffe626c4c92",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-a9e845d2ce664acd",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-e5d2fedf38334fda",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-74cea3e0be7c4c89",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-f22432a5ae4b4865",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-1f9424ab65cc42b5",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-979121a984564433",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0689f2f450f74499",
+            "fromNode": "topic-08f2f8dcf38d4168",
+            "fromSide": "right",
+            "toNode": "q-dc44da9cd74344bd",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-88aa43b258b4428a",
+            "fromNode": "subject-2bf12a8ff8744fee",
+            "fromSide": "right",
+            "toNode": "topic-2f02a73091cd4036",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-a0fbececa9614bdf",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-b712ef3af696486e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-9fe66343027644a5",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-bd349ab4dbb5429a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-b9b2245cfff14139",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-ac7d108d3e4a4204",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d7076fb2c2374d1d",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-6011cda2c3004279",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-3c4852443b074f16",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-229d9a9a651948ac",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0e3d71ef91ef4c3b",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-dbdd55d10ade42f5",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-45c21b2b83484e7c",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-7d9c4822b06f49f6",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-dec5bb02d006403b",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-1885b47709b94ed3",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8ec39983161045fc",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-828ba5d5a46044e1",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8a5aadb758e24449",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-b1880ec102674f8a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-31655032d4ee48b0",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-80b7a28b8ca34a07",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-48cadc013cad4d08",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-79e595d468a74742",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8810d49d9b804d58",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-db1dcb01647e4a52",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-ffdfffa849be4e53",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-6d1df37fdb874626",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-653964871b474959",
+            "fromNode": "topic-2f02a73091cd4036",
+            "fromSide": "right",
+            "toNode": "q-72c0d230fdec42c1",
+            "toSide": "left"
+        }
+    ]
+}
