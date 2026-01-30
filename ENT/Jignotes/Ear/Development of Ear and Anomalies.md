@@ -34,8 +34,8 @@ The ear has a complex embryological origin. The sound-conducting apparatus (exte
     *   **Timeline:** Fully formed by the **28th week**.
 *   **At Birth:** Only the cartilaginous part is fully developed. The bony part is incomplete, and the tympanic membrane is more horizontally placed.
 
->[!warning] Diagram Alert
-> schematic showing the 6 Hillocks of His around the 1st Branchial Cleft
+> [!warning] Diagram Alert
+> schematic showing the 6 Hillocks of His around the **1st Branchial Cleft**
 
 ---
 
