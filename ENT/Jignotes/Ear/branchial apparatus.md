@@ -1,5 +1,5 @@
 ---
-status: pending
+status: Done
 tags: []
 subject:
 topic:
@@ -64,7 +64,7 @@ The pouches develop on the inside of the pharynx.
     *   Develops into the [[External Auditory Canal]] (EAC).
     *   The closing plate between the 1st cleft and 1st pouch forms the **Tympanic Membrane** (comprising all three germ layers: ectoderm, mesoderm, endoderm).
 *   **2nd, 3rd, and 4th Clefts:**
-    *   Typically fused to form a temporary cavity called the **Cervical Sinus** (Sinus of His), which usually obliterates.
+    *   Typically fused to form a temporary cavity called the **Cervical Sinus** (==Sinus of His==), which usually obliterates.
     *   Persistence leads to branchial cysts or fistulas.
 
 ---
