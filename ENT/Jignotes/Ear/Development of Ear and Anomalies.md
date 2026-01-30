@@ -1,6 +1,15 @@
 ---
-status: pending
-tags: [Embryology, Ear_Anomalies, Branchial_Arches, Inner_Ear_Dysplasia, Microtia, Otic_Placode, Mondini_Dysplasia, Scheibe_Aplasia, Michel_Aplasia]
+status: Done
+tags:
+  - Embryology
+  - Ear_Anomalies
+  - Branchial_Arches
+  - Inner_Ear_Dysplasia
+  - Microtia
+  - Otic_Placode
+  - Mondini_Dysplasia
+  - Scheibe_Aplasia
+  - Michel_Aplasia
 subject: ENT
 topic: Ear
 up: 1
