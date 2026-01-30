@@ -66,7 +66,7 @@ Crucial for describing [[Neck Dissection]] and tumor metastasis.
 *   **Level VI:** Anterior Compartment (Pretracheal, Paratracheal, Prelaryngeal/Delphian).
 *   **Level VII:** Superior Mediastinal nodes.
 
-**Ho's Triangle:** Supraclavicular fossa (part of Level V); nodes here are often N3 in nasopharyngeal carcinoma staging.
+**Ho's Triangle(supraclavicular triangle):** Supraclavicular fossa (part of Level V); nodes here are often N3 in nasopharyngeal carcinoma staging.
 
 ---
 
