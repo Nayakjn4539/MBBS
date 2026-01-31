@@ -1,6 +1,6 @@
 ```dataview 
 TABLE WITHOUT ID
-  file.folder as "ENT",
+  file.folder as "Location/Subject",
   file.link as "File",
   status as "Status",
   choice(
@@ -9,6 +9,6 @@ TABLE WITHOUT ID
     "✅ " + dateformat(file.mtime, "yyyy-MM-dd"), 
     "⏳ Pending"
   ) as "Completion Date"
-FROM [[BACK LINK WORD]]
+FROM [[Ear]]
 SORT file.name ASC
 ```
