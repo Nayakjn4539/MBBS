@@ -18,7 +18,7 @@ up: 2
 *   **Timeline:** Adult shape by 20th week. Initially low set, ascends to eye level.
 
 **2. External Auditory Canal (EAC)**
-*   **Origin:** Develops from the dorsal part of the **[[First Branchial Cleft]]**.
+*   **Origin:** Develops from the dorsal part of the **[[#Pharyngeal Clefts (Ectodermal derivatives)|First Branchial Cleft]]**.
 *   **Process:** An ectodermal plug forms and recanalizes. Recanalization moves from medial (near TM) to lateral.
 *   **Clinical Implication:** Failure of recanalization leads to **[[Congenital Atresia]]**.
 
