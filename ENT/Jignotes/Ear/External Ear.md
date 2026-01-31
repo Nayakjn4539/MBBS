@@ -46,6 +46,7 @@ up: 2
 *   **Length:** Approximately **24 mm**.
 *   **Shape:** S-shaped (Outer part directed Up, Back, Medial; Inner part directed Down, Forward, Medial).
 *   **Divisions:**
+    
     | Feature | Cartilaginous Part (Outer 1/3) | Bony Part (Inner 2/3) |
     | :--- | :--- | :--- |
     | **Length** | ~8 mm | ~16 mm |
