@@ -1,0 +1,8 @@
+# Ignore the entire plugins folder
+#Do not ignore .obsidian/plugins/
+
+# Ignore workspace cache (stops constant "workspace.json" updates)
+.obsidian/workspace.json
+
+# Ignore mobile specific cache
+.obsidian/workspace-mobile.json

@@ -1,0 +1,3637 @@
+{
+    "nodes": [
+        {
+            "id": "subject-8a9ce294012c4231",
+            "x": 0,
+            "y": 0,
+            "width": 600,
+            "height": 200,
+            "color": "3",
+            "text": "# Community medicine - kpark",
+            "type": "text"
+        },
+        {
+            "id": "topic-58b8386d0b1e4bfc",
+            "x": 3000,
+            "y": 0,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Man And Medicine: Towards Health For All",
+            "type": "text"
+        },
+        {
+            "id": "q-2d8b9f9e34d4489c",
+            "x": 3600,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Man And Medicine Towards Health For All/Concept of Health for All and Primary Health Care.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4e23e7699e34476a",
+            "x": 4150,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Man And Medicine Towards Health For All/Millennium Development Goals.md",
+            "type": "file"
+        },
+        {
+            "id": "q-cf9fc091c5ce4fd9",
+            "x": 4700,
+            "y": 0,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Man And Medicine Towards Health For All/Sustainable Development Goals.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-3100425b94b8420c",
+            "x": 2905,
+            "y": 746,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Concept Of Health And Disease",
+            "type": "text"
+        },
+        {
+            "id": "q-563ebf490baa4a84",
+            "x": 3486,
+            "y": 895,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Definition and Dimensions of Health.md",
+            "type": "file"
+        },
+        {
+            "id": "q-33f4a70f022a42c2",
+            "x": 4019,
+            "y": 1032,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Positive Health and Spectrum of Health.md",
+            "type": "file"
+        },
+        {
+            "id": "q-de86f803dcfa4552",
+            "x": 4552,
+            "y": 1168,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Determinants of Health.md",
+            "type": "file"
+        },
+        {
+            "id": "q-799ed73558f04484",
+            "x": 5085,
+            "y": 1305,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Indicators of Health.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e6cb33febe09435d",
+            "x": 5617,
+            "y": 1442,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Human Development Index and PQLI.md",
+            "type": "file"
+        },
+        {
+            "id": "q-199629286b9e434e",
+            "x": 6150,
+            "y": 1579,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Concept of Disease and Causation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-88e1c8b1571f4f2b",
+            "x": 6683,
+            "y": 1715,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Natural History of Disease.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0d0994c800bb4ca5",
+            "x": 7215,
+            "y": 1852,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Epidemiological Triad.md",
+            "type": "file"
+        },
+        {
+            "id": "q-235543d2c21a47a1",
+            "x": 7748,
+            "y": 1989,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Iceberg Concept of Disease.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7b449ab6344b47e3",
+            "x": 8281,
+            "y": 2126,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Concept of Control, Elimination and Eradication.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ac5bfdf03cc84ce4",
+            "x": 8814,
+            "y": 2263,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Levels of Prevention.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ee5ce62a679d4e5f",
+            "x": 9346,
+            "y": 2399,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Concept Of Health And Disease/Modes of Intervention.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-945404c00ad54712",
+            "x": 2628,
+            "y": 1445,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Principles Of Epidemiology And Epidemiologic Methods",
+            "type": "text"
+        },
+        {
+            "id": "q-c3346d9f86334da1",
+            "x": 3154,
+            "y": 1734,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Definition and Aims of Epidemiology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f5759940045d41a9",
+            "x": 3636,
+            "y": 1999,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Tools of Measurement.md",
+            "type": "file"
+        },
+        {
+            "id": "q-78dbe3cc5bbb4f1a",
+            "x": 4118,
+            "y": 2264,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Measurement of Mortality.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5823c031ddea4ce7",
+            "x": 4600,
+            "y": 2529,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Standardization of Rates.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e14b6aeadc9545fb",
+            "x": 5082,
+            "y": 2794,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Measurement of Morbidity.md",
+            "type": "file"
+        },
+        {
+            "id": "q-577cb921147047ff",
+            "x": 5564,
+            "y": 3059,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Descriptive Epidemiology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3734f78e2fe64a04",
+            "x": 6046,
+            "y": 3324,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Epidemic Curves.md",
+            "type": "file"
+        },
+        {
+            "id": "q-fa2e83c36bc44a25",
+            "x": 6528,
+            "y": 3589,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Cross-sectional Studies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1cb54ba7ac0e4627",
+            "x": 7010,
+            "y": 3854,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Case-Control Study.md",
+            "type": "file"
+        },
+        {
+            "id": "q-82896da2a7c24d20",
+            "x": 7492,
+            "y": 4118,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Cohort Study.md",
+            "type": "file"
+        },
+        {
+            "id": "q-411872ffaded4fb2",
+            "x": 7974,
+            "y": 4383,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Randomized Controlled Trials.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f93cbae32ace4a5f",
+            "x": 8456,
+            "y": 4648,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Analytical Epidemiology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-497200ae121e40ae",
+            "x": 8938,
+            "y": 4913,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Experimental Epidemiology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bd6b52b579e948e2",
+            "x": 9420,
+            "y": 5178,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Bias in epidemiologic Studies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6705a3983951437e",
+            "x": 9902,
+            "y": 5443,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Association and Causation.md",
+            "type": "file"
+        },
+        {
+            "id": "q-71f0bb071c2642fd",
+            "x": 10384,
+            "y": 5708,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Principles Of Epidemiology And Epidemiologic Methods/Investigation of an Epidemic.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-500cd1b4df4b400f",
+            "x": 2186,
+            "y": 2053,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Screening For Disease",
+            "type": "text"
+        },
+        {
+            "id": "q-f294e75b238846b0",
+            "x": 2624,
+            "y": 2464,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Screening For Disease/Iceberg Phenomenon.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0c51854e1964484b",
+            "x": 3025,
+            "y": 2840,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Screening For Disease/Concept and Criteria for Screening.md",
+            "type": "file"
+        },
+        {
+            "id": "q-eeb9e3c75486456a",
+            "x": 3426,
+            "y": 3217,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Screening For Disease/Sensitivity and Specificity.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1fc18a9f9be246e6",
+            "x": 3827,
+            "y": 3593,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Screening For Disease/Predictive Values.md",
+            "type": "file"
+        },
+        {
+            "id": "q-901f1614c4bb4445",
+            "x": 4228,
+            "y": 3970,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Screening For Disease/Validity vs Reliability.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1777135c05844bf6",
+            "x": 4628,
+            "y": 4346,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Screening For Disease/Yield of a Screening Test.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-fb65e5b5a20b4317",
+            "x": 1607,
+            "y": 2532,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Communicable Diseases - Respiratory Infections",
+            "type": "text"
+        },
+        {
+            "id": "q-509329b692c14c76",
+            "x": 1928,
+            "y": 3039,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Smallpox.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4bfd5f3d985d492f",
+            "x": 2223,
+            "y": 3503,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Chickenpox.md",
+            "type": "file"
+        },
+        {
+            "id": "q-89378099074d4c5d",
+            "x": 2518,
+            "y": 3968,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Measles.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c4f502b9f2944eef",
+            "x": 2813,
+            "y": 4432,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Rubella and CRS.md",
+            "type": "file"
+        },
+        {
+            "id": "q-40bf068788e64984",
+            "x": 3107,
+            "y": 4897,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Mumps.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a583f225b38f4820",
+            "x": 3402,
+            "y": 5361,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Influenza.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8f0b2dc742884d0a",
+            "x": 3697,
+            "y": 5825,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Diphtheria.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3f4c91d48132469f",
+            "x": 3991,
+            "y": 6290,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Pertussis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a354d3668c204385",
+            "x": 4286,
+            "y": 6754,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Tetanus (General and Neonatal).md",
+            "type": "file"
+        },
+        {
+            "id": "q-9abeebe6c31d470f",
+            "x": 4581,
+            "y": 7219,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Meningococcal Meningitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-da7cfa185bcb40c6",
+            "x": 4876,
+            "y": 7683,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Acute Respiratory Infections Control Program.md",
+            "type": "file"
+        },
+        {
+            "id": "q-feb53523503e4970",
+            "x": 5170,
+            "y": 8147,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/Tuberculosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-31686ec51b804fc6",
+            "x": 5465,
+            "y": 8612,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/National Tuberculosis Elimination Program - Structure and Guidelines.md",
+            "type": "file"
+        },
+        {
+            "id": "q-83a7b8f6e8de40c7",
+            "x": 5760,
+            "y": 9076,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/SARS and MERS.md",
+            "type": "file"
+        },
+        {
+            "id": "q-03916f886fdd4e7d",
+            "x": 6054,
+            "y": 9540,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Respiratory Infections/COVID-19.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-1452c1c211d14871",
+            "x": 927,
+            "y": 2853,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Communicable Diseases - Intestinal Infections",
+            "type": "text"
+        },
+        {
+            "id": "q-9bf4a2b95d3147c4",
+            "x": 1112,
+            "y": 3423,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Poliomyelitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2a9de266297e4acc",
+            "x": 1282,
+            "y": 3946,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Viral Hepatitis A and E.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7fb3bd60f5df4992",
+            "x": 1452,
+            "y": 4469,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Viral Hepatitis B and C.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c424fffbf8bd4b72",
+            "x": 1622,
+            "y": 4993,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Acute Diarrhoeal Diseases.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a10a7754284c49b1",
+            "x": 1792,
+            "y": 5516,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Cholera.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3df5d33c5e244220",
+            "x": 1962,
+            "y": 6039,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Typhoid and Paratyphoid Fever.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bb7acb7dd15b4af4",
+            "x": 2132,
+            "y": 6562,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Food Poisoning.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6be62e75097b4182",
+            "x": 2302,
+            "y": 7085,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Amoebiasis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-35f0647c799d4ade",
+            "x": 2472,
+            "y": 7608,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Ascariasis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-90d9cf9452d04fb6",
+            "x": 2642,
+            "y": 8131,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Hookworm Infection.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2084095318244c9c",
+            "x": 2812,
+            "y": 8654,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Intestinal Infections/Dracunculiasis.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-ae74e612211a42ce",
+            "x": 188,
+            "y": 2994,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Communicable Diseases - Arthropod-Borne Infections",
+            "type": "text"
+        },
+        {
+            "id": "q-ec4f6c5f3ab64a9b",
+            "x": 226,
+            "y": 3592,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/Dengue Syndrome.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3154cda024b34df4",
+            "x": 260,
+            "y": 4141,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/Malaria.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1b993be7719b404d",
+            "x": 295,
+            "y": 4690,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/National Vector Borne Disease Control Program - Malaria.md",
+            "type": "file"
+        },
+        {
+            "id": "q-9ef969dc08cb4a05",
+            "x": 329,
+            "y": 5239,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/Lymphatic Filariasis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a38e67d9802a4b23",
+            "x": 364,
+            "y": 5788,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/Chikungunya Fever.md",
+            "type": "file"
+        },
+        {
+            "id": "q-73567822257c4043",
+            "x": 398,
+            "y": 6337,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/Japanese Encephalitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-76ace51c2a884ec3",
+            "x": 433,
+            "y": 6886,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/Kyasanur Forest Disease.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c6452250f6074443",
+            "x": 467,
+            "y": 7435,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Arthropod-Borne Infections/Leishmaniasis.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-e90cbfb43ebf4df1",
+            "x": -562,
+            "y": 2946,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Communicable Diseases - Zoonoses",
+            "type": "text"
+        },
+        {
+            "id": "q-a1d1a06e35684dac",
+            "x": -674,
+            "y": 3536,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Rabies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5604d89410a74ba3",
+            "x": -777,
+            "y": 4076,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Yellow Fever.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1cbacc8c11524c27",
+            "x": -880,
+            "y": 4616,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Japanese Encephalitis (Zoonotic aspect).md",
+            "type": "file"
+        },
+        {
+            "id": "q-ce51500b55294f58",
+            "x": -983,
+            "y": 5157,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Plague.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e58e938a98714f2a",
+            "x": -1086,
+            "y": 5697,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Salmonellosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e4af3afaec394f47",
+            "x": -1189,
+            "y": 6237,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Leptospirosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5a651ffede754fd4",
+            "x": -1292,
+            "y": 6777,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Brucellosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3deb0c3607734877",
+            "x": -1395,
+            "y": 7318,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Human Monkeypox.md",
+            "type": "file"
+        },
+        {
+            "id": "q-31a9f48e5e674be0",
+            "x": -1499,
+            "y": 7858,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Zoonoses/Nipah Virus.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-41b7cdebc9e342c8",
+            "x": -1277,
+            "y": 2714,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Communicable Diseases - Surface Infections",
+            "type": "text"
+        },
+        {
+            "id": "q-0fad5c6c7228478d",
+            "x": -1532,
+            "y": 3257,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/Trachoma.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e71ecd5c52a8482a",
+            "x": -1766,
+            "y": 3755,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/Tetanus (Role of Soil).md",
+            "type": "file"
+        },
+        {
+            "id": "q-a8932361e6024410",
+            "x": -2001,
+            "y": 4252,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/Leprosy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d38ad7e32e99465a",
+            "x": -2235,
+            "y": 4750,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/National Leprosy Eradication Program.md",
+            "type": "file"
+        },
+        {
+            "id": "q-cfb4404b62e149d5",
+            "x": -2469,
+            "y": 5247,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/Sexually Transmitted Diseases.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b98ac2c47fb647dd",
+            "x": -2703,
+            "y": 5745,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/Syndromic Management of STDs.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8a4d3f2e7b704f9f",
+            "x": -2937,
+            "y": 6243,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/HIV  AIDS.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ce4dc198a3ae4ac7",
+            "x": -3172,
+            "y": 6740,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/National AIDS Control Program.md",
+            "type": "file"
+        },
+        {
+            "id": "q-928766c9aea843f9",
+            "x": -3406,
+            "y": 7238,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communicable Diseases - Surface Infections/Yaws.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-f711754fa7134d38",
+            "x": -1912,
+            "y": 2311,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Chronic Non-Communicable Diseases",
+            "type": "text"
+        },
+        {
+            "id": "q-0392d82da42b4b26",
+            "x": -2294,
+            "y": 2773,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/Cardiovascular Diseases.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ecb36d3c564e48ea",
+            "x": -2645,
+            "y": 3197,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/Stroke and Rheumatic Heart Disease.md",
+            "type": "file"
+        },
+        {
+            "id": "q-52f1a6ece5e94848",
+            "x": -2995,
+            "y": 3621,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/Cancer Epidemiology.md",
+            "type": "file"
+        },
+        {
+            "id": "q-8052aa92742d46a4",
+            "x": -3346,
+            "y": 4045,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/National Program for Prevention and Control of Cancer, Diabetes, CVD and Stroke.md",
+            "type": "file"
+        },
+        {
+            "id": "q-883a9fa5c0224101",
+            "x": -3697,
+            "y": 4468,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/Diabetes Mellitus.md",
+            "type": "file"
+        },
+        {
+            "id": "q-faefd79dff3944b2",
+            "x": -4047,
+            "y": 4892,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/Obesity.md",
+            "type": "file"
+        },
+        {
+            "id": "q-395ff1381c3b43d1",
+            "x": -4398,
+            "y": 5316,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/Blindness.md",
+            "type": "file"
+        },
+        {
+            "id": "q-99de3af9ecda472d",
+            "x": -4748,
+            "y": 5740,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Chronic Non-Communicable Diseases/Accidents and Injuries.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-a35af9a8d85543d1",
+            "x": -2427,
+            "y": 1763,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## National Health Programmes",
+            "type": "text"
+        },
+        {
+            "id": "q-198f89b5c479498f",
+            "x": -2912,
+            "y": 2116,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/National Health Programmes/National Health Mission.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5735b83c0d634589",
+            "x": -3357,
+            "y": 2439,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/National Health Programmes/Ayushman Bharat.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5045739460ae42d6",
+            "x": -3802,
+            "y": 2762,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/National Health Programmes/ICDS Scheme.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-66bd3743d049403d",
+            "x": -2789,
+            "y": 1104,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Demography And Family Planning",
+            "type": "text"
+        },
+        {
+            "id": "q-dc0cdfa94db94fd7",
+            "x": -3347,
+            "y": 1325,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/Demographic Cycle and Trends in India.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4ec7f48fedbc4716",
+            "x": -3858,
+            "y": 1527,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/Fertility Indicators.md",
+            "type": "file"
+        },
+        {
+            "id": "q-03e855f20db645a1",
+            "x": -4369,
+            "y": 1730,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/Family Planning Methods.md",
+            "type": "file"
+        },
+        {
+            "id": "q-15a28d4820714d2e",
+            "x": -4881,
+            "y": 1932,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/Intrauterine Devices.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f3cb44e0b07a40a0",
+            "x": -5392,
+            "y": 2135,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/Oral Contraceptive Pills.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d03eb82296804713",
+            "x": -5904,
+            "y": 2337,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/Sterilization Techniques.md",
+            "type": "file"
+        },
+        {
+            "id": "q-dd8cb65514194b6b",
+            "x": -6415,
+            "y": 2540,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/Medical Termination of Pregnancy Act.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3562b22ba52f4fe2",
+            "x": -6926,
+            "y": 2742,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Demography And Family Planning/National Family Welfare Program.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-6a768b10ce5c40d3",
+            "x": -2976,
+            "y": 375,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Preventive Medicine In Obstetrics, Paediatrics And Geriatrics",
+            "type": "text"
+        },
+        {
+            "id": "q-469d9c99b8ef4598",
+            "x": -3571,
+            "y": 451,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Antenatal Care.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2eb099f7a9aa4e77",
+            "x": -4117,
+            "y": 520,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/High Risk Pregnancy.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6c67ec764fe54c8a",
+            "x": -4662,
+            "y": 589,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Intranatal and Postnatal Care.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6b5afc29e498487a",
+            "x": -5208,
+            "y": 657,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Low Birth Weight and Kangaroo Mother Care.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5e47f70642ba461a",
+            "x": -5754,
+            "y": 726,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Infant Feeding and Breastfeeding.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4eece124028c4300",
+            "x": -6299,
+            "y": 795,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Growth and Development.md",
+            "type": "file"
+        },
+        {
+            "id": "q-be8dc09f276d4568",
+            "x": -6845,
+            "y": 864,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Indicators of MCH.md",
+            "type": "file"
+        },
+        {
+            "id": "q-830dccc637274007",
+            "x": -7391,
+            "y": 933,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/School Health Services.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f7e41763b1424758",
+            "x": -7936,
+            "y": 1002,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Integrated Management of Neonatal and Childhood Illnesses.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f8ffd9ee5fa7490a",
+            "x": -8482,
+            "y": 1071,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Universal Immunization Program and NIS.md",
+            "type": "file"
+        },
+        {
+            "id": "q-e737fdbd8e344070",
+            "x": -9028,
+            "y": 1140,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Cold Chain Equipment and Maintenance.md",
+            "type": "file"
+        },
+        {
+            "id": "q-db8e2f4e0e614ea0",
+            "x": -9573,
+            "y": 1209,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Adverse Events Following Immunization.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0ad89e79fd794b67",
+            "x": -10119,
+            "y": 1278,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Preventive Medicine In Obstetrics, Paediatrics And Geriatrics/Geriatric Health Problems.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-3e550d6ec8f14e29",
+            "x": -2976,
+            "y": -375,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Nutrition And Health",
+            "type": "text"
+        },
+        {
+            "id": "q-54dbcadf9f35492c",
+            "x": -3571,
+            "y": -451,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Classification of Foods and Nutrients.md",
+            "type": "file"
+        },
+        {
+            "id": "q-937d396994e9461e",
+            "x": -4117,
+            "y": -520,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Proteins and Amino Acids.md",
+            "type": "file"
+        },
+        {
+            "id": "q-dc8a7b067d5e4413",
+            "x": -4662,
+            "y": -589,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Fats and Essential Fatty Acids.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ab5e1a405650474f",
+            "x": -5208,
+            "y": -657,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Carbohydrates and Dietary Fiber.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bdce1eea9fcd427d",
+            "x": -5754,
+            "y": -726,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Vitamins (Fat Soluble - A, D, E, K).md",
+            "type": "file"
+        },
+        {
+            "id": "q-29827015cfd14afb",
+            "x": -6299,
+            "y": -795,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Vitamins (Water Soluble - B Complex, C).md",
+            "type": "file"
+        },
+        {
+            "id": "q-c77d1c2f1e7243e6",
+            "x": -6845,
+            "y": -864,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Nutritional Anaemia.md",
+            "type": "file"
+        },
+        {
+            "id": "q-eb8f3328f8aa4002",
+            "x": -7391,
+            "y": -933,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Iodine Deficiency Disorders.md",
+            "type": "file"
+        },
+        {
+            "id": "q-66be29421545408c",
+            "x": -7936,
+            "y": -1002,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Fluorosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-425b270fb404454b",
+            "x": -8482,
+            "y": -1071,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Lathyrism.md",
+            "type": "file"
+        },
+        {
+            "id": "q-252f7a32ad1a4886",
+            "x": -9028,
+            "y": -1140,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Balanced Diet and RDA.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a53d0ce500584822",
+            "x": -9573,
+            "y": -1209,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Nutritional Assessment of Community.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6db53fc0c54b43af",
+            "x": -10119,
+            "y": -1278,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Food Hygiene and Milk Pasteurization.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c9770be4e3aa49c9",
+            "x": -10665,
+            "y": -1347,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Nutrition And Health/Food Adulteration and FSSAI.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-1017ddc729f54319",
+            "x": -2789,
+            "y": -1104,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Medicine And Social Sciences",
+            "type": "text"
+        },
+        {
+            "id": "q-901d613f76dc49f7",
+            "x": -3347,
+            "y": -1325,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Medicine And Social Sciences/Sociology and Health.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a5ee5e64c6db4094",
+            "x": -3858,
+            "y": -1527,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Medicine And Social Sciences/Family.md",
+            "type": "file"
+        },
+        {
+            "id": "q-c872162a2c4244b2",
+            "x": -4369,
+            "y": -1730,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Medicine And Social Sciences/Cultural Factors in Health and Disease.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d75b582f26744f27",
+            "x": -4881,
+            "y": -1932,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Medicine And Social Sciences/Social Psychology and Doctor-Patient Relationship.md",
+            "type": "file"
+        },
+        {
+            "id": "q-1e9abe1513804adb",
+            "x": -5392,
+            "y": -2135,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Medicine And Social Sciences/Economics and Health.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-315e063c06ea4b6a",
+            "x": -2427,
+            "y": -1763,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Environment And Health",
+            "type": "text"
+        },
+        {
+            "id": "q-10150b9bf4784882",
+            "x": -2912,
+            "y": -2116,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Water Safe Water definition and Requirements.md",
+            "type": "file"
+        },
+        {
+            "id": "q-73079fc111364d58",
+            "x": -3357,
+            "y": -2439,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Water Pollution and Water-borne Diseases.md",
+            "type": "file"
+        },
+        {
+            "id": "q-035152f4b25b4f86",
+            "x": -3802,
+            "y": -2762,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Water Purification on Small Scale.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2250bf6804bb424f",
+            "x": -4247,
+            "y": -3085,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Water Purification on Large Scale.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f4bb7255f4244e7c",
+            "x": -4692,
+            "y": -3409,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Water Water Quality Standards.md",
+            "type": "file"
+        },
+        {
+            "id": "q-cd46a6f4f4324db1",
+            "x": -5137,
+            "y": -3732,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Air Indices of Thermal Comfort.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5f509fa46e914bee",
+            "x": -5582,
+            "y": -4055,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Air Pollution and Prevention.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3b6c790f59a741d1",
+            "x": -6027,
+            "y": -4379,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Ventilation Standards.md",
+            "type": "file"
+        },
+        {
+            "id": "q-855f97d266bf408f",
+            "x": -6472,
+            "y": -4702,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Lighting and Noise Pollution.md",
+            "type": "file"
+        },
+        {
+            "id": "q-105f7c3ed37a42b4",
+            "x": -6917,
+            "y": -5025,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Radiation Hazards.md",
+            "type": "file"
+        },
+        {
+            "id": "q-d694d88dfc934dd5",
+            "x": -7362,
+            "y": -5348,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Disposal of Wastes Solid Waste Management.md",
+            "type": "file"
+        },
+        {
+            "id": "q-544680559ed24722",
+            "x": -7807,
+            "y": -5672,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Disposal of Wastes Excreta Disposal.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b00a20186fb74173",
+            "x": -8251,
+            "y": -5995,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Housing Standards.md",
+            "type": "file"
+        },
+        {
+            "id": "q-179e1a0525cd43dc",
+            "x": -8696,
+            "y": -6318,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Medical Entomology Mosquitoes.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4809d12854104c38",
+            "x": -9141,
+            "y": -6641,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Medical Entomology Flies.md",
+            "type": "file"
+        },
+        {
+            "id": "q-db0fac1fe59d49b0",
+            "x": -9586,
+            "y": -6965,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Medical Entomology Lice, Fleas and Ticks.md",
+            "type": "file"
+        },
+        {
+            "id": "q-3a5233f76bae4669",
+            "x": -10031,
+            "y": -7288,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Environment And Health/Medical Entomology Insecticides and Control Measures.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-cb0f786a735b4f25",
+            "x": -1912,
+            "y": -2311,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Hospital Waste Management",
+            "type": "text"
+        },
+        {
+            "id": "q-ae428fb2e48b4460",
+            "x": -2294,
+            "y": -2773,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Hospital Waste Management/Biomedical Waste Management Rules.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-089f7f0c4eb74b3f",
+            "x": -1277,
+            "y": -2714,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Occupational Health",
+            "type": "text"
+        },
+        {
+            "id": "q-deb6bb9b1e4d455b",
+            "x": -1532,
+            "y": -3257,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Occupational Health/Occupational Hazards.md",
+            "type": "file"
+        },
+        {
+            "id": "q-df488ed7cbc3436a",
+            "x": -1766,
+            "y": -3755,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Occupational Health/Pneumoconiosis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-b6938fafc0984f69",
+            "x": -2001,
+            "y": -4252,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Occupational Health/Lead Poisoning.md",
+            "type": "file"
+        },
+        {
+            "id": "q-a4d199ec87eb4103",
+            "x": -2235,
+            "y": -4750,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Occupational Health/Occupational Cancers and Dermatitis.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f96874b1caa1482e",
+            "x": -2469,
+            "y": -5247,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Occupational Health/ESI Act.md",
+            "type": "file"
+        },
+        {
+            "id": "q-046047cbc56f4272",
+            "x": -2703,
+            "y": -5745,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Occupational Health/Factories Act.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-6692beb92ace4cdf",
+            "x": -562,
+            "y": -2946,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Genetics And Health",
+            "type": "text"
+        },
+        {
+            "id": "q-45226a3829e94eb0",
+            "x": -674,
+            "y": -3536,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Genetics And Health/Chromosomal Abnormalities.md",
+            "type": "file"
+        },
+        {
+            "id": "q-889d5a2f7fa546c6",
+            "x": -777,
+            "y": -4076,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Genetics And Health/Genetic Counseling and Screening.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-61ddc285cb0f4ffb",
+            "x": 188,
+            "y": -2994,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Mental Health",
+            "type": "text"
+        },
+        {
+            "id": "q-d05b904d842343c8",
+            "x": 226,
+            "y": -3592,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Mental Health/Types of Mental Illness.md",
+            "type": "file"
+        },
+        {
+            "id": "q-0ab07af69e4c4697",
+            "x": 260,
+            "y": -4141,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Mental Health/Alcoholism and Drug Dependence.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ada9ba4058bd4532",
+            "x": 295,
+            "y": -4690,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Mental Health/National Mental Health Program.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-01ba3d99a22c4aa2",
+            "x": 927,
+            "y": -2853,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Health Information And Basic Medical Statistics",
+            "type": "text"
+        },
+        {
+            "id": "q-c127ae5af8e84dc8",
+            "x": 1112,
+            "y": -3423,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Information And Basic Medical Statistics/Sources of Health Information.md",
+            "type": "file"
+        },
+        {
+            "id": "q-2d69c76401544474",
+            "x": 1282,
+            "y": -3946,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Information And Basic Medical Statistics/Presentation of Data.md",
+            "type": "file"
+        },
+        {
+            "id": "q-01fc0232e6f24872",
+            "x": 1452,
+            "y": -4469,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Information And Basic Medical Statistics/Measures of Central Tendency.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5ada19dc075940a5",
+            "x": 1622,
+            "y": -4993,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Information And Basic Medical Statistics/Measures of Dispersion.md",
+            "type": "file"
+        },
+        {
+            "id": "q-42e875d0a7a4435b",
+            "x": 1792,
+            "y": -5516,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Information And Basic Medical Statistics/Sampling Techniques.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5c83b02e122c4121",
+            "x": 1962,
+            "y": -6039,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Information And Basic Medical Statistics/Tests of Significance.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-ca3784c9490744de",
+            "x": 1607,
+            "y": -2532,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Communication For Health Education",
+            "type": "text"
+        },
+        {
+            "id": "q-863ea608518f4005",
+            "x": 1928,
+            "y": -3039,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communication For Health Education/Approaches to Health Education.md",
+            "type": "file"
+        },
+        {
+            "id": "q-ceeb4edcfc9f4e3b",
+            "x": 2223,
+            "y": -3503,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communication For Health Education/Models of Health Education.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4702389163ce492f",
+            "x": 2518,
+            "y": -3968,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communication For Health Education/Methods of Communication.md",
+            "type": "file"
+        },
+        {
+            "id": "q-4564a1aa88f34c6c",
+            "x": 2813,
+            "y": -4432,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Communication For Health Education/Media in Health Education.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-036082832b054415",
+            "x": 2186,
+            "y": -2053,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Health Planning And Management",
+            "type": "text"
+        },
+        {
+            "id": "q-be976d6c9f7e4418",
+            "x": 2624,
+            "y": -2464,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Planning And Management/Planning Cycle.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f175b8c70e334104",
+            "x": 3025,
+            "y": -2840,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Planning And Management/Health Committees in India.md",
+            "type": "file"
+        },
+        {
+            "id": "q-5af8e85c4a714bbc",
+            "x": 3426,
+            "y": -3217,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Planning And Management/Management Techniques.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-1cb10ca88abe4a63",
+            "x": 2628,
+            "y": -1445,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## Health Care Of The Community",
+            "type": "text"
+        },
+        {
+            "id": "q-2e6b6953754e4e29",
+            "x": 3154,
+            "y": -1734,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Care Of The Community/Levels of Health Care.md",
+            "type": "file"
+        },
+        {
+            "id": "q-7c40aa6e23ea47a8",
+            "x": 3636,
+            "y": -1999,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Care Of The Community/Primary Health Care.md",
+            "type": "file"
+        },
+        {
+            "id": "q-f7562882b16a4e62",
+            "x": 4118,
+            "y": -2264,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Care Of The Community/Health Care Delivery System.md",
+            "type": "file"
+        },
+        {
+            "id": "q-bb3d9fc6a41942ed",
+            "x": 4600,
+            "y": -2529,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/Health Care Of The Community/Job Responsibilities of Health Workers.md",
+            "type": "file"
+        },
+        {
+            "id": "topic-98730d83f8664646",
+            "x": 2905,
+            "y": -746,
+            "width": 500,
+            "height": 100,
+            "color": "1",
+            "text": "## International Health",
+            "type": "text"
+        },
+        {
+            "id": "q-4491d5a3cdd74e48",
+            "x": 3486,
+            "y": -895,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/International Health/World Health Organization.md",
+            "type": "file"
+        },
+        {
+            "id": "q-6121caad033a49e1",
+            "x": 4019,
+            "y": -1032,
+            "width": 500,
+            "height": 150,
+            "color": "2",
+            "file": "Community medicine - kpark/Jignotes/International Health/UNICEF and Other Agencies.md",
+            "type": "file"
+        }
+    ],
+    "edges": [
+        {
+            "id": "edge-4a2b9bcffc424073",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "right",
+            "toNode": "topic-58b8386d0b1e4bfc",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-b89d4d58197b4580",
+            "fromNode": "topic-58b8386d0b1e4bfc",
+            "fromSide": "right",
+            "toNode": "q-2d8b9f9e34d4489c",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d4ec6a88d4fd465e",
+            "fromNode": "topic-58b8386d0b1e4bfc",
+            "fromSide": "right",
+            "toNode": "q-4e23e7699e34476a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-3a592e0587704898",
+            "fromNode": "topic-58b8386d0b1e4bfc",
+            "fromSide": "right",
+            "toNode": "q-cf9fc091c5ce4fd9",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-53c27ae277774d6a",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "right",
+            "toNode": "topic-3100425b94b8420c",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-1ed80e92be804138",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-563ebf490baa4a84",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-6748e873f5c647ec",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-33f4a70f022a42c2",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-21d9d97ea1fe427d",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-de86f803dcfa4552",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-1e04c10bd68c43e6",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-799ed73558f04484",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-29e7e40c9bcc46ef",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-e6cb33febe09435d",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-c89def142a9d41a4",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-199629286b9e434e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d5cb212f14d34ed3",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-88e1c8b1571f4f2b",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-879eb6cd0cf445f3",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-0d0994c800bb4ca5",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-ed40a8145b084107",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-235543d2c21a47a1",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-4994e99119fa4ee1",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-7b449ab6344b47e3",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-72097a75998c4d60",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-ac5bfdf03cc84ce4",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0183aa1e660a445d",
+            "fromNode": "topic-3100425b94b8420c",
+            "fromSide": "right",
+            "toNode": "q-ee5ce62a679d4e5f",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-30477905bc4e4683",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "right",
+            "toNode": "topic-945404c00ad54712",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-f8691ad6717842c5",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-c3346d9f86334da1",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8023f13aaed04a46",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-f5759940045d41a9",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-c6d0b1ce4f9043e0",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-78dbe3cc5bbb4f1a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-49e7b9f2b83e4550",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-5823c031ddea4ce7",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-cf869084a36b49fc",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-e14b6aeadc9545fb",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-ed67aeb167e34f4a",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-577cb921147047ff",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-159f63b50c5540ca",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-3734f78e2fe64a04",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-cb5cbf3233a84b74",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-fa2e83c36bc44a25",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0735c7b568744e0b",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-1cb54ba7ac0e4627",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-a97d59faf68242b9",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-82896da2a7c24d20",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d28491fd082a4c83",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-411872ffaded4fb2",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d2836141cace449a",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-f93cbae32ace4a5f",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-618550efbfc740c7",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-497200ae121e40ae",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-6f5a582d7d63434d",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-bd6b52b579e948e2",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-73f2129b52374619",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-6705a3983951437e",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-99312416d1cb4ccb",
+            "fromNode": "topic-945404c00ad54712",
+            "fromSide": "right",
+            "toNode": "q-71f0bb071c2642fd",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-757e45defc8745c8",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "right",
+            "toNode": "topic-500cd1b4df4b400f",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8af39c46b52f4753",
+            "fromNode": "topic-500cd1b4df4b400f",
+            "fromSide": "right",
+            "toNode": "q-f294e75b238846b0",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-3250d99d2a424546",
+            "fromNode": "topic-500cd1b4df4b400f",
+            "fromSide": "right",
+            "toNode": "q-0c51854e1964484b",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-b800d8354c1042e5",
+            "fromNode": "topic-500cd1b4df4b400f",
+            "fromSide": "right",
+            "toNode": "q-eeb9e3c75486456a",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-9e831ccd8a734da9",
+            "fromNode": "topic-500cd1b4df4b400f",
+            "fromSide": "right",
+            "toNode": "q-1fc18a9f9be246e6",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d4468a18e9514904",
+            "fromNode": "topic-500cd1b4df4b400f",
+            "fromSide": "right",
+            "toNode": "q-901f1614c4bb4445",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-d8192edd617944eb",
+            "fromNode": "topic-500cd1b4df4b400f",
+            "fromSide": "right",
+            "toNode": "q-1777135c05844bf6",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-cd1229a103b448ba",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "bottom",
+            "toNode": "topic-fb65e5b5a20b4317",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-9ad7b7c0f92f470e",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-509329b692c14c76",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-6cdbf6c39cf54d4a",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-4bfd5f3d985d492f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-9926ef81d4394922",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-89378099074d4c5d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-ff58672e2ecc4ca7",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-c4f502b9f2944eef",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-00c42f76865c4edf",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-40bf068788e64984",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-bc4565e2a3d74313",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-a583f225b38f4820",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-8ada6479b2bb45e4",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-8f0b2dc742884d0a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-05d71bba2d534e90",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-3f4c91d48132469f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5aeaf305be71416f",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-a354d3668c204385",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-c4a378552b2d43cb",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-9abeebe6c31d470f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5920f9c1d21c4f66",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-da7cfa185bcb40c6",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-66c7ba8541e64e80",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-feb53523503e4970",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-fb8b5b5de4284e4f",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-31686ec51b804fc6",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-8047fc33bc834958",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-83a7b8f6e8de40c7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-40ff206908474609",
+            "fromNode": "topic-fb65e5b5a20b4317",
+            "fromSide": "bottom",
+            "toNode": "q-03916f886fdd4e7d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-042d05f885454c9d",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "bottom",
+            "toNode": "topic-1452c1c211d14871",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-a2e0f814e0d847ca",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-9bf4a2b95d3147c4",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-f2398e27f054479b",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-2a9de266297e4acc",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-32360ed4177d4dab",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-7fb3bd60f5df4992",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4d398ac65a8c4fb1",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-c424fffbf8bd4b72",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3183d0fd3ffa4d85",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-a10a7754284c49b1",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-6d85a685cbee4d03",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-3df5d33c5e244220",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-444cfd85575c4800",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-bb7acb7dd15b4af4",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-2b5f3d3620814a45",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-6be62e75097b4182",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4cc9ab17d5cb4842",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-35f0647c799d4ade",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3027ae8be1a74c93",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-90d9cf9452d04fb6",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-54f437723a8d49ca",
+            "fromNode": "topic-1452c1c211d14871",
+            "fromSide": "bottom",
+            "toNode": "q-2084095318244c9c",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-5d6795fb1cdc4702",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "bottom",
+            "toNode": "topic-ae74e612211a42ce",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3f19f3296e354677",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-ec4f6c5f3ab64a9b",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3ca5a78809f0483e",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-3154cda024b34df4",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-64e8f4919a904804",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-1b993be7719b404d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b2dd5c4d1c5648c3",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-9ef969dc08cb4a05",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-f00d3a9768914275",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-a38e67d9802a4b23",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-0d395348dec945bf",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-73567822257c4043",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-6909609271874eb3",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-76ace51c2a884ec3",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-c2a598689ce04763",
+            "fromNode": "topic-ae74e612211a42ce",
+            "fromSide": "bottom",
+            "toNode": "q-c6452250f6074443",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-e9cb3ac3975f48c8",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "bottom",
+            "toNode": "topic-e90cbfb43ebf4df1",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-4b0999a891194bb9",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-a1d1a06e35684dac",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-bf716783e43b4f24",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-5604d89410a74ba3",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-0bdcb438e0084303",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-1cbacc8c11524c27",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-1fb9bfe9ef904c01",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-ce51500b55294f58",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-9bb046b14ac14710",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-e58e938a98714f2a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-929d8ba4e3b94d32",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-e4af3afaec394f47",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-bd772b300bf94291",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-5a651ffede754fd4",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-067b1c4eb1214aa3",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-3deb0c3607734877",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-e878167c6e2d431c",
+            "fromNode": "topic-e90cbfb43ebf4df1",
+            "fromSide": "bottom",
+            "toNode": "q-31a9f48e5e674be0",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-1a25b3d4c5a64f2e",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "bottom",
+            "toNode": "topic-41b7cdebc9e342c8",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3b7a5b081aa24773",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-0fad5c6c7228478d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3e0b14f66b974c40",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-e71ecd5c52a8482a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-a5ce350ca9af48d5",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-a8932361e6024410",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-b80e7db46a854013",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-d38ad7e32e99465a",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-a9cd46c6bb0f4213",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-cfb4404b62e149d5",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d6a9fbc059574eb1",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-b98ac2c47fb647dd",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-2319a40f970547f7",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-8a4d3f2e7b704f9f",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3dbcca85aebd4c28",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-ce4dc198a3ae4ac7",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-6104866852474a9c",
+            "fromNode": "topic-41b7cdebc9e342c8",
+            "fromSide": "bottom",
+            "toNode": "q-928766c9aea843f9",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-0ab5dad181ab4128",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "bottom",
+            "toNode": "topic-f711754fa7134d38",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-37680098a4a54411",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-0392d82da42b4b26",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-704a1b7442634dd9",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-ecb36d3c564e48ea",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-d841b4c4cb35462b",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-52f1a6ece5e94848",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-2a243ce5f09f4be8",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-8052aa92742d46a4",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-ee63df9e4e66416e",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-883a9fa5c0224101",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-15fb8a93645e45a9",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-faefd79dff3944b2",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-e5602d49db3b46c8",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-395ff1381c3b43d1",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-3fd3c380b90e4764",
+            "fromNode": "topic-f711754fa7134d38",
+            "fromSide": "bottom",
+            "toNode": "q-99de3af9ecda472d",
+            "toSide": "top"
+        },
+        {
+            "id": "edge-095562808aec453d",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "left",
+            "toNode": "topic-a35af9a8d85543d1",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-1ec585e2ec5e4fd5",
+            "fromNode": "topic-a35af9a8d85543d1",
+            "fromSide": "left",
+            "toNode": "q-198f89b5c479498f",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-091ab136f3d3469a",
+            "fromNode": "topic-a35af9a8d85543d1",
+            "fromSide": "left",
+            "toNode": "q-5735b83c0d634589",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-c19532fbbb6c47bd",
+            "fromNode": "topic-a35af9a8d85543d1",
+            "fromSide": "left",
+            "toNode": "q-5045739460ae42d6",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-c8a6af5a97674806",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "left",
+            "toNode": "topic-66bd3743d049403d",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-a0c61eb94e344140",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-dc0cdfa94db94fd7",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-96edf60f7ffc4d33",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-4ec7f48fedbc4716",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-512b9e6331a841b1",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-03e855f20db645a1",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-b17327591dc3477d",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-15a28d4820714d2e",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-08de6284fef54a81",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-f3cb44e0b07a40a0",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-dc081d1166b84fba",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-d03eb82296804713",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-79a66ebd945f49b5",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-dd8cb65514194b6b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-6e5ca2f0af044cd1",
+            "fromNode": "topic-66bd3743d049403d",
+            "fromSide": "left",
+            "toNode": "q-3562b22ba52f4fe2",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-b36d01b8905e4ec8",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "left",
+            "toNode": "topic-6a768b10ce5c40d3",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-472392ae1ccd4a57",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-469d9c99b8ef4598",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-00b1d2a22d254fd2",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-2eb099f7a9aa4e77",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-c55d78eabfa24308",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-6c67ec764fe54c8a",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-d5fd528055cc4726",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-6b5afc29e498487a",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ca1f31b045254d5a",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-5e47f70642ba461a",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ef917db2e4a74289",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-4eece124028c4300",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-3a8f694107844205",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-be8dc09f276d4568",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-5f5029cacfa34bf0",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-830dccc637274007",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-d818b72444bb4227",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-f7e41763b1424758",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-743cf63bfaaf4d0d",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-f8ffd9ee5fa7490a",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-0b8987fb3db449a4",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-e737fdbd8e344070",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ff634ca411de4084",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-db8e2f4e0e614ea0",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-2b0b5e02148a4b27",
+            "fromNode": "topic-6a768b10ce5c40d3",
+            "fromSide": "left",
+            "toNode": "q-0ad89e79fd794b67",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-9bcc078948c3499f",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "left",
+            "toNode": "topic-3e550d6ec8f14e29",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-b6edacdc23ac47f3",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-54dbcadf9f35492c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-36f9cd3a772e41c0",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-937d396994e9461e",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-00a0cfb0b7f04e9d",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-dc8a7b067d5e4413",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-2d422fccbfa14d76",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-ab5e1a405650474f",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-baa5f6daa3444c42",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-bdce1eea9fcd427d",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-fe30a742b0fd4db2",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-29827015cfd14afb",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-04b249d884a14c77",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-c77d1c2f1e7243e6",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-49e65b32fae740b8",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-eb8f3328f8aa4002",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-bd2e219c3af14a70",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-66be29421545408c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-915cacdcd56743df",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-425b270fb404454b",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-17586546c66b4f44",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-252f7a32ad1a4886",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-58a4958ce8c34642",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-a53d0ce500584822",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-1c9c1996eeb049df",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-6db53fc0c54b43af",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-25ee2e6d4b124ce1",
+            "fromNode": "topic-3e550d6ec8f14e29",
+            "fromSide": "left",
+            "toNode": "q-c9770be4e3aa49c9",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-9dd56217e6aa45dc",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "left",
+            "toNode": "topic-1017ddc729f54319",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ddec7f9850db4240",
+            "fromNode": "topic-1017ddc729f54319",
+            "fromSide": "left",
+            "toNode": "q-901d613f76dc49f7",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-346debe59ad74b39",
+            "fromNode": "topic-1017ddc729f54319",
+            "fromSide": "left",
+            "toNode": "q-a5ee5e64c6db4094",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-58158b2063984dcc",
+            "fromNode": "topic-1017ddc729f54319",
+            "fromSide": "left",
+            "toNode": "q-c872162a2c4244b2",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-7b4217f4948040ae",
+            "fromNode": "topic-1017ddc729f54319",
+            "fromSide": "left",
+            "toNode": "q-d75b582f26744f27",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ec5c349c236b4ecc",
+            "fromNode": "topic-1017ddc729f54319",
+            "fromSide": "left",
+            "toNode": "q-1e9abe1513804adb",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-62dddce78f9746ce",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "left",
+            "toNode": "topic-315e063c06ea4b6a",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-31d9f67bb3404497",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-10150b9bf4784882",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-87400d19c74849bf",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-73079fc111364d58",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-b11b370d72de468f",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-035152f4b25b4f86",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-1c08d76bc8de4fed",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-2250bf6804bb424f",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-e8a961d6450b40b1",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-f4bb7255f4244e7c",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-33cf26ce8f974387",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-cd46a6f4f4324db1",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-06602086f12b4033",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-5f509fa46e914bee",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-9f1b17bedc944cb5",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-3b6c790f59a741d1",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-52d23bd87dd24f22",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-855f97d266bf408f",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-517777cfe7b948ad",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-105f7c3ed37a42b4",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ab9a6fd12b63481c",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-d694d88dfc934dd5",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-5a88de6a5bc54337",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-544680559ed24722",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-97e2e1e0b9eb46f8",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-b00a20186fb74173",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-ae422497204e409b",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-179e1a0525cd43dc",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-5ba922e491a14706",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-4809d12854104c38",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-b531f58f1a3c4b04",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-db0fac1fe59d49b0",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-0424cf1410c941e4",
+            "fromNode": "topic-315e063c06ea4b6a",
+            "fromSide": "left",
+            "toNode": "q-3a5233f76bae4669",
+            "toSide": "right"
+        },
+        {
+            "id": "edge-e9a660b897194eb9",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "top",
+            "toNode": "topic-cb0f786a735b4f25",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-3138f64040cc4abd",
+            "fromNode": "topic-cb0f786a735b4f25",
+            "fromSide": "top",
+            "toNode": "q-ae428fb2e48b4460",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-53ac05561c2e42f5",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "top",
+            "toNode": "topic-089f7f0c4eb74b3f",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-d11c5d8f733e4c4f",
+            "fromNode": "topic-089f7f0c4eb74b3f",
+            "fromSide": "top",
+            "toNode": "q-deb6bb9b1e4d455b",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-608c20fefb0040d1",
+            "fromNode": "topic-089f7f0c4eb74b3f",
+            "fromSide": "top",
+            "toNode": "q-df488ed7cbc3436a",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f4495d93f2364466",
+            "fromNode": "topic-089f7f0c4eb74b3f",
+            "fromSide": "top",
+            "toNode": "q-b6938fafc0984f69",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-5f2866dfe0194c05",
+            "fromNode": "topic-089f7f0c4eb74b3f",
+            "fromSide": "top",
+            "toNode": "q-a4d199ec87eb4103",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f843961463c0404e",
+            "fromNode": "topic-089f7f0c4eb74b3f",
+            "fromSide": "top",
+            "toNode": "q-f96874b1caa1482e",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-043b0cdaae64431e",
+            "fromNode": "topic-089f7f0c4eb74b3f",
+            "fromSide": "top",
+            "toNode": "q-046047cbc56f4272",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-e7e551a349aa4c69",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "top",
+            "toNode": "topic-6692beb92ace4cdf",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-0633d24b45e84379",
+            "fromNode": "topic-6692beb92ace4cdf",
+            "fromSide": "top",
+            "toNode": "q-45226a3829e94eb0",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-376668e147344bb3",
+            "fromNode": "topic-6692beb92ace4cdf",
+            "fromSide": "top",
+            "toNode": "q-889d5a2f7fa546c6",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-a14d499db87245b4",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "top",
+            "toNode": "topic-61ddc285cb0f4ffb",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-4e90ebf4f7e3419d",
+            "fromNode": "topic-61ddc285cb0f4ffb",
+            "fromSide": "top",
+            "toNode": "q-d05b904d842343c8",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-27f0735a511d4464",
+            "fromNode": "topic-61ddc285cb0f4ffb",
+            "fromSide": "top",
+            "toNode": "q-0ab07af69e4c4697",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-ca0be2ba22ea4849",
+            "fromNode": "topic-61ddc285cb0f4ffb",
+            "fromSide": "top",
+            "toNode": "q-ada9ba4058bd4532",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f85ac606a46b4f5d",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "top",
+            "toNode": "topic-01ba3d99a22c4aa2",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-36519a5d754f43ac",
+            "fromNode": "topic-01ba3d99a22c4aa2",
+            "fromSide": "top",
+            "toNode": "q-c127ae5af8e84dc8",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f615e5fce6124602",
+            "fromNode": "topic-01ba3d99a22c4aa2",
+            "fromSide": "top",
+            "toNode": "q-2d69c76401544474",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-2e2209f9829d498d",
+            "fromNode": "topic-01ba3d99a22c4aa2",
+            "fromSide": "top",
+            "toNode": "q-01fc0232e6f24872",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-978685b6e85f4391",
+            "fromNode": "topic-01ba3d99a22c4aa2",
+            "fromSide": "top",
+            "toNode": "q-5ada19dc075940a5",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-b6448827b6e04e1f",
+            "fromNode": "topic-01ba3d99a22c4aa2",
+            "fromSide": "top",
+            "toNode": "q-42e875d0a7a4435b",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-b838e6e0a1f548ae",
+            "fromNode": "topic-01ba3d99a22c4aa2",
+            "fromSide": "top",
+            "toNode": "q-5c83b02e122c4121",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-d87a181350134fc9",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "top",
+            "toNode": "topic-ca3784c9490744de",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-096c8b94671d4692",
+            "fromNode": "topic-ca3784c9490744de",
+            "fromSide": "top",
+            "toNode": "q-863ea608518f4005",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-cb8bc543d2e0416c",
+            "fromNode": "topic-ca3784c9490744de",
+            "fromSide": "top",
+            "toNode": "q-ceeb4edcfc9f4e3b",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-33adcbd28f844e78",
+            "fromNode": "topic-ca3784c9490744de",
+            "fromSide": "top",
+            "toNode": "q-4702389163ce492f",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-93f37eee41a047c3",
+            "fromNode": "topic-ca3784c9490744de",
+            "fromSide": "top",
+            "toNode": "q-4564a1aa88f34c6c",
+            "toSide": "bottom"
+        },
+        {
+            "id": "edge-f2dcb4abfe0042c5",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "right",
+            "toNode": "topic-036082832b054415",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-9829f062095a4596",
+            "fromNode": "topic-036082832b054415",
+            "fromSide": "right",
+            "toNode": "q-be976d6c9f7e4418",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0c3c0e545b8a4311",
+            "fromNode": "topic-036082832b054415",
+            "fromSide": "right",
+            "toNode": "q-f175b8c70e334104",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-a7c2860527d74ebd",
+            "fromNode": "topic-036082832b054415",
+            "fromSide": "right",
+            "toNode": "q-5af8e85c4a714bbc",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-2d646364e3f94ddd",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "right",
+            "toNode": "topic-1cb10ca88abe4a63",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-03cd7560021744c9",
+            "fromNode": "topic-1cb10ca88abe4a63",
+            "fromSide": "right",
+            "toNode": "q-2e6b6953754e4e29",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-e272e72aad834d12",
+            "fromNode": "topic-1cb10ca88abe4a63",
+            "fromSide": "right",
+            "toNode": "q-7c40aa6e23ea47a8",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-8b0a5672b3834341",
+            "fromNode": "topic-1cb10ca88abe4a63",
+            "fromSide": "right",
+            "toNode": "q-f7562882b16a4e62",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-06e5f034b98a4e2b",
+            "fromNode": "topic-1cb10ca88abe4a63",
+            "fromSide": "right",
+            "toNode": "q-bb3d9fc6a41942ed",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-3fef31f266cf404b",
+            "fromNode": "subject-8a9ce294012c4231",
+            "fromSide": "right",
+            "toNode": "topic-98730d83f8664646",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-2dfa17c308d341d2",
+            "fromNode": "topic-98730d83f8664646",
+            "fromSide": "right",
+            "toNode": "q-4491d5a3cdd74e48",
+            "toSide": "left"
+        },
+        {
+            "id": "edge-0ee420c2ab964f1e",
+            "fromNode": "topic-98730d83f8664646",
+            "fromSide": "right",
+            "toNode": "q-6121caad033a49e1",
+            "toSide": "left"
+        }
+    ]
+}
